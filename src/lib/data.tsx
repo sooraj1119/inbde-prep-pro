@@ -1,7 +1,7 @@
-/* eslint-disable react-refresh/only-export-components */
+﻿/* eslint-disable react-refresh/only-export-components */
 
-import type { Topic, Question } from "./types";
-import { Syringe, FileText, FlaskConical, Bone, Microscope, Atom, Bug, Layers, Scaling, Stethoscope, X, LifeBuoy, Handshake, Biohazard, Scissors, Activity, AlertCircle, Smile, Baby, ShieldCheck } from 'lucide-react';
+import type { Topic } from "./types";
+import { FileText, FlaskConical, Bone, Microscope, Atom, Bug, Scaling, X, Scissors, Smile, ShieldCheck, Biohazard } from 'lucide-react';
 import type { ComponentProps } from 'react';
 
 const Tooth = (props: ComponentProps<'svg'>) => (
@@ -46,33 +46,19 @@ const ProsthodonticsIcon = (props: ComponentProps<'svg'>) => (
     </svg>
 );
 
-
 export const topics: Topic[] = [
-  { id: "operative-dentistry", name: "Operative Dentistry", icon: FileText },
-  { id: "biochemistry", name: "Biochemistry", icon: Atom },
-  { id: "microbiology", name: "Microbiology", icon: Bug },
-  { id: "dental-materials", name: "Dental Materials", icon: Layers },
-  { id: "periodontology", name: "Periodontology", icon: Scaling },
-  { id: "oral-pathology", name: "Oral Pathology", icon: Biohazard },
-  { id: "radiology", name: "Radiology", icon: X },
-  { id: "ethics", name: "Ethics", icon: Handshake },
-  { id: "oral-surgery", name: "Oral Surgery", icon: Scissors },
-  { id: "anatomy", name: "Anatomy", icon: Bone, isPremiumOnly: true },
-  { id: "pharmacology", name: "Pharmacology", icon: FlaskConical, isPremiumOnly: true },
+  { id: "operative-materials", name: "Operative Dentistry & Dental Materials", icon: FileText },
+  { id: "biochemistry-physiology", name: "Biochemistry & Physiology", icon: Atom },
+  { id: "microbiology-immunology", name: "Microbiology & Immunology", icon: Bug },
+  { id: "oral-pathology-medicine", name: "Oral Pathology & Oral Medicine", icon: Biohazard },
+  { id: "periodontics", name: "Periodontics", icon: Scaling },
+  { id: "oral-radiology", name: "Oral & Maxillofacial Radiology", icon: X },
+  { id: "oral-surgery-emergencies", name: "Oral Surgery & Medical Emergencies", icon: Scissors },
+  { id: "anatomical-sciences", name: "Anatomical Sciences", icon: Bone, isPremiumOnly: true },
+  { id: "general-pathology", name: "General & Systemic Pathology", icon: Microscope, isPremiumOnly: true },
+  { id: "pharmacology-anesthesia", name: "Pharmacology & Local Anesthesia", icon: FlaskConical, isPremiumOnly: true },
   { id: "endodontics", name: "Endodontics", icon: Tooth, isPremiumOnly: true },
-  { id: "anesthesia", name: "Anesthesia", icon: Syringe, isPremiumOnly: true },
-  { id: "pathology", name: "Pathology", icon: Microscope, isPremiumOnly: true },
-  { id: "prosthodontics", name: "Prosthodontics", icon: ProsthodonticsIcon, isPremiumOnly: true },
-  { id: "general-medicine", name: "General Medicine", icon: LifeBuoy, isPremiumOnly: true },
-  { id: "oral-medicine", name: "Oral Medicine", icon: Stethoscope, isPremiumOnly: true },
-  { id: "implants", name: "Implants", icon: Activity, isPremiumOnly: true },
-  { id: "emergencies", name: "Dental & Medical Emergencies", icon: AlertCircle, isPremiumOnly: true },
-  { id: "orthodontics", name: "Orthodontics", icon: Smile, isPremiumOnly: true },
-  { id: "pedodontics", name: "Pedodontics", icon: Baby, isPremiumOnly: true },
-  { id: "infection-control", name: "Prevention & Infection Control", icon: ShieldCheck, isPremiumOnly: true },
+  { id: "prosthodontics-implants", name: "Prosthodontics & Implantology", icon: ProsthodonticsIcon, isPremiumOnly: true },
+  { id: "orthodontics-pedodontics", name: "Orthodontics & Pediatric Dentistry", icon: Smile, isPremiumOnly: true },
+  { id: "patient-management-ethics", name: "Patient Management, Ethics & Infection Control", icon: ShieldCheck, isPremiumOnly: true },
 ];
-
-
-
-
-

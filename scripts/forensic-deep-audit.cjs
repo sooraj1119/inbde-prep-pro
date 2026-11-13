@@ -26,7 +26,7 @@ console.log('[SECTION 1] Question Bank & INBDE Strict Compliance Audit...');
 const manifestPath = path.join(rootDir, 'public', 'questions', 'manifest.json');
 assert(fs.existsSync(manifestPath), 'manifest.json exists');
 const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
-assert(Array.isArray(manifest) && manifest.length === 22, `Manifest lists exactly 22 topics (found: ${manifest.length})`);
+assert(Array.isArray(manifest) && manifest.length === 14, `Manifest lists exactly 14 topics (found: ${manifest.length})`);
 
 const seenQuestionIds = new Set();
 let totalQuestionsCount = 0;
@@ -89,7 +89,7 @@ for (const entry of manifest) {
 
 assert(totalQuestionsCount === 14000, `Total question bank count is exactly 14,000 (found: ${totalQuestionsCount})`);
 assert(seenQuestionIds.size === 14000, `All 14,000 question IDs are 100% unique`);
-console.log(`  ✓ PASSED: All 14,000 questions across 22 topics strictly conform to INBDE format (4 options, valid answer, non-empty explanation, 0 duplicate IDs)`);
+console.log(`  ✓ PASSED: All 14,000 questions across 14 topics strictly conform to INBDE format (4 options, valid answer, non-empty explanation, 0 duplicate IDs)`);
 
 // -----------------------------------------------------------------------------
 console.log('\n[SECTION 2] Security, Secret Leakage & Bundle Hygiene Audit...');

@@ -235,7 +235,7 @@ async function runAllE2ETests() {
     await page.evaluate(() => window.scrollTo(0, 0));
     await page.waitForTimeout(300);
 
-    const anatomyCard = page.locator('h3', { hasText: 'Anatomy' });
+    const anatomyCard = page.locator('h3', { hasText: 'Anatomical' });
     await anatomyCard.scrollIntoViewIfNeeded();
     await anatomyCard.click();
 
@@ -262,7 +262,7 @@ async function runAllE2ETests() {
     // ------------------------------------------------------------------------
     console.log('\n[STAGE 6] Testing Active Quiz Session, Single Best Answer & Explanation...');
     // ------------------------------------------------------------------------
-    const topicCard = page.locator('[data-testid="topic-card-operative-dentistry"]').or(page.locator('.topic-card:has-text("Operative Dentistry")'));
+    const topicCard = page.locator('[data-testid="topic-card-operative-materials"]').or(page.locator('.topic-card:has-text("Operative Dentistry")'));
     await topicCard.scrollIntoViewIfNeeded();
     await topicCard.click({ force: true });
 
