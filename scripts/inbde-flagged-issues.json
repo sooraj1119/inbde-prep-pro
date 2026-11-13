@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-11-13T04:55:29.940Z",
+  "totalQuestions": 14000,
+  "passedQuestions": 14000,
+  "flaggedQuestions": 0,
+  "overallPassRate": "100.00%",
+  "sectionSummaries": [
+    {
+      "section": "Anatomic Sciences",
+      "total": 1000,
+      "pass": 1000,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Biochemistry & Physiology",
+      "total": 500,
+      "pass": 500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Microbiology & Pathology",
+      "total": 500,
+      "pass": 500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "General Pathology",
+      "total": 1000,
+      "pass": 1000,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Oral Pathology & Medicine",
+      "total": 1500,
+      "pass": 1500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Pharmacology & Pain Control",
+      "total": 2000,
+      "pass": 2000,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Operative Dentistry & Dental Materials",
+      "total": 1500,
+      "pass": 1500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Periodontics",
+      "total": 500,
+      "pass": 500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Endodontics",
+      "total": 500,
+      "pass": 500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Prosthodontics & Implantology",
+      "total": 1500,
+      "pass": 1500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Oral Surgery & Emergencies",
+      "total": 1000,
+      "pass": 1000,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Orthodontics & Pediatric Dentistry",
+      "total": 1000,
+      "pass": 1000,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Oral & Maxillofacial Radiology",
+      "total": 500,
+      "pass": 500,
+      "flagged": 0,
+      "passRate": "100.00%"
+    },
+    {
+      "section": "Patient Management, Public Health & Ethics",
+      "total": 1000,
+      "pass": 1000,
+      "flagged": 0,
+      "passRate": "100.00%"
+    }
+  ],
+  "flaggedIssues": []
+}

@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-11-13T04:50:51.297Z",
+  "totalQuestions": 14000,
+  "validCount": 14000,
+  "fixedCount": 2,
+  "unresolvedCount": 0,
+  "subjectResults": {
+    "anatomical-sciences": {
+      "total": 1000,
+      "valid": 1000,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "biochemistry-physiology": {
+      "total": 500,
+      "valid": 500,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "microbiology-immunology": {
+      "total": 500,
+      "valid": 500,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "general-pathology": {
+      "total": 1000,
+      "valid": 1000,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "oral-pathology-medicine": {
+      "total": 1500,
+      "valid": 1500,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "pharmacology-anesthesia": {
+      "total": 2000,
+      "valid": 2000,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "operative-materials": {
+      "total": 1500,
+      "valid": 1500,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "periodontics": {
+      "total": 500,
+      "valid": 500,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "endodontics": {
+      "total": 500,
+      "valid": 500,
+      "fixed": 1,
+      "unresolved": 0
+    },
+    "prosthodontics-implants": {
+      "total": 1500,
+      "valid": 1500,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "oral-surgery-emergencies": {
+      "total": 1000,
+      "valid": 1000,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "orthodontics-pedodontics": {
+      "total": 1000,
+      "valid": 1000,
+      "fixed": 0,
+      "unresolved": 0
+    },
+    "oral-radiology": {
+      "total": 500,
+      "valid": 500,
+      "fixed": 1,
+      "unresolved": 0
+    },
+    "patient-management-ethics": {
+      "total": 1000,
+      "valid": 1000,
+      "fixed": 0,
+      "unresolved": 0
+    }
+  },
+  "globalIssues": []
+}
