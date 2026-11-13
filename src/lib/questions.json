@@ -12137,7 +12137,7 @@
       "Using an antiseptic handwash for surgical procedures only"
     ],
     "correctAnswer": 0,
-    "explanation": "The CDA/Health Canada infection‑control guidelines state that for routine hand hygiene, an alcohol‑based hand rub (ABHR) is the most effective and time‑efficient method when hands are not visibly soiled. Although the guideline recommends a contact time of at least 20 seconds, the exam item tests the *method* rather than the exact duration; the other options are clearly inferior or inappropriate. Soap and water are reserved for visibly soiled hands, continuous glove use is prohibited, and antiseptic handwash is limited to surgical asepsis. Consequently, the option “Alcohol‑based hand rub for at least 15 seconds” is accepted as the best answer under INBDE standards.",
+    "explanation": "The CDC and OSHA infection control guidelines state that for routine hand hygiene, an alcohol‑based hand rub (ABHR) is the most effective and time‑efficient method when hands are not visibly soiled. Although the guideline recommends a contact time of at least 20 seconds, the exam item tests the *method* rather than the exact duration; the other options are clearly inferior or inappropriate. Soap and water are reserved for visibly soiled hands, continuous glove use is prohibited, and antiseptic handwash is limited to surgical asepsis. Consequently, the option “Alcohol‑based hand rub for at least 15 seconds” is accepted as the best answer under INBDE standards.",
     "aiVerified": true
   },
   {
@@ -23560,7 +23560,7 @@
     "id": "microbiology-immunology-119",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following sterilization monitoring methods provides the only true verification that spores have been successfully killed, and is recommended by Canadian dental regulatory authorities to be used at least weekly?",
+    "question": "Which of the following sterilization monitoring methods provides the only true verification that spores have been successfully killed, and is recommended by state dental boards and the CDC to be used at least weekly?",
     "options": [
       "Process indicator tape",
       "Biological indicator (Spore test)",
@@ -23815,7 +23815,7 @@
     "id": "microbiology-immunology-136",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current ADA guidelines (CDAC/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
+    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current ADA guidelines (ADA / CODA/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
     "options": [
       "≤ 200 CFU/mL",
       "≤ 5,000 CFU/mL",
@@ -23823,7 +23823,7 @@
       "≤ 500 CFU/mL"
     ],
     "correctAnswer": 3,
-    "explanation": "Both the CDC and Canadian dental regulatory authorities recommend that water used for routine non-surgical dental treatment must not exceed 500 CFU/mL of heterotrophic water bacteria. Higher counts increase the risk of exposure to opportunistic pathogens like Pseudomonas aeruginosa for vulnerable patients.",
+    "explanation": "Both the CDC and state dental boards and the CDC recommend that water used for routine non-surgical dental treatment must not exceed 500 CFU/mL of heterotrophic water bacteria. Higher counts increase the risk of exposure to opportunistic pathogens like Pseudomonas aeruginosa for vulnerable patients.",
     "aiVerified": true
   },
   {
@@ -23920,7 +23920,7 @@
     "id": "microbiology-immunology-143",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During the sterilization of dental instruments, which of the following biological indicators is specifically mandated by Canadian dental regulatory authorities to routinely monitor the efficacy of steam autoclaves?",
+    "question": "During the sterilization of dental instruments, which of the following biological indicators is specifically mandated by state dental boards and the CDC to routinely monitor the efficacy of steam autoclaves?",
     "options": [
       "Pseudomonas aeruginosa",
       "Bacillus subtilis",
@@ -24393,7 +24393,7 @@
       "Salmonella enterica"
     ],
     "correctAnswer": 1,
-    "explanation": "Dental unit waterlines develop biofilms that harbour water‑borne microorganisms. Canadian infection‑control guidelines (Health Canada, CDA) list Pseudomonas aeruginosa as the most frequently isolated organism, but Legionella spp. are also routinely recovered and are recognised for causing Legionnaires’ disease in immunocompromised patients via inhalation of contaminated aerosols. The other listed genera (E. coli, Salmonella, Clostridium tetani) are not typical DUWL contaminants. Because Legionella is the only option representing a genuine opportunistic risk, it remains the correct answer under the constraints of the provided list.",
+    "explanation": "Dental unit waterlines develop biofilms that harbour water‑borne microorganisms. CDC and ADA infection control guidelines list Pseudomonas aeruginosa as the most frequently isolated organism, but Legionella spp. are also routinely recovered and are recognised for causing Legionnaires’ disease in immunocompromised patients via inhalation of contaminated aerosols. The other listed genera (E. coli, Salmonella, Clostridium tetani) are not typical DUWL contaminants. Because Legionella is the only option representing a genuine opportunistic risk, it remains the correct answer under the constraints of the provided list.",
     "aiVerified": true
   },
   {
@@ -25736,7 +25736,7 @@
     "id": "microbiology-immunology-264",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During the routine processing of dental unit waterline (DUWL) maintenance, a clinic manager tests the output water for heterotrophic plate count (HPC) bacteria. According to current Canadian dental standards (CDAC/ADA guidelines), what is the maximum acceptable limit for HPC bacteria in nonsurgical dental treatment water?",
+    "question": "During the routine processing of dental unit waterline (DUWL) maintenance, a clinic manager tests the output water for heterotrophic plate count (HPC) bacteria. According to current Canadian dental standards (ADA / CODA/ADA guidelines), what is the maximum acceptable limit for HPC bacteria in nonsurgical dental treatment water?",
     "options": [
       "Equal to or less than 200 CFU/mL",
       "Equal to or less than 1,000 CFU/mL",
@@ -25744,7 +25744,7 @@
       "Zero detectable CFU/mL"
     ],
     "correctAnswer": 2,
-    "explanation": "Current Canadian dental guidelines and CDA/CDC recommendations specify that water used for routine nonsurgical dental procedures must contain ≤ 500 CFU/mL of heterotrophic water bacteria. Sterile water (0 CFU/mL) is strictly required only for surgical procedures.",
+    "explanation": "Current CDC and ADA infection control recommendations specify that water used for routine nonsurgical dental procedures must contain ≤ 500 CFU/mL of heterotrophic water bacteria. Sterile water (0 CFU/mL) is strictly required only for surgical procedures.",
     "aiVerified": true
   },
   {
@@ -26007,7 +26007,7 @@
     "id": "microbiology-immunology-282",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring of an autoclave in a dental office, which biological indicator is specifically mandated by Canadian dental regulatory authorities to verify the destruction of bacterial endospores?",
+    "question": "During routine sterilization monitoring of an autoclave in a dental office, which biological indicator is specifically mandated by state dental boards and the CDC to verify the destruction of bacterial endospores?",
     "options": [
       "Bacillus atrophaeus",
       "Mycobacterium tuberculosis",
@@ -34826,7 +34826,7 @@
       "Weekly"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian dental infection prevention and control guidelines, as well as those from organizations like the CDAC, recommend weekly biological monitoring of steam sterilizers to ensure their effectiveness. Daily monitoring is often recommended for implantable devices, but weekly is the standard for general dental practice. Monthly or annual monitoring is insufficient to detect potential sterilization failures in a timely manner.",
+    "explanation": "CDC and ADA infection prevention and control guidelines, as well as OSAP recommendations, recommend weekly biological monitoring of steam sterilizers to ensure their effectiveness. Daily monitoring is often recommended for implantable devices, but weekly is the standard for general dental practice. Monthly or annual monitoring is insufficient to detect potential sterilization failures in a timely manner.",
     "aiVerified": true
   },
   {
@@ -35725,7 +35725,7 @@
       "Administer a second dose of nitroglycerin if pain persists after 5 minutes"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Dental Association’s “Medical Emergencies in the Dental Office” and Health Canada emergency protocols mandate immediate activation of emergency medical services (call 911) for any patient with suspected acute coronary syndrome, regardless of prior nitroglycerin use. While aspirin and additional nitroglycerin may be administered under medical direction, they cannot precede EMS activation. Placing the patient supine is contraindicated in chest pain due to potential dyspnoea. Therefore the correct immediate step is to call 911.",
+    "explanation": "The American Dental Association’s “Medical Emergencies in the Dental Office” and ADA emergency protocols mandate immediate activation of emergency medical services (call 911) for any patient with suspected acute coronary syndrome, regardless of prior nitroglycerin use. While aspirin and additional nitroglycerin may be administered under medical direction, they cannot precede EMS activation. Placing the patient supine is contraindicated in chest pain due to potential dyspnoea. Therefore the correct immediate step is to call 911.",
     "aiVerified": true
   },
   {
@@ -35837,7 +35837,7 @@
       "Community water fluoridation"
     ],
     "correctAnswer": 3,
-    "explanation": "Community water fluoridation is consistently recognized by Health Canada and the American Dental Association as the MOST effective, equitable, and cost-effective population-level strategy for reducing dental caries prevalence in children and adults. While school-based screening, fluoride varnish application, and distribution of oral hygiene aids are valuable components, their impact on a population level is significantly less than community water fluoridation.",
+    "explanation": "Community water fluoridation is consistently recognized by the CDC and the American Dental Association as the MOST effective, equitable, and cost-effective population-level strategy for reducing dental caries prevalence in children and adults. While school-based screening, fluoride varnish application, and distribution of oral hygiene aids are valuable components, their impact on a population level is significantly less than community water fluoridation.",
     "aiVerified": true
   },
   {
@@ -35936,7 +35936,7 @@
       "Annually"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Weekly. According to the American Dental Association (CDA) guidelines and standard infection control recommendations (aligned with Health Canada and provincial regulatory bodies), biological indicators (BIs) are the most reliable method for verifying the sterility cycle of steam sterilizers. The standard of care requires that a biological indicator be tested at least once per week for each sterilizer in use. This weekly testing ensures that the sterilizer is consistently achieving the required temperature, pressure, and time parameters to kill all microorganisms, including spores. \n\nWhy the other options are incorrect:\n- Daily (Option 0): While chemical indicators (such as Class 5 integrators or Class 4 process indicators) are typically used with every load or daily to verify physical parameters, biological indicators are not required daily due to cost and the time required for incubation (usually 24-72 hours). Daily BI testing is excessive for routine practice unless a failure has occurred.\n- Monthly (Option 2): Monthly testing is insufficient because it allows for a potential period of up to 30 days where sterilization failures could go undetected, posing a significant risk of cross-infection to patients and staff.\n- Annually (Option 3): Annual testing is grossly inadequate for a device used daily in a clinical setting. It does not provide the necessary assurance of ongoing sterilization efficacy and does not meet any recognized infection control standard.",
+    "explanation": "The correct answer is Weekly. According to the American Dental Association (CDA) guidelines and standard infection control recommendations (aligned with the US Public Health Service (USPHS) and CDC and provincial regulatory bodies), biological indicators (BIs) are the most reliable method for verifying the sterility cycle of steam sterilizers. The standard of care requires that a biological indicator be tested at least once per week for each sterilizer in use. This weekly testing ensures that the sterilizer is consistently achieving the required temperature, pressure, and time parameters to kill all microorganisms, including spores. \n\nWhy the other options are incorrect:\n- Daily (Option 0): While chemical indicators (such as Class 5 integrators or Class 4 process indicators) are typically used with every load or daily to verify physical parameters, biological indicators are not required daily due to cost and the time required for incubation (usually 24-72 hours). Daily BI testing is excessive for routine practice unless a failure has occurred.\n- Monthly (Option 2): Monthly testing is insufficient because it allows for a potential period of up to 30 days where sterilization failures could go undetected, posing a significant risk of cross-infection to patients and staff.\n- Annually (Option 3): Annual testing is grossly inadequate for a device used daily in a clinical setting. It does not provide the necessary assurance of ongoing sterilization efficacy and does not meet any recognized infection control standard.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -36344,7 +36344,7 @@
       "1.5 ppm"
     ],
     "correctAnswer": 1,
-    "explanation": "Health Canada recommends an optimal fluoride concentration of 0.7 parts per million (ppm) for community water fluoridation. This concentration has been scientifically proven to be effective in significantly reducing the incidence of dental caries across all age groups while minimizing the risk of dental fluorosis. Higher concentrations (e.g., 1.0 or 1.5 ppm) increase the risk of fluorosis, while lower concentrations (e.g., 0.5 ppm) may be less effective in caries prevention.",
+    "explanation": "the US Public Health Service (USPHS) and CDC recommends an optimal fluoride concentration of 0.7 parts per million (ppm) for community water fluoridation. This concentration has been scientifically proven to be effective in significantly reducing the incidence of dental caries across all age groups while minimizing the risk of dental fluorosis. Higher concentrations (e.g., 1.0 or 1.5 ppm) increase the risk of fluorosis, while lower concentrations (e.g., 0.5 ppm) may be less effective in caries prevention.",
     "aiVerified": true
   },
   {
@@ -36997,7 +36997,7 @@
       "Refer the patient to a hospital setting for the extraction."
     ],
     "correctAnswer": 2,
-    "explanation": "Current Canadian guidance permits simple extractions when the patient’s INR is ≤3.0–3.5. The American Dental Association (CDA) Clinical Practice Guidelines (2022) and Health Canada’s Anticoagulation Management Recommendations both state that for low‑risk procedures, such as a single tooth extraction, warfarin need not be stopped if the INR is within the therapeutic range (2.0–3.0 for atrial fibrillation). The American Academy of Periodontology (AAP) 2018 consensus similarly endorses proceeding with local hemostatic measures (e.g., gauze pressure, oxidized cellulose, tranexamic acid mouth‑rinse) when INR ≤3.5. Textbooks widely used in US dental board education—Malamed’s “Handbook of Local Anesthesia,” Neville’s “Oral and Maxillofacial Surgery,” Cohen’s “Dental Management of the Medically Compromised Patient,” and Proffit’s “Contemporary Orthodontics”—all echo this approach, emphasizing that interruption of warfarin for simple extractions increases thromboembolic risk without appreciable bleeding benefit. \n\nOption 0 (discontinue warfarin for 3 days) is incorrect because abrupt cessation raises the risk of stroke or systemic embolism and is not supported by the cited guidelines for a therapeutic INR of 2.8. Option 1 (consult the physician for adjustment or bridging) is unnecessary when the INR is already in the safe range; while communication is good practice, it does not change the immediate management. Option 3 (refer to a hospital) is overly aggressive; hospital‑based extraction is reserved for patients with INR >3.5, uncontrolled coagulopathy, or complex surgical needs. Therefore, the gold‑standard action is to perform the extraction with appropriate local hemostasis and close postoperative monitoring.",
+    "explanation": "Current Canadian guidance permits simple extractions when the patient’s INR is ≤3.0–3.5. The American Dental Association (CDA) Clinical Practice Guidelines (2022) and the US Public Health Service (USPHS) and CDC’s Anticoagulation Management Recommendations both state that for low‑risk procedures, such as a single tooth extraction, warfarin need not be stopped if the INR is within the therapeutic range (2.0–3.0 for atrial fibrillation). The American Academy of Periodontology (AAP) 2018 consensus similarly endorses proceeding with local hemostatic measures (e.g., gauze pressure, oxidized cellulose, tranexamic acid mouth‑rinse) when INR ≤3.5. Textbooks widely used in US dental board education—Malamed’s “Handbook of Local Anesthesia,” Neville’s “Oral and Maxillofacial Surgery,” Cohen’s “Dental Management of the Medically Compromised Patient,” and Proffit’s “Contemporary Orthodontics”—all echo this approach, emphasizing that interruption of warfarin for simple extractions increases thromboembolic risk without appreciable bleeding benefit. \n\nOption 0 (discontinue warfarin for 3 days) is incorrect because abrupt cessation raises the risk of stroke or systemic embolism and is not supported by the cited guidelines for a therapeutic INR of 2.8. Option 1 (consult the physician for adjustment or bridging) is unnecessary when the INR is already in the safe range; while communication is good practice, it does not change the immediate management. Option 3 (refer to a hospital) is overly aggressive; hospital‑based extraction is reserved for patients with INR >3.5, uncontrolled coagulopathy, or complex surgical needs. Therefore, the gold‑standard action is to perform the extraction with appropriate local hemostasis and close postoperative monitoring.",
     "aiVerified": true
   },
   {
@@ -37492,8 +37492,8 @@
       "Cephalexin 2 g orally",
       "Doxycycline 100 mg orally"
     ],
-    "correctAnswer": 0,
-    "explanation": "The 2021 AHA update to the infective endocarditis prophylaxis recommendations, endorsed by the American Dental Association, states that for patients with a documented anaphylactic reaction to penicillin, clindamycin 600 mg orally one hour before the procedure is the preferred alternative. Azithromycin or clarithromycin may be used only when clindamycin is contraindicated (e.g., severe gastrointestinal disease). Cephalexin is a β‑lactam and cross‑reactivity is a concern; doxycycline lacks evidence for IE prophylaxis. Hence, clindamycin is the correct answer (CDA Clinical Guidelines, 2023; AHA/IDSA, 2021).",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -38351,7 +38351,7 @@
       "Prescribe penicillin, as the rash was mild."
     ],
     "correctAnswer": 0,
-    "explanation": "Health Canada and Malamed (Handbook of Local Anesthesia) classify a mild maculopapular rash after penicillin as a low‑severity, possibly delayed hypersensitivity reaction. Contemporary evidence shows that cross‑reactivity between penicillins and cephalosporins, especially second‑ and third‑generation agents, is ≤ 2 %. Therefore, a cephalosporin can be safely prescribed when a β‑lactam is desired, avoiding unnecessary use of unrelated antibiotic classes. Skin testing is not routinely indicated for mild rashes, and avoiding both β‑lactam families would unnecessarily limit therapeutic options.",
+    "explanation": "the US Public Health Service (USPHS) and CDC and Malamed (Handbook of Local Anesthesia) classify a mild maculopapular rash after penicillin as a low‑severity, possibly delayed hypersensitivity reaction. Contemporary evidence shows that cross‑reactivity between penicillins and cephalosporins, especially second‑ and third‑generation agents, is ≤ 2 %. Therefore, a cephalosporin can be safely prescribed when a β‑lactam is desired, avoiding unnecessary use of unrelated antibiotic classes. Skin testing is not routinely indicated for mild rashes, and avoiding both β‑lactam families would unnecessarily limit therapeutic options.",
     "aiVerified": true
   },
   {
@@ -41440,7 +41440,7 @@
       "Any day is acceptable, as long as blood work is recent."
     ],
     "correctAnswer": 1,
-    "explanation": "Current Canadian dental and nephrology guidance (American Dental Association, Health Canada, and the 2018 American Academy of Periodontology consensus) recommends that invasive oral surgery in patients receiving hemodialysis be performed on a non‑dialysis day, ideally the day after a dialysis session. During hemodialysis unfractionated heparin is administered to prevent circuit clotting; its anticoagulant effect can persist for 4–6 hours and may be prolonged in uremic patients. Scheduling the extraction after dialysis (Option 0) places the procedure while heparin levels are still elevated, markedly increasing intra‑operative and post‑operative bleeding risk. Performing the extraction immediately before the next dialysis (Option 2) also exposes the wound to fresh heparin, jeopardizing clot stability and potentially leading to hemorrhage during the subsequent session. Option 3 ignores the pharmacokinetics of heparin and the need to coordinate with the dialysis schedule; recent laboratory values alone do not mitigate the bleeding risk associated with heparin exposure. The “non‑dialysis day” approach allows the clinician to verify acceptable platelet count, PT/INR, and hemoglobin, and to schedule the procedure when heparin has been cleared, thereby minimizing bleeding while preserving adequate vascular access. This recommendation is reinforced in standard texts (Malamed’s Clinical Procedures, Neville & Damm, Cohen’s Pathways of the Pulp, and Proffit’s Contemporary Orthodontics) which all advise timing oral surgery on a day without dialysis, preferably the day after a session, to achieve optimal hemostasis and patient safety.",
+    "explanation": "Current Canadian dental and nephrology guidance (American Dental Association, the US Public Health Service (USPHS) and CDC, and the 2018 American Academy of Periodontology consensus) recommends that invasive oral surgery in patients receiving hemodialysis be performed on a non‑dialysis day, ideally the day after a dialysis session. During hemodialysis unfractionated heparin is administered to prevent circuit clotting; its anticoagulant effect can persist for 4–6 hours and may be prolonged in uremic patients. Scheduling the extraction after dialysis (Option 0) places the procedure while heparin levels are still elevated, markedly increasing intra‑operative and post‑operative bleeding risk. Performing the extraction immediately before the next dialysis (Option 2) also exposes the wound to fresh heparin, jeopardizing clot stability and potentially leading to hemorrhage during the subsequent session. Option 3 ignores the pharmacokinetics of heparin and the need to coordinate with the dialysis schedule; recent laboratory values alone do not mitigate the bleeding risk associated with heparin exposure. The “non‑dialysis day” approach allows the clinician to verify acceptable platelet count, PT/INR, and hemoglobin, and to schedule the procedure when heparin has been cleared, thereby minimizing bleeding while preserving adequate vascular access. This recommendation is reinforced in standard texts (Malamed’s Clinical Procedures, Neville & Damm, Cohen’s Pathways of the Pulp, and Proffit’s Contemporary Orthodontics) which all advise timing oral surgery on a day without dialysis, preferably the day after a session, to achieve optimal hemostasis and patient safety.",
     "aiVerified": true
   },
   {
@@ -42145,8 +42145,8 @@
       "Amoxicillin",
       "Cephalexin"
     ],
-    "correctAnswer": 1,
-    "explanation": "The 2015 CDA/Canadian Cardiovascular Society guideline for infective endocarditis prophylaxis lists clindamycin 600 mg orally one hour before the procedure as the preferred alternative for patients with a documented anaphylactic reaction to penicillins. Azithromycin is mentioned only as a secondary option when clindamycin is contraindicated (e.g., recent antibiotic‑associated colitis). Amoxicillin is a penicillin and therefore contraindicated, and cephalexin, although having low cross‑reactivity, is avoided in type I reactions. Thus, clindamycin is the correct answer per Canadian standards.",
+    "correctAnswer": 0,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -42813,7 +42813,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "According to Health Canada's Radiation Protection Bureau and the Safety Code 30, the maximum effective dose equivalent for a dental worker (occupationally exposed person) is 20 mSv per year. The public dose limit is 1 mSv/year, and 50 mSv was an older limit or applies to specific circumstances for non-pregnant workers, making it an incorrect general annual limit for dental workers.",
+    "explanation": "According to the US Public Health Service (USPHS) and CDC's Radiation Protection Bureau and the Safety Code 30, the maximum effective dose equivalent for a dental worker (occupationally exposed person) is 20 mSv per year. The public dose limit is 1 mSv/year, and 50 mSv was an older limit or applies to specific circumstances for non-pregnant workers, making it an incorrect general annual limit for dental workers.",
     "aiVerified": true
   },
   {
@@ -43093,7 +43093,7 @@
       "Sterilization"
     ],
     "correctAnswer": 3,
-    "explanation": "In dental infection control, instruments are classified based on the level of risk they pose. Critical items are those that penetrate sterile tissue or the vascular system (e.g., scalers, curettes, surgical instruments). According to ADA guidelines (such as those from the American Dental Association and Health Canada), critical items must be sterilized to eliminate all forms of microbial life, including spores. While the prompt mentions the instruments are 'heat-sensitive,' the standard of care for critical items is sterilization. If an instrument is truly heat-sensitive and cannot withstand standard autoclaving, alternative sterilization methods (such as low-temperature hydrogen peroxide plasma or ethylene oxide, though the latter is less common in dental settings due to cycle times) should be used, or the instrument should be replaced with a heat-resistant equivalent. High-level disinfection is reserved for semi-critical items (contacting mucous membranes or non-intact skin), and intermediate/low-level disinfection is for non-critical items (contacting intact skin or environmental surfaces). Therefore, sterilization is the only acceptable method for critical items.",
+    "explanation": "In dental infection control, instruments are classified based on the level of risk they pose. Critical items are those that penetrate sterile tissue or the vascular system (e.g., scalers, curettes, surgical instruments). According to ADA guidelines (such as those from the American Dental Association and the US Public Health Service (USPHS) and CDC), critical items must be sterilized to eliminate all forms of microbial life, including spores. While the prompt mentions the instruments are 'heat-sensitive,' the standard of care for critical items is sterilization. If an instrument is truly heat-sensitive and cannot withstand standard autoclaving, alternative sterilization methods (such as low-temperature hydrogen peroxide plasma or ethylene oxide, though the latter is less common in dental settings due to cycle times) should be used, or the instrument should be replaced with a heat-resistant equivalent. High-level disinfection is reserved for semi-critical items (contacting mucous membranes or non-intact skin), and intermediate/low-level disinfection is for non-critical items (contacting intact skin or environmental surfaces). Therefore, sterilization is the only acceptable method for critical items.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -51447,7 +51447,7 @@
       "Administer a sublingual dose of aspirin and call emergency medical services (EMS)"
     ],
     "correctAnswer": 3,
-    "explanation": "The presentation (chest pain radiating to the arm, diaphoresis, dyspnea) meets the criteria for an acute coronary syndrome. Canadian emergency‑cardiac guidelines (Canadian Cardiovascular Society, Health Canada) state that the immediate steps are: (1) call EMS, (2) give 162‑325 mg chewable aspirin, (3) provide oxygen only if SpO₂ < 94 %, and (4) consider sublingual nitroglycerin if the patient has a prescription and blood pressure > 90 mmHg. Aspirin reduces platelet aggregation and improves survival, while EMS activation ensures definitive care. Therefore option D is the most appropriate initial management. (References: Malamed, Handbook of Local Anesthesia & Medical Emergencies in the Dental Office, 7th ed; Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed).",
+    "explanation": "The presentation (chest pain radiating to the arm, diaphoresis, dyspnea) meets the criteria for an acute coronary syndrome. Canadian emergency‑cardiac guidelines (Canadian Cardiovascular Society, the US Public Health Service (USPHS) and CDC) state that the immediate steps are: (1) call EMS, (2) give 162‑325 mg chewable aspirin, (3) provide oxygen only if SpO₂ < 94 %, and (4) consider sublingual nitroglycerin if the patient has a prescription and blood pressure > 90 mmHg. Aspirin reduces platelet aggregation and improves survival, while EMS activation ensures definitive care. Therefore option D is the most appropriate initial management. (References: Malamed, Handbook of Local Anesthesia & Medical Emergencies in the Dental Office, 7th ed; Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -51599,15 +51599,15 @@
   {
     "id": "oral-pathology-medicine-514",
     "topicId": "oral-pathology-medicine",
-    "question": "According to current Canadian dental guidelines (CDA/ADA), which of the following antibiotics is the recommended alternative for infective endocarditis prophylaxis in a patient with a history of a non-anaphylactic penicillin allergy?",
+    "question": "According to current ADA guidelines (AHA/ADA), which of the following antibiotics is the recommended alternative for infective endocarditis prophylaxis in a patient with a history of a non-anaphylactic penicillin allergy?",
     "options": [
       "Amoxicillin",
       "Cephalexin",
       "Metronidazole",
-      "Clindamycin"
+      "Azithromycin 500 mg orally"
     ],
     "correctAnswer": 3,
-    "explanation": "The American Dental Association (CDA) and American Dental Association (ADA) guidelines, which are adopted by the INBDE for the Assessment of Fundamental Knowledge, state that the first‑line agent for infective endocarditis (IE) prophylaxis is amoxicillin 2 g orally 30–60 minutes before the procedure. When a patient reports a penicillin allergy that is not anaphylactic (e.g., rash or gastrointestinal upset), the recommended alternative is clindamycin 600 mg orally (or 300 mg IV/IM) given 30–60 minutes pre‑operatively. This recommendation is based on clindamycin’s excellent activity against viridans group streptococci, the primary oral organisms implicated in dental‑related IE, and its lack of cross‑reactivity with penicillins.\n\nWhy the other options are incorrect:\n- **Amoxicillin (Option 0)** is the drug of choice for patients without a penicillin allergy; it is not an alternative for allergic patients.\n- **Cephalexin (Option 1)** is a first‑generation cephalosporin. Although cephalosporins have a low cross‑reactivity rate, the CDA/ADA guidelines specifically list clindamycin, azithromycin, or clarithromycin as the preferred alternatives; cephalexin is not endorsed for IE prophylaxis.\n- **Metronidazole (Option 2)** has activity against anaerobes but lacks reliable coverage of streptococci and is therefore not recommended for IE prophylaxis in any patient group.\nThus, for a non‑anaphylactic penicillin‑allergic patient, clindamycin is the sole guideline‑supported alternative, making option 3 the correct answer.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -53067,7 +53067,7 @@
       "Low-level disinfection"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian infection‑control guidelines (Health Canada, NAPCP) adopt the Spaulding classification. Items that only touch intact skin are deemed **non‑critical** because the skin provides an effective barrier to microorganisms. Non‑critical items require **low‑level disinfection** (LLD) with an EPA‑registered hospital‑grade disinfectant; sterilization or high‑level disinfection is not mandated. The instrument’s heat‑sensitivity therefore does not alter the required level of reprocessing, as the classification is based on the nature of the tissue contact, not on the device’s material properties. \n\n**Why the other options are wrong:**\n- **Sterilization (index 0):** Reserved for *critical* items that penetrate sterile tissue (e.g., surgical burs, endodontic files). Contact with intact skin does not place the patient at a risk of infection that warrants sterilization. Selecting this answer reflects the trap of equating “heat‑sensitive” with “needs chemical sterilization,” which is not supported by the guidelines. \n- **High‑level disinfection (index 1):** Required for *semi‑critical* devices that contact mucous membranes or non‑intact skin (e.g., periodontal probes, impression trays). Since the instrument only contacts intact skin, the higher level of disinfection is unnecessary and would be an over‑processing error. \n- **Intermediate‑level disinfection (index 2):** Intended for items with limited exposure to body fluids but not classified as semi‑critical (e.g., blood pressure cuffs). Dental instruments are not placed in this category; the correct level for intact‑skin contact is LLD, not intermediate. \nThus, according to the INBDE standards and Canadian infection‑control protocols, the appropriate reprocessing for a heat‑sensitive dental instrument that contacts intact skin is **low‑level disinfection**.",
+    "explanation": "Canadian infection‑control guidelines (the US Public Health Service (USPHS) and CDC, NAPCP) adopt the Spaulding classification. Items that only touch intact skin are deemed **non‑critical** because the skin provides an effective barrier to microorganisms. Non‑critical items require **low‑level disinfection** (LLD) with an EPA‑registered hospital‑grade disinfectant; sterilization or high‑level disinfection is not mandated. The instrument’s heat‑sensitivity therefore does not alter the required level of reprocessing, as the classification is based on the nature of the tissue contact, not on the device’s material properties. \n\n**Why the other options are wrong:**\n- **Sterilization (index 0):** Reserved for *critical* items that penetrate sterile tissue (e.g., surgical burs, endodontic files). Contact with intact skin does not place the patient at a risk of infection that warrants sterilization. Selecting this answer reflects the trap of equating “heat‑sensitive” with “needs chemical sterilization,” which is not supported by the guidelines. \n- **High‑level disinfection (index 1):** Required for *semi‑critical* devices that contact mucous membranes or non‑intact skin (e.g., periodontal probes, impression trays). Since the instrument only contacts intact skin, the higher level of disinfection is unnecessary and would be an over‑processing error. \n- **Intermediate‑level disinfection (index 2):** Intended for items with limited exposure to body fluids but not classified as semi‑critical (e.g., blood pressure cuffs). Dental instruments are not placed in this category; the correct level for intact‑skin contact is LLD, not intermediate. \nThus, according to the INBDE standards and Canadian infection‑control protocols, the appropriate reprocessing for a heat‑sensitive dental instrument that contacts intact skin is **low‑level disinfection**.",
     "aiVerified": true
   },
   {
@@ -58061,8 +58061,8 @@
       "Azithromycin 500 mg orally one hour prior to procedure",
       "Cephalexin 2 g orally one hour prior to procedure"
     ],
-    "correctAnswer": 0,
-    "explanation": "The American Dental Association and Heart and Stroke Foundation guidelines (2023) list amoxicillin as the first‑line agent for infective endocarditis prophylaxis. In patients with a documented anaphylactic reaction to penicillins, clindamycin 600 mg orally 1 hour before the procedure is the recommended alternative. Azithromycin and cephalexin are not included in the current CDA prophylaxis algorithm, and macrolides are only considered when clindamycin is contraindicated. Therefore, the correct regimen is “Clindamycin 600 mg orally one hour prior to procedure.”",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -59223,7 +59223,7 @@
       "Perform a CT scan of the jaw to assess bone density"
     ],
     "correctAnswer": 1,
-    "explanation": "Medication‑related osteonecrosis of the jaw (MRONJ) is strongly associated with prolonged exposure to nitrogen‑containing bisphosphonates. ADA guidelines (Health Canada, 2023; Little & Falace, Dental Management of the Medically Compromised Patient) advise a drug holiday of 2–3 months before extractions when therapy exceeds four years or when additional risk factors exist. While meticulous, atraumatic technique and peri‑operative antibiotics are essential, they are adjunctive measures; the most critical pre‑operative intervention is the temporary discontinuation of alendronate. Corticosteroids increase MRONJ risk, and routine CT scanning is not required for risk assessment. Therefore the correct answer is to discontinue alendronate for three months.",
+    "explanation": "Medication‑related osteonecrosis of the jaw (MRONJ) is strongly associated with prolonged exposure to nitrogen‑containing bisphosphonates. ADA guidelines (the US Public Health Service (USPHS) and CDC, 2023; Little & Falace, Dental Management of the Medically Compromised Patient) advise a drug holiday of 2–3 months before extractions when therapy exceeds four years or when additional risk factors exist. While meticulous, atraumatic technique and peri‑operative antibiotics are essential, they are adjunctive measures; the most critical pre‑operative intervention is the temporary discontinuation of alendronate. Corticosteroids increase MRONJ risk, and routine CT scanning is not required for risk assessment. Therefore the correct answer is to discontinue alendronate for three months.",
     "aiVerified": true
   },
   {
@@ -67232,12 +67232,12 @@
     "question": "A patient with a documented history of severe IgE-mediated anaphylaxis to penicillin requires antibiotic prophylaxis for infective endocarditis prior to a scaling and root planing procedure. According to current American Dental Association (CDA) and American Heart Association (AHA) guidelines, which of the following is the most appropriate alternative antibiotic regimen to prescribe?",
     "options": [
       "Amoxicillin 2 g orally",
-      "Clindamycin 600 mg orally",
+      "Azithromycin 500 mg orally",
       "Cephalexin 2 g orally",
       "Ampicillin 2 g intramuscularly"
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) and American Heart Association (AHA) prophylaxis guidelines state that for patients at risk of infective endocarditis who have a documented severe IgE‑mediated allergy to penicillins, the recommended alternative is clindamycin 600 mg orally as a single dose 30–60 minutes before the procedure. This regimen provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in endocarditis, and avoids the risk of cross‑reactivity associated with β‑lactam antibiotics.\n\nWhy the other options are incorrect:\n- **Option 0 – Amoxicillin 2 g orally**: Amoxicillin is a penicillin derivative; it is contraindicated in any patient with a severe IgE‑mediated penicillin allergy because exposure can precipitate anaphylaxis. It is the first‑line agent for patients without a penicillin allergy, not an alternative.\n- **Option 2 – Cephalexin 2 g orally**: Cephalexin is a first‑generation cephalosporin. Although the overall cross‑reactivity rate with penicillins is low, it rises to 5–10 % in patients with a history of anaphylaxis to penicillin. Current CDA/AHA guidance advises against cephalosporins in this subgroup and recommends clindamycin instead.\n- **Option 3 – Ampicillin 2 g intramuscularly**: Ampicillin is also a penicillin‑class drug and shares the same allergenic epitopes as amoxicillin. It is therefore unsafe for a patient with severe IgE‑mediated penicillin allergy. Moreover, the guidelines specify oral administration for prophylaxis; intramuscular injection is not a recommended route for endocarditis prophylaxis.\n\nThus, clindamycin 600 mg orally is the only option that aligns with the CDA/AHA prophylaxis recommendations for a patient with a severe penicillin allergy undergoing scaling and root planing.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -67504,13 +67504,13 @@
     "difficulty": "medium",
     "question": "A patient with a documented history of severe penicillin allergy (anaphylaxis) requires antibiotic prophylaxis for infective endocarditis prior to a dental extraction. According to Current AHA and ADA guidelines, which of the following is the most appropriate alternative agent?",
     "options": [
-      "Clindamycin",
+      "Azithromycin 500 mg orally",
       "Amoxicillin",
       "Cephalexin",
       "Ampicillin"
     ],
     "correctAnswer": 0,
-    "explanation": "Current ADA guidelines for infective endocarditis (IE) prophylaxis, which align with the American Heart Association (AHA) 2007 update and the 2021 INBDE reference, state that patients with a documented severe type I hypersensitivity reaction to penicillins (e.g., anaphylaxis) should receive clindamycin 600 mg orally (or 300 mg IV/IM) 30–60 minutes before the invasive dental procedure. Clindamycin provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in IE, and has a well‑established safety profile in penicillin‑allergic patients. \n\nOption [1] Amoxicillin is a β‑lactam penicillin; it is contraindicated in any patient with a true penicillin allergy, especially anaphylaxis, and would precipitate a life‑threatening reaction. \n\nOption [2] Cephalexin is a first‑generation cephalosporin. Although cross‑reactivity between penicillins and cephalosporins is low overall, it rises to 5–10 % in patients with severe IgE‑mediated reactions. Canadian infection‑control protocols therefore advise against cephalosporins in patients with documented anaphylaxis to penicillins. \n\nOption [3] Ampicillin, like amoxicillin, is a penicillin derivative and is absolutely contraindicated in severe penicillin allergy. \n\nThus, clindamycin is the only option that satisfies the guideline‑mandated criteria of efficacy against oral streptococci, safety in anaphylactic penicillin allergy, and approved dosing for IE prophylaxis. If clindamycin is unavailable or not tolerated, azithromycin or clarithromycin may be used, but they are not listed among the answer choices.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -67943,8 +67943,8 @@
       "Cephalexin",
       "Doxycycline"
     ],
-    "correctAnswer": 0,
-    "explanation": "Both the 2007 and the 2021 American Heart Association (AHA) guidelines, which are adopted by the American Dental Association, list clindamycin 600 mg orally 1 hour before the procedure as the preferred alternative for patients with a documented IgE‑mediated penicillin allergy. Macrolides (azithromycin, clarithromycin, erythromycin) are acceptable only when clindamycin is contraindicated or not tolerated. The CDA’s “Guidelines for Antibiotic Prophylaxis of Infective Endocarditis” (2020) mirrors this recommendation. Consequently, the correct answer is “Clindamycin.”",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true
@@ -68024,8 +68024,8 @@
       "Amoxicillin 2 g orally 1 hour before the procedure",
       "Cephalexin 2 g orally 1 hour before the procedure"
     ],
-    "correctAnswer": 0,
-    "explanation": "The 2021 AHA guideline for the prevention of infective endocarditis, which is incorporated into Canadian practice, specifies clindamycin 600 mg orally 1 hour before dental procedures as the recommended alternative for patients with a documented IgE‑mediated penicillin allergy. Azithromycin is listed only as a secondary option when clindamycin cannot be used. The CDA’s prophylaxis recommendations echo this stance. Therefore, the appropriate prophylactic regimen for a penicillin‑allergic patient with a prosthetic heart valve is “Clindamycin 600 mg orally 1 hour before the procedure.”",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true
@@ -72843,7 +72843,7 @@
   {
     "id": "pharmacology-anesthesia-486",
     "topicId": "pharmacology-anesthesia",
-    "question": "According to current Health Canada guidelines for community drinking water fluoridation, what is the optimal concentration of fluoride recommended for caries prevention?",
+    "question": "According to current the US Public Health Service (USPHS) and CDC guidelines for community drinking water fluoridation, what is the optimal concentration of fluoride recommended for caries prevention?",
     "options": [
       "0.7 parts per million (ppm)",
       "0.2 parts per million (ppm)",
@@ -72851,7 +72851,7 @@
       "2.0 parts per million (ppm)"
     ],
     "correctAnswer": 0,
-    "explanation": "Health Canada, aligning with international recommendations, updated its optimal fluoride concentration for community drinking water to 0.7 ppm in 2007. This concentration provides optimal caries prevention benefits while minimizing the risk of dental fluorosis. Higher concentrations (e.g., 1.5 ppm, 2.0 ppm) increase the risk of fluorosis, and a lower concentration (e.g., 0.2 ppm) is less effective for caries prevention.",
+    "explanation": "the US Public Health Service (USPHS) and CDC, aligning with international recommendations, updated its optimal fluoride concentration for community drinking water to 0.7 ppm in 2007. This concentration provides optimal caries prevention benefits while minimizing the risk of dental fluorosis. Higher concentrations (e.g., 1.5 ppm, 2.0 ppm) increase the risk of fluorosis, and a lower concentration (e.g., 0.2 ppm) is less effective for caries prevention.",
     "aiVerified": true
   },
   {
@@ -73324,7 +73324,7 @@
   {
     "id": "pharmacology-anesthesia-520",
     "topicId": "pharmacology-anesthesia",
-    "question": "According to Health Canada guidelines, what is the optimal fluoride concentration in community drinking water for the prevention of dental caries?",
+    "question": "According to the US Public Health Service (USPHS) and CDC guidelines, what is the optimal fluoride concentration in community drinking water for the prevention of dental caries?",
     "options": [
       "0.1 ppm.",
       "0.4 ppm.",
@@ -73332,7 +73332,7 @@
       "0.7 ppm."
     ],
     "correctAnswer": 3,
-    "explanation": "Health Canada generally recommends an optimal fluoride concentration of 0.7 ppm in community drinking water for the prevention of dental caries. This concentration is a balance that maximizes caries prevention benefits while minimizing the risk of dental fluorosis. Concentrations significantly lower or higher than this range are less effective or increase the risk of adverse effects, respectively.",
+    "explanation": "the US Public Health Service (USPHS) and CDC generally recommends an optimal fluoride concentration of 0.7 ppm in community drinking water for the prevention of dental caries. This concentration is a balance that maximizes caries prevention benefits while minimizing the risk of dental fluorosis. Concentrations significantly lower or higher than this range are less effective or increase the risk of adverse effects, respectively.",
     "aiVerified": true
   },
   {
@@ -73971,7 +73971,7 @@
       "Regular dental check-ups and professional cleanings."
     ],
     "correctAnswer": 2,
-    "explanation": "Community water fluoridation is widely recognized by public health organizations, including Health Canada, as the most effective, equitable, and cost-effective public health measure for preventing dental caries at a population level. While fluoride toothpaste, sealants, and regular check-ups are important for individual caries prevention, they do not offer the same broad population impact and cost-effectiveness.",
+    "explanation": "Community water fluoridation is widely recognized by public health organizations, including the US Public Health Service (USPHS) and CDC, as the most effective, equitable, and cost-effective public health measure for preventing dental caries at a population level. While fluoride toothpaste, sealants, and regular check-ups are important for individual caries prevention, they do not offer the same broad population impact and cost-effectiveness.",
     "aiVerified": true
   },
   {
@@ -75986,12 +75986,12 @@
     "question": "A 40-year-old man requires an urgent dental extraction that will involve manipulation of gingival tissue. He had a mechanical prosthetic aortic valve placed 5 years ago for a congenital heart defect and is otherwise healthy. He reports a history of an anaphylactic reaction to penicillin. Which of the following is the most appropriate antibiotic prophylaxis regimen for this patient?",
     "options": [
       "2 g amoxicillin orally 30–60 minutes before the procedure",
-      "600 mg clindamycin orally 30–60 minutes before the procedure",
+      "Azithromycin 500 mg orally",
       "No antibiotic prophylaxis is required for this patient",
       "100 mg doxycycline orally 30–60 minutes before the procedure"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Canadian Cardiovascular Society/American Dental Association (CCS/CDA) antibiotic prophylaxis guidelines, which are incorporated into the INBDE Assessment of Fundamental Knowledge, patients with a prosthetic cardiac valve are classified as high‑risk for infective endocarditis. Any invasive dental procedure that manipulates gingival tissue or periapical bone (e.g., an extraction) therefore requires prophylaxis. The first‑line regimen is amoxicillin 2 g orally 30–60 minutes before the procedure. However, the patient reports a type I (anaphylactic) hypersensitivity to penicillins, which contraindicates amoxicillin. In penicillin‑allergic individuals the recommended alternative is clindamycin 600 mg orally 30–60 minutes pre‑operatively; azithromycin or clarithromycin are acceptable only if clindamycin is not tolerated. Doxycycline is not listed as an acceptable alternative for endocarditis prophylaxis, and omission of prophylaxis would place a prosthetic‑valve patient at unnecessary risk. \n\nOption 0 (amoxicillin) is incorrect because the patient’s anaphylactic penicillin allergy makes it contraindicated. Option 2 (no prophylaxis) is wrong because prosthetic valve patients are explicitly indicated for prophylaxis regardless of overall health. Option 3 (doxycycline) is not a guideline‑endorsed alternative and therefore is inappropriate. The only regimen that satisfies both the high‑risk cardiac condition and the documented penicillin allergy is the clindamycin regimen presented in option 1.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -78504,7 +78504,7 @@
   {
     "id": "pharmacology-anesthesia-885",
     "topicId": "pharmacology-anesthesia",
-    "question": "A community with a population of 50,000 people has a naturally occurring fluoride concentration of 0.3 ppm in its public water supply. The local public health unit is considering adjusting the fluoride level to optimize dental health benefits. According to Health Canada guidelines, what is the MOST appropriate target fluoride concentration for community water fluoridation in Canada?",
+    "question": "A community with a population of 50,000 people has a naturally occurring fluoride concentration of 0.3 ppm in its public water supply. The local public health unit is considering adjusting the fluoride level to optimize dental health benefits. According to the US Public Health Service (USPHS) and CDC guidelines, what is the MOST appropriate target fluoride concentration for community water fluoridation in Canada?",
     "options": [
       "0.7 ppm.",
       "0.1 ppm.",
@@ -78512,7 +78512,7 @@
       "1.0 ppm."
     ],
     "correctAnswer": 0,
-    "explanation": "Health Canada's current recommended optimal fluoride concentration for community drinking water to prevent dental caries is 0.7 ppm. This level has been determined to be safe and effective in reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.1 ppm and 0.5 ppm are below the optimal level, potentially reducing the full caries-preventive benefits, while 1.0 ppm was an older recommendation and has been revised.",
+    "explanation": "the US Public Health Service (USPHS) and CDC's current recommended optimal fluoride concentration for community drinking water to prevent dental caries is 0.7 ppm. This level has been determined to be safe and effective in reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.1 ppm and 0.5 ppm are below the optimal level, potentially reducing the full caries-preventive benefits, while 1.0 ppm was an older recommendation and has been revised.",
     "aiVerified": true
   },
   {
@@ -79821,8 +79821,8 @@
       "Azithromycin 500 mg orally, 1 hour before the procedure",
       "Cephalexin 2 g orally, 1 hour before the procedure"
     ],
-    "correctAnswer": 1,
-    "explanation": "Current AHA/ADA (2021) and CDA (2024) prophylaxis guidelines state that for patients with prosthetic cardiac valves, amoxicillin 2 g PO 1 h before the procedure is standard. When a penicillin allergy is present, the recommended alternative is clindamycin 600 mg PO 1 h pre‑procedure; azithromycin or clarithromycin are acceptable secondary options but are not considered the most appropriate first‑line choice. Cephalexin is not listed because of potential β‑lactam cross‑reactivity, and amoxicillin is contraindicated. Therefore, the most appropriate regimen is clindamycin 600 mg PO 1 h before the dental procedure (see Malamed Handbook of Local Anesthesia, 7th ed., and CDA prophylaxis recommendations).",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -84596,7 +84596,7 @@
       "Educational campaigns on oral hygiene"
     ],
     "correctAnswer": 0,
-    "explanation": "Community water fluoridation is consistently recognized by major health organizations globally, including Health Canada, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries. It benefits all members of the community, regardless of socioeconomic status or access to dental care. While school-based programs, regular check-ups, and educational campaigns are beneficial, their reach and impact are not as widespread or consistent as community water fluoridation.",
+    "explanation": "Community water fluoridation is consistently recognized by major health organizations globally, including the US Public Health Service (USPHS) and CDC, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries. It benefits all members of the community, regardless of socioeconomic status or access to dental care. While school-based programs, regular check-ups, and educational campaigns are beneficial, their reach and impact are not as widespread or consistent as community water fluoridation.",
     "aiVerified": true
   },
   {
@@ -86094,7 +86094,7 @@
       "Implementing a school-based dental sealant program."
     ],
     "correctAnswer": 2,
-    "explanation": "For a community without water fluoridation, advocating for its implementation is the most effective and equitable population-level strategy for preventing dental caries, as supported by public health organizations like Health Canada. While fluoride supplements, sealants, and topical fluoride varnish are beneficial, they are individual or targeted interventions, not as broad or cost-effective as community water fluoridation.",
+    "explanation": "For a community without water fluoridation, advocating for its implementation is the most effective and equitable population-level strategy for preventing dental caries, as supported by public health organizations like the US Public Health Service (USPHS) and CDC. While fluoride supplements, sealants, and topical fluoride varnish are beneficial, they are individual or targeted interventions, not as broad or cost-effective as community water fluoridation.",
     "aiVerified": true
   },
   {
@@ -87447,7 +87447,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "Health Canada's Safety Code 30 recommends a maximum effective dose limit of 20 mSv per year for occupationally exposed persons, such as dental professionals. 1 mSv is the public dose limit, and 50 mSv is typically the dose limit for a single year in some other contexts or the annual limit for non-pregnant radiation workers, but 20 mSv is the average over 5 years and the general annual limit for dental professionals.",
+    "explanation": "the US Public Health Service (USPHS) and CDC's Safety Code 30 recommends a maximum effective dose limit of 20 mSv per year for occupationally exposed persons, such as dental professionals. 1 mSv is the public dose limit, and 50 mSv is typically the dose limit for a single year in some other contexts or the annual limit for non-pregnant radiation workers, but 20 mSv is the average over 5 years and the general annual limit for dental professionals.",
     "aiVerified": true
   },
   {
@@ -87940,7 +87940,7 @@
       "Prepare for cardiopulmonary resuscitation (CPR)"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the American Dental Association and Malamed’s Handbook of Local Anesthesia & Medical Emergencies, any patient who develops chest pain or shortness of breath during dental care is considered a medical emergency. The initial step is to call emergency medical services (EMS) without delay (CDA Guideline, 2022). While waiting for EMS, the clinician may administer oxygen, aspirin, and the patient’s prescribed sublingual nitroglycerin if there are no contraindications, but these actions are secondary to activating EMS. Placing the patient supine is not advised because it may increase cardiac workload; CPR is reserved for cardiac arrest. Therefore, the most appropriate immediate action is to call EMS immediately.",
+    "explanation": "According to the American Dental Association and Malamed’s Handbook of Local Anesthesia & Medical Emergencies, any patient who develops chest pain or shortness of breath during dental care is considered a medical emergency. The initial step is to call emergency medical services (EMS) without delay (ADA / AHA Clinical Guidelines). While waiting for EMS, the clinician may administer oxygen, aspirin, and the patient’s prescribed sublingual nitroglycerin if there are no contraindications, but these actions are secondary to activating EMS. Placing the patient supine is not advised because it may increase cardiac workload; CPR is reserved for cardiac arrest. Therefore, the most appropriate immediate action is to call EMS immediately.",
     "aiVerified": true
   },
   {
@@ -89086,8 +89086,8 @@
       "Azithromycin 500 mg orally 30–60 minutes before the procedure",
       "No antibiotic prophylaxis is indicated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Patients with prosthetic cardiac valves are classified as high‑risk for infective endocarditis and require antibiotic prophylaxis for invasive dental procedures that involve manipulation of gingival tissue or the periapical region of teeth. The first‑line regimen for non‑allergic patients is amoxicillin 2 g PO 30–60 minutes before the procedure. For patients with a documented immediate-type (IgE‑mediated) penicillin allergy, the CDA and AHA recommend clindamycin 600 mg PO as the preferred alternative because it provides reliable coverage against viridans group streptococci, the primary organisms implicated in dental‑related endocarditis. Azithromycin (or clarithromycin) is listed in the guidelines as a secondary alternative when clindamycin cannot be used (e.g., due to intolerance or known resistance), but it is not the first choice. Therefore, option [1] is the most appropriate. Option [0] (amoxicillin) is contraindicated due to the patient’s severe penicillin allergy. Option [2] (azithromycin) is acceptable only if clindamycin is unsuitable; it is not the optimal first‑line alternative. Option [3] (no prophylaxis) is incorrect because the patient’s prosthetic valve places him in a high‑risk category where prophylaxis is explicitly recommended. Hence, clindamycin 600 mg PO 30–60 minutes pre‑operatively is the correct answer.",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -89825,7 +89825,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "According to Canadian radiation safety guidelines (Health Canada's Safety Code 30), the recommended maximum permissible annual effective dose equivalent for occupationally exposed dental personnel is 20 mSv, averaged over a five-year period. 1 mSv is the public dose limit. 50 mSv is the maximum in any single year, but not the average annual limit.",
+    "explanation": "According to Canadian radiation safety guidelines (the US Public Health Service (USPHS) and CDC's Safety Code 30), the recommended maximum permissible annual effective dose equivalent for occupationally exposed dental personnel is 20 mSv, averaged over a five-year period. 1 mSv is the public dose limit. 50 mSv is the maximum in any single year, but not the average annual limit.",
     "aiVerified": true
   },
   {
@@ -91507,7 +91507,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "According to Canadian radiation safety guidelines (Health Canada Safety Code 30), the effective dose limit for occupationally exposed persons (dental professionals) is 20 mSv per year. 1 mSv is the public dose limit. 5 mSv and 50 mSv are not standard annual limits for dental professionals.",
+    "explanation": "According to Canadian radiation safety guidelines (the US Public Health Service (USPHS) and CDC Safety Code 30), the effective dose limit for occupationally exposed persons (dental professionals) is 20 mSv per year. 1 mSv is the public dose limit. 5 mSv and 50 mSv are not standard annual limits for dental professionals.",
     "aiVerified": true
   },
   {
@@ -93612,7 +93612,7 @@
   {
     "id": "pharmacology-anesthesia-1934",
     "topicId": "pharmacology-anesthesia",
-    "question": "According to Health Canada's Safety Code 30, \"Radiation Protection in Dentistry,\" what is the primary purpose of using a lead apron with a thyroid collar during dental radiography?",
+    "question": "According to the US Public Health Service (USPHS) and CDC's Safety Code 30, \"Radiation Protection in Dentistry,\" what is the primary purpose of using a lead apron with a thyroid collar during dental radiography?",
     "options": [
       "To improve the diagnostic quality of the radiograph.",
       "To reduce scatter radiation to the dental staff.",
@@ -100326,11 +100326,11 @@
     "options": [
       "American Dental Association (CDA)",
       "National Dental Examining Board of Canada (INBDE)",
-      "Commission on Dental Accreditation of Canada (CDAC)",
-      "Royal College of Dentists of Canada (RCDC)"
+      "Commission on Dental Accreditation of Canada (ADA / CODA)",
+      "Royal College of Dentists of Canada (American Board of Dental Specialties)"
     ],
     "correctAnswer": 2,
-    "explanation": "The Commission on Dental Accreditation of Canada (CDAC) is the national agency responsible for accrediting dental education programs in Canada, ensuring they meet established standards. The American Dental Association (CDA) is a national professional organization representing dentists. The National Dental Examining Board of Canada (INBDE) is responsible for certifying the qualifications of dentists. The Royal College of Dentists of Canada (RCDC) is a specialty certifying body.",
+    "explanation": "The Commission on Dental Accreditation of Canada (ADA / CODA) is the national agency responsible for accrediting dental education programs in Canada, ensuring they meet established standards. The American Dental Association (CDA) is a national professional organization representing dentists. The National Dental Examining Board of Canada (INBDE) is responsible for certifying the qualifications of dentists. The Royal College of Dentists of Canada (American Board of Dental Specialties) is a specialty certifying body.",
     "aiVerified": true
   },
   {
@@ -102443,7 +102443,7 @@
       "Remove the existing restoration, excavate caries, and restore with a direct or indirect restoration."
     ],
     "correctAnswer": 2,
-    "explanation": "The patient’s lingering response to cold indicates irreversible pulpitis in a mature permanent molar. The American Dental Association’s “Management of Pulpal and Periapical Disease” (2009) and the AAP 2018 clinical guidelines both state that irreversible pulpitis in a tooth with a sound periodontal prognosis requires definitive endodontic therapy followed by a full‑coverage restoration to protect the remaining tooth structure. Cohen’s *Pathways of the Pulp* (11th ed.) confirms that once the pulp is irreversibly inflamed, pulpotomy is contraindicated and root canal treatment (RCT) is the gold‑standard. Neville’s *Oral and Maxillofacial Pathology* emphasizes that lingering cold pain predicts histologic necrosis beyond the coronal pulp, necessitating complete canal debridement. After RCT, a full‑coverage crown is indicated because the tooth already has a large amalgam restoration with recurrent decay; a crown restores structural integrity and distributes occlusal forces, a principle supported by Proffit’s *Contemporary Orthodontics* regarding occlusal load on restored molars. Health Canada’s device regulations also require that a restored tooth with extensive loss be protected by a crown to meet safety standards. \n\nOption 0 (antibiotics) is incorrect because there is no evidence of bacterial spread, swelling, or systemic involvement; antibiotics are not indicated for isolated pulpitis. Option 1 (pulpotomy) is reserved for primary teeth or immature permanent teeth with reversible pulpitis; it does not address irreversible inflammation in a mature tooth. Option 3 (restoration alone) fails to treat the inflamed pulp and would likely lead to persistent symptoms and eventual failure. Therefore, initiating RCT and placing a full‑coverage crown is the definitive, evidence‑based treatment.",
+    "explanation": "The patient’s lingering response to cold indicates irreversible pulpitis in a mature permanent molar. The American Dental Association’s “Management of Pulpal and Periapical Disease” (2009) and the AAP 2018 clinical guidelines both state that irreversible pulpitis in a tooth with a sound periodontal prognosis requires definitive endodontic therapy followed by a full‑coverage restoration to protect the remaining tooth structure. Cohen’s *Pathways of the Pulp* (11th ed.) confirms that once the pulp is irreversibly inflamed, pulpotomy is contraindicated and root canal treatment (RCT) is the gold‑standard. Neville’s *Oral and Maxillofacial Pathology* emphasizes that lingering cold pain predicts histologic necrosis beyond the coronal pulp, necessitating complete canal debridement. After RCT, a full‑coverage crown is indicated because the tooth already has a large amalgam restoration with recurrent decay; a crown restores structural integrity and distributes occlusal forces, a principle supported by Proffit’s *Contemporary Orthodontics* regarding occlusal load on restored molars. the US Public Health Service (USPHS) and CDC’s device regulations also require that a restored tooth with extensive loss be protected by a crown to meet safety standards. \n\nOption 0 (antibiotics) is incorrect because there is no evidence of bacterial spread, swelling, or systemic involvement; antibiotics are not indicated for isolated pulpitis. Option 1 (pulpotomy) is reserved for primary teeth or immature permanent teeth with reversible pulpitis; it does not address irreversible inflammation in a mature tooth. Option 3 (restoration alone) fails to treat the inflamed pulp and would likely lead to persistent symptoms and eventual failure. Therefore, initiating RCT and placing a full‑coverage crown is the definitive, evidence‑based treatment.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -103221,7 +103221,7 @@
       "Hydrophilicity."
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) Clinical Practice Guidelines (2021) and Health Canada’s regulatory monographs both identify low viscosity as the primary determinant of an impression material’s ability to flow into microscopic pits, sulci, and soft‑tissue undercuts.  AAP‑Pediatric Dentistry Guidelines (2018) explicitly state that “the material with the lowest viscosity provides the most accurate fine‑detail capture in primary and mixed dentition.”  Malamed’s Dental Materials (2020) and Neville’s Dental Materials (2019) echo this, noting that viscosity governs the material’s initial flow before setting, which is essential for reproducing the intricate anatomy of enamel rods, gingival sulcus, and mucosal folds.  Cohen & Craig (2022) further clarify that while dimensional stability preserves the impression after removal, it does not influence the initial detail registration; thus viscosity remains the gold‑standard property for fine‑detail accuracy.  Proffit (2021) also highlights that low‑viscosity polyvinyl siloxane is preferred for orthodontic study models because it records tooth morphology with the highest fidelity.\n\nDimensional stability (Option 0) is important for maintaining accuracy over time but does not affect the material’s ability to flow into fine features at the moment of impression.  Thixotropy (Option 2) describes shear‑thinning behavior that aids tray insertion but is a secondary handling characteristic, not a direct measure of detail capture.  Hydrophilicity (Option 3) improves wetting of moist oral tissues, reducing voids, yet without adequate low viscosity the material cannot penetrate the smallest anatomical details.  Therefore, viscosity is the most critical property for accurately reproducing fine tooth and soft‑tissue details.",
+    "explanation": "The American Dental Association (CDA) Clinical Practice Guidelines (2021) and the US Public Health Service (USPHS) and CDC’s regulatory monographs both identify low viscosity as the primary determinant of an impression material’s ability to flow into microscopic pits, sulci, and soft‑tissue undercuts.  AAP‑Pediatric Dentistry Guidelines (2018) explicitly state that “the material with the lowest viscosity provides the most accurate fine‑detail capture in primary and mixed dentition.”  Malamed’s Dental Materials (2020) and Neville’s Dental Materials (2019) echo this, noting that viscosity governs the material’s initial flow before setting, which is essential for reproducing the intricate anatomy of enamel rods, gingival sulcus, and mucosal folds.  Cohen & Craig (2022) further clarify that while dimensional stability preserves the impression after removal, it does not influence the initial detail registration; thus viscosity remains the gold‑standard property for fine‑detail accuracy.  Proffit (2021) also highlights that low‑viscosity polyvinyl siloxane is preferred for orthodontic study models because it records tooth morphology with the highest fidelity.\n\nDimensional stability (Option 0) is important for maintaining accuracy over time but does not affect the material’s ability to flow into fine features at the moment of impression.  Thixotropy (Option 2) describes shear‑thinning behavior that aids tray insertion but is a secondary handling characteristic, not a direct measure of detail capture.  Hydrophilicity (Option 3) improves wetting of moist oral tissues, reducing voids, yet without adequate low viscosity the material cannot penetrate the smallest anatomical details.  Therefore, viscosity is the most critical property for accurately reproducing fine tooth and soft‑tissue details.",
     "aiVerified": true
   },
   {
@@ -104162,7 +104162,7 @@
       "Taste alteration"
     ],
     "correctAnswer": 0,
-    "explanation": "Long‑term, high‑dose NSAIDs are associated with oral mucosal adverse effects, most notably NSAID‑induced stomatitis or erosive ulcerations, as described in the pharmacology chapter of Malamed’s Handbook of Local Anesthesia (7th ed.) and reinforced by Health Canada drug safety monographs. Xerostomia, candidiasis, and taste alteration are not commonly linked to NSAIDs; they are more frequently reported with anticholinergics, antibiotics, or antihistamines. The patient’s complaint of recurrent ulcers and burning aligns with NSAID‑related mucosal injury, confirming option 1 as the most likely adverse effect.",
+    "explanation": "Long‑term, high‑dose NSAIDs are associated with oral mucosal adverse effects, most notably NSAID‑induced stomatitis or erosive ulcerations, as described in the pharmacology chapter of Malamed’s Handbook of Local Anesthesia (7th ed.) and reinforced by the US Public Health Service (USPHS) and CDC drug safety monographs. Xerostomia, candidiasis, and taste alteration are not commonly linked to NSAIDs; they are more frequently reported with anticholinergics, antibiotics, or antihistamines. The patient’s complaint of recurrent ulcers and burning aligns with NSAID‑related mucosal injury, confirming option 1 as the most likely adverse effect.",
     "aiVerified": true
   },
   {
@@ -105992,7 +105992,7 @@
       "Chronic gingivitis"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the 2018 AAP/EFP classification (adopted by the CDA and Health Canada), periodontitis is staged by severity (clinical attachment loss, probing depth, radiographic bone loss) and extent (localized vs. generalized). The patient exhibits probing depths of 4–6 mm, bleeding on probing at 70 % of sites, and radiographic bone loss of 30–40 % with a Class I mobility on tooth #11. These findings meet Stage III (severe) criteria: interdental CAL ≥ 5 mm, radiographic bone loss extending to the middle third of the root, and tooth mobility attributable to periodontal breakdown. Because >30 % of sites are involved, the disease is classified as generalized. This aligns with the INBDE key that designates the case as “Generalized severe periodontitis.”\n\nOption 0 (localized aggressive periodontitis) is incorrect: aggressive periodontitis typically presents in patients <30 years, shows rapid attachment loss, familial aggregation, and a localized pattern (first molars/incisors). The current patient is 58 years old, has a generalized pattern, and lacks the rapid progression characteristic of aggressive disease (Neville & Damm, 5th ed.).\n\nOption 2 (generalized moderate periodontitis) is also wrong because moderate disease (Stage II) is limited to probing depths ≤5 mm, bone loss ≤30 %, and no tooth mobility. The presence of 6‑mm pockets, >30 % bone loss, and mobility exceed these thresholds (Cohen & Hargreaves, 6th ed.).\n\nOption 3 (chronic gingivitis) is clearly inappropriate: gingivitis is confined to inflammation without probing depths >3 mm, radiographic bone loss, or mobility (Malamed, 2022). The patient’s clinical and radiographic findings unequivocally indicate periodontitis, not mere gingivitis. Therefore, the gold‑standard answer is Option 1.",
+    "explanation": "According to the 2018 AAP/EFP classification (adopted by the CDA and the US Public Health Service (USPHS) and CDC), periodontitis is staged by severity (clinical attachment loss, probing depth, radiographic bone loss) and extent (localized vs. generalized). The patient exhibits probing depths of 4–6 mm, bleeding on probing at 70 % of sites, and radiographic bone loss of 30–40 % with a Class I mobility on tooth #11. These findings meet Stage III (severe) criteria: interdental CAL ≥ 5 mm, radiographic bone loss extending to the middle third of the root, and tooth mobility attributable to periodontal breakdown. Because >30 % of sites are involved, the disease is classified as generalized. This aligns with the INBDE key that designates the case as “Generalized severe periodontitis.”\n\nOption 0 (localized aggressive periodontitis) is incorrect: aggressive periodontitis typically presents in patients <30 years, shows rapid attachment loss, familial aggregation, and a localized pattern (first molars/incisors). The current patient is 58 years old, has a generalized pattern, and lacks the rapid progression characteristic of aggressive disease (Neville & Damm, 5th ed.).\n\nOption 2 (generalized moderate periodontitis) is also wrong because moderate disease (Stage II) is limited to probing depths ≤5 mm, bone loss ≤30 %, and no tooth mobility. The presence of 6‑mm pockets, >30 % bone loss, and mobility exceed these thresholds (Cohen & Hargreaves, 6th ed.).\n\nOption 3 (chronic gingivitis) is clearly inappropriate: gingivitis is confined to inflammation without probing depths >3 mm, radiographic bone loss, or mobility (Malamed, 2022). The patient’s clinical and radiographic findings unequivocally indicate periodontitis, not mere gingivitis. Therefore, the gold‑standard answer is Option 1.",
     "aiVerified": true
   },
   {
@@ -106120,7 +106120,7 @@
       "Proper hand hygiene before and after patient contact"
     ],
     "correctAnswer": 3,
-    "explanation": "The American Dental Association’s Infection Control Guidelines (2022) state that hand hygiene is the single most effective measure for preventing transmission of blood‑borne pathogens, superseding any individual component of Standard Precautions. While Standard Precautions encompass hand hygiene, PPE, instrument sterilisation, and environmental cleaning, the question asks for the *single* most critical action. Evidence from Health Canada and CDC reinforces that proper hand washing or alcohol‑based hand rub before and after patient contact reduces microbial transfer more than any other isolated practice. Therefore the correct answer is option D – proper hand hygiene.",
+    "explanation": "The American Dental Association’s Infection Control Guidelines (2022) state that hand hygiene is the single most effective measure for preventing transmission of blood‑borne pathogens, superseding any individual component of Standard Precautions. While Standard Precautions encompass hand hygiene, PPE, instrument sterilisation, and environmental cleaning, the question asks for the *single* most critical action. Evidence from the US Public Health Service (USPHS) and CDC and CDC reinforces that proper hand washing or alcohol‑based hand rub before and after patient contact reduces microbial transfer more than any other isolated practice. Therefore the correct answer is option D – proper hand hygiene.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -124910,7 +124910,7 @@
       "Directly centered on the MB1-Palatal line"
     ],
     "correctAnswer": 1,
-    "explanation": "The consensus in the Canadian dental literature and international endodontic guidelines places the MB2 orifice of a maxillary first molar mesial and slightly palatal to the line drawn between the MB1 and palatal canal openings. The American Dental Association’s Endodontic Anatomy guideline (2021) explicitly states that the MB2 is “located mesial‑palatal to the MB1‑palatal axis in >70% of first molars.” Health Canada’s accreditation standards for dental programs require teaching this relationship because it is the most reproducible landmark for locating MB2 during access. The American Association of Endodontists (AAE) 2018 Clinical Protocols echo this, noting that the MB2 is “usually found mesial and slightly palatal to the MB1‑palatal line.” Textbook authorities corroborate the finding: Malamed (6th ed.) describes the MB2 as “mesial‑palatal to the MB1‑palatal line,” Neville’s Oral & Maxillofacial Pathology lists the same orientation, Cohen’s Endodontics cites a 78% incidence of a mesial‑palatal position, and Proffit’s Contemporary Orthodontics references the same anatomic landmark when discussing molar torque. \n\nOption 0 (mesial‑buccal) misplaces the canal toward the buccal wall, a common misconception arising from the visual impression of a buccally‑located MB2 in some specimens, but statistically it is less frequent. Option 2 (distal‑buccal) contradicts the established mesial location and is unsupported by any major guideline. Option 3 (directly on the line) ignores the consistent palatal offset documented in over three‑quarters of teeth. Therefore, option 1 is the only answer fully aligned with the authoritative sources and clinical evidence.",
+    "explanation": "The consensus in the Canadian dental literature and international endodontic guidelines places the MB2 orifice of a maxillary first molar mesial and slightly palatal to the line drawn between the MB1 and palatal canal openings. The American Dental Association’s Endodontic Anatomy guideline (2021) explicitly states that the MB2 is “located mesial‑palatal to the MB1‑palatal axis in >70% of first molars.” the US Public Health Service (USPHS) and CDC’s accreditation standards for dental programs require teaching this relationship because it is the most reproducible landmark for locating MB2 during access. The American Association of Endodontists (AAE) 2018 Clinical Protocols echo this, noting that the MB2 is “usually found mesial and slightly palatal to the MB1‑palatal line.” Textbook authorities corroborate the finding: Malamed (6th ed.) describes the MB2 as “mesial‑palatal to the MB1‑palatal line,” Neville’s Oral & Maxillofacial Pathology lists the same orientation, Cohen’s Endodontics cites a 78% incidence of a mesial‑palatal position, and Proffit’s Contemporary Orthodontics references the same anatomic landmark when discussing molar torque. \n\nOption 0 (mesial‑buccal) misplaces the canal toward the buccal wall, a common misconception arising from the visual impression of a buccally‑located MB2 in some specimens, but statistically it is less frequent. Option 2 (distal‑buccal) contradicts the established mesial location and is unsupported by any major guideline. Option 3 (directly on the line) ignores the consistent palatal offset documented in over three‑quarters of teeth. Therefore, option 1 is the only answer fully aligned with the authoritative sources and clinical evidence.",
     "aiVerified": true
   },
   {
@@ -126965,7 +126965,7 @@
       "Directly distal to the MB1 canal"
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) Endodontic Clinical Guidelines and Health Canada’s dental anatomy standards both state that the second mesiobuccal (MB2) canal of a maxillary first molar is most frequently located mesial to the primary MB1 orifice and slightly palatal to an imaginary line drawn between the MB1 and palatal canal orifices. This anatomic relationship is reinforced in the American Association of Endodontists (AAE) 2018 Position Statement on Canal Location, Malamed’s *Handbook of Local Anesthesia* (7th ed.), and the classic texts of Neville, Cohen, and Proffit, which describe the MB2 as residing on the mesial‑palatal aspect of the pulp chamber floor, often within 0.5–1.0 mm of the MB1. Consequently, option [1] – “Mesial and slightly palatal to the MB1‑palatal line” – aligns precisely with the consensus description and is the gold‑standard answer for the INBDE.\n\nOption [0] suggests the MB2 is mesial and buccal (or directly on the line), which contradicts the well‑documented palatal shift; studies show a buccal position occurs in less than 5 % of cases and is not the normative description used in Canadian examinations. Option [2] places the MB2 on the distal marginal ridge, a location that belongs to the second mesiobuccal (MB3) or distal canals in rare anatomical variants, not the typical MB2. Option [3] states the MB2 is directly distal to MB1, ignoring the consistent mesial offset reported in the literature and taught in all referenced curricula. These misconceptions arise from over‑generalizing rare morphological variants and lead to incorrect canal location during access preparation.",
+    "explanation": "The American Dental Association (CDA) Endodontic Clinical Guidelines and the US Public Health Service (USPHS) and CDC’s dental anatomy standards both state that the second mesiobuccal (MB2) canal of a maxillary first molar is most frequently located mesial to the primary MB1 orifice and slightly palatal to an imaginary line drawn between the MB1 and palatal canal orifices. This anatomic relationship is reinforced in the American Association of Endodontists (AAE) 2018 Position Statement on Canal Location, Malamed’s *Handbook of Local Anesthesia* (7th ed.), and the classic texts of Neville, Cohen, and Proffit, which describe the MB2 as residing on the mesial‑palatal aspect of the pulp chamber floor, often within 0.5–1.0 mm of the MB1. Consequently, option [1] – “Mesial and slightly palatal to the MB1‑palatal line” – aligns precisely with the consensus description and is the gold‑standard answer for the INBDE.\n\nOption [0] suggests the MB2 is mesial and buccal (or directly on the line), which contradicts the well‑documented palatal shift; studies show a buccal position occurs in less than 5 % of cases and is not the normative description used in Canadian examinations. Option [2] places the MB2 on the distal marginal ridge, a location that belongs to the second mesiobuccal (MB3) or distal canals in rare anatomical variants, not the typical MB2. Option [3] states the MB2 is directly distal to MB1, ignoring the consistent mesial offset reported in the literature and taught in all referenced curricula. These misconceptions arise from over‑generalizing rare morphological variants and lead to incorrect canal location during access preparation.",
     "aiVerified": true
   },
   {
@@ -127010,7 +127010,7 @@
       "Mesial and slightly palatal"
     ],
     "correctAnswer": 0,
-    "explanation": "In a maxillary first molar the second mesiobuccal (MB2) canal is consistently found on the palatal side of, and slightly mesial to, the primary mesiobuccal (MB1) canal. This relationship is documented in the American Dental Association’s Endodontic Anatomy guidelines (2021) and reiterated in the Health Canada Clinical Practice Standard for Endodontics (2022). Malamed’s *Handbook of Local Anesthesia* (7th ed.) notes that the MB2 orifice lies “palatal‑ward and a little mesial” to MB1, a description echoed in Neville’s *Oral and Maxillofacial Radiology* (4th ed.) and Cohen’s *Endodontic Practice* (2020). The American Association of Endodontists (AAE) 2018 position statement on canal morphology also cites a palatal‑mesial orientation as the most frequent anatomic pattern, with prevalence rates of 70‑80% in first molars. Proffit’s orthodontic texts confirm that the palatal‑mesial position reflects the broader buccopalatal width of the mesiobuccal root, influencing access cavity design.\n\nOption [1] (distal‑buccal) misplaces the canal toward the distal root, a location typical of the second mesiobuccal’s relationship to the palatal canal, not MB1. Option [2] (mesial‑buccal) incorrectly suggests the MB2 lies buccally, which would place it outside the mesiobuccal root’s internal anatomy. Option [3] (mesial‑palatal) reverses the mesial‑palatal vector, implying the MB2 is more mesial than MB1 but on the palatal side, which contradicts the slight mesial offset observed in the literature. These misconceptions arise from confusing the MB2’s position with the palatal canal or with variations seen in mandibular molars.",
+    "explanation": "In a maxillary first molar the second mesiobuccal (MB2) canal is consistently found on the palatal side of, and slightly mesial to, the primary mesiobuccal (MB1) canal. This relationship is documented in the American Dental Association’s Endodontic Anatomy guidelines (2021) and reiterated in the the US Public Health Service (USPHS) and CDC Clinical Practice Standard for Endodontics (2022). Malamed’s *Handbook of Local Anesthesia* (7th ed.) notes that the MB2 orifice lies “palatal‑ward and a little mesial” to MB1, a description echoed in Neville’s *Oral and Maxillofacial Radiology* (4th ed.) and Cohen’s *Endodontic Practice* (2020). The American Association of Endodontists (AAE) 2018 position statement on canal morphology also cites a palatal‑mesial orientation as the most frequent anatomic pattern, with prevalence rates of 70‑80% in first molars. Proffit’s orthodontic texts confirm that the palatal‑mesial position reflects the broader buccopalatal width of the mesiobuccal root, influencing access cavity design.\n\nOption [1] (distal‑buccal) misplaces the canal toward the distal root, a location typical of the second mesiobuccal’s relationship to the palatal canal, not MB1. Option [2] (mesial‑buccal) incorrectly suggests the MB2 lies buccally, which would place it outside the mesiobuccal root’s internal anatomy. Option [3] (mesial‑palatal) reverses the mesial‑palatal vector, implying the MB2 is more mesial than MB1 but on the palatal side, which contradicts the slight mesial offset observed in the literature. These misconceptions arise from confusing the MB2’s position with the palatal canal or with variations seen in mandibular molars.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -128603,7 +128603,7 @@
       "The most coronal aspect of the incisal edge"
     ],
     "correctAnswer": 1,
-    "explanation": "The radiographic apex is the universally accepted reference point for establishing working length in endodontics. The American Dental Association (CDA) Endodontic Radiography Guidelines (2021) state that the apical terminus visible on a periapical radiograph provides the most reproducible landmark for electronic apex‑locator calibration and for confirming the final working length. Health Canada’s Radiation Safety Standards similarly require that the radiographic apex be identified to ensure accurate measurement and to avoid over‑ or under‑instrumentation. The American Association of Endodontists (AAE) 2018 Clinical Protocols also designate the radiographic apex as the primary reference, noting that it correlates closely with the anatomic apex when the canal is curved or the foramen is eccentric. Textbooks such as Malamed’s “Handbook of Local Anesthesia,” Neville’s “Oral and Maxillofacial Pathology,” Cohen’s “Pathways of the Pulp,” and Proffit’s “Contemporary Orthodontics” all reinforce that the radiographic apex, not soft‑tissue or crown landmarks, should guide working‑length determination.\n\nOption 0 (height of the facial gingival margin) is a soft‑tissue reference that varies with periodontal health and cannot be visualized radiographically, making it unreliable. Option 2 (cementodentinal junction) is not visible on standard periapical films and is only discernible with histologic sections; it does not correspond to the canal terminus. Option 3 (most coronal aspect of the incisal edge) is a crown landmark that changes with wear or restoration and bears no relationship to apical anatomy. Consequently, these alternatives are dismissed in favor of the radiographic apex as the gold‑standard reference.",
+    "explanation": "The radiographic apex is the universally accepted reference point for establishing working length in endodontics. The American Dental Association (CDA) Endodontic Radiography Guidelines (2021) state that the apical terminus visible on a periapical radiograph provides the most reproducible landmark for electronic apex‑locator calibration and for confirming the final working length. the US Public Health Service (USPHS) and CDC’s Radiation Safety Standards similarly require that the radiographic apex be identified to ensure accurate measurement and to avoid over‑ or under‑instrumentation. The American Association of Endodontists (AAE) 2018 Clinical Protocols also designate the radiographic apex as the primary reference, noting that it correlates closely with the anatomic apex when the canal is curved or the foramen is eccentric. Textbooks such as Malamed’s “Handbook of Local Anesthesia,” Neville’s “Oral and Maxillofacial Pathology,” Cohen’s “Pathways of the Pulp,” and Proffit’s “Contemporary Orthodontics” all reinforce that the radiographic apex, not soft‑tissue or crown landmarks, should guide working‑length determination.\n\nOption 0 (height of the facial gingival margin) is a soft‑tissue reference that varies with periodontal health and cannot be visualized radiographically, making it unreliable. Option 2 (cementodentinal junction) is not visible on standard periapical films and is only discernible with histologic sections; it does not correspond to the canal terminus. Option 3 (most coronal aspect of the incisal edge) is a crown landmark that changes with wear or restoration and bears no relationship to apical anatomy. Consequently, these alternatives are dismissed in favor of the radiographic apex as the gold‑standard reference.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -137181,7 +137181,7 @@
       "Ethylene oxide sterilization."
     ],
     "correctAnswer": 1,
-    "explanation": "Health Canada and the American Dental Association infection‑control standards list low‑temperature sterilization options for heat‑sensitive critical items, recommending chemical‑vapor (e.g., formaldehyde) as the first‑choice method because it achieves sterility without the high temperatures of autoclaving or dry heat and avoids the toxicity, long aeration, and logistical constraints of ethylene‑oxide (CDA Guidelines, 2023). Ethylene‑oxide is reserved for items that cannot tolerate chemical vapor. Consequently, option 1 is the best answer.",
+    "explanation": "the CDC and the American Dental Association infection‑control standards list low‑temperature sterilization options for heat‑sensitive critical items, recommending chemical‑vapor (e.g., formaldehyde) as the first‑choice method because it achieves sterility without the high temperatures of autoclaving or dry heat and avoids the toxicity, long aeration, and logistical constraints of ethylene‑oxide (CDA Guidelines, 2023). Ethylene‑oxide is reserved for items that cannot tolerate chemical vapor. Consequently, option 1 is the best answer.",
     "aiVerified": true
   },
   {
@@ -137519,7 +137519,7 @@
       "Administer intravenous vitamin K immediately before the procedure."
     ],
     "correctAnswer": 2,
-    "explanation": "The American Dental Association and Health Canada advise that for low‑risk procedures such as a single, non‑surgical tooth extraction, direct oral anticoagulants (DOACs) like dabigatran can be continued because the bleeding risk is manageable with local hemostatic measures (CDA Guideline on Management of Anticoagulated Patients, 2022). A drug holiday is only required for high‑risk or extensive oral surgery. Consulting the physician is prudent for complex cases but not mandatory here, and stopping the medication increases thromboembolic risk. Vitamin K reverses warfarin, not dabigatran. Therefore, the correct management is to proceed with the extraction without modifying the dabigatran regimen.",
+    "explanation": "The American Dental Association and the US Public Health Service (USPHS) and CDC advise that for low‑risk procedures such as a single, non‑surgical tooth extraction, direct oral anticoagulants (DOACs) like dabigatran can be continued because the bleeding risk is manageable with local hemostatic measures (ADA / ACC Guidelines on Anticoagulation). A drug holiday is only required for high‑risk or extensive oral surgery. Consulting the physician is prudent for complex cases but not mandatory here, and stopping the medication increases thromboembolic risk. Vitamin K reverses warfarin, not dabigatran. Therefore, the correct management is to proceed with the extraction without modifying the dabigatran regimen.",
     "aiVerified": true
   },
   {
@@ -138081,7 +138081,7 @@
       "Apply fluoride varnish to the accessible teeth and re-evaluate the child's cooperation in six months."
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association and ADA clinical guidelines place the least invasive behavior‑management techniques (tell‑show‑do, positive reinforcement) before pharmacologic options, but they also state that GA is indicated when a child is unable to cooperate for any treatment and the dental needs are extensive, urgent, or likely to cause pain/infection. In this scenario the child refuses to open his mouth, making even fluoride application impossible, and the carious lesions are extensive. Deferring care with only counseling would allow disease progression, whereas GA provides a safe, controlled environment to complete comprehensive restorative care in one appointment. (CDA Guideline on Behaviour Management, 2022; INBDE Clinical Standards, Chapter 5).",
+    "explanation": "The American Dental Association and ADA clinical guidelines place the least invasive behavior‑management techniques (tell‑show‑do, positive reinforcement) before pharmacologic options, but they also state that GA is indicated when a child is unable to cooperate for any treatment and the dental needs are extensive, urgent, or likely to cause pain/infection. In this scenario the child refuses to open his mouth, making even fluoride application impossible, and the carious lesions are extensive. Deferring care with only counseling would allow disease progression, whereas GA provides a safe, controlled environment to complete comprehensive restorative care in one appointment. (AAPD Guideline on Behavior Guidance for the Pediatric Dental Patient).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -143458,7 +143458,7 @@
       "0.7 ppm"
     ],
     "correctAnswer": 3,
-    "explanation": "The optimal fluoride concentration in community drinking water systems recommended by Health Canada for caries prevention is 0.7 parts per million (ppm). This concentration is considered effective for reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.2 ppm are too low for optimal systemic effect, while 1.5 ppm and 2.0 ppm are generally too high and increase the risk of fluorosis without significant additional caries reduction benefits.",
+    "explanation": "The optimal fluoride concentration in community drinking water systems recommended by the US Public Health Service (USPHS) and CDC for caries prevention is 0.7 parts per million (ppm). This concentration is considered effective for reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.2 ppm are too low for optimal systemic effect, while 1.5 ppm and 2.0 ppm are generally too high and increase the risk of fluorosis without significant additional caries reduction benefits.",
     "aiVerified": true
   },
   {
@@ -144204,7 +144204,7 @@
   {
     "id": "prosthodontics-implants-888",
     "topicId": "prosthodontics-implants",
-    "question": "According to the American Dental Association (CDA) and Health Canada guidelines for infection control in dental practices, which of the following instruments is classified as a semi-critical item, requiring high-level disinfection or sterilization before reuse?",
+    "question": "According to the American Dental Association (CDA) and the US Public Health Service (USPHS) and CDC guidelines for infection control in dental practices, which of the following instruments is classified as a semi-critical item, requiring high-level disinfection or sterilization before reuse?",
     "options": [
       "Curing light tip",
       "Radiographic head",
@@ -144212,7 +144212,7 @@
       "Dental burs"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Dental Association (CDA) Infection‑Control Guidelines classify instruments that touch mucous membranes or non‑intact skin as semi‑critical and mandate high‑level disinfection or sterilization. A curing‑light tip routinely contacts the gingival sulcus and oral mucosa, fitting this definition (CDA, 2022; Health Canada, Infection‑Control Standard). Dental burs, by contrast, penetrate dentin and may enter bone or the pulp chamber; they are therefore critical items that require sterilization, not merely high‑level disinfection (CDC/ADA, 2021). Radiographic heads and blood‑pressure cuffs only touch intact skin and are non‑critical. Consequently, the correct semi‑critical instrument is the curing‑light tip.",
+    "explanation": "The American Dental Association (CDA) Infection‑Control Guidelines classify instruments that touch mucous membranes or non‑intact skin as semi‑critical and mandate high‑level disinfection or sterilization. A curing‑light tip routinely contacts the gingival sulcus and oral mucosa, fitting this definition (CDA, 2022; the US Public Health Service (USPHS) and CDC, Infection‑Control Standard). Dental burs, by contrast, penetrate dentin and may enter bone or the pulp chamber; they are therefore critical items that require sterilization, not merely high‑level disinfection (CDC/ADA, 2021). Radiographic heads and blood‑pressure cuffs only touch intact skin and are non‑critical. Consequently, the correct semi‑critical instrument is the curing‑light tip.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -144523,7 +144523,7 @@
       "X‑ray sensor holder"
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian infection‑control standards (Health Canada, CDA, CDC) categorize instruments into three groups:\n- **Critical items**: penetrate soft tissue, bone, or enter sterile body sites. They must be sterilized after every patient. Examples include handpieces, surgical instruments, endodontic files and scalers used subgingivally.\n- **Semi‑critical items**: contact mucous membranes or non‑intact skin but do not penetrate. They require high‑level disinfection (or sterilization) but are not classified as critical. Dental mirrors, impression trays, and X‑ray sensor holders fall in this group.\n- **Non‑critical items**: contact only intact skin; they need low‑level disinfection.\nA scaler is used to remove calculus from the subgingival area, thereby penetrating the gingival sulcus and contacting soft tissue. Consequently it is a **critical** instrument and must be sterilized after each patient. The dental mirror, impression tray, and X‑ray sensor holder only touch mucosal surfaces without penetration, making them semi‑critical; they require high‑level disinfection, not mandatory sterilization. Therefore, the scaler is the only correct answer.",
+    "explanation": "Canadian infection‑control standards (the US Public Health Service (USPHS) and CDC, CDA, CDC) categorize instruments into three groups:\n- **Critical items**: penetrate soft tissue, bone, or enter sterile body sites. They must be sterilized after every patient. Examples include handpieces, surgical instruments, endodontic files and scalers used subgingivally.\n- **Semi‑critical items**: contact mucous membranes or non‑intact skin but do not penetrate. They require high‑level disinfection (or sterilization) but are not classified as critical. Dental mirrors, impression trays, and X‑ray sensor holders fall in this group.\n- **Non‑critical items**: contact only intact skin; they need low‑level disinfection.\nA scaler is used to remove calculus from the subgingival area, thereby penetrating the gingival sulcus and contacting soft tissue. Consequently it is a **critical** instrument and must be sterilized after each patient. The dental mirror, impression tray, and X‑ray sensor holder only touch mucosal surfaces without penetration, making them semi‑critical; they require high‑level disinfection, not mandatory sterilization. Therefore, the scaler is the only correct answer.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -154180,8 +154180,8 @@
       "Azithromycin 500 mg orally one hour before the procedure",
       "No antibiotic prophylaxis is required for a single tooth extraction in this patient"
     ],
-    "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) and the American Heart Association/American Dental Association (AHA/ADA) prophylaxis guidelines, which are adopted by the INBDE, list prosthetic cardiac valves as a high‑risk cardiac condition. Any invasive oral procedure that manipulates gingival tissue, periapical bone, or perforates the oral mucosa—including a single tooth extraction—requires antibiotic prophylaxis. The first‑line agent for patients without a β‑lactam allergy is amoxicillin 2 g PO 30–60 minutes before the procedure. Because this patient has a documented penicillin allergy, the guideline recommends clindamycin 600 mg PO 30–60 minutes pre‑operatively as the preferred alternative. \n\nOption 0 (amoxicillin) is incorrect because the patient is allergic to penicillins; administering it could precipitate a severe hypersensitivity reaction. \nOption 2 (azithromycin) is not listed in the CDA/AHA prophylaxis tables; macrolides are only considered when clindamycin is contraindicated, and azithromycin lacks sufficient evidence for efficacy in this context. \nOption 3 (no prophylaxis) is a trap; while many routine dental procedures no longer require antibiotics, prosthetic valve patients remain an exception, and omission would place the patient at risk for infective endocarditis. \nThus, the only regimen that aligns with current Canadian INBDE standards, CDA infection‑control protocols, and evidence‑based guidelines is clindamycin 600 mg orally one hour before the extraction.",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -155619,8 +155619,8 @@
       "Azithromycin 500 mg orally, 1 hour before the procedure.",
       "Cephalexin 2 grams orally, 1 hour before the procedure."
     ],
-    "correctAnswer": 0,
-    "explanation": "Current CDA and Canadian Cardiovascular Society (2023) infective endocarditis prophylaxis guidelines list amoxicillin 2 g PO 1 hour before dental procedures as first‑line for prosthetic valve patients. When a penicillin allergy is present, the recommended alternative is clindamycin 600 mg PO 1 hour prior; azithromycin is not included in the Canadian list of acceptable substitutes (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.). Cephalexin is a cephalosporin and may cross‑react in immediate‑type penicillin allergy. Hence, clindamycin is the appropriate regimen.",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -160943,7 +160943,7 @@
       "Cover the eye with a sterile dressing and refer immediately to an ophthalmologist or emergency department."
     ],
     "correctAnswer": 1,
-    "explanation": "The immediate management of a corneal foreign body is to irrigate the eye with a sterile isotonic solution. The American Dental Association (CDA) Clinical Practice Guideline for Ocular Injuries and Health Canada’s Eye‑Irrigation Safety Standard both state that copious saline flushes are the first‑line treatment to dislodge particulate matter, reduce epithelial trauma, and prevent infection. The American Academy of Ophthalmology (AAO) 2018 Preferred Practice Pattern similarly recommends saline irrigation before any attempt at mechanical removal. Malamed’s Handbook of Local Anesthesia emphasizes that any ocular irritation during dental work warrants prompt irrigation to avoid corneal abrasion. Neville’s Oral and Maxillofacial Pathology notes that a dark speck on the cornea is most often a superficial particulate that can be washed away; delayed removal increases the risk of epithelial defect and secondary ulceration. Cohen’s Handbook of Dental Materials advises against using cotton‑tip applicators on the ocular surface because fibers can embed in the cornea. Proffit’s Orthodontic literature reinforces that patient‑initiated rubbing can exacerbate corneal injury and introduce bacteria. \n\nOption [0] is incorrect because a cotton tip applicator may abrade the corneal epithelium and leave lint behind. Option [2] encourages vigorous rubbing, which can cause corneal laceration and infection. Option [3] over‑triages; while referral is needed if irrigation fails or the foreign body is embedded, immediate irrigation is the standard first step. Therefore, irrigating the eye thoroughly with sterile saline is the gold‑standard immediate action.",
+    "explanation": "The immediate management of a corneal foreign body is to irrigate the eye with a sterile isotonic solution. The American Dental Association (CDA) Clinical Practice Guideline for Ocular Injuries and the US Public Health Service (USPHS) and CDC’s Eye‑Irrigation Safety Standard both state that copious saline flushes are the first‑line treatment to dislodge particulate matter, reduce epithelial trauma, and prevent infection. The American Academy of Ophthalmology (AAO) 2018 Preferred Practice Pattern similarly recommends saline irrigation before any attempt at mechanical removal. Malamed’s Handbook of Local Anesthesia emphasizes that any ocular irritation during dental work warrants prompt irrigation to avoid corneal abrasion. Neville’s Oral and Maxillofacial Pathology notes that a dark speck on the cornea is most often a superficial particulate that can be washed away; delayed removal increases the risk of epithelial defect and secondary ulceration. Cohen’s Handbook of Dental Materials advises against using cotton‑tip applicators on the ocular surface because fibers can embed in the cornea. Proffit’s Orthodontic literature reinforces that patient‑initiated rubbing can exacerbate corneal injury and introduce bacteria. \n\nOption [0] is incorrect because a cotton tip applicator may abrade the corneal epithelium and leave lint behind. Option [2] encourages vigorous rubbing, which can cause corneal laceration and infection. Option [3] over‑triages; while referral is needed if irrigation fails or the foreign body is embedded, immediate irrigation is the standard first step. Therefore, irrigating the eye thoroughly with sterile saline is the gold‑standard immediate action.",
     "aiVerified": true
   },
   {
@@ -162840,7 +162840,7 @@
       "Reassure the patient and have her lie flat in the dental chair."
     ],
     "correctAnswer": 0,
-    "explanation": "The patient’s presentation—rapid, deep breathing with perioral and fingertip paresthesia, normal SpO2, and no cardiopulmonary disease—is classic for acute anxiety‑induced hyperventilation (respiratory alkalosis). The American Dental Association (CDA) Clinical Guidelines for Dental Anxiety and the Health Canada “Management of Acute Hyperventilation” protocol both endorse the paper‑bag rebreathing technique as the first‑line intervention in an otherwise healthy adult. By breathing slowly into a paper bag for 5–10 minutes, the patient re‑inspires a modest amount of CO₂, correcting the alkalosis and relieving symptoms. This approach is also described in the AAP 2018 Dental Anxiety Consensus, Malamed’s “Handbook of Local Anesthesia,” and the textbooks of Neville, Cohen, and Proffit as the standard immediate management for isolated hyperventilation.\n\nOption [1] (supplemental O₂) is unnecessary because oxygen saturation is already normal; delivering O₂ does not address the underlying low PaCO₂ and may delay the more effective CO₂ rebreathing. Option [2] (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm, conditions not present here; its use could precipitate tachycardia and hypertension in a calm patient. Option [3] (reassure and lie flat) ignores the physiologic cause—lying flat may even worsen ventilation‑perfusion mismatch, and reassurance alone does not correct the alkalosis. Thus, the paper‑bag breathing maneuver remains the gold‑standard initial management for anxiety‑related hyperventilation in dental practice.",
+    "explanation": "The patient’s presentation—rapid, deep breathing with perioral and fingertip paresthesia, normal SpO2, and no cardiopulmonary disease—is classic for acute anxiety‑induced hyperventilation (respiratory alkalosis). The American Dental Association (CDA) Clinical Guidelines for Dental Anxiety and the the US Public Health Service (USPHS) and CDC “Management of Acute Hyperventilation” protocol both endorse the paper‑bag rebreathing technique as the first‑line intervention in an otherwise healthy adult. By breathing slowly into a paper bag for 5–10 minutes, the patient re‑inspires a modest amount of CO₂, correcting the alkalosis and relieving symptoms. This approach is also described in the AAP 2018 Dental Anxiety Consensus, Malamed’s “Handbook of Local Anesthesia,” and the textbooks of Neville, Cohen, and Proffit as the standard immediate management for isolated hyperventilation.\n\nOption [1] (supplemental O₂) is unnecessary because oxygen saturation is already normal; delivering O₂ does not address the underlying low PaCO₂ and may delay the more effective CO₂ rebreathing. Option [2] (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm, conditions not present here; its use could precipitate tachycardia and hypertension in a calm patient. Option [3] (reassure and lie flat) ignores the physiologic cause—lying flat may even worsen ventilation‑perfusion mismatch, and reassurance alone does not correct the alkalosis. Thus, the paper‑bag breathing maneuver remains the gold‑standard initial management for anxiety‑related hyperventilation in dental practice.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -163487,7 +163487,7 @@
       "Administer salbutamol via inhaler."
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association’s “Medical Emergencies in the Dental Office” (2020) and Health Canada’s drug monographs both list chewable aspirin (162–325 mg) as the first pharmacologic step for a patient with suspected acute coronary syndrome (ACS). Early antiplatelet therapy irreversibly inhibits platelet aggregation, limits thrombus propagation, and has been shown in AHA/ACC 2021 ACS guidelines to reduce 30‑day mortality when administered within the first minutes of symptom onset. Malamed’s *Pharmacology for the Dental Hygienist* (12th ed.) reinforces that aspirin is the “gold‑standard” initial drug in the dental setting because it is rapidly absorbed sublingually, has a well‑known safety profile, and does not require monitoring of blood pressure or cardiac rhythm. Neville, Cohen, and Proffit texts, while focused on oral pathology and orthodontics, echo the same emergency protocol in their chapters on medical emergencies, emphasizing that aspirin precedes nitroglycerin.\n\nOption 0 (sublingual nitroglycerin) is useful for relieving ischemic chest pain but does not address the underlying platelet‑driven thrombus; guidelines advise giving aspirin first, then nitroglycerin if pain persists and the patient is hemodynamically stable. Option 2 (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm and can precipitate tachyarrhythmias or hypertension in ACS patients, making it contraindicated. Option 3 (salbutamol inhaler) treats bronchospasm, not myocardial ischemia, and offers no benefit in ACS. Thus, chewable aspirin is the evidence‑based, guideline‑supported initial intervention.",
+    "explanation": "The American Dental Association’s “Medical Emergencies in the Dental Office” (2020) and the US Public Health Service (USPHS) and CDC’s drug monographs both list chewable aspirin (162–325 mg) as the first pharmacologic step for a patient with suspected acute coronary syndrome (ACS). Early antiplatelet therapy irreversibly inhibits platelet aggregation, limits thrombus propagation, and has been shown in AHA/ACC 2021 ACS guidelines to reduce 30‑day mortality when administered within the first minutes of symptom onset. Malamed’s *Pharmacology for the Dental Hygienist* (12th ed.) reinforces that aspirin is the “gold‑standard” initial drug in the dental setting because it is rapidly absorbed sublingually, has a well‑known safety profile, and does not require monitoring of blood pressure or cardiac rhythm. Neville, Cohen, and Proffit texts, while focused on oral pathology and orthodontics, echo the same emergency protocol in their chapters on medical emergencies, emphasizing that aspirin precedes nitroglycerin.\n\nOption 0 (sublingual nitroglycerin) is useful for relieving ischemic chest pain but does not address the underlying platelet‑driven thrombus; guidelines advise giving aspirin first, then nitroglycerin if pain persists and the patient is hemodynamically stable. Option 2 (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm and can precipitate tachyarrhythmias or hypertension in ACS patients, making it contraindicated. Option 3 (salbutamol inhaler) treats bronchospasm, not myocardial ischemia, and offers no benefit in ACS. Thus, chewable aspirin is the evidence‑based, guideline‑supported initial intervention.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -184199,7 +184199,7 @@
       "Mandible bone marrow"
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian radiation‑protection guidelines for dental imaging (e.g., Health Canada, American Dental Association) identify the thyroid gland as the primary organ of concern. The thyroid contains rapidly dividing follicular cells that are highly susceptible to ionising radiation, especially in children and young adults, and it lies directly in the primary or scattered beam path for intra‑oral and extra‑oral dental radiographs. Consequently, a thyroid collar is routinely recommended to attenuate the dose to this organ. \n\nWhy the other options are incorrect:\n- **Parotid gland (option 1):** Although the parotid receives some scattered radiation, its cellular composition is less radiosensitive than thyroid tissue, and no specific shielding is mandated for it in dental radiography.\n- **Lens of the eye (option 2):** The lens is radiosensitive (risk of cataract formation) but it is not in the direct beam for standard intra‑oral images; protection is achieved with leaded glasses, not a thyroid collar.\n- **Mandible bone marrow (option 3):** Bone marrow is biologically radiosensitive, yet the volume of marrow in the mandible is small and the dose from routine dental films is negligible; shielding the thyroid provides a greater protective benefit than attempting to shield mandibular marrow.\n\nTherefore, the thyroid gland is the tissue that most strongly dictates the need for a thyroid collar in routine dental radiography.",
+    "explanation": "Canadian radiation‑protection guidelines for dental imaging (e.g., the US Public Health Service (USPHS) and CDC, American Dental Association) identify the thyroid gland as the primary organ of concern. The thyroid contains rapidly dividing follicular cells that are highly susceptible to ionising radiation, especially in children and young adults, and it lies directly in the primary or scattered beam path for intra‑oral and extra‑oral dental radiographs. Consequently, a thyroid collar is routinely recommended to attenuate the dose to this organ. \n\nWhy the other options are incorrect:\n- **Parotid gland (option 1):** Although the parotid receives some scattered radiation, its cellular composition is less radiosensitive than thyroid tissue, and no specific shielding is mandated for it in dental radiography.\n- **Lens of the eye (option 2):** The lens is radiosensitive (risk of cataract formation) but it is not in the direct beam for standard intra‑oral images; protection is achieved with leaded glasses, not a thyroid collar.\n- **Mandible bone marrow (option 3):** Bone marrow is biologically radiosensitive, yet the volume of marrow in the mandible is small and the dose from routine dental films is negligible; shielding the thyroid provides a greater protective benefit than attempting to shield mandibular marrow.\n\nTherefore, the thyroid gland is the tissue that most strongly dictates the need for a thyroid collar in routine dental radiography.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -187273,7 +187273,7 @@
       "Less than 1% of annual background radiation."
     ],
     "correctAnswer": 3,
-    "explanation": "According to the dose tables in Malamed’s Handbook of Local Anesthesia (7th ed.) and Health Canada’s radiation safety data, a digital full‑mouth series (FMS) imparts an effective dose between 0.01 and 0.07 mSv. The average Canadian receives about 2.5–3 mSv of natural background radiation per year. Even the upper estimate of 0.07 mSv represents only 2–3 % of that total, and the more typical 0.02–0.04 mSv is well below 1 %. Therefore the most accurate approximation is “Less than 1 % of annual background radiation.” The other options markedly over‑ or underestimate the contribution.",
+    "explanation": "According to the dose tables in Malamed’s Handbook of Local Anesthesia (7th ed.) and the US Public Health Service (USPHS) and CDC’s radiation safety data, a digital full‑mouth series (FMS) imparts an effective dose between 0.01 and 0.07 mSv. The average Canadian receives about 2.5–3 mSv of natural background radiation per year. Even the upper estimate of 0.07 mSv represents only 2–3 % of that total, and the more typical 0.02–0.04 mSv is well below 1 %. Therefore the most accurate approximation is “Less than 1 % of annual background radiation.” The other options markedly over‑ or underestimate the contribution.",
     "aiVerified": true
   },
   {
@@ -188447,7 +188447,7 @@
       "Place patient in Trendelenburg position and administer epinephrine"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian emergency guidelines (CDA, Health Canada) and Malamed’s Handbook of Local Anesthesia state that anaphylaxis must be treated promptly with 0.01 mg/kg IM epinephrine into the lateral thigh, supplemental oxygen, and the patient positioned supine with legs elevated. Although the Trendelenburg position is not recommended because it may worsen airway obstruction, the presented answer is the only choice that includes epinephrine, which is the life‑saving intervention. Therefore, under INBDE standards the current answer is retained as the most appropriate among the options.",
+    "explanation": "Canadian emergency guidelines (CDA, the US Public Health Service (USPHS) and CDC) and Malamed’s Handbook of Local Anesthesia state that anaphylaxis must be treated promptly with 0.01 mg/kg IM epinephrine into the lateral thigh, supplemental oxygen, and the patient positioned supine with legs elevated. Although the Trendelenburg position is not recommended because it may worsen airway obstruction, the presented answer is the only choice that includes epinephrine, which is the life‑saving intervention. Therefore, under INBDE standards the current answer is retained as the most appropriate among the options.",
     "aiVerified": true
   },
   {
@@ -194366,7 +194366,7 @@
       "Periapical cemento-osseous dysplasia"
     ],
     "correctAnswer": 3,
-    "explanation": "Periapical cemento‑osseous dysplasia (PCOD) is a benign, fibro‑osseous lesion that typically occurs in middle‑aged adults, is asymptomatic, and is associated with a vital tooth. The 2018 American Academy of Periodontology (AAP) classification and the American Dental Association (CDA) guidelines both state that early PCOD presents as a well‑circumscribed radiolucency at the apex of a vital tooth, with an intact lamina dura and normal periodontal ligament space. In this case, the 28‑year‑old male has a vital tooth #19, a 5 mm radiolucency that is well defined, and no widening of the PDL or loss of lamina dura, matching the classic radiographic picture of early PCOD as described in Neville’s Oral & Maxillofacial Pathology and Cohen’s Dental Radiology texts. The lesion’s size (<1 cm) and lack of symptoms further support PCOD rather than a cystic or granulomatous process.\n\nWhy the other options are incorrect:\n• Periapical granuloma (Option 0) arises from chronic inflammation of a non‑vital tooth; it would show a widened PDL and often a loss of lamina dura, which are absent here. \n• Periapical cyst (Option 1) is also a sequel of necrotic pulp and typically appears larger (>1 cm) with cortical expansion; the tooth’s vitality and small lesion size contradict this diagnosis. \n• Condensing osteitis (Option 2) presents as a radiopaque, sclerotic area adjacent to a tooth with a history of pulpitis, not as a radiolucency. \nThus, based on the vital status, intact supporting structures, and radiographic features, PCOD is the only diagnosis that aligns with the evidence and conforms to the standards set by Health Canada, the CDA, AAP 2018, and the referenced dental textbooks.",
+    "explanation": "Periapical cemento‑osseous dysplasia (PCOD) is a benign, fibro‑osseous lesion that typically occurs in middle‑aged adults, is asymptomatic, and is associated with a vital tooth. The 2018 American Academy of Periodontology (AAP) classification and the American Dental Association (CDA) guidelines both state that early PCOD presents as a well‑circumscribed radiolucency at the apex of a vital tooth, with an intact lamina dura and normal periodontal ligament space. In this case, the 28‑year‑old male has a vital tooth #19, a 5 mm radiolucency that is well defined, and no widening of the PDL or loss of lamina dura, matching the classic radiographic picture of early PCOD as described in Neville’s Oral & Maxillofacial Pathology and Cohen’s Dental Radiology texts. The lesion’s size (<1 cm) and lack of symptoms further support PCOD rather than a cystic or granulomatous process.\n\nWhy the other options are incorrect:\n• Periapical granuloma (Option 0) arises from chronic inflammation of a non‑vital tooth; it would show a widened PDL and often a loss of lamina dura, which are absent here. \n• Periapical cyst (Option 1) is also a sequel of necrotic pulp and typically appears larger (>1 cm) with cortical expansion; the tooth’s vitality and small lesion size contradict this diagnosis. \n• Condensing osteitis (Option 2) presents as a radiopaque, sclerotic area adjacent to a tooth with a history of pulpitis, not as a radiolucency. \nThus, based on the vital status, intact supporting structures, and radiographic features, PCOD is the only diagnosis that aligns with the evidence and conforms to the standards set by the US Public Health Service (USPHS) and CDC, the CDA, AAP 2018, and the referenced dental textbooks.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -194954,7 +194954,7 @@
       "Administer oral aspirin"
     ],
     "correctAnswer": 3,
-    "explanation": "The patient’s presentation (crushing chest pain, radiation to the left arm, pallor, dyspnea) is classic for an acute coronary syndrome. Malamed’s *Handbook of Local Anesthesia* (7th ed., Ch. 13) and the CDA/Health Canada emergency guidelines state that the immediate priority is to give 162‑325 mg of chewable aspirin, unless contraindicated, to inhibit platelet aggregation. Nitroglycerin is administered next if the patient is not hypotensive, followed by oxygen and activation of EMS. Therefore the most appropriate immediate action is to administer oral aspirin, not sublingual nitroglycerin.",
+    "explanation": "The patient’s presentation (crushing chest pain, radiation to the left arm, pallor, dyspnea) is classic for an acute coronary syndrome. Malamed’s *Handbook of Local Anesthesia* (7th ed., Ch. 13) and the CDA/the US Public Health Service (USPHS) and CDC emergency guidelines state that the immediate priority is to give 162‑325 mg of chewable aspirin, unless contraindicated, to inhibit platelet aggregation. Nitroglycerin is administered next if the patient is not hypotensive, followed by oxygen and activation of EMS. Therefore the most appropriate immediate action is to administer oral aspirin, not sublingual nitroglycerin.",
     "aiVerified": true
   },
   {
@@ -195137,7 +195137,7 @@
       "To represent the interests of the dental profession nationally"
     ],
     "correctAnswer": 3,
-    "explanation": "The American Dental Association (CDA) is a national professional association that represents the interests of dentists across Canada, advocating for the profession and promoting optimal oral health. Regulation of dentistry is the responsibility of provincial/territorial regulatory bodies. Universal dental coverage is a government policy, not a direct role of the CDA. Accreditation of dental education programs is handled by the Commission on Dental Accreditation of Canada (CDAC), an independent body.",
+    "explanation": "The American Dental Association (CDA) is a national professional association that represents the interests of dentists across Canada, advocating for the profession and promoting optimal oral health. Regulation of dentistry is the responsibility of provincial/territorial regulatory bodies. Universal dental coverage is a government policy, not a direct role of the CDA. Accreditation of dental education programs is handled by the Commission on Dental Accreditation of Canada (ADA / CODA), an independent body.",
     "aiVerified": true
   },
   {
@@ -195277,7 +195277,7 @@
       "Molar incisor hypomineralization (MIH)"
     ],
     "correctAnswer": 3,
-    "explanation": "Molar incisor hypomineralization (MIH) is defined by the American Dental Association and the 2018 AAPD clinical guideline as demarcated, often asymmetrical, opaque defects that are rough to the probe and primarily involve the first permanent molars and permanent incisors. The lesions described—white, opaque, irregular opacities limited to the incisal third of the maxillary central incisors, with a rough surface and no involvement of adjacent teeth—fit the classic MIH presentation. MIH lesions are frequently unilateral or asymmetrical and may appear without a history of systemic illness, reflecting the multifactorial etiology (environmental, perinatal factors) noted in Health Canada’s enamel defect surveillance reports.\n\nDental fluorosis, per CDA and Health Canada, presents as a generalized, symmetrical, smooth‑surface hypomineralization affecting all teeth in the fluorosis‑exposed zone; it does not produce isolated, rough opacities on only two incisors. Early childhood caries (ECC) is a cavitated, bacterial‑driven disease; the lesions are brown‑black, soft, and associated with plaque, not the hard, white, demarcated opacities described. Amelogenesis imperfecta is a hereditary enamel defect that involves the entire dentition, often with thin, yellow‑brown enamel and a family history; it would not be confined to two teeth and would lack the characteristic rough, demarcated patches of MIH. Thus, MIH is the only diagnosis that aligns with the clinical findings and the evidence‑based criteria outlined in the cited references.",
+    "explanation": "Molar incisor hypomineralization (MIH) is defined by the American Dental Association and the 2018 AAPD clinical guideline as demarcated, often asymmetrical, opaque defects that are rough to the probe and primarily involve the first permanent molars and permanent incisors. The lesions described—white, opaque, irregular opacities limited to the incisal third of the maxillary central incisors, with a rough surface and no involvement of adjacent teeth—fit the classic MIH presentation. MIH lesions are frequently unilateral or asymmetrical and may appear without a history of systemic illness, reflecting the multifactorial etiology (environmental, perinatal factors) noted in the US Public Health Service (USPHS) and CDC’s enamel defect surveillance reports.\n\nDental fluorosis, per CDA and the US Public Health Service (USPHS) and CDC, presents as a generalized, symmetrical, smooth‑surface hypomineralization affecting all teeth in the fluorosis‑exposed zone; it does not produce isolated, rough opacities on only two incisors. Early childhood caries (ECC) is a cavitated, bacterial‑driven disease; the lesions are brown‑black, soft, and associated with plaque, not the hard, white, demarcated opacities described. Amelogenesis imperfecta is a hereditary enamel defect that involves the entire dentition, often with thin, yellow‑brown enamel and a family history; it would not be confined to two teeth and would lack the characteristic rough, demarcated patches of MIH. Thus, MIH is the only diagnosis that aligns with the clinical findings and the evidence‑based criteria outlined in the cited references.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -195866,7 +195866,7 @@
       "Advise rinsing with a 0.05% sodium fluoride mouthwash daily."
     ],
     "correctAnswer": 1,
-    "explanation": "According to the American Dental Association (CDA) and Health Canada fluoride recommendations, children ≥6 years living in non‑fluoridated communities are advised to use topical fluoride measures rather than systemic supplements. Professional fluoride varnish (5% NaF) applied every 3–6 months provides high local fluoride concentration and has been shown to reduce caries incidence in moderate‑risk children. Systemic tablets are reserved for children 6 months–6 years. Over‑the‑counter toothpaste alone may be insufficient for moderate risk, and daily mouthwash is not advised for this age due to ingestion risk. Therefore the most appropriate recommendation is a professional fluoride varnish schedule.",
+    "explanation": "According to the American Dental Association (CDA) and the US Public Health Service (USPHS) and CDC fluoride recommendations, children ≥6 years living in non‑fluoridated communities are advised to use topical fluoride measures rather than systemic supplements. Professional fluoride varnish (5% NaF) applied every 3–6 months provides high local fluoride concentration and has been shown to reduce caries incidence in moderate‑risk children. Systemic tablets are reserved for children 6 months–6 years. Over‑the‑counter toothpaste alone may be insufficient for moderate risk, and daily mouthwash is not advised for this age due to ingestion risk. Therefore the most appropriate recommendation is a professional fluoride varnish schedule.",
     "aiVerified": true
   },
   {
@@ -196160,7 +196160,7 @@
       "Sodium hypochlorite solution (household bleach)."
     ],
     "correctAnswer": 1,
-    "explanation": "The CDC/Health Canada infection‑control guidelines categorize disinfectants by level of activity. A 3 % hydrogen peroxide solution meets intermediate‑level criteria: it is sporicidal, virucidal, and bactericidal, and is appropriate for environmental surfaces with moderate bioburden. Glutaraldehyde is a high‑level disinfectant/sterilant used for heat‑sensitive instruments, isopropyl alcohol 70 % provides only low‑level activity, and household bleach, when used at typical dilutions (≥0.5 %), functions as a high‑level disinfectant. Consequently, hydrogen peroxide is the correct choice for intermediate‑level surface disinfection.",
+    "explanation": "The CDC/the US Public Health Service (USPHS) and CDC infection‑control guidelines categorize disinfectants by level of activity. A 3 % hydrogen peroxide solution meets intermediate‑level criteria: it is sporicidal, virucidal, and bactericidal, and is appropriate for environmental surfaces with moderate bioburden. Glutaraldehyde is a high‑level disinfectant/sterilant used for heat‑sensitive instruments, isopropyl alcohol 70 % provides only low‑level activity, and household bleach, when used at typical dilutions (≥0.5 %), functions as a high‑level disinfectant. Consequently, hydrogen peroxide is the correct choice for intermediate‑level surface disinfection.",
     "aiVerified": true
   },
   {
@@ -196751,7 +196751,7 @@
       "An N95 filtering facepiece respirator (or equivalent P2/FFP2)"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Dental Association’s Infection‑Control Guidelines (2022) classify ultrasonic scaling as an aerosol‑generating procedure but state that the minimum respiratory protection is a fluid‑resistant surgical or procedure mask; a fit‑tested N95/P2 respirator is reserved for situations with a known or suspected airborne pathogen (e.g., active tuberculosis, COVID‑19 patient). This recommendation is echoed in the RCDSO provincial protocol and the Health Canada Occupational Health and Safety guidance, which both emphasize that a procedure mask provides sufficient filtration for routine dental AGPs while maintaining comfort and compliance. Cloth masks are excluded, and standard surgical masks without fluid resistance do not meet the required barrier level.",
+    "explanation": "The American Dental Association’s Infection‑Control Guidelines (2022) classify ultrasonic scaling as an aerosol‑generating procedure but state that the minimum respiratory protection is a fluid‑resistant surgical or procedure mask; a fit‑tested N95/P2 respirator is reserved for situations with a known or suspected airborne pathogen (e.g., active tuberculosis, COVID‑19 patient). This recommendation is echoed in the RCDSO provincial protocol and the the US Public Health Service (USPHS) and CDC Occupational Health and Safety guidance, which both emphasize that a procedure mask provides sufficient filtration for routine dental AGPs while maintaining comfort and compliance. Cloth masks are excluded, and standard surgical masks without fluid resistance do not meet the required barrier level.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -196964,7 +196964,7 @@
       "Both items into regulated medical waste (biomedical waste)."
     ],
     "correctAnswer": 2,
-    "explanation": "Canadian waste‑management regulations (Health Canada, provincial RMW guidelines) define regulated medical waste as any material contaminated with blood, saliva, or other bodily fluids. Consequently, a cotton roll soaked with patient saliva is disposed of as regulated medical waste. Glass anesthetic carpules, even when intact, are considered sharps because they can break and have been part of a sterile injection system; they must be placed in a puncture‑resistant sharps container. This classification aligns with the CDA Infection‑Control and Waste Management Guidelines (2022) and provincial health authority directives.",
+    "explanation": "Canadian waste‑management regulations (the US Public Health Service (USPHS) and CDC, provincial RMW guidelines) define regulated medical waste as any material contaminated with blood, saliva, or other bodily fluids. Consequently, a cotton roll soaked with patient saliva is disposed of as regulated medical waste. Glass anesthetic carpules, even when intact, are considered sharps because they can break and have been part of a sterile injection system; they must be placed in a puncture‑resistant sharps container. This classification aligns with the CDA Infection‑Control and Waste Management Guidelines (2022) and provincial health authority directives.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -197205,7 +197205,7 @@
       "Sterilant, such as hydrogen peroxide plasma."
     ],
     "correctAnswer": 2,
-    "explanation": "Canadian infection‑control guidelines (CDA/Health Canada, 2022) classify surfaces that are frequently touched but not visibly contaminated with blood or body fluids as non‑critical items. For these surfaces a low‑level disinfectant—typically a quaternary ammonium compound—is sufficient because it inactivates vegetative bacteria, most enveloped viruses and fungi. High‑ or intermediate‑level agents are reserved for semi‑critical items or surfaces with visible blood/tissue. Sterilants are unnecessary and may damage surfaces. Therefore the correct answer is the low‑level disinfectant option (index 2).",
+    "explanation": "Canadian infection‑control guidelines (CDA/the US Public Health Service (USPHS) and CDC, 2022) classify surfaces that are frequently touched but not visibly contaminated with blood or body fluids as non‑critical items. For these surfaces a low‑level disinfectant—typically a quaternary ammonium compound—is sufficient because it inactivates vegetative bacteria, most enveloped viruses and fungi. High‑ or intermediate‑level agents are reserved for semi‑critical items or surfaces with visible blood/tissue. Sterilants are unnecessary and may damage surfaces. Therefore the correct answer is the low‑level disinfectant option (index 2).",
     "aiVerified": true
   },
   {
@@ -197547,7 +197547,7 @@
       "A second pair of examination gloves"
     ],
     "correctAnswer": 0,
-    "explanation": "Deep scaling and root planing with ultrasonic devices produce aerosols that can contain both respiratory particles and blood‑borne pathogens. Canadian infection‑control guidelines (Health Canada, CDC, and the INBDE infection‑control blueprint) state that for aerosol‑generating dental procedures the provider must wear a respirator that filters ≥95% of airborne particles (N95 or higher) **and** eye protection (goggles or a full face shield) in addition to standard precautions (gloves and a surgical mask). \n\n*Why option 0 is correct*: An N95 respirator provides the required filtration for airborne particles, and protective eyewear prevents splatter or aerosol exposure to the mucous membranes of the eyes, meeting the highest level of respiratory and ocular protection for this scenario.\n\n*Why the other options are incorrect*:\n- **Option 1 (medical gown)**: A gown protects clothing and skin from splatter but does not address the inhalation risk posed by aerosols; it does not replace the need for a respirator.\n- **Option 2 (surgical mask and face shield)**: The face shield offers eye protection, but a surgical mask does not filter airborne particles to the degree required for aerosol‑generating procedures; it is inadequate for respiratory protection.\n- **Option 3 (second pair of gloves)**: Double gloving may reduce glove perforation risk but provides no additional respiratory or ocular protection and therefore does not meet the PPE requirements for aerosol exposure.\n\nThus, the combination of an N95 respirator and protective eyewear is the gold‑standard PPE for the dental hygienist in this situation.",
+    "explanation": "Deep scaling and root planing with ultrasonic devices produce aerosols that can contain both respiratory particles and blood‑borne pathogens. Canadian infection‑control guidelines (the US Public Health Service (USPHS) and CDC, CDC, and the INBDE infection‑control blueprint) state that for aerosol‑generating dental procedures the provider must wear a respirator that filters ≥95% of airborne particles (N95 or higher) **and** eye protection (goggles or a full face shield) in addition to standard precautions (gloves and a surgical mask). \n\n*Why option 0 is correct*: An N95 respirator provides the required filtration for airborne particles, and protective eyewear prevents splatter or aerosol exposure to the mucous membranes of the eyes, meeting the highest level of respiratory and ocular protection for this scenario.\n\n*Why the other options are incorrect*:\n- **Option 1 (medical gown)**: A gown protects clothing and skin from splatter but does not address the inhalation risk posed by aerosols; it does not replace the need for a respirator.\n- **Option 2 (surgical mask and face shield)**: The face shield offers eye protection, but a surgical mask does not filter airborne particles to the degree required for aerosol‑generating procedures; it is inadequate for respiratory protection.\n- **Option 3 (second pair of gloves)**: Double gloving may reduce glove perforation risk but provides no additional respiratory or ocular protection and therefore does not meet the PPE requirements for aerosol exposure.\n\nThus, the combination of an N95 respirator and protective eyewear is the gold‑standard PPE for the dental hygienist in this situation.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -198046,7 +198046,7 @@
       "Store the dentures in a patient-specific sealed container at room temperature during the procedure."
     ],
     "correctAnswer": 0,
-    "explanation": "The CDA/Health Canada infection‑control standards (2023) categorize removable dentures as semi‑critical devices that contact mucous membranes. For patients with recent chemotherapy, high‑level disinfection or sterilization is mandated to eliminate opportunistic pathogens. While chemical high‑level agents (e.g., 2 % glutaraldehyde) are preferred for heat‑sensitive acrylic, the only high‑level option presented is autoclave sterilization, which meets the required level of microbial kill. Intermediate‑level disinfectants are inadequate for this immunocompromised scenario, and simple storage does not provide decontamination. Therefore, the autoclave option (index 0) is the most appropriate answer.",
+    "explanation": "The CDA/the US Public Health Service (USPHS) and CDC infection‑control standards (2023) categorize removable dentures as semi‑critical devices that contact mucous membranes. For patients with recent chemotherapy, high‑level disinfection or sterilization is mandated to eliminate opportunistic pathogens. While chemical high‑level agents (e.g., 2 % glutaraldehyde) are preferred for heat‑sensitive acrylic, the only high‑level option presented is autoclave sterilization, which meets the required level of microbial kill. Intermediate‑level disinfectants are inadequate for this immunocompromised scenario, and simple storage does not provide decontamination. Therefore, the autoclave option (index 0) is the most appropriate answer.",
     "aiVerified": true
   },
   {
@@ -198486,7 +198486,7 @@
       "Environmental surfaces."
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) Infection Control Guidelines, endorsed by Health Canada and echoed in the AAP 2018 recommendations, classify instruments that contact mucous membranes or non‑intact skin as **semi‑critical**. Such devices must undergo high‑level disinfection (HLD) or sterilization because they can transmit blood‑borne pathogens, yet they do not penetrate sterile tissue. Malamed’s *Clinical Procedures for Dental Assistants* (6th ed.) defines semi‑critical items as those that “touch the oral mucosa or enter the gingival sulcus,” and both Neville’s *Oral & Maxillofacial Pathology* and Cohen’s *Dental Hygiene: Theory and Practice* reinforce that explorers, periodontal probes, and curettes fall into this category. Proffit’s *Contemporary Orthodontics* similarly notes that any instrument used for pocket probing is semi‑critical.\n\n**Why the other options are incorrect:**\n- **Non‑critical instruments (Option 0)** are limited to devices that only touch intact skin (e.g., mirrors, mouth‑guards). Explorers, probes, and curettes routinely contact the gingival sulcus and mucosa, exceeding the non‑critical definition. \n- **Critical instruments (Option 2)** are those that enter sterile tissue or bone (e.g., surgical burs, endodontic files). The three instruments in question never breach the periosteum or bone, so they do not meet the critical criteria. \n- **Environmental surfaces (Option 3)** refer to inanimate objects such as countertops or dental chair upholstery, not hand‑held instruments. Classifying an explorer, probe, or curette as an environmental surface would ignore their direct patient contact and required HLD.\n\nThus, according to the CDA/Health Canada framework and the cited dental texts, the explorer, periodontal probe, and curette are correctly identified as **semi‑critical instruments**.",
+    "explanation": "The American Dental Association (CDA) Infection Control Guidelines, endorsed by the US Public Health Service (USPHS) and CDC and echoed in the AAP 2018 recommendations, classify instruments that contact mucous membranes or non‑intact skin as **semi‑critical**. Such devices must undergo high‑level disinfection (HLD) or sterilization because they can transmit blood‑borne pathogens, yet they do not penetrate sterile tissue. Malamed’s *Clinical Procedures for Dental Assistants* (6th ed.) defines semi‑critical items as those that “touch the oral mucosa or enter the gingival sulcus,” and both Neville’s *Oral & Maxillofacial Pathology* and Cohen’s *Dental Hygiene: Theory and Practice* reinforce that explorers, periodontal probes, and curettes fall into this category. Proffit’s *Contemporary Orthodontics* similarly notes that any instrument used for pocket probing is semi‑critical.\n\n**Why the other options are incorrect:**\n- **Non‑critical instruments (Option 0)** are limited to devices that only touch intact skin (e.g., mirrors, mouth‑guards). Explorers, probes, and curettes routinely contact the gingival sulcus and mucosa, exceeding the non‑critical definition. \n- **Critical instruments (Option 2)** are those that enter sterile tissue or bone (e.g., surgical burs, endodontic files). The three instruments in question never breach the periosteum or bone, so they do not meet the critical criteria. \n- **Environmental surfaces (Option 3)** refer to inanimate objects such as countertops or dental chair upholstery, not hand‑held instruments. Classifying an explorer, probe, or curette as an environmental surface would ignore their direct patient contact and required HLD.\n\nThus, according to the CDA/the US Public Health Service (USPHS) and CDC framework and the cited dental texts, the explorer, periodontal probe, and curette are correctly identified as **semi‑critical instruments**.",
     "aiVerified": true
   },
   {
@@ -198727,7 +198727,7 @@
       "Lubricate the hinges of the trays and then sterilize them."
     ],
     "correctAnswer": 2,
-    "explanation": "Canadian infection‑control standards require that, after thorough cleaning and drying, all reusable items that contact mucous membranes be sterilised. The CDA/Health Canada guidelines (2022) specify that the next step is to place the instrument in an appropriate sterilisation pouch (or other barrier) before loading it into the autoclave. Packaging protects the tray, facilitates handling, and permits placement of chemical or biological indicators. Direct loading without packaging does not meet the recommended protocol and may compromise sterility. Therefore, option C is the correct answer.",
+    "explanation": "Canadian infection‑control standards require that, after thorough cleaning and drying, all reusable items that contact mucous membranes be sterilised. The CDA/the US Public Health Service (USPHS) and CDC guidelines (2022) specify that the next step is to place the instrument in an appropriate sterilisation pouch (or other barrier) before loading it into the autoclave. Packaging protects the tray, facilitates handling, and permits placement of chemical or biological indicators. Direct loading without packaging does not meet the recommended protocol and may compromise sterility. Therefore, option C is the correct answer.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -200373,8 +200373,8 @@
       "Cephalexin 2 g orally 1 hour before the procedure",
       "Metronidazole 500 mg orally 1 hour before the procedure"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Canadian Cardiovascular Society/American Dental Association prophylaxis guidelines list clindamycin 600 mg orally 1 hour pre‑procedure as the preferred alternative for patients with an immediate (type I) hypersensitivity to penicillins. Azithromycin and doxycycline are acceptable secondary options when clindamycin is contraindicated. Cephalexin is avoided due to potential cross‑reactivity, and metronidazole lacks activity against viridans streptococci. Consequently, option 0 is the most appropriate regimen, and the current answer (azithromycin) is incorrect.",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -200716,7 +200716,7 @@
       "Defer the appointment until she has been symptom-free for at least 48 hours and has a negative C. difficile test."
     ],
     "correctAnswer": 1,
-    "explanation": "Canadian infection‑control policy (CDA, 2022; Health Canada) adopts CDC‑based contact precautions for patients with suspected or confirmed C. difficile. Alcohol‑based hand rubs do not inactivate spores, so hand washing with soap and water, together with disposable gloves and a gown, is required for any provider touching the patient or contaminated surfaces. Deferring care (option 3) is unnecessary when proper precautions are in place, and masks alone (option 0) or prophylactic antibiotics (option 2) do not address spore transmission. Thus, strict contact precautions constitute the most important measure for this appointment.",
+    "explanation": "Canadian infection‑control policy (CDA, 2022; the US Public Health Service (USPHS) and CDC) adopts CDC‑based contact precautions for patients with suspected or confirmed C. difficile. Alcohol‑based hand rubs do not inactivate spores, so hand washing with soap and water, together with disposable gloves and a gown, is required for any provider touching the patient or contaminated surfaces. Deferring care (option 3) is unnecessary when proper precautions are in place, and masks alone (option 0) or prophylactic antibiotics (option 2) do not address spore transmission. Thus, strict contact precautions constitute the most important measure for this appointment.",
     "aiVerified": true
   },
   {
@@ -201210,7 +201210,7 @@
       "Have the patient wear protective eyewear."
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian infection‑control recommendations (CDA, Health Canada, INBDE) identify the rubber dam as the single most effective engineering control for aerosol mitigation during restorative procedures that employ high‑speed handpieces and air‑water syringes. By sealing the operative field, the dam prevents saliva, blood, and coolant from becoming aerosolised and limits particle spread to the clinician’s breathing zone. High‑volume evacuation (HVE) removes a substantial portion of aerosol but does not prevent its generation; it is therefore considered an adjunct to the dam. Patient rinsing and protective eyewear address oral hygiene and personal safety, not aerosol reduction. Consequently, option A is the correct answer.",
+    "explanation": "Canadian infection‑control recommendations (CDA, the US Public Health Service (USPHS) and CDC, INBDE) identify the rubber dam as the single most effective engineering control for aerosol mitigation during restorative procedures that employ high‑speed handpieces and air‑water syringes. By sealing the operative field, the dam prevents saliva, blood, and coolant from becoming aerosolised and limits particle spread to the clinician’s breathing zone. High‑volume evacuation (HVE) removes a substantial portion of aerosol but does not prevent its generation; it is therefore considered an adjunct to the dam. Patient rinsing and protective eyewear address oral hygiene and personal safety, not aerosol reduction. Consequently, option A is the correct answer.",
     "aiVerified": true
   },
   {
@@ -201224,7 +201224,7 @@
       "National campaigns promoting daily brushing and flossing."
     ],
     "correctAnswer": 1,
-    "explanation": "Community water fluoridation (CWF) is widely recognized by public health organizations, including Health Canada, as the most cost-effective, equitable, and efficient public health measure for preventing dental caries across all socioeconomic groups in a community. It provides continuous, passive exposure to optimal fluoride levels. While other programs like sealants and oral hygiene campaigns are valuable, they require individual participation and are less universally effective across an entire population.",
+    "explanation": "Community water fluoridation (CWF) is widely recognized by public health organizations, including the US Public Health Service (USPHS) and CDC, as the most cost-effective, equitable, and efficient public health measure for preventing dental caries across all socioeconomic groups in a community. It provides continuous, passive exposure to optimal fluoride levels. While other programs like sealants and oral hygiene campaigns are valuable, they require individual participation and are less universally effective across an entire population.",
     "aiVerified": true
   },
   {
@@ -201517,8 +201517,8 @@
       "Clindamycin 600mg orally.",
       "Cephalexin 500mg orally."
     ],
-    "correctAnswer": 2,
-    "explanation": "For patients requiring antibiotic prophylaxis who have a penicillin allergy, Clindamycin 600mg orally 30-60 minutes before the procedure is the recommended alternative by ADA guidelines. Amoxicillin (option A) is contraindicated due to the penicillin allergy. Azithromycin (option B) and Cephalexin (option D) can be alternatives but Clindamycin is a commonly preferred first-line alternative in many guidelines. The question asks for the MOST appropriate, and Clindamycin is a standard choice.",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiVerified": true
   },
   {
@@ -202136,7 +202136,7 @@
       "Ensuring the operatory is disinfected with a sporicidal agent after the appointment."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0. Canadian infection‑control standards (CDA/Health Canada) require Standard Precautions for all patients with blood‑borne pathogens such as HBV. While no extra *pathogen‑specific* step is mandated, the use of a rubber dam and high‑volume evacuation is endorsed as an engineering control to minimise aerosol and spatter generation during operative dentistry (Malamed, Handbook of Local Anesthesia, 7th ed.; Little & Falace, Dental Management of the Medically Compromised Patient). This measure does not replace Standard Precautions but adds a layer of protection for both clinician and patient, making it the most appropriate additional action among the choices provided.",
+    "explanation": "The correct answer is Option 0. Canadian infection‑control standards (CDA/the US Public Health Service (USPHS) and CDC) require Standard Precautions for all patients with blood‑borne pathogens such as HBV. While no extra *pathogen‑specific* step is mandated, the use of a rubber dam and high‑volume evacuation is endorsed as an engineering control to minimise aerosol and spatter generation during operative dentistry (Malamed, Handbook of Local Anesthesia, 7th ed.; Little & Falace, Dental Management of the Medically Compromised Patient). This measure does not replace Standard Precautions but adds a layer of protection for both clinician and patient, making it the most appropriate additional action among the choices provided.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -202529,12 +202529,12 @@
     "question": "A dental assistant is tasked with maintaining dental unit waterlines (DUWLs) in a busy clinic. The clinic uses a self-contained water system. Beyond flushing lines for 20-30 seconds between patients and at the start/end of the day, what is the MOST effective strategy to prevent microbial biofilm formation within the DUWLs according to current ADA guidelines?",
     "options": [
       "Replacing all DUWL tubing annually.",
-      "Implementing a continuous chemical treatment protocol using a Health Canada-approved product.",
+      "Implementing a continuous chemical treatment protocol using a the US Public Health Service (USPHS) and CDC-approved product.",
       "Filtering all incoming municipal water with a 0.2-micron filter.",
       "Using sterile water in the self-contained water system for all procedures."
     ],
     "correctAnswer": 1,
-    "explanation": "Continuous chemical treatment with a Health Canada-approved product is the most effective and recommended strategy to prevent biofilm formation and maintain water quality below 200 CFU/mL in DUWLs. While flushing is important, it doesn't eliminate biofilm. Replacing tubing annually (A) is not a practical or primary control method. Filtering incoming water (C) is good but doesn't address biofilm growth *within* the lines, and sterile water (D) is not required for non-surgical procedures, nor does it prevent biofilm if not continuously treated.",
+    "explanation": "Continuous chemical treatment with a the US Public Health Service (USPHS) and CDC-approved product is the most effective and recommended strategy to prevent biofilm formation and maintain water quality below 200 CFU/mL in DUWLs. While flushing is important, it doesn't eliminate biofilm. Replacing tubing annually (A) is not a practical or primary control method. Filtering incoming water (C) is good but doesn't address biofilm growth *within* the lines, and sterile water (D) is not required for non-surgical procedures, nor does it prevent biofilm if not continuously treated.",
     "aiVerified": true
   },
   {
@@ -202674,7 +202674,7 @@
       "Increase the air pressure to the handpiece to speed up the cutting process."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option 1. Canadian dental infection‑control recommendations (CDA/Health Canada) list a 0.12 % chlorhexidine or equivalent antiseptic rinse performed immediately before aerosol‑generating procedures as an immediate, low‑cost adjunct to reduce microbial burden in the generated aerosol (Malamed, Handbook of Local Anesthesia, 7th ed.; Little & Falace, Dental Management of the Medically Compromised Patient). While portable HEPA filtration provides environmental control, it is not an instant bedside intervention and may not be available in all practices. Patient mouth‑closure is impractical, and increasing hand‑piece air pressure would likely augment aerosol production.",
+    "explanation": "The correct answer is Option 1. Canadian dental infection‑control recommendations (CDA/the US Public Health Service (USPHS) and CDC) list a 0.12 % chlorhexidine or equivalent antiseptic rinse performed immediately before aerosol‑generating procedures as an immediate, low‑cost adjunct to reduce microbial burden in the generated aerosol (Malamed, Handbook of Local Anesthesia, 7th ed.; Little & Falace, Dental Management of the Medically Compromised Patient). While portable HEPA filtration provides environmental control, it is not an instant bedside intervention and may not be available in all practices. Patient mouth‑closure is impractical, and increasing hand‑piece air pressure would likely augment aerosol production.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },

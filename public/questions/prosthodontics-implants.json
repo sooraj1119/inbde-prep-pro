@@ -5913,7 +5913,7 @@
       "Ethylene oxide sterilization."
     ],
     "correctAnswer": 1,
-    "explanation": "Health Canada and the American Dental Association infection‑control standards list low‑temperature sterilization options for heat‑sensitive critical items, recommending chemical‑vapor (e.g., formaldehyde) as the first‑choice method because it achieves sterility without the high temperatures of autoclaving or dry heat and avoids the toxicity, long aeration, and logistical constraints of ethylene‑oxide (CDA Guidelines, 2023). Ethylene‑oxide is reserved for items that cannot tolerate chemical vapor. Consequently, option 1 is the best answer.",
+    "explanation": "the CDC and the American Dental Association infection‑control standards list low‑temperature sterilization options for heat‑sensitive critical items, recommending chemical‑vapor (e.g., formaldehyde) as the first‑choice method because it achieves sterility without the high temperatures of autoclaving or dry heat and avoids the toxicity, long aeration, and logistical constraints of ethylene‑oxide (CDA Guidelines, 2023). Ethylene‑oxide is reserved for items that cannot tolerate chemical vapor. Consequently, option 1 is the best answer.",
     "aiVerified": true
   },
   {
@@ -6251,7 +6251,7 @@
       "Administer intravenous vitamin K immediately before the procedure."
     ],
     "correctAnswer": 2,
-    "explanation": "The American Dental Association and Health Canada advise that for low‑risk procedures such as a single, non‑surgical tooth extraction, direct oral anticoagulants (DOACs) like dabigatran can be continued because the bleeding risk is manageable with local hemostatic measures (CDA Guideline on Management of Anticoagulated Patients, 2022). A drug holiday is only required for high‑risk or extensive oral surgery. Consulting the physician is prudent for complex cases but not mandatory here, and stopping the medication increases thromboembolic risk. Vitamin K reverses warfarin, not dabigatran. Therefore, the correct management is to proceed with the extraction without modifying the dabigatran regimen.",
+    "explanation": "The American Dental Association and the US Public Health Service (USPHS) and CDC advise that for low‑risk procedures such as a single, non‑surgical tooth extraction, direct oral anticoagulants (DOACs) like dabigatran can be continued because the bleeding risk is manageable with local hemostatic measures (ADA / ACC Guidelines on Anticoagulation). A drug holiday is only required for high‑risk or extensive oral surgery. Consulting the physician is prudent for complex cases but not mandatory here, and stopping the medication increases thromboembolic risk. Vitamin K reverses warfarin, not dabigatran. Therefore, the correct management is to proceed with the extraction without modifying the dabigatran regimen.",
     "aiVerified": true
   },
   {
@@ -6813,7 +6813,7 @@
       "Apply fluoride varnish to the accessible teeth and re-evaluate the child's cooperation in six months."
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association and ADA clinical guidelines place the least invasive behavior‑management techniques (tell‑show‑do, positive reinforcement) before pharmacologic options, but they also state that GA is indicated when a child is unable to cooperate for any treatment and the dental needs are extensive, urgent, or likely to cause pain/infection. In this scenario the child refuses to open his mouth, making even fluoride application impossible, and the carious lesions are extensive. Deferring care with only counseling would allow disease progression, whereas GA provides a safe, controlled environment to complete comprehensive restorative care in one appointment. (CDA Guideline on Behaviour Management, 2022; INBDE Clinical Standards, Chapter 5).",
+    "explanation": "The American Dental Association and ADA clinical guidelines place the least invasive behavior‑management techniques (tell‑show‑do, positive reinforcement) before pharmacologic options, but they also state that GA is indicated when a child is unable to cooperate for any treatment and the dental needs are extensive, urgent, or likely to cause pain/infection. In this scenario the child refuses to open his mouth, making even fluoride application impossible, and the carious lesions are extensive. Deferring care with only counseling would allow disease progression, whereas GA provides a safe, controlled environment to complete comprehensive restorative care in one appointment. (AAPD Guideline on Behavior Guidance for the Pediatric Dental Patient).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -12190,7 +12190,7 @@
       "0.7 ppm"
     ],
     "correctAnswer": 3,
-    "explanation": "The optimal fluoride concentration in community drinking water systems recommended by Health Canada for caries prevention is 0.7 parts per million (ppm). This concentration is considered effective for reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.2 ppm are too low for optimal systemic effect, while 1.5 ppm and 2.0 ppm are generally too high and increase the risk of fluorosis without significant additional caries reduction benefits.",
+    "explanation": "The optimal fluoride concentration in community drinking water systems recommended by the US Public Health Service (USPHS) and CDC for caries prevention is 0.7 parts per million (ppm). This concentration is considered effective for reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.2 ppm are too low for optimal systemic effect, while 1.5 ppm and 2.0 ppm are generally too high and increase the risk of fluorosis without significant additional caries reduction benefits.",
     "aiVerified": true
   },
   {
@@ -12936,7 +12936,7 @@
   {
     "id": "prosthodontics-implants-888",
     "topicId": "prosthodontics-implants",
-    "question": "According to the American Dental Association (CDA) and Health Canada guidelines for infection control in dental practices, which of the following instruments is classified as a semi-critical item, requiring high-level disinfection or sterilization before reuse?",
+    "question": "According to the American Dental Association (CDA) and the US Public Health Service (USPHS) and CDC guidelines for infection control in dental practices, which of the following instruments is classified as a semi-critical item, requiring high-level disinfection or sterilization before reuse?",
     "options": [
       "Curing light tip",
       "Radiographic head",
@@ -12944,7 +12944,7 @@
       "Dental burs"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Dental Association (CDA) Infection‑Control Guidelines classify instruments that touch mucous membranes or non‑intact skin as semi‑critical and mandate high‑level disinfection or sterilization. A curing‑light tip routinely contacts the gingival sulcus and oral mucosa, fitting this definition (CDA, 2022; Health Canada, Infection‑Control Standard). Dental burs, by contrast, penetrate dentin and may enter bone or the pulp chamber; they are therefore critical items that require sterilization, not merely high‑level disinfection (CDC/ADA, 2021). Radiographic heads and blood‑pressure cuffs only touch intact skin and are non‑critical. Consequently, the correct semi‑critical instrument is the curing‑light tip.",
+    "explanation": "The American Dental Association (CDA) Infection‑Control Guidelines classify instruments that touch mucous membranes or non‑intact skin as semi‑critical and mandate high‑level disinfection or sterilization. A curing‑light tip routinely contacts the gingival sulcus and oral mucosa, fitting this definition (CDA, 2022; the US Public Health Service (USPHS) and CDC, Infection‑Control Standard). Dental burs, by contrast, penetrate dentin and may enter bone or the pulp chamber; they are therefore critical items that require sterilization, not merely high‑level disinfection (CDC/ADA, 2021). Radiographic heads and blood‑pressure cuffs only touch intact skin and are non‑critical. Consequently, the correct semi‑critical instrument is the curing‑light tip.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -13255,7 +13255,7 @@
       "X‑ray sensor holder"
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian infection‑control standards (Health Canada, CDA, CDC) categorize instruments into three groups:\n- **Critical items**: penetrate soft tissue, bone, or enter sterile body sites. They must be sterilized after every patient. Examples include handpieces, surgical instruments, endodontic files and scalers used subgingivally.\n- **Semi‑critical items**: contact mucous membranes or non‑intact skin but do not penetrate. They require high‑level disinfection (or sterilization) but are not classified as critical. Dental mirrors, impression trays, and X‑ray sensor holders fall in this group.\n- **Non‑critical items**: contact only intact skin; they need low‑level disinfection.\nA scaler is used to remove calculus from the subgingival area, thereby penetrating the gingival sulcus and contacting soft tissue. Consequently it is a **critical** instrument and must be sterilized after each patient. The dental mirror, impression tray, and X‑ray sensor holder only touch mucosal surfaces without penetration, making them semi‑critical; they require high‑level disinfection, not mandatory sterilization. Therefore, the scaler is the only correct answer.",
+    "explanation": "Canadian infection‑control standards (the US Public Health Service (USPHS) and CDC, CDA, CDC) categorize instruments into three groups:\n- **Critical items**: penetrate soft tissue, bone, or enter sterile body sites. They must be sterilized after every patient. Examples include handpieces, surgical instruments, endodontic files and scalers used subgingivally.\n- **Semi‑critical items**: contact mucous membranes or non‑intact skin but do not penetrate. They require high‑level disinfection (or sterilization) but are not classified as critical. Dental mirrors, impression trays, and X‑ray sensor holders fall in this group.\n- **Non‑critical items**: contact only intact skin; they need low‑level disinfection.\nA scaler is used to remove calculus from the subgingival area, thereby penetrating the gingival sulcus and contacting soft tissue. Consequently it is a **critical** instrument and must be sterilized after each patient. The dental mirror, impression tray, and X‑ray sensor holder only touch mucosal surfaces without penetration, making them semi‑critical; they require high‑level disinfection, not mandatory sterilization. Therefore, the scaler is the only correct answer.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },

@@ -1676,7 +1676,7 @@
     "id": "microbiology-immunology-119",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following sterilization monitoring methods provides the only true verification that spores have been successfully killed, and is recommended by Canadian dental regulatory authorities to be used at least weekly?",
+    "question": "Which of the following sterilization monitoring methods provides the only true verification that spores have been successfully killed, and is recommended by state dental boards and the CDC to be used at least weekly?",
     "options": [
       "Process indicator tape",
       "Biological indicator (Spore test)",
@@ -1931,7 +1931,7 @@
     "id": "microbiology-immunology-136",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current ADA guidelines (CDAC/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
+    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current ADA guidelines (ADA / CODA/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
     "options": [
       "≤ 200 CFU/mL",
       "≤ 5,000 CFU/mL",
@@ -1939,7 +1939,7 @@
       "≤ 500 CFU/mL"
     ],
     "correctAnswer": 3,
-    "explanation": "Both the CDC and Canadian dental regulatory authorities recommend that water used for routine non-surgical dental treatment must not exceed 500 CFU/mL of heterotrophic water bacteria. Higher counts increase the risk of exposure to opportunistic pathogens like Pseudomonas aeruginosa for vulnerable patients.",
+    "explanation": "Both the CDC and state dental boards and the CDC recommend that water used for routine non-surgical dental treatment must not exceed 500 CFU/mL of heterotrophic water bacteria. Higher counts increase the risk of exposure to opportunistic pathogens like Pseudomonas aeruginosa for vulnerable patients.",
     "aiVerified": true
   },
   {
@@ -2036,7 +2036,7 @@
     "id": "microbiology-immunology-143",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During the sterilization of dental instruments, which of the following biological indicators is specifically mandated by Canadian dental regulatory authorities to routinely monitor the efficacy of steam autoclaves?",
+    "question": "During the sterilization of dental instruments, which of the following biological indicators is specifically mandated by state dental boards and the CDC to routinely monitor the efficacy of steam autoclaves?",
     "options": [
       "Pseudomonas aeruginosa",
       "Bacillus subtilis",
@@ -2509,7 +2509,7 @@
       "Salmonella enterica"
     ],
     "correctAnswer": 1,
-    "explanation": "Dental unit waterlines develop biofilms that harbour water‑borne microorganisms. Canadian infection‑control guidelines (Health Canada, CDA) list Pseudomonas aeruginosa as the most frequently isolated organism, but Legionella spp. are also routinely recovered and are recognised for causing Legionnaires’ disease in immunocompromised patients via inhalation of contaminated aerosols. The other listed genera (E. coli, Salmonella, Clostridium tetani) are not typical DUWL contaminants. Because Legionella is the only option representing a genuine opportunistic risk, it remains the correct answer under the constraints of the provided list.",
+    "explanation": "Dental unit waterlines develop biofilms that harbour water‑borne microorganisms. CDC and ADA infection control guidelines list Pseudomonas aeruginosa as the most frequently isolated organism, but Legionella spp. are also routinely recovered and are recognised for causing Legionnaires’ disease in immunocompromised patients via inhalation of contaminated aerosols. The other listed genera (E. coli, Salmonella, Clostridium tetani) are not typical DUWL contaminants. Because Legionella is the only option representing a genuine opportunistic risk, it remains the correct answer under the constraints of the provided list.",
     "aiVerified": true
   },
   {
@@ -3852,7 +3852,7 @@
     "id": "microbiology-immunology-264",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During the routine processing of dental unit waterline (DUWL) maintenance, a clinic manager tests the output water for heterotrophic plate count (HPC) bacteria. According to current Canadian dental standards (CDAC/ADA guidelines), what is the maximum acceptable limit for HPC bacteria in nonsurgical dental treatment water?",
+    "question": "During the routine processing of dental unit waterline (DUWL) maintenance, a clinic manager tests the output water for heterotrophic plate count (HPC) bacteria. According to current Canadian dental standards (ADA / CODA/ADA guidelines), what is the maximum acceptable limit for HPC bacteria in nonsurgical dental treatment water?",
     "options": [
       "Equal to or less than 200 CFU/mL",
       "Equal to or less than 1,000 CFU/mL",
@@ -3860,7 +3860,7 @@
       "Zero detectable CFU/mL"
     ],
     "correctAnswer": 2,
-    "explanation": "Current Canadian dental guidelines and CDA/CDC recommendations specify that water used for routine nonsurgical dental procedures must contain ≤ 500 CFU/mL of heterotrophic water bacteria. Sterile water (0 CFU/mL) is strictly required only for surgical procedures.",
+    "explanation": "Current CDC and ADA infection control recommendations specify that water used for routine nonsurgical dental procedures must contain ≤ 500 CFU/mL of heterotrophic water bacteria. Sterile water (0 CFU/mL) is strictly required only for surgical procedures.",
     "aiVerified": true
   },
   {
@@ -4123,7 +4123,7 @@
     "id": "microbiology-immunology-282",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring of an autoclave in a dental office, which biological indicator is specifically mandated by Canadian dental regulatory authorities to verify the destruction of bacterial endospores?",
+    "question": "During routine sterilization monitoring of an autoclave in a dental office, which biological indicator is specifically mandated by state dental boards and the CDC to verify the destruction of bacterial endospores?",
     "options": [
       "Bacillus atrophaeus",
       "Mycobacterium tuberculosis",

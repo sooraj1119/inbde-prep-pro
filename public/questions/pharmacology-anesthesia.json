@@ -1741,12 +1741,12 @@
     "question": "A patient with a documented history of severe IgE-mediated anaphylaxis to penicillin requires antibiotic prophylaxis for infective endocarditis prior to a scaling and root planing procedure. According to current American Dental Association (CDA) and American Heart Association (AHA) guidelines, which of the following is the most appropriate alternative antibiotic regimen to prescribe?",
     "options": [
       "Amoxicillin 2 g orally",
-      "Clindamycin 600 mg orally",
+      "Azithromycin 500 mg orally",
       "Cephalexin 2 g orally",
       "Ampicillin 2 g intramuscularly"
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) and American Heart Association (AHA) prophylaxis guidelines state that for patients at risk of infective endocarditis who have a documented severe IgE‑mediated allergy to penicillins, the recommended alternative is clindamycin 600 mg orally as a single dose 30–60 minutes before the procedure. This regimen provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in endocarditis, and avoids the risk of cross‑reactivity associated with β‑lactam antibiotics.\n\nWhy the other options are incorrect:\n- **Option 0 – Amoxicillin 2 g orally**: Amoxicillin is a penicillin derivative; it is contraindicated in any patient with a severe IgE‑mediated penicillin allergy because exposure can precipitate anaphylaxis. It is the first‑line agent for patients without a penicillin allergy, not an alternative.\n- **Option 2 – Cephalexin 2 g orally**: Cephalexin is a first‑generation cephalosporin. Although the overall cross‑reactivity rate with penicillins is low, it rises to 5–10 % in patients with a history of anaphylaxis to penicillin. Current CDA/AHA guidance advises against cephalosporins in this subgroup and recommends clindamycin instead.\n- **Option 3 – Ampicillin 2 g intramuscularly**: Ampicillin is also a penicillin‑class drug and shares the same allergenic epitopes as amoxicillin. It is therefore unsafe for a patient with severe IgE‑mediated penicillin allergy. Moreover, the guidelines specify oral administration for prophylaxis; intramuscular injection is not a recommended route for endocarditis prophylaxis.\n\nThus, clindamycin 600 mg orally is the only option that aligns with the CDA/AHA prophylaxis recommendations for a patient with a severe penicillin allergy undergoing scaling and root planing.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -2013,13 +2013,13 @@
     "difficulty": "medium",
     "question": "A patient with a documented history of severe penicillin allergy (anaphylaxis) requires antibiotic prophylaxis for infective endocarditis prior to a dental extraction. According to Current AHA and ADA guidelines, which of the following is the most appropriate alternative agent?",
     "options": [
-      "Clindamycin",
+      "Azithromycin 500 mg orally",
       "Amoxicillin",
       "Cephalexin",
       "Ampicillin"
     ],
     "correctAnswer": 0,
-    "explanation": "Current ADA guidelines for infective endocarditis (IE) prophylaxis, which align with the American Heart Association (AHA) 2007 update and the 2021 INBDE reference, state that patients with a documented severe type I hypersensitivity reaction to penicillins (e.g., anaphylaxis) should receive clindamycin 600 mg orally (or 300 mg IV/IM) 30–60 minutes before the invasive dental procedure. Clindamycin provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in IE, and has a well‑established safety profile in penicillin‑allergic patients. \n\nOption [1] Amoxicillin is a β‑lactam penicillin; it is contraindicated in any patient with a true penicillin allergy, especially anaphylaxis, and would precipitate a life‑threatening reaction. \n\nOption [2] Cephalexin is a first‑generation cephalosporin. Although cross‑reactivity between penicillins and cephalosporins is low overall, it rises to 5–10 % in patients with severe IgE‑mediated reactions. Canadian infection‑control protocols therefore advise against cephalosporins in patients with documented anaphylaxis to penicillins. \n\nOption [3] Ampicillin, like amoxicillin, is a penicillin derivative and is absolutely contraindicated in severe penicillin allergy. \n\nThus, clindamycin is the only option that satisfies the guideline‑mandated criteria of efficacy against oral streptococci, safety in anaphylactic penicillin allergy, and approved dosing for IE prophylaxis. If clindamycin is unavailable or not tolerated, azithromycin or clarithromycin may be used, but they are not listed among the answer choices.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -2452,8 +2452,8 @@
       "Cephalexin",
       "Doxycycline"
     ],
-    "correctAnswer": 0,
-    "explanation": "Both the 2007 and the 2021 American Heart Association (AHA) guidelines, which are adopted by the American Dental Association, list clindamycin 600 mg orally 1 hour before the procedure as the preferred alternative for patients with a documented IgE‑mediated penicillin allergy. Macrolides (azithromycin, clarithromycin, erythromycin) are acceptable only when clindamycin is contraindicated or not tolerated. The CDA’s “Guidelines for Antibiotic Prophylaxis of Infective Endocarditis” (2020) mirrors this recommendation. Consequently, the correct answer is “Clindamycin.”",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true
@@ -2533,8 +2533,8 @@
       "Amoxicillin 2 g orally 1 hour before the procedure",
       "Cephalexin 2 g orally 1 hour before the procedure"
     ],
-    "correctAnswer": 0,
-    "explanation": "The 2021 AHA guideline for the prevention of infective endocarditis, which is incorporated into Canadian practice, specifies clindamycin 600 mg orally 1 hour before dental procedures as the recommended alternative for patients with a documented IgE‑mediated penicillin allergy. Azithromycin is listed only as a secondary option when clindamycin cannot be used. The CDA’s prophylaxis recommendations echo this stance. Therefore, the appropriate prophylactic regimen for a penicillin‑allergic patient with a prosthetic heart valve is “Clindamycin 600 mg orally 1 hour before the procedure.”",
+    "correctAnswer": 1,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true
@@ -7352,7 +7352,7 @@
   {
     "id": "pharmacology-anesthesia-486",
     "topicId": "pharmacology-anesthesia",
-    "question": "According to current Health Canada guidelines for community drinking water fluoridation, what is the optimal concentration of fluoride recommended for caries prevention?",
+    "question": "According to current the US Public Health Service (USPHS) and CDC guidelines for community drinking water fluoridation, what is the optimal concentration of fluoride recommended for caries prevention?",
     "options": [
       "0.7 parts per million (ppm)",
       "0.2 parts per million (ppm)",
@@ -7360,7 +7360,7 @@
       "2.0 parts per million (ppm)"
     ],
     "correctAnswer": 0,
-    "explanation": "Health Canada, aligning with international recommendations, updated its optimal fluoride concentration for community drinking water to 0.7 ppm in 2007. This concentration provides optimal caries prevention benefits while minimizing the risk of dental fluorosis. Higher concentrations (e.g., 1.5 ppm, 2.0 ppm) increase the risk of fluorosis, and a lower concentration (e.g., 0.2 ppm) is less effective for caries prevention.",
+    "explanation": "the US Public Health Service (USPHS) and CDC, aligning with international recommendations, updated its optimal fluoride concentration for community drinking water to 0.7 ppm in 2007. This concentration provides optimal caries prevention benefits while minimizing the risk of dental fluorosis. Higher concentrations (e.g., 1.5 ppm, 2.0 ppm) increase the risk of fluorosis, and a lower concentration (e.g., 0.2 ppm) is less effective for caries prevention.",
     "aiVerified": true
   },
   {
@@ -7833,7 +7833,7 @@
   {
     "id": "pharmacology-anesthesia-520",
     "topicId": "pharmacology-anesthesia",
-    "question": "According to Health Canada guidelines, what is the optimal fluoride concentration in community drinking water for the prevention of dental caries?",
+    "question": "According to the US Public Health Service (USPHS) and CDC guidelines, what is the optimal fluoride concentration in community drinking water for the prevention of dental caries?",
     "options": [
       "0.1 ppm.",
       "0.4 ppm.",
@@ -7841,7 +7841,7 @@
       "0.7 ppm."
     ],
     "correctAnswer": 3,
-    "explanation": "Health Canada generally recommends an optimal fluoride concentration of 0.7 ppm in community drinking water for the prevention of dental caries. This concentration is a balance that maximizes caries prevention benefits while minimizing the risk of dental fluorosis. Concentrations significantly lower or higher than this range are less effective or increase the risk of adverse effects, respectively.",
+    "explanation": "the US Public Health Service (USPHS) and CDC generally recommends an optimal fluoride concentration of 0.7 ppm in community drinking water for the prevention of dental caries. This concentration is a balance that maximizes caries prevention benefits while minimizing the risk of dental fluorosis. Concentrations significantly lower or higher than this range are less effective or increase the risk of adverse effects, respectively.",
     "aiVerified": true
   },
   {
@@ -8480,7 +8480,7 @@
       "Regular dental check-ups and professional cleanings."
     ],
     "correctAnswer": 2,
-    "explanation": "Community water fluoridation is widely recognized by public health organizations, including Health Canada, as the most effective, equitable, and cost-effective public health measure for preventing dental caries at a population level. While fluoride toothpaste, sealants, and regular check-ups are important for individual caries prevention, they do not offer the same broad population impact and cost-effectiveness.",
+    "explanation": "Community water fluoridation is widely recognized by public health organizations, including the US Public Health Service (USPHS) and CDC, as the most effective, equitable, and cost-effective public health measure for preventing dental caries at a population level. While fluoride toothpaste, sealants, and regular check-ups are important for individual caries prevention, they do not offer the same broad population impact and cost-effectiveness.",
     "aiVerified": true
   },
   {
@@ -10495,12 +10495,12 @@
     "question": "A 40-year-old man requires an urgent dental extraction that will involve manipulation of gingival tissue. He had a mechanical prosthetic aortic valve placed 5 years ago for a congenital heart defect and is otherwise healthy. He reports a history of an anaphylactic reaction to penicillin. Which of the following is the most appropriate antibiotic prophylaxis regimen for this patient?",
     "options": [
       "2 g amoxicillin orally 30–60 minutes before the procedure",
-      "600 mg clindamycin orally 30–60 minutes before the procedure",
+      "Azithromycin 500 mg orally",
       "No antibiotic prophylaxis is required for this patient",
       "100 mg doxycycline orally 30–60 minutes before the procedure"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Canadian Cardiovascular Society/American Dental Association (CCS/CDA) antibiotic prophylaxis guidelines, which are incorporated into the INBDE Assessment of Fundamental Knowledge, patients with a prosthetic cardiac valve are classified as high‑risk for infective endocarditis. Any invasive dental procedure that manipulates gingival tissue or periapical bone (e.g., an extraction) therefore requires prophylaxis. The first‑line regimen is amoxicillin 2 g orally 30–60 minutes before the procedure. However, the patient reports a type I (anaphylactic) hypersensitivity to penicillins, which contraindicates amoxicillin. In penicillin‑allergic individuals the recommended alternative is clindamycin 600 mg orally 30–60 minutes pre‑operatively; azithromycin or clarithromycin are acceptable only if clindamycin is not tolerated. Doxycycline is not listed as an acceptable alternative for endocarditis prophylaxis, and omission of prophylaxis would place a prosthetic‑valve patient at unnecessary risk. \n\nOption 0 (amoxicillin) is incorrect because the patient’s anaphylactic penicillin allergy makes it contraindicated. Option 2 (no prophylaxis) is wrong because prosthetic valve patients are explicitly indicated for prophylaxis regardless of overall health. Option 3 (doxycycline) is not a guideline‑endorsed alternative and therefore is inappropriate. The only regimen that satisfies both the high‑risk cardiac condition and the documented penicillin allergy is the clindamycin regimen presented in option 1.",
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -13013,7 +13013,7 @@
   {
     "id": "pharmacology-anesthesia-885",
     "topicId": "pharmacology-anesthesia",
-    "question": "A community with a population of 50,000 people has a naturally occurring fluoride concentration of 0.3 ppm in its public water supply. The local public health unit is considering adjusting the fluoride level to optimize dental health benefits. According to Health Canada guidelines, what is the MOST appropriate target fluoride concentration for community water fluoridation in Canada?",
+    "question": "A community with a population of 50,000 people has a naturally occurring fluoride concentration of 0.3 ppm in its public water supply. The local public health unit is considering adjusting the fluoride level to optimize dental health benefits. According to the US Public Health Service (USPHS) and CDC guidelines, what is the MOST appropriate target fluoride concentration for community water fluoridation in Canada?",
     "options": [
       "0.7 ppm.",
       "0.1 ppm.",
@@ -13021,7 +13021,7 @@
       "1.0 ppm."
     ],
     "correctAnswer": 0,
-    "explanation": "Health Canada's current recommended optimal fluoride concentration for community drinking water to prevent dental caries is 0.7 ppm. This level has been determined to be safe and effective in reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.1 ppm and 0.5 ppm are below the optimal level, potentially reducing the full caries-preventive benefits, while 1.0 ppm was an older recommendation and has been revised.",
+    "explanation": "the US Public Health Service (USPHS) and CDC's current recommended optimal fluoride concentration for community drinking water to prevent dental caries is 0.7 ppm. This level has been determined to be safe and effective in reducing caries while minimizing the risk of dental fluorosis. Concentrations of 0.1 ppm and 0.5 ppm are below the optimal level, potentially reducing the full caries-preventive benefits, while 1.0 ppm was an older recommendation and has been revised.",
     "aiVerified": true
   },
   {
@@ -14330,8 +14330,8 @@
       "Azithromycin 500 mg orally, 1 hour before the procedure",
       "Cephalexin 2 g orally, 1 hour before the procedure"
     ],
-    "correctAnswer": 1,
-    "explanation": "Current AHA/ADA (2021) and CDA (2024) prophylaxis guidelines state that for patients with prosthetic cardiac valves, amoxicillin 2 g PO 1 h before the procedure is standard. When a penicillin allergy is present, the recommended alternative is clindamycin 600 mg PO 1 h pre‑procedure; azithromycin or clarithromycin are acceptable secondary options but are not considered the most appropriate first‑line choice. Cephalexin is not listed because of potential β‑lactam cross‑reactivity, and amoxicillin is contraindicated. Therefore, the most appropriate regimen is clindamycin 600 mg PO 1 h before the dental procedure (see Malamed Handbook of Local Anesthesia, 7th ed., and CDA prophylaxis recommendations).",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -19105,7 +19105,7 @@
       "Educational campaigns on oral hygiene"
     ],
     "correctAnswer": 0,
-    "explanation": "Community water fluoridation is consistently recognized by major health organizations globally, including Health Canada, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries. It benefits all members of the community, regardless of socioeconomic status or access to dental care. While school-based programs, regular check-ups, and educational campaigns are beneficial, their reach and impact are not as widespread or consistent as community water fluoridation.",
+    "explanation": "Community water fluoridation is consistently recognized by major health organizations globally, including the US Public Health Service (USPHS) and CDC, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries. It benefits all members of the community, regardless of socioeconomic status or access to dental care. While school-based programs, regular check-ups, and educational campaigns are beneficial, their reach and impact are not as widespread or consistent as community water fluoridation.",
     "aiVerified": true
   },
   {
@@ -20603,7 +20603,7 @@
       "Implementing a school-based dental sealant program."
     ],
     "correctAnswer": 2,
-    "explanation": "For a community without water fluoridation, advocating for its implementation is the most effective and equitable population-level strategy for preventing dental caries, as supported by public health organizations like Health Canada. While fluoride supplements, sealants, and topical fluoride varnish are beneficial, they are individual or targeted interventions, not as broad or cost-effective as community water fluoridation.",
+    "explanation": "For a community without water fluoridation, advocating for its implementation is the most effective and equitable population-level strategy for preventing dental caries, as supported by public health organizations like the US Public Health Service (USPHS) and CDC. While fluoride supplements, sealants, and topical fluoride varnish are beneficial, they are individual or targeted interventions, not as broad or cost-effective as community water fluoridation.",
     "aiVerified": true
   },
   {
@@ -21956,7 +21956,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "Health Canada's Safety Code 30 recommends a maximum effective dose limit of 20 mSv per year for occupationally exposed persons, such as dental professionals. 1 mSv is the public dose limit, and 50 mSv is typically the dose limit for a single year in some other contexts or the annual limit for non-pregnant radiation workers, but 20 mSv is the average over 5 years and the general annual limit for dental professionals.",
+    "explanation": "the US Public Health Service (USPHS) and CDC's Safety Code 30 recommends a maximum effective dose limit of 20 mSv per year for occupationally exposed persons, such as dental professionals. 1 mSv is the public dose limit, and 50 mSv is typically the dose limit for a single year in some other contexts or the annual limit for non-pregnant radiation workers, but 20 mSv is the average over 5 years and the general annual limit for dental professionals.",
     "aiVerified": true
   },
   {
@@ -22449,7 +22449,7 @@
       "Prepare for cardiopulmonary resuscitation (CPR)"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the American Dental Association and Malamed’s Handbook of Local Anesthesia & Medical Emergencies, any patient who develops chest pain or shortness of breath during dental care is considered a medical emergency. The initial step is to call emergency medical services (EMS) without delay (CDA Guideline, 2022). While waiting for EMS, the clinician may administer oxygen, aspirin, and the patient’s prescribed sublingual nitroglycerin if there are no contraindications, but these actions are secondary to activating EMS. Placing the patient supine is not advised because it may increase cardiac workload; CPR is reserved for cardiac arrest. Therefore, the most appropriate immediate action is to call EMS immediately.",
+    "explanation": "According to the American Dental Association and Malamed’s Handbook of Local Anesthesia & Medical Emergencies, any patient who develops chest pain or shortness of breath during dental care is considered a medical emergency. The initial step is to call emergency medical services (EMS) without delay (ADA / AHA Clinical Guidelines). While waiting for EMS, the clinician may administer oxygen, aspirin, and the patient’s prescribed sublingual nitroglycerin if there are no contraindications, but these actions are secondary to activating EMS. Placing the patient supine is not advised because it may increase cardiac workload; CPR is reserved for cardiac arrest. Therefore, the most appropriate immediate action is to call EMS immediately.",
     "aiVerified": true
   },
   {
@@ -23595,8 +23595,8 @@
       "Azithromycin 500 mg orally 30–60 minutes before the procedure",
       "No antibiotic prophylaxis is indicated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Patients with prosthetic cardiac valves are classified as high‑risk for infective endocarditis and require antibiotic prophylaxis for invasive dental procedures that involve manipulation of gingival tissue or the periapical region of teeth. The first‑line regimen for non‑allergic patients is amoxicillin 2 g PO 30–60 minutes before the procedure. For patients with a documented immediate-type (IgE‑mediated) penicillin allergy, the CDA and AHA recommend clindamycin 600 mg PO as the preferred alternative because it provides reliable coverage against viridans group streptococci, the primary organisms implicated in dental‑related endocarditis. Azithromycin (or clarithromycin) is listed in the guidelines as a secondary alternative when clindamycin cannot be used (e.g., due to intolerance or known resistance), but it is not the first choice. Therefore, option [1] is the most appropriate. Option [0] (amoxicillin) is contraindicated due to the patient’s severe penicillin allergy. Option [2] (azithromycin) is acceptable only if clindamycin is unsuitable; it is not the optimal first‑line alternative. Option [3] (no prophylaxis) is incorrect because the patient’s prosthetic valve places him in a high‑risk category where prophylaxis is explicitly recommended. Hence, clindamycin 600 mg PO 30–60 minutes pre‑operatively is the correct answer.",
+    "correctAnswer": 2,
+    "explanation": "Under current AHA and ADA clinical guidelines (updated in 2021), clindamycin is NO LONGER recommended for infective endocarditis antibiotic prophylaxis due to the high risk of severe adverse reactions and Clostridioides difficile colitis. For patients with an immediate Type I hypersensitivity (anaphylaxis) to penicillin, oral azithromycin (500 mg) or clarithromycin (500 mg) 30-60 minutes prior to the procedure is the first-line recommended regimen. Cephalexin (2 g) can be used if the penicillin allergy was non-anaphylactic (no history of hives or angioedema).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -24334,7 +24334,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "According to Canadian radiation safety guidelines (Health Canada's Safety Code 30), the recommended maximum permissible annual effective dose equivalent for occupationally exposed dental personnel is 20 mSv, averaged over a five-year period. 1 mSv is the public dose limit. 50 mSv is the maximum in any single year, but not the average annual limit.",
+    "explanation": "According to Canadian radiation safety guidelines (the US Public Health Service (USPHS) and CDC's Safety Code 30), the recommended maximum permissible annual effective dose equivalent for occupationally exposed dental personnel is 20 mSv, averaged over a five-year period. 1 mSv is the public dose limit. 50 mSv is the maximum in any single year, but not the average annual limit.",
     "aiVerified": true
   },
   {
@@ -26016,7 +26016,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "According to Canadian radiation safety guidelines (Health Canada Safety Code 30), the effective dose limit for occupationally exposed persons (dental professionals) is 20 mSv per year. 1 mSv is the public dose limit. 5 mSv and 50 mSv are not standard annual limits for dental professionals.",
+    "explanation": "According to Canadian radiation safety guidelines (the US Public Health Service (USPHS) and CDC Safety Code 30), the effective dose limit for occupationally exposed persons (dental professionals) is 20 mSv per year. 1 mSv is the public dose limit. 5 mSv and 50 mSv are not standard annual limits for dental professionals.",
     "aiVerified": true
   },
   {
@@ -28121,7 +28121,7 @@
   {
     "id": "pharmacology-anesthesia-1934",
     "topicId": "pharmacology-anesthesia",
-    "question": "According to Health Canada's Safety Code 30, \"Radiation Protection in Dentistry,\" what is the primary purpose of using a lead apron with a thyroid collar during dental radiography?",
+    "question": "According to the US Public Health Service (USPHS) and CDC's Safety Code 30, \"Radiation Protection in Dentistry,\" what is the primary purpose of using a lead apron with a thyroid collar during dental radiography?",
     "options": [
       "To improve the diagnostic quality of the radiograph.",
       "To reduce scatter radiation to the dental staff.",
