@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-11-13T04:44:07.360Z",
+  "totalQuestions": 14000,
+  "trueCount": 14000,
+  "falseCount": 0,
+  "complianceRate": "100.00%",
+  "subjectBreakdown": {
+    "anatomical-sciences": {
+      "total": 1000,
+      "trueCount": 1000,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "biochemistry-physiology": {
+      "total": 500,
+      "trueCount": 500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "microbiology-immunology": {
+      "total": 500,
+      "trueCount": 500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "general-pathology": {
+      "total": 1000,
+      "trueCount": 1000,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "oral-pathology-medicine": {
+      "total": 1500,
+      "trueCount": 1500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "pharmacology-anesthesia": {
+      "total": 2000,
+      "trueCount": 2000,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "operative-materials": {
+      "total": 1500,
+      "trueCount": 1500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "periodontics": {
+      "total": 500,
+      "trueCount": 500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "endodontics": {
+      "total": 500,
+      "trueCount": 500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "prosthodontics-implants": {
+      "total": 1500,
+      "trueCount": 1500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "oral-surgery-emergencies": {
+      "total": 1000,
+      "trueCount": 1000,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "orthodontics-pedodontics": {
+      "total": 1000,
+      "trueCount": 1000,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "oral-radiology": {
+      "total": 500,
+      "trueCount": 500,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    },
+    "patient-management-ethics": {
+      "total": 1000,
+      "trueCount": 1000,
+      "falseCount": 0,
+      "accuracy": "100.00%"
+    }
+  },
+  "failedQuestions": []
+}
