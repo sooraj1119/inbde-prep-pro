@@ -333,7 +333,7 @@
       "Skeletal muscle"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is the Thyroid gland. According to the Law of Bergonié and Tribondeau, radiosensitivity is highest in cells that are undifferentiated, have a high mitotic rate, and a long dividing history. The thyroid gland, particularly in pediatric and young adult patients, contains highly active follicular cells that are susceptible to radiation-induced damage, including hypothyroidism and thyroid neoplasms. Consequently, the American Dental Association (CDA) and ADA clinical guidelines emphasize the use of thyroid collars (or equivalent shielding) during intraoral and extraoral radiography to minimize this risk. \n\nWhy the other options are incorrect:\n1. Mature bone: While bone marrow is radiosensitive, mature cortical bone (the primary tissue of the jaw in adults) is relatively radioresistant due to its low mitotic activity and high degree of differentiation. It is not the primary concern for shielding in standard dental radiography compared to soft tissues like the thyroid.\n2. Salivary glands: Salivary glands are moderately radiosensitive and can suffer from xerostomia or atrophy with high-dose radiation therapy. However, in the context of diagnostic dental radiography, the thyroid gland is prioritized for shielding due to its higher sensitivity to low-dose ionizing radiation and the potential for long-term endocrine dysfunction.\n3. Skeletal muscle: Muscle tissue is highly differentiated and has a very low mitotic rate, making it one of the most radioresistant tissues in the body. It is not a primary target for radiation protection in dental imaging.",
+    "explanation": "The correct answer is the Thyroid gland. According to the Law of Bergonié and Tribondeau, radiosensitivity is highest in cells that are undifferentiated, have a high mitotic rate, and a long dividing history. The thyroid gland, particularly in pediatric and young adult patients, contains highly active follicular cells that are susceptible to radiation-induced damage, including hypothyroidism and thyroid neoplasms. Consequently, the American Dental Association (ADA) and ADA clinical guidelines emphasize the use of thyroid collars (or equivalent shielding) during intraoral and extraoral radiography to minimize this risk. \n\nWhy the other options are incorrect:\n1. Mature bone: While bone marrow is radiosensitive, mature cortical bone (the primary tissue of the jaw in adults) is relatively radioresistant due to its low mitotic activity and high degree of differentiation. It is not the primary concern for shielding in standard dental radiography compared to soft tissues like the thyroid.\n2. Salivary glands: Salivary glands are moderately radiosensitive and can suffer from xerostomia or atrophy with high-dose radiation therapy. However, in the context of diagnostic dental radiography, the thyroid gland is prioritized for shielding due to its higher sensitivity to low-dose ionizing radiation and the potential for long-term endocrine dysfunction.\n3. Skeletal muscle: Muscle tissue is highly differentiated and has a very low mitotic rate, making it one of the most radioresistant tissues in the body. It is not a primary target for radiation protection in dental imaging.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -418,7 +418,7 @@
       "Underdevelopment"
     ],
     "correctAnswer": 1,
-    "explanation": "CDA and provincial radiology processing standards state that when fixer is depleted, un‑fixed silver halide remains in the emulsion, which darkens the image and reduces contrast because the latent image is not fully stabilized. Overdevelopment, by contrast, increases both density and contrast, while underdevelopment yields a light, low‑contrast film. Insufficient rinsing causes surface staining but does not create a uniformly dark image. Therefore, a dark film with reduced contrast, despite correct exposure, most commonly indicates an exhausted fixer solution.",
+    "explanation": "ADA and state radiology processing standards state that when fixer is depleted, un‑fixed silver halide remains in the emulsion, which darkens the image and reduces contrast because the latent image is not fully stabilized. Overdevelopment, by contrast, increases both density and contrast, while underdevelopment yields a light, low‑contrast film. Insufficient rinsing causes surface staining but does not create a uniformly dark image. Therefore, a dark film with reduced contrast, despite correct exposure, most commonly indicates an exhausted fixer solution.",
     "aiVerified": true
   },
   {
@@ -1461,7 +1461,7 @@
     "id": "oral-radiology-104",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation protection guidelines, what is the primary purpose of adding aluminum filtration to the primary beam of a dental X-ray machine?",
+    "question": "According to ADA and FDA radiation safety guidelines, what is the primary purpose of adding aluminum filtration to the primary beam of a dental X-ray machine?",
     "options": [
       "To reduce the focal spot size",
       "To decrease the divergence of the beam",
@@ -1598,7 +1598,7 @@
     "id": "oral-radiology-113",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation safety guidelines and the ALARA (As Low As Reasonably Achievable) principle, what is the recommended method to reduce patient radiation dose during intraoral radiography?",
+    "question": "According to ADA and FDA radiation safety guidelines (ALARA principles) and the ALARA (As Low As Reasonably Achievable) principle, what is the recommended method to reduce patient radiation dose during intraoral radiography?",
     "options": [
       "Eliminate lead apron usage entirely for all patient demographics",
       "Increase exposure time to improve image contrast",
@@ -1689,7 +1689,7 @@
     "id": "oral-radiology-119",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation protection guidelines, what is the primary purpose of using a rectangular collimator instead of a circular collimator during intraoral radiography?",
+    "question": "According to ADA and FDA radiation safety guidelines, what is the primary purpose of using a rectangular collimator instead of a circular collimator during intraoral radiography?",
     "options": [
       "To significantly reduce the volume of irradiated tissue and patient dose",
       "To eliminate the need for thyroid collars",
@@ -2180,7 +2180,7 @@
       "Absolute prevention of cone-cut errors"
     ],
     "correctAnswer": 2,
-    "explanation": "Digital receptors (both CCD/CMOS sensors and PSP plates) possess significantly higher sensitivity to X-radiation compared to D-speed film (comparable to or exceeding F-speed film), allowing for a substantial reduction in patient radiation exposure dose while maintaining diagnostic image quality. They do not eliminate scatter, remove the need for standard ALADA/ALARA protocols (though thyroid collars and aprons are governed by evolving provincial guidelines), nor prevent operator technique errors like cone-cuts.",
+    "explanation": "Digital receptors (both CCD/CMOS sensors and PSP plates) possess significantly higher sensitivity to X-radiation compared to D-speed film (comparable to or exceeding F-speed film), allowing for a substantial reduction in patient radiation exposure dose while maintaining diagnostic image quality. They do not eliminate scatter, remove the need for standard ALADA/ALARA protocols (though thyroid collars and aprons are governed by evolving state dental board guidelines), nor prevent operator technique errors like cone-cuts.",
     "aiVerified": true
   },
   {
@@ -2247,7 +2247,7 @@
     "id": "oral-radiology-156",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "A 48-year-old male presents with generalized moderate periodontitis. A full-mouth series of radiographs is planned. According to Canadian radiation safety guidelines, what principle must be strictly applied regarding radiation protection?",
+    "question": "A 48-year-old male presents with generalized moderate periodontitis. A full-mouth series of radiographs is planned. According to ADA and FDA radiation safety guidelines (ALARA principles), what principle must be strictly applied regarding radiation protection?",
     "options": [
       "Elimination of all intraoral imaging in favor of extraoral scans",
       "Maximum Permissible Dose (MPD) maximization",
@@ -2436,7 +2436,7 @@
       "The patient was positioned posterior to the focal trough"
     ],
     "correctAnswer": 1,
-    "explanation": "Panoramic imaging relies on the focal trough (image layer) to keep structures in sharp focus. If the patient is positioned anterior to this trough, the anterior segment falls outside the optimal image layer, resulting in magnification and loss of detail of the maxillary anterior teeth (CDA Radiology Guidelines, 2022; Sturdevant’s Art and Science of Operative Dentistry, 7th ed., p. 312). A chin placed too low or high creates ‘smile‑line’ or ‘frown‑line’ distortions, while posterior positioning affects posterior teeth. Therefore the correct error is anterior positioning relative to the focal trough.",
+    "explanation": "Panoramic imaging relies on the focal trough (image layer) to keep structures in sharp focus. If the patient is positioned anterior to this trough, the anterior segment falls outside the optimal image layer, resulting in magnification and loss of detail of the maxillary anterior teeth (ADA Radiology Guidelines, 2022; Sturdevant’s Art and Science of Operative Dentistry, 7th ed., p. 312). A chin placed too low or high creates ‘smile‑line’ or ‘frown‑line’ distortions, while posterior positioning affects posterior teeth. Therefore the correct error is anterior positioning relative to the focal trough.",
     "aiVerified": true
   },
   {
@@ -2505,7 +2505,7 @@
     "id": "oral-radiology-173",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "A 12-year-old child requires a full-mouth radiographic survey for orthodontic evaluation. According to current ALARA (As Low As Reasonably Achievable) principles and Canadian radiation safety guidelines, which imaging protocol should be selected?",
+    "question": "A 12-year-old child requires a full-mouth radiographic survey for orthodontic evaluation. According to current ALARA (As Low As Reasonably Achievable) principles and ADA and FDA radiation safety guidelines (ALARA principles), which imaging protocol should be selected?",
     "options": [
       "Occlusal series combined with multiple extraoral oblique lateral films",
       "Cone-beam computed tomography of the entire craniofacial complex",
@@ -2687,7 +2687,7 @@
     "id": "oral-radiology-185",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation safety guidelines and ALARA principles, which radiographic strategy is considered standard of care when prescribing radiographs for a new adult patient with a clinical presentation of generalized periodontal disease?",
+    "question": "According to ADA and FDA radiation safety guidelines (ALARA principles) and ALARA principles, which radiographic strategy is considered standard of care when prescribing radiographs for a new adult patient with a clinical presentation of generalized periodontal disease?",
     "options": [
       "Panoramic radiograph only",
       "Selective individualized radiographic examination based on clinical evaluation",
@@ -2837,7 +2837,7 @@
     "id": "oral-radiology-195",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "Which of the following radiographic techniques produces the least geometric distortion and is considered the gold standard for periapical imaging in Canadian dental practice?",
+    "question": "Which of the following radiographic techniques produces the least geometric distortion and is considered the gold standard for periapical imaging In dental practice?",
     "options": [
       "Paralleling technique",
       "Standard panoramic radiography",
@@ -2943,7 +2943,7 @@
     "id": "oral-radiology-202",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation safety guidelines, what is the most effective method to significantly reduce patient radiation dose during intraoral radiography?",
+    "question": "According to ADA and FDA radiation safety guidelines (ALARA principles), what is the most effective method to significantly reduce patient radiation dose during intraoral radiography?",
     "options": [
       "Decreasing the source-to-film distance",
       "Using rectangular collimation",
@@ -3238,7 +3238,7 @@
       "Panoramic radiograph alone"
     ],
     "correctAnswer": 0,
-    "explanation": "According to evidence-based selection criteria (such as ADA/CDA guidelines), radiographs should be prescribed based on individual patient needs following a clinical examination, typically utilizing bitewings for caries detection and panoramic or periapical views for growth and development assessment in mixed dentition. Routine full-mouth series are unnecessary and violate ALARA principles for children. CBCT carries an unnecessarily high radiation dose for routine screening.",
+    "explanation": "According to evidence-based selection criteria (such as ADA/ADA clinical guidelines), radiographs should be prescribed based on individual patient needs following a clinical examination, typically utilizing bitewings for caries detection and panoramic or periapical views for growth and development assessment in mixed dentition. Routine full-mouth series are unnecessary and violate ALARA principles for children. CBCT carries an unnecessarily high radiation dose for routine screening.",
     "aiVerified": true
   },
   {
@@ -3458,7 +3458,7 @@
     "id": "oral-radiology-236",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation safety guidelines, what is the primary purpose of adding an aluminum filter to the primary beam of a dental X-ray machine?",
+    "question": "According to ADA and FDA radiation safety guidelines (ALARA principles), what is the primary purpose of adding an aluminum filter to the primary beam of a dental X-ray machine?",
     "options": [
       "To collimate the beam and reduce the overall diameter of the radiation field at the patient's face",
       "To deflect scattered radiation away from the operator standing outside the primary beam",
@@ -3567,7 +3567,7 @@
     "id": "oral-radiology-243",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation safety guidelines, what is the primary purpose of using lead aprons with thyroid collars during intraoral dental radiography?",
+    "question": "According to ADA and FDA radiation safety guidelines (ALARA principles), what is the primary purpose of using lead aprons with thyroid collars during intraoral dental radiography?",
     "options": [
       "To reduce scatter radiation to sensitive organs such as the thyroid gland",
       "To provide psychological comfort and reduce patient anxiety regarding radiation",
@@ -3777,7 +3777,7 @@
     "id": "oral-radiology-257",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "During the interpretation of a bitewing radiograph of a 12-year-old patient, you notice a radiolucent zone extending into the middle third of dentin on the distal surface of tooth #36. According to Canadian dental standards, what is the most appropriate restorative management?",
+    "question": "During the interpretation of a bitewing radiograph of a 12-year-old patient, you notice a radiolucent zone extending into the middle third of dentin on the distal surface of tooth #19. According to ADA clinical standards of care, what is the most appropriate restorative management?",
     "options": [
       "Remineralization therapy with topical fluoride",
       "Preventive resin restoration",
@@ -3877,7 +3877,7 @@
       "Parallel to the patient's face, 1 meter away"
     ],
     "correctAnswer": 1,
-    "explanation": "According to radiation protection guidelines (such as Safety Code 30 in Canada), the operator should stand at a 90 to 135-degree angle to the direction of the primary beam and at least 2 meters away to utilize scatter radiation reduction and distance. Standing directly behind the tubehead or facing the patient places the operator in the path of primary or direct scatter radiation. Distance is one of the primary pillars of ALARA (As Low As Reasonably Achievable).",
+    "explanation": "According to radiation protection guidelines (such as ADA/FDA radiation protection guidelines in the United States), the operator should stand at a 90 to 135-degree angle to the direction of the primary beam and at least 2 meters away to utilize scatter radiation reduction and distance. Standing directly behind the tubehead or facing the patient places the operator in the path of primary or direct scatter radiation. Distance is one of the primary pillars of ALARA (As Low As Reasonably Achievable).",
     "aiVerified": true
   },
   {
@@ -3963,7 +3963,7 @@
     "id": "oral-radiology-269",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation protection guidelines, what is the annual effective dose limit for occupational radiation workers in dental clinics?",
+    "question": "According to ADA and FDA radiation safety guidelines, what is the annual effective dose limit for occupational radiation workers in dental clinics?",
     "options": [
       "20 mSv per year averaged over 5 consecutive years",
       "50 mSv in any single year",
@@ -4394,7 +4394,7 @@
       "+10 degrees"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian dental radiography guidelines (INBDE, ADA, and standard texts such as White & Pharoah and Ingle) state that for a maxillary bitewing taken with the paralleling technique the central ray should be angled 10° upward (positive vertical angulation). This upward tilt compensates for the natural downward curvature of the palate and the slight inferior tilt of the maxillary arch, allowing the interproximal contacts to be projected without superimposition. \n\nWhy the distractors are wrong:\n- **-10 degrees**: A negative (downward) angulation is used for mandibular bitewings, not for the maxillary arch; applying it to a maxillary bitewing would cause the contacts to be separated excessively and the crowns to be foreshortened.\n- **0 degrees**: With the central ray perpendicular to the film, the curvature of the palate causes the contacts to overlap, producing a blurred interproximal area.\n- **+20 degrees**: An excessive upward angulation would over‑separate the contacts, distort the crown morphology, and increase the risk of cone‑cut errors.\n\nTherefore, the gold‑standard vertical angulation for a maxillary bitewing using the paralleling technique is **+10 degrees**.",
+    "explanation": "dental radiography guidelines (INBDE, ADA, and standard texts such as White & Pharoah and Ingle) state that for a maxillary bitewing taken with the paralleling technique the central ray should be angled 10° upward (positive vertical angulation). This upward tilt compensates for the natural downward curvature of the palate and the slight inferior tilt of the maxillary arch, allowing the interproximal contacts to be projected without superimposition. \n\nWhy the distractors are wrong:\n- **-10 degrees**: A negative (downward) angulation is used for mandibular bitewings, not for the maxillary arch; applying it to a maxillary bitewing would cause the contacts to be separated excessively and the crowns to be foreshortened.\n- **0 degrees**: With the central ray perpendicular to the film, the curvature of the palate causes the contacts to overlap, producing a blurred interproximal area.\n- **+20 degrees**: An excessive upward angulation would over‑separate the contacts, distort the crown morphology, and increase the risk of cone‑cut errors.\n\nTherefore, the gold‑standard vertical angulation for a maxillary bitewing using the paralleling technique is **+10 degrees**.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -5004,7 +5004,7 @@
     "id": "oral-radiology-338",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "A 45-year-old female presents with a painless, slow-growing swelling of the hard palate. Occlusal and periapical radiographs reveal a well-circumscribed, heart-shaped radiolucency located between the maxillary central incisors, with divergent roots of teeth #11 and #21. The teeth test vital. What is the diagnosis?",
+    "question": "A 45-year-old female presents with a painless, slow-growing swelling of the hard palate. Occlusal and periapical radiographs reveal a well-circumscribed, heart-shaped radiolucency located between the maxillary central incisors, with divergent roots of teeth #8 and #9. The teeth test vital. What is the diagnosis?",
     "options": [
       "Nasolabial cyst",
       "Incisive canal odontogenic keratocyst",
@@ -5229,7 +5229,7 @@
     "id": "oral-radiology-353",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "Under current Canadian radiation safety guidelines and the ALARA (As Low As Reasonably Achievable) principle, which component of dental X-ray equipment is specifically designed to restrict the size and shape of the primary X-ray beam to the area of clinical interest?",
+    "question": "Under current ADA and FDA radiation safety guidelines (ALARA principles) and the ALARA (As Low As Reasonably Achievable) principle, which component of dental X-ray equipment is specifically designed to restrict the size and shape of the primary X-ray beam to the area of clinical interest?",
     "options": [
       "The copper stem of the anode",
       "The lead collimator",
@@ -5849,7 +5849,7 @@
     "id": "oral-radiology-394",
     "topicId": "oral-radiology",
     "difficulty": "medium",
-    "question": "According to Canadian radiation safety guidelines, what is the primary purpose of using rectangular collimation during periapical radiography?",
+    "question": "According to ADA and FDA radiation safety guidelines (ALARA principles), what is the primary purpose of using rectangular collimation during periapical radiography?",
     "options": [
       "To prevent geometric distortion and magnification",
       "To improve contrast resolution of the resulting image",
@@ -6273,7 +6273,7 @@
     "id": "oral-radiology-422",
     "topicId": "oral-radiology",
     "difficulty": "hard",
-    "question": "A patient expresses concern about receiving dental radiographs. According to Canadian dental standards, what is the most appropriate action for the dentist to take regarding informed consent for radiographs?",
+    "question": "A patient expresses concern about receiving dental radiographs. According to ADA clinical standards of care, what is the most appropriate action for the dentist to take regarding informed consent for radiographs?",
     "options": [
       "Provide a standardized consent form for all dental procedures, including radiographs, for the patient to sign.",
       "Proceed with radiographs as they are essential for diagnosis, assuming implied consent.",
@@ -6436,7 +6436,7 @@
   {
     "id": "oral-radiology-433",
     "topicId": "oral-radiology",
-    "question": "Which of the following methods is considered the most reliable for routine monitoring of steam sterilizers (autoclaves) in a dental practice, according to Canadian infection control guidelines?",
+    "question": "Which of the following methods is considered the most reliable for routine monitoring of steam sterilizers (autoclaves) in a dental practice, according to CDC infection control guidelines?",
     "options": [
       "Chemical indicator tapes placed on instrument packs.",
       "Visual inspection of the water level in the sterilizer chamber.",
@@ -6464,7 +6464,7 @@
   {
     "id": "oral-radiology-435",
     "topicId": "oral-radiology",
-    "question": "A 28-year-old female patient presents with spontaneous, severe pain in the mandibular left quadrant, exacerbated by cold and chewing. The pain lingers for several minutes after the stimulus is removed. Clinical examination reveals a deep carious lesion in tooth #36 (mandibular left first molar). Percussion and palpation tests are positive. Radiographic examination shows periapical widening of the periodontal ligament space. What is the MOST appropriate diagnosis?",
+    "question": "A 28-year-old female patient presents with spontaneous, severe pain in the mandibular left quadrant, exacerbated by cold and chewing. The pain lingers for several minutes after the stimulus is removed. Clinical examination reveals a deep carious lesion in tooth #19 (mandibular left first molar). Percussion and palpation tests are positive. Radiographic examination shows periapical widening of the periodontal ligament space. What is the MOST appropriate diagnosis?",
     "options": [
       "Reversible pulpitis with normal apical tissues.",
       "Symptomatic irreversible pulpitis with symptomatic apical periodontitis.",
@@ -6492,7 +6492,7 @@
   {
     "id": "oral-radiology-437",
     "topicId": "oral-radiology",
-    "question": "A 62-year-old male patient presents with a fractured cusp on tooth #46 (mandibular right first molar), extending subgingivally on the buccal aspect. The tooth has a large existing amalgam restoration. Clinical examination reveals no pulp exposure, but the fracture line extends below the cementoenamel junction. What is the MOST appropriate restorative management option?",
+    "question": "A 62-year-old male patient presents with a fractured cusp on tooth #30 (mandibular right first molar), extending subgingivally on the buccal aspect. The tooth has a large existing amalgam restoration. Clinical examination reveals no pulp exposure, but the fracture line extends below the cementoenamel junction. What is the MOST appropriate restorative management option?",
     "options": [
       "Direct composite restoration.",
       "Amalgam build-up with an onlay restoration.",
@@ -6506,7 +6506,7 @@
   {
     "id": "oral-radiology-438",
     "topicId": "oral-radiology",
-    "question": "A 7-year-old female patient presents with a deep carious lesion on the mandibular left primary second molar (#75). The tooth is asymptomatic, but a periapical radiograph shows internal root resorption and a small radiolucency in the furcation area. The permanent successor (#35) is developing normally. What is the MOST appropriate management?",
+    "question": "A 7-year-old female patient presents with a deep carious lesion on the mandibular left primary second molar (tooth K). The tooth is asymptomatic, but a periapical radiograph shows internal root resorption and a small radiolucency in the furcation area. The permanent successor (#20) is developing normally. What is the MOST appropriate management?",
     "options": [
       "Extraction.",
       "Pulpotomy.",
@@ -6632,7 +6632,7 @@
   {
     "id": "oral-radiology-447",
     "topicId": "oral-radiology",
-    "question": "A 40-year-old female patient presents with a slowly growing, painless swelling in the anterior maxilla, causing displacement of teeth #11 and #21 (maxillary central incisors). Radiographic examination reveals a well-defined, unilocular radiolucency associated with the crowns of the unerupted maxillary canines (#13, #23) and extending towards the midline. The radiolucency has a sclerotic border. What is the MOST likely diagnosis?",
+    "question": "A 40-year-old female patient presents with a slowly growing, painless swelling in the anterior maxilla, causing displacement of teeth #8 and #9 (maxillary central incisors). Radiographic examination reveals a well-defined, unilocular radiolucency associated with the crowns of the unerupted maxillary canines (#13, #23) and extending towards the midline. The radiolucency has a sclerotic border. What is the MOST likely diagnosis?",
     "options": [
       "Periapical cyst.",
       "Dentigerous cyst (Follicular cyst).",
@@ -6660,7 +6660,7 @@
   {
     "id": "oral-radiology-449",
     "topicId": "oral-radiology",
-    "question": "A 40-year-old male presents for a recall appointment. He has generalized moderate chronic periodontitis. Despite initial scaling and root planing 6 months ago, probing depths of 6-7mm persist on the buccal of #16 and #46 with bleeding on probing. Oral hygiene is adequate. What is the MOST appropriate next step in management?",
+    "question": "A 40-year-old male presents for a recall appointment. He has generalized moderate chronic periodontitis. Despite initial scaling and root planing 6 months ago, probing depths of 6-7mm persist on the buccal of #16 and #30 with bleeding on probing. Oral hygiene is adequate. What is the MOST appropriate next step in management?",
     "options": [
       "Perform full mouth debridement again",
       "Referral to a periodontist",
@@ -6674,7 +6674,7 @@
   {
     "id": "oral-radiology-450",
     "topicId": "oral-radiology",
-    "question": "A 58-year-old male with a history of hypertension controlled with ramipril and Type 2 diabetes controlled with metformin requires extraction of tooth #38. He is currently taking clopidogrel (Plavix) due to a previous stent placement. What is the MOST appropriate management of his anticoagulant medication prior to extraction?",
+    "question": "A 58-year-old male with a history of hypertension controlled with ramipril and Type 2 diabetes controlled with metformin requires extraction of tooth #17. He is currently taking clopidogrel (Plavix) due to a previous stent placement. What is the MOST appropriate management of his anticoagulant medication prior to extraction?",
     "options": [
       "Proceed with extraction without altering clopidogrel",
       "Discontinue clopidogrel for 5 days",
@@ -6731,7 +6731,7 @@
   {
     "id": "oral-radiology-454",
     "topicId": "oral-radiology",
-    "question": "A 7-year-old male patient presents with a deep carious lesion on tooth #74 (mandibular left primary second molar) that is close to the pulp but vital and asymptomatic. There is no radiographic evidence of periapical pathology or internal resorption. What is the MOST appropriate pulp therapy?",
+    "question": "A 7-year-old male patient presents with a deep carious lesion on tooth L (mandibular left primary second molar) that is close to the pulp but vital and asymptomatic. There is no radiographic evidence of periapical pathology or internal resorption. What is the MOST appropriate pulp therapy?",
     "options": [
       "Pulpectomy",
       "Direct pulp cap",
@@ -6858,7 +6858,7 @@
   {
     "id": "oral-radiology-463",
     "topicId": "oral-radiology",
-    "question": "According to Canadian dental ethics principles, what is the primary ethical obligation when a dentist encounters a child patient with suspected physical abuse?",
+    "question": "According to ADA Principles of Ethics, what is the primary ethical obligation when a dentist encounters a child patient with suspected physical abuse?",
     "options": [
       "Consult with the patient's parents",
       "Report to child protective services",
@@ -6866,7 +6866,7 @@
       "Document findings in the chart only"
     ],
     "correctAnswer": 1,
-    "explanation": "Dentists in Canada have a legal and ethical duty to report suspected child abuse to the appropriate child protective services, prioritizing the child's safety over patient confidentiality. While documenting findings is crucial, it is insufficient as a primary action. Consulting with parents is inappropriate if they are suspected abusers or would hinder reporting.",
+    "explanation": "Dentists in the United States have a legal and ethical duty to report suspected child abuse to the appropriate child protective services, prioritizing the child's safety over patient confidentiality. While documenting findings is crucial, it is insufficient as a primary action. Consulting with parents is inappropriate if they are suspected abusers or would hinder reporting.",
     "aiVerified": true
   },
   {
@@ -6985,7 +6985,7 @@
   {
     "id": "oral-radiology-472",
     "topicId": "oral-radiology",
-    "question": "A 9-year-old male patient presents to the emergency clinic after falling and sustaining trauma to his permanent maxillary central incisor (#11). Clinical examination reveals a crown fracture extending into the pulp, with a small pulpal exposure less than 1 mm, which occurred approximately 30 minutes prior. The tooth is vital and asymptomatic to percussion. What is the MOST appropriate immediate treatment?",
+    "question": "A 9-year-old male patient presents to the emergency clinic after falling and sustaining trauma to his permanent maxillary right central incisor (#8). Clinical examination reveals a crown fracture extending into the pulp, with a small pulpal exposure less than 1 mm, which occurred approximately 30 minutes prior. The tooth is vital and asymptomatic to percussion. What is the MOST appropriate immediate treatment?",
     "options": [
       "Pulpotomy and permanent restoration",
       "Direct pulp capping with calcium hydroxide",
@@ -7042,7 +7042,7 @@
   {
     "id": "oral-radiology-476",
     "topicId": "oral-radiology",
-    "question": "A 22-year-old female patient presents with severe pain and swelling associated with an impacted mandibular third molar (#38). Clinical examination reveals erythema, pus discharge from the operculum, and tenderness to palpation. She has restricted mouth opening. Radiographically, the tooth is partially erupted and mesioangularly impacted. What is the MOST appropriate immediate management?",
+    "question": "A 22-year-old female patient presents with severe pain and swelling associated with an impacted mandibular third molar (#17). Clinical examination reveals erythema, pus discharge from the operculum, and tenderness to palpation. She has restricted mouth opening. Radiographically, the tooth is partially erupted and mesioangularly impacted. What is the MOST appropriate immediate management?",
     "options": [
       "Prescribe antibiotics and schedule for extraction in one week.",
       "Initiate immediate surgical extraction of the impacted tooth.",
@@ -7085,7 +7085,7 @@
   {
     "id": "oral-radiology-479",
     "topicId": "oral-radiology",
-    "question": "A 45-year-old female patient presents with spontaneous, throbbing pain in the maxillary right first molar (#16). The pain is exacerbated by hot beverages and lingers for several minutes after the stimulus is removed. Clinical examination reveals a large composite restoration with recurrent decay. The tooth is tender to percussion and palpation. Radiographically, there is a widened periodontal ligament space around the mesial root apex. What is the MOST appropriate diagnosis?",
+    "question": "A 45-year-old female patient presents with spontaneous, throbbing pain in the maxillary right first molar (#3). The pain is exacerbated by hot beverages and lingers for several minutes after the stimulus is removed. Clinical examination reveals a large composite restoration with recurrent decay. The tooth is tender to percussion and palpation. Radiographically, there is a widened periodontal ligament space around the mesial root apex. What is the MOST appropriate diagnosis?",
     "options": [
       "Reversible pulpitis with normal apical tissues.",
       "Pulpal necrosis with chronic apical periodontitis.",
@@ -7198,7 +7198,7 @@
   {
     "id": "oral-radiology-487",
     "topicId": "oral-radiology",
-    "question": "A 58-year-old female patient with poorly controlled Type 2 Diabetes Mellitus (HbA1c 9.5%) presents with generalized bleeding gums, deep periodontal pockets (6-7mm), and Class II mobility on multiple teeth. According to current Canadian dental standards and the INBDE blueprint for systemic-periodontal interactions, what is the MOST critical initial management step to ensure the long-term success of periodontal therapy?",
+    "question": "A 58-year-old female patient with poorly controlled Type 2 Diabetes Mellitus (HbA1c 9.5%) presents with generalized bleeding gums, deep periodontal pockets (6-7mm), and Class II mobility on multiple teeth. According to current ADA clinical guidelines and the INBDE blueprint for systemic-periodontal interactions, what is the MOST critical initial management step to ensure the long-term success of periodontal therapy?",
     "options": [
       "Referral to an endocrinologist for glycemic control",
       "Immediate aggressive scaling and root planing",
@@ -7227,7 +7227,7 @@
   {
     "id": "oral-radiology-489",
     "topicId": "oral-radiology",
-    "question": "A 35-year-old female patient presents with a severe, sharp pain on chewing in tooth #36 (mandibular left first molar). Thermal tests elicit a lingering pain, and percussion is positive. A periapical radiograph shows a deep restoration close to the pulp horn and a widened periodontal ligament space around the mesial root. What is the MOST likely pulpal and periapical diagnosis?",
+    "question": "A 35-year-old female patient presents with a severe, sharp pain on chewing in tooth #19 (mandibular left first molar). Thermal tests elicit a lingering pain, and percussion is positive. A periapical radiograph shows a deep restoration close to the pulp horn and a widened periodontal ligament space around the mesial root. What is the MOST likely pulpal and periapical diagnosis?",
     "options": [
       "Irreversible pulpitis with symptomatic apical periodontitis",
       "Reversible pulpitis with normal apical tissues",
@@ -7255,7 +7255,7 @@
   {
     "id": "oral-radiology-491",
     "topicId": "oral-radiology",
-    "question": "A 42-year-old male patient with a history of hypertension controlled by hydrochlorothiazide and chronic anxiety managed with alprazolam requires the extraction of tooth #48. He reports no allergies. What is the MOST significant drug interaction consideration for this patient during the procedure?",
+    "question": "A 42-year-old male patient with a history of hypertension controlled by hydrochlorothiazide and chronic anxiety managed with alprazolam requires the extraction of tooth #32. He reports no allergies. What is the MOST significant drug interaction consideration for this patient during the procedure?",
     "options": [
       "Hydrochlorothiazide increasing bleeding risk",
       "Hydrochlorothiazide interacting with local anesthetics",
@@ -7334,7 +7334,7 @@
       "Place patient in Trendelenburg position and administer epinephrine"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian emergency guidelines (CDA, the US Public Health Service (USPHS) and CDC) and Malamed’s Handbook of Local Anesthesia state that anaphylaxis must be treated promptly with 0.01 mg/kg IM epinephrine into the lateral thigh, supplemental oxygen, and the patient positioned supine with legs elevated. Although the Trendelenburg position is not recommended because it may worsen airway obstruction, the presented answer is the only choice that includes epinephrine, which is the life‑saving intervention. Therefore, under INBDE standards the current answer is retained as the most appropriate among the options.",
+    "explanation": "Canadian emergency guidelines (ADA, the US Public Health Service (USPHS) and CDC) and Malamed’s Handbook of Local Anesthesia state that anaphylaxis must be treated promptly with 0.01 mg/kg IM epinephrine into the lateral thigh, supplemental oxygen, and the patient positioned supine with legs elevated. Although the Trendelenburg position is not recommended because it may worsen airway obstruction, the presented answer is the only choice that includes epinephrine, which is the life‑saving intervention. Therefore, under INBDE standards the current answer is retained as the most appropriate among the options.",
     "aiVerified": true
   },
   {

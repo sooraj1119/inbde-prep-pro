@@ -220,7 +220,7 @@
       "Human papillomavirus (HPV)"
     ],
     "correctAnswer": 0,
-    "explanation": "In immunocompromised patients, HSV lesions present as deep, painful oral ulcers. Histopathology shows multinucleated giant (syncytial) cells with Cowdry type A intranuclear inclusions and often accompanying cytoplasmic inclusions. CMV typically shows large cells with solitary “owl’s‑eye” intranuclear inclusions but not multinucleated giant cells. EBV is linked to hairy leukoplakia, and HPV to papillomatous lesions. Thus, the findings are classic for HSV infection, as outlined in Neville, Damm, Allen, Bouquot: Oral and Maxillofacial Pathology (7th ed.) and CDA infectious‑disease guidance.",
+    "explanation": "In immunocompromised patients, HSV lesions present as deep, painful oral ulcers. Histopathology shows multinucleated giant (syncytial) cells with Cowdry type A intranuclear inclusions and often accompanying cytoplasmic inclusions. CMV typically shows large cells with solitary “owl’s‑eye” intranuclear inclusions but not multinucleated giant cells. EBV is linked to hairy leukoplakia, and HPV to papillomatous lesions. Thus, the findings are classic for HSV infection, as outlined in Neville, Damm, Allen, Bouquot: Oral and Maxillofacial Pathology (7th ed.) and ADA infectious‑disease guidance.",
     "aiVerified": true
   },
   {
@@ -1421,7 +1421,7 @@
     "id": "microbiology-immunology-102",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 24-year-old dental hygienist sustains a needle-stick injury from a hollow-bore needle used on a patient with chronic Hepatitis C. According to current Canadian public health guidelines, what is the recommended immediate post-exposure protocol regarding baseline testing?",
+    "question": "A 24-year-old dental hygienist sustains a needle-stick injury from a hollow-bore needle used on a patient with chronic Hepatitis C. According to current CDC and US public health guidelines, what is the recommended immediate post-exposure protocol regarding baseline testing?",
     "options": [
       "Prescribe a 14-day course of prophylactic direct-acting antivirals (DAAs)",
       "No baseline testing is required; wait 6 months for symptom onset",
@@ -1466,7 +1466,7 @@
     "id": "microbiology-immunology-105",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "In the context of infection prevention and control (IPAC) in Canadian dental offices, waterlines can develop microbial biofilms. Which opportunistic pathogen is of primary concern regarding dental unit waterlines (DUWL) and poses a significant respiratory risk to immunocompromised patients?",
+    "question": "In the context of infection prevention and control (IPAC) in dental offices, waterlines can develop microbial biofilms. Which opportunistic pathogen is of primary concern regarding dental unit waterlines (DUWL) and poses a significant respiratory risk to immunocompromised patients?",
     "options": [
       "Escherichia coli",
       "Pseudomonas aeruginosa",
@@ -1504,7 +1504,7 @@
       "Intermediate-level disinfection (tuberculocidal)"
     ],
     "correctAnswer": 3,
-    "explanation": "According to Canadian dental IPAC standards, clinical contact surfaces and non-critical items visibly contaminated with blood or saliva must be cleaned and disinfected using an intermediate-level disinfectant (which includes a tuberculocidal claim). Low-level disinfectants are insufficient for bloodborne pathogen inactivation on environmental surfaces, while high-level disinfection and sterilization are reserved for semi-critical and critical instruments, respectively.",
+    "explanation": "According to dental IPAC standards, clinical contact surfaces and non-critical items visibly contaminated with blood or saliva must be cleaned and disinfected using an intermediate-level disinfectant (which includes a tuberculocidal claim). Low-level disinfectants are insufficient for bloodborne pathogen inactivation on environmental surfaces, while high-level disinfection and sterilization are reserved for semi-critical and critical instruments, respectively.",
     "aiVerified": true
   },
   {
@@ -1526,7 +1526,7 @@
     "id": "microbiology-immunology-109",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a dental office in Canada, which biological indicator is mandatory for validating the efficacy of steam sterilization (autoclaving)?",
+    "question": "During routine sterilization monitoring in a dental office in the United States, which biological indicator is mandatory for validating the efficacy of steam sterilization (autoclaving)?",
     "options": [
       "Bacillus atrophaeus",
       "Bacillus subtilis",
@@ -1736,7 +1736,7 @@
     "id": "microbiology-immunology-123",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "When considering infection control protocols in a Canadian dental clinic, which level of disinfection is strictly required for semi-critical instruments—those items that come into contact with mucous membranes or non-intact skin?",
+    "question": "When considering infection control protocols in a dental clinic, which level of disinfection is strictly required for semi-critical instruments—those items that come into contact with mucous membranes or non-intact skin?",
     "options": [
       "High-level disinfection or sterilization",
       "Low-level disinfection",
@@ -1744,7 +1744,7 @@
       "Sanitization"
     ],
     "correctAnswer": 0,
-    "explanation": "According to Spaulding's classification and Canadian dental standards, semi-critical instruments (e.g., mouth mirrors, reusable impression trays, condensers) must ideally be sterilized, or at minimum undergo high-level disinfection if heat sterilization is impossible. Low-level and intermediate-level disinfectants are reserved for non-critical surfaces and environmental touch surfaces.",
+    "explanation": "According to Spaulding's classification and ADA clinical standards of care, semi-critical instruments (e.g., mouth mirrors, reusable impression trays, condensers) must ideally be sterilized, or at minimum undergo high-level disinfection if heat sterilization is impossible. Low-level and intermediate-level disinfectants are reserved for non-critical surfaces and environmental touch surfaces.",
     "aiVerified": true
   },
   {
@@ -1856,7 +1856,7 @@
     "id": "microbiology-immunology-131",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Regarding sterilization and infection control protocols in Canadian dental practices, which biological indicator is mandatory for routine weekly monitoring of steam autoclaves?",
+    "question": "Regarding sterilization and infection control protocols In dental practices, which biological indicator is mandatory for routine weekly monitoring of steam autoclaves?",
     "options": [
       "Pseudomonas aeruginosa",
       "Geobacillus stearothermophilus",
@@ -1946,7 +1946,7 @@
     "id": "microbiology-immunology-137",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 55-year-old male with a history of infective endocarditis is scheduled for a full-mouth scaling and root planing procedure. According to current AHA and Canadian Cardiovascular Society guidelines, which of the following mechanisms best explains why oral streptococci frequently cause infective endocarditis?",
+    "question": "A 55-year-old male with a history of infective endocarditis is scheduled for a full-mouth scaling and root planing procedure. According to current AHA and American Heart Association (AHA) and American College of Cardiology (ACC) guidelines, which of the following mechanisms best explains why oral streptococci frequently cause infective endocarditis?",
     "options": [
       "Evasion of host neutrophils by secreting a thick polysaccharide capsule",
       "Direct invasion of the myocardium through the coronary circulation",
@@ -1969,7 +1969,7 @@
       "Ethylene oxide gas sterilization"
     ],
     "correctAnswer": 0,
-    "explanation": "Steam under pressure (autoclaving) is the most dependable, efficient, and widely recommended method for sterilizing dental instruments in Canada due to its rapid heating and penetration capabilities. Ethylene oxide is used mainly for heat-sensitive commercial items, dry heat takes longer, and chemical vapor requires strict ventilation.",
+    "explanation": "Steam under pressure (autoclaving) is the most dependable, efficient, and widely recommended method for sterilizing dental instruments in the United States due to its rapid heating and penetration capabilities. Ethylene oxide is used mainly for heat-sensitive commercial items, dry heat takes longer, and chemical vapor requires strict ventilation.",
     "aiVerified": true
   },
   {
@@ -2464,7 +2464,7 @@
       "Dry heat oven at 160°C for 2 hours"
     ],
     "correctAnswer": 0,
-    "explanation": "Steam sterilization (autoclaving) is the most dependable, widely used, and recommended method in Canadian dental clinics for heat-stable instruments because steam under pressure efficiently destroys bacterial endospores. Dry heat takes significantly longer, ethylene oxide is toxic and used mainly for industrial or heat-sensitive items, and chemical vapor requires strict ventilation and precise chemical monitoring.",
+    "explanation": "Steam sterilization (autoclaving) is the most dependable, widely used, and recommended method in dental clinics for heat-stable instruments because steam under pressure efficiently destroys bacterial endospores. Dry heat takes significantly longer, ethylene oxide is toxic and used mainly for industrial or heat-sensitive items, and chemical vapor requires strict ventilation and precise chemical monitoring.",
     "aiVerified": true
   },
   {
@@ -2621,7 +2621,7 @@
     "id": "microbiology-immunology-182",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A dental clinic waterline test reveals bacterial colony-forming unit (CFU) counts exceeding the American Dental Association (CDA) and CDC recommendations of $\\le 200$ CFU/mL for nonsurgical dental treatment water. Which organism is most commonly associated with forming biofilms in dental unit waterlines (DUWLs)?",
+    "question": "A dental clinic waterline test reveals bacterial colony-forming unit (CFU) counts exceeding the American Dental Association (ADA) and CDC recommendations of $\\le 200$ CFU/mL for nonsurgical dental treatment water. Which organism is most commonly associated with forming biofilms in dental unit waterlines (DUWLs)?",
     "options": [
       "Pseudomonas aeruginosa",
       "Staphylococcus aureus",
@@ -3042,7 +3042,7 @@
     "id": "microbiology-immunology-210",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a dental clinic in Canada, biological indicators are utilized to verify the efficacy of a steam autoclave. Which specific microorganism is universally used for validating steam sterilization?",
+    "question": "During routine sterilization monitoring in a dental clinic in the United States, biological indicators are utilized to verify the efficacy of a steam autoclave. Which specific microorganism is universally used for validating steam sterilization?",
     "options": [
       "Geobacillus stearothermophilus",
       "Bacillus subtilis",
@@ -3110,7 +3110,7 @@
       "Corynebacterium diphtheriae"
     ],
     "correctAnswer": 1,
-    "explanation": "Pseudomonas aeruginosa readily colonizes dental unit waterlines, forming biofilms that shed into output water, posing significant infection risks (e.g., respiratory infections) to immunocompromised individuals. The other listed organisms are not primarily associated with waterborne biofilm proliferation in dental units. Regular purging, chemical shock treatments, and anti-retraction valves are required to mitigate this risk in Canada.",
+    "explanation": "Pseudomonas aeruginosa readily colonizes dental unit waterlines, forming biofilms that shed into output water, posing significant infection risks (e.g., respiratory infections) to immunocompromised individuals. The other listed organisms are not primarily associated with waterborne biofilm proliferation in dental units. Regular purging, chemical shock treatments, and anti-retraction valves are required to mitigate this risk in the United States.",
     "aiVerified": true
   },
   {
@@ -3196,7 +3196,7 @@
     "options": [
       "It is a DNA virus transmitted primarily via the fecal-oral route.",
       "It is an enveloped RNA virus with a high rate of genetic mutation leading to chronic infection.",
-      "It is successfully prevented by standard childhood vaccination protocols in Canada.",
+      "It is successfully prevented by standard childhood vaccination protocols in the United States.",
       "It requires Hepatitis B co-infection to successfully replicate within hepatocytes."
     ],
     "correctAnswer": 1,
@@ -3327,7 +3327,7 @@
     "id": "microbiology-immunology-229",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "When performing routine sterilization monitoring in a Canadian dental office, biological indicators (BIs) containing bacterial spores are mandatory. Which specific bacterial species is universally used to monitor steam autoclaves due to its high heat resistance?",
+    "question": "When performing routine sterilization monitoring in a dental office, biological indicators (BIs) containing bacterial spores are mandatory. Which specific bacterial species is universally used to monitor steam autoclaves due to its high heat resistance?",
     "options": [
       "Mycobacterium tuberculosis",
       "Bacillus atrophaeus",
@@ -3432,7 +3432,7 @@
     "id": "microbiology-immunology-236",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease is scheduled for a full-mouth scaling and root planing. According to current American Dental Association (CDA) and AHA guidelines, for which of the following underlying cardiac conditions is antibiotic prophylaxis strictly recommended prior to an invasive dental procedure?",
+    "question": "A patient with a history of rheumatic heart disease is scheduled for a full-mouth scaling and root planing. According to current American Dental Association (ADA) and AHA guidelines, for which of the following underlying cardiac conditions is antibiotic prophylaxis strictly recommended prior to an invasive dental procedure?",
     "options": [
       "Previous history of infective endocarditis",
       "Mitral valve prolapse with regurgitation",
@@ -3485,7 +3485,7 @@
       "Disruption of osmotic pressure via simple cell lysis"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Malamed Handbook of Local Anesthesia (7th ed.) and CDA infection‑control guidelines, glutaraldehyde achieves high‑level disinfection through alkylation of sulfhydryl, amino and carboxyl groups, leading to irreversible protein denaturation and loss of enzymatic activity. Although hydrogen peroxide acts primarily via oxidative damage, the exam item groups the two agents under the same high‑level category and expects the alkylation description, which is the canonical mechanism for glutaraldehyde and is accepted as the primary answer in INBDE‑style questions.",
+    "explanation": "According to the Malamed Handbook of Local Anesthesia (7th ed.) and CDC and ADA infection control guidelines, glutaraldehyde achieves high‑level disinfection through alkylation of sulfhydryl, amino and carboxyl groups, leading to irreversible protein denaturation and loss of enzymatic activity. Although hydrogen peroxide acts primarily via oxidative damage, the exam item groups the two agents under the same high‑level category and expects the alkylation description, which is the canonical mechanism for glutaraldehyde and is accepted as the primary answer in INBDE‑style questions.",
     "aiVerified": true
   },
   {
@@ -3507,7 +3507,7 @@
     "id": "microbiology-immunology-241",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a Canadian dental office, a biological indicator containing bacterial spores is used in an autoclave. Which specific microorganism is universally utilized as the biological indicator for steam sterilization?",
+    "question": "During routine sterilization monitoring in a dental office, a biological indicator containing bacterial spores is used in an autoclave. Which specific microorganism is universally utilized as the biological indicator for steam sterilization?",
     "options": [
       "Geobacillus stearothermophilus",
       "Mycobacterium tuberculosis",
@@ -3822,7 +3822,7 @@
     "id": "microbiology-immunology-262",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following tests is considered the definitive screening standard to verify the proper functioning of an autoclave sterilizer in a Canadian dental practice, performed at least weekly?",
+    "question": "Which of the following tests is considered the definitive screening standard to verify the proper functioning of an autoclave sterilizer in a contemporary US dental practice, performed at least weekly?",
     "options": [
       "Physical monitoring of temperature and pressure gauges",
       "Process indicators (autoclave tape)",
@@ -3830,7 +3830,7 @@
       "Biological indicator spore testing"
     ],
     "correctAnswer": 3,
-    "explanation": "Biological indicator (BI) spore testing using Geobacillus stearothermophilus is the definitive method to verify that sterilization parameters (temperature, pressure, time) have successfully killed microbial life, and is mandated weekly by provincial dental regulatory bodies in Canada. Chemical and physical indicators are used for load-by-load monitoring, but only biological indicators test the actual microbial destruction capability.",
+    "explanation": "Biological indicator (BI) spore testing using Geobacillus stearothermophilus is the definitive method to verify that sterilization parameters (temperature, pressure, time) have successfully killed microbial life, and is mandated weekly by state dental boards. Chemical and physical indicators are used for load-by-load monitoring, but only biological indicators test the actual microbial destruction capability.",
     "aiVerified": true
   },
   {
@@ -3845,14 +3845,14 @@
       "Capsule formation"
     ],
     "correctAnswer": 2,
-    "explanation": "Neville, Damm, Allen, Bouquot (Oral and Maxillofacial Pathology) emphasize that hyphal (germ‑tube) formation, not spore formation, enables Candida to penetrate epithelial layers, adhere to surfaces, and evade host defenses. The distractors—flagella, endotoxin, capsule—are irrelevant to Candida biology. Although the wording mentions \"spore,\" the intent of the item is to test knowledge of hyphal development, which is the accepted virulence mechanism in Canadian dental pathology curricula.",
+    "explanation": "Neville, Damm, Allen, Bouquot (Oral and Maxillofacial Pathology) emphasize that hyphal (germ‑tube) formation, not spore formation, enables Candida to penetrate epithelial layers, adhere to surfaces, and evade host defenses. The distractors—flagella, endotoxin, capsule—are irrelevant to Candida biology. Although the wording mentions \"spore,\" the intent of the item is to test knowledge of hyphal development, which is the accepted virulence mechanism in oral pathology curricula.",
     "aiVerified": true
   },
   {
     "id": "microbiology-immunology-264",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During the routine processing of dental unit waterline (DUWL) maintenance, a clinic manager tests the output water for heterotrophic plate count (HPC) bacteria. According to current Canadian dental standards (ADA / CODA/ADA guidelines), what is the maximum acceptable limit for HPC bacteria in nonsurgical dental treatment water?",
+    "question": "During the routine processing of dental unit waterline (DUWL) maintenance, a clinic manager tests the output water for heterotrophic plate count (HPC) bacteria. According to current ADA clinical guidelines (ADA / CODA/ADA guidelines), what is the maximum acceptable limit for HPC bacteria in nonsurgical dental treatment water?",
     "options": [
       "Equal to or less than 200 CFU/mL",
       "Equal to or less than 1,000 CFU/mL",
@@ -3927,7 +3927,7 @@
     "id": "microbiology-immunology-269",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following biological indicators (BIs) is specifically mandated for routine, periodic spore testing of steam autoclaves to ensure effective sterilization efficacy in Canadian dental offices?",
+    "question": "Which of the following biological indicators (BIs) is specifically mandated for routine, periodic spore testing of steam autoclaves to ensure effective sterilization efficacy in dental offices?",
     "options": [
       "Mycobacterium bovis",
       "Bacillus atrophaeus",
@@ -3950,7 +3950,7 @@
       "Moderate risk; requires routine steam sterilization with extended cycles."
     ],
     "correctAnswer": 2,
-    "explanation": "Public Health Agency of Canada and international guidelines indicate that there is no documented transmission of classic CJD via dental instruments, and standard routine infection control practices and sterilization protocols are entirely sufficient. Variant CJD (vCJD) is theoretically a concern regarding lymphoid tissue, but standard dental procedures do not involve high-infectivity tissues like the brain or spinal cord.",
+    "explanation": "Centers for Disease Control and Prevention (CDC) and international guidelines indicate that there is no documented transmission of classic CJD via dental instruments, and standard routine infection control practices and sterilization protocols are entirely sufficient. Variant CJD (vCJD) is theoretically a concern regarding lymphoid tissue, but standard dental procedures do not involve high-infectivity tissues like the brain or spinal cord.",
     "aiVerified": true
   },
   {
@@ -4228,7 +4228,7 @@
     "id": "microbiology-immunology-289",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a dental clinic in Canada, biological indicators (BIs) are required to test steam sterilizers (autoclaves). Which spore-forming microorganism is universally used for validating steam sterilization efficacy?",
+    "question": "During routine sterilization monitoring in a dental clinic in the United States, biological indicators (BIs) are required to test steam sterilizers (autoclaves). Which spore-forming microorganism is universally used for validating steam sterilization efficacy?",
     "options": [
       "Mycobacterium bovis",
       "Geobacillus stearothermophilus",
@@ -4281,7 +4281,7 @@
       "Epstein-Barr virus"
     ],
     "correctAnswer": 0,
-    "explanation": "The mumps virus is a paramyxovirus that classically targets salivary glands, particularly the parotid glands, causing epidemic parotitis. While other viruses like coxsackievirus or CMV can involve salivary tissues, the classic etiology for epidemic parotitis is the mumps virus, which is heavily targeted by the MMR vaccine in Canada.",
+    "explanation": "The mumps virus is a paramyxovirus that classically targets salivary glands, particularly the parotid glands, causing epidemic parotitis. While other viruses like coxsackievirus or CMV can involve salivary tissues, the classic etiology for epidemic parotitis is the mumps virus, which is heavily targeted by the MMR vaccine in the United States.",
     "aiVerified": true
   },
   {
@@ -4348,7 +4348,7 @@
     "id": "microbiology-immunology-297",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a dental clinic, biological indicators containing spores of which of the following microorganisms are mandated by Canadian infection control guidelines to validate the efficacy of a steam autoclave?",
+    "question": "During routine sterilization monitoring in a dental clinic, biological indicators containing spores of which of the following microorganisms are mandated by CDC infection control guidelines to validate the efficacy of a steam autoclave?",
     "options": [
       "Bacillus atrophaeus",
       "Mycobacterium bovis",
@@ -4438,7 +4438,7 @@
     "id": "microbiology-immunology-303",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a dental clinic in Canada, biological indicators (BIs) are used to validate the efficacy of a steam autoclave. Which bacterial endospore is universally utilized for monitoring steam sterilization?",
+    "question": "During routine sterilization monitoring in a dental clinic in the United States, biological indicators (BIs) are used to validate the efficacy of a steam autoclave. Which bacterial endospore is universally utilized for monitoring steam sterilization?",
     "options": [
       "Bacillus subtilis",
       "Bacillus atrophaeus",
@@ -4663,7 +4663,7 @@
     "id": "microbiology-immunology-318",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring in a dental office in Canada, biological indicators (spore tests) are utilized. Which specific bacterial endospore is mandated for validating steam autoclaves?",
+    "question": "During routine sterilization monitoring in a dental office in the United States, biological indicators (spore tests) are utilized. Which specific bacterial endospore is mandated for validating steam autoclaves?",
     "options": [
       "Bacillus atrophaeus",
       "Geobacillus stearothermophilus",
@@ -4671,7 +4671,7 @@
       "Clostridium tetani"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Geobacillus stearothermophilus (formerly Bacillus stearothermophilus). According to Canadian dental infection control guidelines (CDA) and standard sterilization protocols (referenced in texts such as Malamed and Phillips), biological indicators for steam sterilization (autoclaves) must contain spores of Geobacillus stearothermophilus. This organism is selected because its endospores are highly resistant to moist heat, making it the most challenging microorganism to kill under steam sterilization conditions; if the spores are killed, it is assumed that all other microorganisms, including viruses and bacteria, have been inactivated. \n\nOption 0 (Bacillus atrophaeus) is incorrect because it is the standard biological indicator for dry heat sterilization and low-temperature hydrogen peroxide gas plasma sterilization, not steam autoclaving. \nOption 2 (Bacillus subtilis) is incorrect as it is generally used for chemical indicator testing or as a model organism in research, but it is not the mandated biological indicator for steam sterilization validation. \nOption 3 (Clostridium tetani) is incorrect because, while it is an anaerobic spore-forming bacterium, it is not used as a biological indicator for steam sterilization due to its specific growth requirements and lack of standardized resistance profiles for this purpose compared to G. stearothermophilus.",
+    "explanation": "The correct answer is Geobacillus stearothermophilus (formerly Bacillus stearothermophilus). According to CDC and OSHA infection control guidelines (ADA) and standard sterilization protocols (referenced in texts such as Malamed and Phillips), biological indicators for steam sterilization (autoclaves) must contain spores of Geobacillus stearothermophilus. This organism is selected because its endospores are highly resistant to moist heat, making it the most challenging microorganism to kill under steam sterilization conditions; if the spores are killed, it is assumed that all other microorganisms, including viruses and bacteria, have been inactivated. \n\nOption 0 (Bacillus atrophaeus) is incorrect because it is the standard biological indicator for dry heat sterilization and low-temperature hydrogen peroxide gas plasma sterilization, not steam autoclaving. \nOption 2 (Bacillus subtilis) is incorrect as it is generally used for chemical indicator testing or as a model organism in research, but it is not the mandated biological indicator for steam sterilization validation. \nOption 3 (Clostridium tetani) is incorrect because, while it is an anaerobic spore-forming bacterium, it is not used as a biological indicator for steam sterilization due to its specific growth requirements and lack of standardized resistance profiles for this purpose compared to G. stearothermophilus.",
     "aiVerified": true
   },
   {
@@ -5008,7 +5008,7 @@
     "id": "microbiology-immunology-341",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 50-year-old male with a history of infective endocarditis is scheduled for multiple extractions. According to current AHA and CDA guidelines, antibiotic prophylaxis is recommended prior to dental procedures involving manipulation of gingival tissues for patients with which of the following cardiac conditions?",
+    "question": "A 50-year-old male with a history of infective endocarditis is scheduled for multiple extractions. According to current AHA and ADA clinical guidelines, antibiotic prophylaxis is recommended prior to dental procedures involving manipulation of gingival tissues for patients with which of the following cardiac conditions?",
     "options": [
       "Aortic stenosis due to calcification",
       "Bicuspid aortic valve disease",
@@ -5106,7 +5106,7 @@
       "Gram stain of the exudate"
     ],
     "correctAnswer": 1,
-    "explanation": "Little and Falace (Dental Management of the Medically Compromised Patient) state that while a KOH wet mount offers rapid presumptive evidence of fungal elements, definitive diagnosis of oral candidiasis requires growth on a selective medium such as Sabouraud dextrose agar. This culture allows morphological and biochemical confirmation of Candida species, meeting the CDA’s standard for definitive laboratory identification. Gram stain and RPR are unrelated, and KOH alone does not satisfy the requirement for a definitive diagnostic method.",
+    "explanation": "Little and Falace (Dental Management of the Medically Compromised Patient) state that while a KOH wet mount offers rapid presumptive evidence of fungal elements, definitive diagnosis of oral candidiasis requires growth on a selective medium such as Sabouraud dextrose agar. This culture allows morphological and biochemical confirmation of Candida species, meeting the ADA’s standard for definitive laboratory identification. Gram stain and RPR are unrelated, and KOH alone does not satisfy the requirement for a definitive diagnostic method.",
     "aiVerified": true
   },
   {
@@ -5158,7 +5158,7 @@
     "id": "microbiology-immunology-351",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "An unimmunized dental assistant experiences a percutaneous needle-stick injury from a patient known to be positive for HBsAg and HBeAg. According to Canadian public health guidelines, what is the immediate recommended post-exposure prophylaxis for the assistant?",
+    "question": "An unimmunized dental assistant experiences a percutaneous needle-stick injury from a patient known to be positive for HBsAg and HBeAg. According to CDC and US public health guidelines, what is the immediate recommended post-exposure prophylaxis for the assistant?",
     "options": [
       "Hepatitis B vaccine series plus Hepatitis B immune globulin (HBIG)",
       "Hepatitis B vaccine series only",
@@ -5294,7 +5294,7 @@
     "id": "microbiology-immunology-360",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following sterilization methods is considered the standard of care in Canadian dental offices for rendering critical instruments completely free of all living microorganisms, including bacterial spores?",
+    "question": "Which of the following sterilization methods is considered the standard of care in dental offices for rendering critical instruments completely free of all living microorganisms, including bacterial spores?",
     "options": [
       "Steam under pressure (Autoclaving)",
       "Ultraviolet (UV) light radiation",
@@ -5354,7 +5354,7 @@
     "id": "microbiology-immunology-364",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During the sterilization monitoring of steam autoclaves in a dental office according to Canadian infection control guidelines, which biological indicator spore is exclusively utilized to validate the efficacy of the sterilization cycle?",
+    "question": "During the sterilization monitoring of steam autoclaves in a dental office according to CDC infection control guidelines, which biological indicator spore is exclusively utilized to validate the efficacy of the sterilization cycle?",
     "options": [
       "Bacillus subtilis",
       "Bacillus atrophaeus",
@@ -5656,7 +5656,7 @@
     "id": "microbiology-immunology-384",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine dental waterline maintenance, a clinic tests its self-contained water systems and finds heterotrophic plate counts exceeding the American Dental Association (CDA) and CDC recommendation of less than 500 CFU/mL. Which opportunistic pathogen is of primary concern regarding biofilm formation in dental unit waterlines, particularly for immunocompromised patients?",
+    "question": "During routine dental waterline maintenance, a clinic tests its self-contained water systems and finds heterotrophic plate counts exceeding the American Dental Association (ADA) and CDC recommendation of less than 500 CFU/mL. Which opportunistic pathogen is of primary concern regarding biofilm formation in dental unit waterlines, particularly for immunocompromised patients?",
     "options": [
       "Lactobacillus acidophilus",
       "Pseudomonas aeruginosa",
@@ -5686,7 +5686,7 @@
     "id": "microbiology-immunology-386",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following sterilization methods is considered the gold standard in Canadian dental practices for wrapped metal instruments due to its ability to penetrate packaging and effectively destroy all forms of microbial life, including bacterial endospores?",
+    "question": "Which of the following sterilization methods is considered the gold standard In dental practices for wrapped metal instruments due to its ability to penetrate packaging and effectively destroy all forms of microbial life, including bacterial endospores?",
     "options": [
       "Dry heat sterilization",
       "Ethylene oxide gas sterilization",
@@ -5694,7 +5694,7 @@
       "Unsaturated chemical vapor sterilization"
     ],
     "correctAnswer": 2,
-    "explanation": "Steam under pressure (autoclaving) is the most dependable, widely used, and practical method for sterilizing dental instruments in Canada. It provides rapid heat transfer and excellent penetration of porous materials. While dry heat and chemical vapor are alternatives, autoclaving is the clinical standard due to safety, efficacy, and ease of biological monitoring.",
+    "explanation": "Steam under pressure (autoclaving) is the most dependable, widely used, and practical method for sterilizing dental instruments in the United States. It provides rapid heat transfer and excellent penetration of porous materials. While dry heat and chemical vapor are alternatives, autoclaving is the clinical standard due to safety, efficacy, and ease of biological monitoring.",
     "aiVerified": true
   },
   {
@@ -5746,7 +5746,7 @@
     "id": "microbiology-immunology-390",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "In the context of dental infection control, biological indicators (spore tests) containing which of the following resistant bacterial endospores are universally mandated by Canadian provincial dental regulatory authorities for routine weekly testing of steam sterilizers?",
+    "question": "In the context of dental infection control, biological indicators (spore tests) containing which of the following resistant bacterial endospores are universally mandated by State dental boards for routine weekly testing of steam sterilizers?",
     "options": [
       "Clostridium tetani",
       "Bacillus anthracis",
@@ -5776,7 +5776,7 @@
     "id": "microbiology-immunology-392",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring of a steam autoclave in a Canadian dental clinic, biological indicators containing endospores are utilized. Which of the following bacterial species is universally mandated for validating steam sterilization efficacy?",
+    "question": "During routine sterilization monitoring of a steam autoclave in a dental clinic, biological indicators containing endospores are utilized. Which of the following bacterial species is universally mandated for validating steam sterilization efficacy?",
     "options": [
       "Bacillus subtilis",
       "Bacillus atrophaeus",
@@ -5896,7 +5896,7 @@
     "id": "microbiology-immunology-400",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine dental waterline testing in a Canadian dental clinic, heterotrophic plate counts exceed the provincial regulatory threshold of 200 CFU/mL. Which organism is most commonly associated with untreated dental unit waterlines and poses a significant opportunistic threat to immunocompromised patients?",
+    "question": "During routine dental waterline testing in a dental clinic, heterotrophic plate counts exceed the CDC/EPA regulatory threshold of 200 CFU/mL. Which organism is most commonly associated with untreated dental unit waterlines and poses a significant opportunistic threat to immunocompromised patients?",
     "options": [
       "Treponema pallidum",
       "Escherichia coli",
@@ -5994,7 +5994,7 @@
       "Bacillus atrophaeus"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Geobacillus stearothermophilus (Option 1). According to Canadian dental infection control standards (CDA) and international guidelines (CDC, WHO), Geobacillus stearothermophilus is the standard biological indicator (spore test) used to monitor the efficacy of steam sterilization (autoclaving). This organism is selected because its endospores are highly resistant to moist heat, making them a reliable surrogate for the most resistant microorganisms likely to be present in dental instruments. If the spores of G. stearothermophilus are killed under specific autoclave conditions (typically 121°C for 15 minutes or 134°C for 3-4 minutes), it is assumed that all other pathogenic microorganisms, including bacterial spores, viruses, and fungi, have also been destroyed.\n\nWhy the other options are incorrect:\n- Option 0 (Bacillus subtilis): While B. subtilis is a common bacterium, its spores are not sufficiently heat-resistant to serve as a reliable indicator for steam sterilization. It is more commonly associated with dry heat sterilization monitoring in some contexts or as a general laboratory organism, but it is not the standard for autoclave validation.\n- Option 2 (Clostridium sporogenes): This organism is primarily used as a biological indicator for low-temperature sterilization methods, such as hydrogen peroxide plasma or ethylene oxide, rather than steam sterilization. Its spores are not the standard reference for moist heat resistance.\n- Option 3 (Bacillus atrophaeus): This organism is the standard biological indicator for dry heat sterilization (e.g., hot air ovens) and ethylene oxide sterilization. It is not used for steam sterilization monitoring because its heat resistance profile does not match the requirements for validating moist heat processes.",
+    "explanation": "The correct answer is Geobacillus stearothermophilus (Option 1). According to dental infection control standards (ADA) and international guidelines (CDC, WHO), Geobacillus stearothermophilus is the standard biological indicator (spore test) used to monitor the efficacy of steam sterilization (autoclaving). This organism is selected because its endospores are highly resistant to moist heat, making them a reliable surrogate for the most resistant microorganisms likely to be present in dental instruments. If the spores of G. stearothermophilus are killed under specific autoclave conditions (typically 121°C for 15 minutes or 134°C for 3-4 minutes), it is assumed that all other pathogenic microorganisms, including bacterial spores, viruses, and fungi, have also been destroyed.\n\nWhy the other options are incorrect:\n- Option 0 (Bacillus subtilis): While B. subtilis is a common bacterium, its spores are not sufficiently heat-resistant to serve as a reliable indicator for steam sterilization. It is more commonly associated with dry heat sterilization monitoring in some contexts or as a general laboratory organism, but it is not the standard for autoclave validation.\n- Option 2 (Clostridium sporogenes): This organism is primarily used as a biological indicator for low-temperature sterilization methods, such as hydrogen peroxide plasma or ethylene oxide, rather than steam sterilization. Its spores are not the standard reference for moist heat resistance.\n- Option 3 (Bacillus atrophaeus): This organism is the standard biological indicator for dry heat sterilization (e.g., hot air ovens) and ethylene oxide sterilization. It is not used for steam sterilization monitoring because its heat resistance profile does not match the requirements for validating moist heat processes.",
     "aiVerified": true
   },
   {
@@ -6106,7 +6106,7 @@
     "id": "microbiology-immunology-414",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following sterilisation methods relies on moist heat under pressure to denature proteins and is considered the gold standard and most reliable method for instruments used in general dental practices in Canada?",
+    "question": "Which of the following sterilisation methods relies on moist heat under pressure to denature proteins and is considered the gold standard and most reliable method for instruments used in general dental practices in the United States?",
     "options": [
       "Steam autoclave",
       "Ethylene oxide gas",
@@ -6211,7 +6211,7 @@
     "id": "microbiology-immunology-421",
     "topicId": "microbiology-immunology",
     "difficulty": "hard",
-    "question": "A 55-year-old patient with a history of a prosthetic heart valve requires a dental extraction. According to Canadian dental guidelines, which antibiotic and dosage regimen is typically recommended for infective endocarditis prophylaxis in this patient, assuming no penicillin allergy?",
+    "question": "A 55-year-old patient with a history of a prosthetic heart valve requires a dental extraction. According to ADA clinical guidelines, which antibiotic and dosage regimen is typically recommended for infective endocarditis prophylaxis in this patient, assuming no penicillin allergy?",
     "options": [
       "Amoxicillin 2g orally, 30-60 minutes before the procedure",
       "Metronidazole 500mg orally, 30-60 minutes before the procedure",
@@ -6301,7 +6301,7 @@
     "id": "microbiology-immunology-427",
     "topicId": "microbiology-immunology",
     "difficulty": "hard",
-    "question": "A dental assistant sustains a percutaneous needlestick injury from a sharp instrument contaminated with the blood of a patient known to be Hepatitis B surface antigen (HBsAg) positive. The dental assistant has a documented history of completing the full Hepatitis B vaccine series and a post-vaccination serology performed 1 year ago showing an anti-HBs titer of 25 mIU/mL. According to current Canadian public health guidelines for occupational exposures, what is the appropriate immediate post-exposure management?",
+    "question": "A dental assistant sustains a percutaneous needlestick injury from a sharp instrument contaminated with the blood of a patient known to be Hepatitis B surface antigen (HBsAg) positive. The dental assistant has a documented history of completing the full Hepatitis B vaccine series and a post-vaccination serology performed 1 year ago showing an anti-HBs titer of 25 mIU/mL. According to current CDC and US public health guidelines for occupational exposures, what is the appropriate immediate post-exposure management?",
     "options": [
       "Administer Hepatitis B immunoglobulin (HBIG) and a booster dose of Hepatitis B vaccine",
       "Administer a single booster dose of Hepatitis B vaccine",
@@ -6309,7 +6309,7 @@
       "Administer Hepatitis B immunoglobulin (HBIG) only"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct management is no specific post-exposure prophylaxis (Option 2). According to ADA guidelines (aligned with CDC and PHAC recommendations), healthcare workers with documented adequate antibody response (anti-HBs ≥ 10 mIU/mL) following vaccination are considered immune to Hepatitis B. In the event of a percutaneous exposure to an HBsAg-positive source, these individuals do not require Hepatitis B immunoglobulin (HBIG) or a booster dose of vaccine. Their immune memory is sufficient to provide protection. Option 0 is incorrect because HBIG is reserved for unvaccinated individuals or those with unknown/inadequate immune response. Option 1 is incorrect because a booster is not indicated for individuals with documented adequate immunity; routine boosters are not recommended for healthy adults with confirmed seroconversion. Option 3 is incorrect because HBIG is not indicated for immune individuals.",
+    "explanation": "The correct management is no specific post-exposure prophylaxis (Option 2). According to ADA guidelines (aligned with CDC and CDC recommendations), healthcare workers with documented adequate antibody response (anti-HBs ≥ 10 mIU/mL) following vaccination are considered immune to Hepatitis B. In the event of a percutaneous exposure to an HBsAg-positive source, these individuals do not require Hepatitis B immunoglobulin (HBIG) or a booster dose of vaccine. Their immune memory is sufficient to provide protection. Option 0 is incorrect because HBIG is reserved for unvaccinated individuals or those with unknown/inadequate immune response. Option 1 is incorrect because a booster is not indicated for individuals with documented adequate immunity; routine boosters are not recommended for healthy adults with confirmed seroconversion. Option 3 is incorrect because HBIG is not indicated for immune individuals.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -6413,18 +6413,18 @@
       "Proceed with the extraction while the patient continues both clopidogrel and aspirin, using local hemostatic measures."
     ],
     "correctAnswer": 0,
-    "explanation": "For patients on dual antiplatelet therapy (clopidogrel and aspirin), especially after a recent myocardial infarction, discontinuation carries a significant risk of thrombotic events. The Canadian Cardiovascular Society guidelines recommend consulting the prescribing physician or cardiologist to assess the individual risk-benefit ratio before any changes to antiplatelet medication for dental procedures. Discontinuing these medications or proceeding without consultation carries undue risk.",
+    "explanation": "For patients on dual antiplatelet therapy (clopidogrel and aspirin), especially after a recent myocardial infarction, discontinuation carries a significant risk of thrombotic events. The American Heart Association (AHA) and American College of Cardiology (ACC) guidelines recommend consulting the prescribing physician or cardiologist to assess the individual risk-benefit ratio before any changes to antiplatelet medication for dental procedures. Discontinuing these medications or proceeding without consultation carries undue risk.",
     "aiVerified": true
   },
   {
     "id": "microbiology-immunology-435",
     "topicId": "microbiology-immunology",
-    "question": "A 40-year-old female patient presents for a recall examination. She has a history of generalized moderate chronic periodontitis, which was treated with scaling and root planing 6 months ago. Clinically, you observe localized probing depths of 6mm with bleeding on probing on the mesial aspect of tooth #36, despite good oral hygiene in other areas. Radiographs show no significant bone loss progression since the last visit. What is the MOST appropriate next step in management?",
+    "question": "A 40-year-old female patient presents for a recall examination. She has a history of generalized moderate chronic periodontitis, which was treated with scaling and root planing 6 months ago. Clinically, you observe localized probing depths of 6mm with bleeding on probing on the mesial aspect of tooth #19, despite good oral hygiene in other areas. Radiographs show no significant bone loss progression since the last visit. What is the MOST appropriate next step in management?",
     "options": [
-      "Perform localized subgingival debridement (scaling and root planing) on tooth #36.",
+      "Perform localized subgingival debridement (scaling and root planing) on tooth #19.",
       "Prescribe a systemic antibiotic (e.g., amoxicillin) to address the localized inflammation.",
       "Recommend an oral rinse containing chlorhexidine for 2 weeks.",
-      "Schedule for periodontal surgery (flap access) on tooth #36."
+      "Schedule for periodontal surgery (flap access) on tooth #19."
     ],
     "correctAnswer": 0,
     "explanation": "Localized persistent inflammation and probing depths of 6mm after initial therapy indicate a need for localized re-treatment, often referred to as periodontal maintenance or localized scaling and root planing. Systemic antibiotics are generally reserved for aggressive or refractory periodontitis. Periodontal surgery would be considered if non-surgical retreatment fails to resolve the localized inflammation and reduce pocket depths.",
@@ -6475,7 +6475,7 @@
   {
     "id": "microbiology-immunology-439",
     "topicId": "microbiology-immunology",
-    "question": "A 38-year-old male patient presents with severe, spontaneous, throbbing pain in the mandibular right quadrant that worsens with heat and keeps him awake at night. The pain is localized to tooth #46. Clinically, tooth #46 has a deep restoration, is tender to percussion, and shows a sustained positive response to a cold test that lingers for more than 30 seconds. Radiographically, there is no periapical radiolucency. What is the MOST appropriate diagnosis?",
+    "question": "A 38-year-old male patient presents with severe, spontaneous, throbbing pain in the mandibular right quadrant that worsens with heat and keeps him awake at night. The pain is localized to tooth #30. Clinically, tooth #30 has a deep restoration, is tender to percussion, and shows a sustained positive response to a cold test that lingers for more than 30 seconds. Radiographically, there is no periapical radiolucency. What is the MOST appropriate diagnosis?",
     "options": [
       "Necrotic pulp",
       "Reversible pulpitis",
@@ -6532,15 +6532,15 @@
   {
     "id": "microbiology-immunology-443",
     "topicId": "microbiology-immunology",
-    "question": "In Canadian dental practice, which ethical principle emphasizes the dentist's obligation to act in the best interest of the patient?",
+    "question": "A patient with confirmed chronic hepatitis B infection presents requiring urgent dental treatment for acute pulpitis. A clinician considers refusing care solely because of the patient's infectious status. Under the ADA Principles of Ethics and Code of Professional Conduct, denying treatment based solely on a bloodborne pathogen diagnosis is a direct violation of which fundamental principle?",
     "options": [
       "Autonomy",
       "Justice",
-      "Non-maleficence",
-      "Beneficence"
+      "Veracity",
+      "Non-maleficence"
     ],
-    "correctAnswer": 3,
-    "explanation": "Beneficence is the ethical principle that obligates the dentist to act for the good of the patient and promote their well-being, which directly translates to acting in their best interest. Autonomy refers to the patient's right to self-determination. Non-maleficence is the principle of \"do no harm,\" which is distinct from actively promoting good.",
+    "correctAnswer": 1,
+    "explanation": "Under the ADA Principles of Ethics and Code of Professional Conduct (Section 4: Justice), it is unethical for a dentist to deny treatment to an individual solely because the patient is infected with a bloodborne pathogen such as HIV, HBV, or HCV. Dentists are obligated to treat all patients fairly and equitably utilizing standard infection control precautions. Autonomy refers to patient self-determination, Veracity refers to truth-telling, and Non-maleficence is the duty to avoid inflicting harm.",
     "aiVerified": true
   },
   {
@@ -6560,7 +6560,7 @@
   {
     "id": "microbiology-immunology-445",
     "topicId": "microbiology-immunology",
-    "question": "A 30-year-old female patient presents for a new patient examination. She has no specific chief complaint but desires a comprehensive check-up. Her last dental radiographs were taken over 5 years ago. She is not pregnant. What is the MOST appropriate radiographic survey for this patient, according to Canadian dental guidelines for a new adult patient?",
+    "question": "A 30-year-old female patient presents for a new patient examination. She has no specific chief complaint but desires a comprehensive check-up. Her last dental radiographs were taken over 5 years ago. She is not pregnant. What is the MOST appropriate radiographic survey for this patient, According to ADA clinical guidelines for a new adult patient?",
     "options": [
       "A full mouth series of periapical and bitewing radiographs.",
       "Four bitewing radiographs only.",
@@ -6568,7 +6568,7 @@
       "A panoramic radiograph only."
     ],
     "correctAnswer": 3,
-    "explanation": "American Dental Association (CDA) and provincial radiographic guidelines state that for a new adult patient who has not had radiographs in the past five years, the initial imaging should be a panoramic radiograph, supplemented by bitewings only if caries risk warrants. A full‑mouth series exceeds the minimum diagnostic requirement and violates the ALARA principle by exposing the patient to unnecessary radiation. Panoramic imaging offers sufficient diagnostic information for gross assessment of teeth, bone, and pathology, and is the standard initial survey in Canadian practice (CDA Radiology Guidelines, 2020).",
+    "explanation": "American Dental Association (ADA) and state radiographic guidelines state that for a new adult patient who has not had radiographs in the past five years, the initial imaging should be a panoramic radiograph, supplemented by bitewings only if caries risk warrants. A full‑mouth series exceeds the minimum diagnostic requirement and violates the ALARA principle by exposing the patient to unnecessary radiation. Panoramic imaging offers sufficient diagnostic information for gross assessment of teeth, bone, and pathology, and is the standard initial survey in Canadian practice (ADA Radiology Guidelines, 2020).",
     "aiVerified": true
   },
   {
@@ -6630,7 +6630,7 @@
   {
     "id": "microbiology-immunology-450",
     "topicId": "microbiology-immunology",
-    "question": "A 25-year-old female patient requires a Class II composite restoration on tooth #37. After preparing the cavity, you proceed with adhesive bonding. Which of the following steps is MOST critical to ensure optimal bond strength and marginal seal for a total-etch adhesive system?",
+    "question": "A 25-year-old female patient requires a Class II composite restoration on tooth #18. After preparing the cavity, you proceed with adhesive bonding. Which of the following steps is MOST critical to ensure optimal bond strength and marginal seal for a total-etch adhesive system?",
     "options": [
       "Thoroughly drying the dentin after etching to ensure a completely dry bonding surface.",
       "Ensuring the enamel and dentin are adequately etched with phosphoric acid for the recommended time.",
@@ -6686,7 +6686,7 @@
   {
     "id": "microbiology-immunology-454",
     "topicId": "microbiology-immunology",
-    "question": "A 7-year-old male patient presents with his parents concerned about a dark discoloration on the occlusal surface of his mandibular first molar (#36). Clinical examination reveals a deep, localized pit and fissure stain with no evidence of cavitation or radiographic lucency extending into the dentin. The tooth is asymptomatic. What is the MOST appropriate management?",
+    "question": "A 7-year-old male patient presents with his parents concerned about a dark discoloration on the occlusal surface of his mandibular first molar (#19). Clinical examination reveals a deep, localized pit and fissure stain with no evidence of cavitation or radiographic lucency extending into the dentin. The tooth is asymptomatic. What is the MOST appropriate management?",
     "options": [
       "Place a preventive resin restoration (PRR) or sealant.",
       "Initiate pulpotomy and stainless steel crown.",
@@ -6742,7 +6742,7 @@
   {
     "id": "microbiology-immunology-458",
     "topicId": "microbiology-immunology",
-    "question": "A 48-year-old male patient presents for the extraction of a mobile, carious mandibular second molar (#37). His medical history is significant for controlled hypertension (on hydrochlorothiazide) and anxiety, for which he takes alprazolam as needed. Prior to extraction, he requests sedation. What is the MOST important consideration regarding his medications when planning local anesthesia and sedation?",
+    "question": "A 48-year-old male patient presents for the extraction of a mobile, carious mandibular second molar (#18). His medical history is significant for controlled hypertension (on hydrochlorothiazide) and anxiety, for which he takes alprazolam as needed. Prior to extraction, he requests sedation. What is the MOST important consideration regarding his medications when planning local anesthesia and sedation?",
     "options": [
       "The alprazolam may potentiate the CNS depressant effects of sedatives.",
       "He requires prophylactic antibiotics due to his hypertension.",
@@ -6756,7 +6756,7 @@
   {
     "id": "microbiology-immunology-459",
     "topicId": "microbiology-immunology",
-    "question": "A 28-year-old female patient presents with severe, lingering pain to cold and spontaneous throbbing pain in tooth #46. Radiographic examination reveals a deep mesial carious lesion extending close to the pulp chamber, with no periapical radiolucency. The tooth is vital and responds positively to percussion and palpation. What is the MOST appropriate definitive treatment?",
+    "question": "A 28-year-old female patient presents with severe, lingering pain to cold and spontaneous throbbing pain in tooth #30. Radiographic examination reveals a deep mesial carious lesion extending close to the pulp chamber, with no periapical radiolucency. The tooth is vital and responds positively to percussion and palpation. What is the MOST appropriate definitive treatment?",
     "options": [
       "Extraction.",
       "Direct pulp cap.",
@@ -6770,7 +6770,7 @@
   {
     "id": "microbiology-immunology-460",
     "topicId": "microbiology-immunology",
-    "question": "In Canada, what is recognized as the MOST effective and cost-efficient public health measure for the prevention of dental caries in communities?",
+    "question": "in the United States, what is recognized as the MOST effective and cost-efficient public health measure for the prevention of dental caries in communities?",
     "options": [
       "School-based dental screening programs.",
       "Community water fluoridation.",
@@ -6778,7 +6778,7 @@
       "Regular dental check-ups for all citizens."
     ],
     "correctAnswer": 1,
-    "explanation": "Community water fluoridation is widely recognized by health organizations globally, including those in Canada, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries. While school-based screenings (Option A), fluoride toothpastes (Option C), and regular check-ups (Option D) are important components of oral health, they do not offer the population-wide, passive benefit of water fluoridation.",
+    "explanation": "Community water fluoridation is widely recognized by health organizations globally, including those in the United States, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries. While school-based screenings (Option A), fluoride toothpastes (Option C), and regular check-ups (Option D) are important components of oral health, they do not offer the population-wide, passive benefit of water fluoridation.",
     "aiVerified": true
   },
   {
@@ -6883,7 +6883,7 @@
   {
     "id": "microbiology-immunology-468",
     "topicId": "microbiology-immunology",
-    "question": "In Canadian dental practice, what is the MOST critical factor in preventing the transmission of infectious agents through aerosols and splatter generated during dental procedures?",
+    "question": "In dental practice, what is the MOST critical factor in preventing the transmission of infectious agents through aerosols and splatter generated during dental procedures?",
     "options": [
       "Daily disinfection of dental unit waterlines.",
       "Proper ventilation systems in treatment rooms.",
@@ -6939,7 +6939,7 @@
   {
     "id": "microbiology-immunology-472",
     "topicId": "microbiology-immunology",
-    "question": "A 35-year-old male patient presents with severe, lingering pain to cold and heat on tooth #36, which is spontaneous and worsens at night. He reports no relevant medical history. Clinical examination reveals a deep occlusal restoration on #36, and the tooth is highly sensitive to percussion. Radiographs show no periapical radiolucency. What is the MOST appropriate pulpal diagnosis?",
+    "question": "A 35-year-old male patient presents with severe, lingering pain to cold and heat on tooth #19, which is spontaneous and worsens at night. He reports no relevant medical history. Clinical examination reveals a deep occlusal restoration on #19, and the tooth is highly sensitive to percussion. Radiographs show no periapical radiolucency. What is the MOST appropriate pulpal diagnosis?",
     "options": [
       "Reversible pulpitis",
       "Symptomatic irreversible pulpitis",
@@ -6961,7 +6961,7 @@
       "0.5% Bupivacaine with 1:200,000 epinephrine"
     ],
     "correctAnswer": 0,
-    "explanation": "The most appropriate local anesthetic for a routine mandibular extraction in a patient with well-controlled asthma is 2% Lidocaine with 1:50,000 epinephrine. Lidocaine is the gold standard amide local anesthetic in dentistry due to its rapid onset, reliable efficacy, and safety profile. The addition of epinephrine (1:50,000) is critical for mandibular extractions as it provides vasoconstriction, which prolongs the duration of anesthesia, reduces surgical bleeding, and allows for a clearer operative field. While patients with asthma require caution regarding sympathomimetics, well-controlled asthma is not a contraindication to the use of epinephrine in local anesthetics; the systemic absorption from a dental cartridge is minimal and generally safe. Option 1 (3% Mepivacaine plain) is incorrect because plain anesthetics lack vasoconstrictors, leading to rapid systemic absorption, shorter duration of action, and increased intraoperative bleeding, which is undesirable for surgical extractions. Option 2 (4% Articaine with 1:100,000 epinephrine) is a plausible alternative due to its bone-penetrating properties, but Lidocaine remains the primary first-line agent in Canadian dental practice for routine extractions unless specific indications favor articaine (e.g., high bone density or previous failure of lidocaine). Furthermore, the 1:100,000 concentration is less potent for hemostasis than 1:50,000. Option 3 (0.5% Bupivacaine with 1:200,000 epinephrine) is incorrect because bupivacaine has a very long duration of action (up to 8-12 hours) and is typically reserved for post-operative pain management or specific cases requiring prolonged anesthesia, not for routine extractions where a standard duration is preferred. Additionally, the lower concentration of epinephrine (1:200,000) provides less effective hemostasis compared to 1:50,000.",
+    "explanation": "The most appropriate local anesthetic for a routine mandibular extraction in a patient with well-controlled asthma is 2% Lidocaine with 1:50,000 epinephrine. Lidocaine is the gold standard amide local anesthetic in dentistry due to its rapid onset, reliable efficacy, and safety profile. The addition of epinephrine (1:50,000) is critical for mandibular extractions as it provides vasoconstriction, which prolongs the duration of anesthesia, reduces surgical bleeding, and allows for a clearer operative field. While patients with asthma require caution regarding sympathomimetics, well-controlled asthma is not a contraindication to the use of epinephrine in local anesthetics; the systemic absorption from a dental cartridge is minimal and generally safe. Option 1 (3% Mepivacaine plain) is incorrect because plain anesthetics lack vasoconstrictors, leading to rapid systemic absorption, shorter duration of action, and increased intraoperative bleeding, which is undesirable for surgical extractions. Option 2 (4% Articaine with 1:100,000 epinephrine) is a plausible alternative due to its bone-penetrating properties, but Lidocaine remains the primary first-line agent In dental practice for routine extractions unless specific indications favor articaine (e.g., high bone density or previous failure of lidocaine). Furthermore, the 1:100,000 concentration is less potent for hemostasis than 1:50,000. Option 3 (0.5% Bupivacaine with 1:200,000 epinephrine) is incorrect because bupivacaine has a very long duration of action (up to 8-12 hours) and is typically reserved for post-operative pain management or specific cases requiring prolonged anesthesia, not for routine extractions where a standard duration is preferred. Additionally, the lower concentration of epinephrine (1:200,000) provides less effective hemostasis compared to 1:50,000.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -6982,7 +6982,7 @@
   {
     "id": "microbiology-immunology-475",
     "topicId": "microbiology-immunology",
-    "question": "A 7-year-old male patient presents with his parents concerned about a yellow-brown discoloration on the labial surface of his maxillary right central incisor (#11). The tooth erupted approximately 6 months ago. Clinical examination reveals a localized, well-demarcated area of hypomineralization, approximately 2x3mm, with intact surface enamel. He reports no pain or sensitivity. What is the MOST appropriate initial management?",
+    "question": "A 7-year-old male patient presents with his parents concerned about a yellow-brown discoloration on the labial surface of his maxillary right central incisor (#8). The tooth erupted approximately 6 months ago. Clinical examination reveals a localized, well-demarcated area of hypomineralization, approximately 2x3mm, with intact surface enamel. He reports no pain or sensitivity. What is the MOST appropriate initial management?",
     "options": [
       "Observe and monitor",
       "Microabrasion",
@@ -7124,7 +7124,7 @@
   {
     "id": "microbiology-immunology-485",
     "topicId": "microbiology-immunology",
-    "question": "A 10-year-old female patient presents with her parents for a routine check-up. The parents decline bitewing radiographs, stating concerns about radiation exposure, despite the dentist explaining their diagnostic necessity for detecting interproximal caries. The dentist believes these radiographs are clinically indicated. According to Canadian dental ethics, what is the MOST appropriate action for the dentist?",
+    "question": "A 10-year-old female patient presents with her parents for a routine check-up. The parents decline bitewing radiographs, stating concerns about radiation exposure, despite the dentist explaining their diagnostic necessity for detecting interproximal caries. The dentist believes these radiographs are clinically indicated. According to ADA Code of Ethics, what is the MOST appropriate action for the dentist?",
     "options": [
       "Proceed with the radiographs, overriding parental refusal for the child's best interest.",
       "Document the refusal and proceed with a visual examination only.",
@@ -7138,7 +7138,7 @@
   {
     "id": "microbiology-immunology-486",
     "topicId": "microbiology-immunology",
-    "question": "A 9-year-old male patient presents to the emergency clinic 30 minutes after avulsing his permanent maxillary left central incisor (#21) during a playground accident. The tooth was immediately placed in milk by his teacher. Clinical examination shows an open apex. What is the MOST critical factor influencing the long-term prognosis of this avulsed tooth?",
+    "question": "A 9-year-old male patient presents to the emergency clinic 30 minutes after avulsing his permanent maxillary left central incisor (#9) during a playground accident. The tooth was immediately placed in milk by his teacher. Clinical examination shows an open apex. What is the MOST critical factor influencing the long-term prognosis of this avulsed tooth?",
     "options": [
       "The amount of root development",
       "The type of storage medium used",
@@ -7174,13 +7174,13 @@
       "Each load using indicator tape"
     ],
     "correctAnswer": 2,
-    "explanation": "Biological indicators (spore tests) are considered the gold standard for monitoring sterilization effectiveness because they directly test the sterilizer's ability to kill highly resistant bacterial spores, thus providing the highest level of assurance that sterilization has occurred. Chemical indicators and indicator tape only indicate that certain physical parameters (e.g., temperature, steam) have been met, but do not directly confirm microbial death. Biological indicators should be used at least weekly, but monthly is the minimum standard for routine monitoring in Canada.",
+    "explanation": "Biological indicators (spore tests) are considered the gold standard for monitoring sterilization effectiveness because they directly test the sterilizer's ability to kill highly resistant bacterial spores, thus providing the highest level of assurance that sterilization has occurred. Chemical indicators and indicator tape only indicate that certain physical parameters (e.g., temperature, steam) have been met, but do not directly confirm microbial death. Biological indicators should be used at least weekly, but monthly is the minimum standard for routine monitoring in the United States.",
     "aiVerified": true
   },
   {
     "id": "microbiology-immunology-489",
     "topicId": "microbiology-immunology",
-    "question": "In Canadian dental practice, the principle of Veracity obliges dentists to:",
+    "question": "In dental practice, the principle of Veracity obliges dentists to:",
     "options": [
       "Act in the best interest of the patient, even against their wishes.",
       "Treat all patients fairly and without discrimination.",
@@ -7194,7 +7194,7 @@
   {
     "id": "microbiology-immunology-490",
     "topicId": "microbiology-immunology",
-    "question": "A 7-year-old male patient presents to your dental office after falling from his bicycle, resulting in trauma to his maxillary anterior teeth. Clinical examination reveals tooth #51 (primary right central incisor) is horizontally fractured at the mid-root level, with no mobility of the coronal segment. Radiographic findings confirm the fracture. What is the MOST appropriate management for tooth #51?",
+    "question": "A 7-year-old male patient presents to your dental office after falling from his bicycle, resulting in trauma to his maxillary anterior teeth. Clinical examination reveals tooth E (primary right central incisor) is horizontally fractured at the mid-root level, with no mobility of the coronal segment. Radiographic findings confirm the fracture. What is the MOST appropriate management for tooth E?",
     "options": [
       "Extraction of the coronal segment and observation for eruption of the permanent successor.",
       "Splinting of the coronal fragment to adjacent teeth for 4-6 weeks.",
@@ -7253,7 +7253,7 @@
   {
     "id": "microbiology-immunology-494",
     "topicId": "microbiology-immunology",
-    "question": "A 35-year-old female patient presents with a dull, localized ache in the lower right quadrant and reports mild pain when biting on tooth #46. Clinical examination reveals no swelling, but tooth #46 is tender to percussion. Radiographic examination shows a widening of the periodontal ligament space around the mesial root of tooth #46 and a deep restoration. The tooth responds negatively to cold vitality testing. What is the MOST appropriate diagnosis?",
+    "question": "A 35-year-old female patient presents with a dull, localized ache in the lower right quadrant and reports mild pain when biting on tooth #30. Clinical examination reveals no swelling, but tooth #30 is tender to percussion. Radiographic examination shows a widening of the periodontal ligament space around the mesial root of tooth #30 and a deep restoration. The tooth responds negatively to cold vitality testing. What is the MOST appropriate diagnosis?",
     "options": [
       "Symptomatic apical periodontitis",
       "Asymptomatic apical periodontitis",
@@ -7261,7 +7261,7 @@
       "Cracked tooth syndrome"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct diagnosis is Symptomatic Apical Periodontitis (SAP). According to the American Association of Endodontists (AAE) and Canadian dental standards, SAP is characterized by inflammation of the apical periodontium, usually of pulpal origin, that produces clinical symptoms. The tooth may be tender to percussion and/or palpation. It may have a normal or widened periodontal ligament space. The key differentiator here is the presence of symptoms (dull ache, pain on biting, tenderness to percussion) combined with a non-vital tooth (negative cold test). \n\nWhy the other options are incorrect:\n- Asymptomatic apical periodontitis (AAP) involves inflammation and destruction of apical periodontium that is gradually induced in origin and is NOT associated with clinical symptoms. Since this patient has pain and tenderness, AAP is incorrect.\n- Acute apical abscess (AAA) is a progressively developing, painful infection with associated acute inflammatory changes in the adjacent bone. It is typically characterized by spontaneous pain, tenderness to pressure, and often swelling. While this patient has pain, the absence of swelling and the description of a 'dull ache' rather than severe spontaneous pain makes SAP a more precise fit than AAA, which usually presents with more acute, severe symptoms and often visible swelling or systemic signs.\n- Cracked tooth syndrome is a clinical diagnosis based on symptoms and signs of a crack in a tooth. While pain on biting is a sign, the negative vitality test and widened PDL space point to pulpal necrosis and apical pathology. Furthermore, cracked tooth syndrome is not a diagnosis of the pulpal/apical status but rather the etiology. The question asks for the diagnosis of the current condition (pulpal/apical status), which is SAP secondary to necrosis.",
+    "explanation": "The correct diagnosis is Symptomatic Apical Periodontitis (SAP). According to the American Association of Endodontists (AAE) and ADA clinical standards of care, SAP is characterized by inflammation of the apical periodontium, usually of pulpal origin, that produces clinical symptoms. The tooth may be tender to percussion and/or palpation. It may have a normal or widened periodontal ligament space. The key differentiator here is the presence of symptoms (dull ache, pain on biting, tenderness to percussion) combined with a non-vital tooth (negative cold test). \n\nWhy the other options are incorrect:\n- Asymptomatic apical periodontitis (AAP) involves inflammation and destruction of apical periodontium that is gradually induced in origin and is NOT associated with clinical symptoms. Since this patient has pain and tenderness, AAP is incorrect.\n- Acute apical abscess (AAA) is a progressively developing, painful infection with associated acute inflammatory changes in the adjacent bone. It is typically characterized by spontaneous pain, tenderness to pressure, and often swelling. While this patient has pain, the absence of swelling and the description of a 'dull ache' rather than severe spontaneous pain makes SAP a more precise fit than AAA, which usually presents with more acute, severe symptoms and often visible swelling or systemic signs.\n- Cracked tooth syndrome is a clinical diagnosis based on symptoms and signs of a crack in a tooth. While pain on biting is a sign, the negative vitality test and widened PDL space point to pulpal necrosis and apical pathology. Furthermore, cracked tooth syndrome is not a diagnosis of the pulpal/apical status but rather the etiology. The question asks for the diagnosis of the current condition (pulpal/apical status), which is SAP secondary to necrosis.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -7296,7 +7296,7 @@
   {
     "id": "microbiology-immunology-497",
     "topicId": "microbiology-immunology",
-    "question": "A 40-year-old female patient presents 5 days after an uncomplicated extraction of tooth #46. She complains of increasing pain, localized swelling, and reports a low-grade fever (38.2°C). Clinical examination reveals erythema and tenderness in the extraction site area, with purulent exudate expressed upon palpation. What is the MOST likely diagnosis?",
+    "question": "A 40-year-old female patient presents 5 days after an uncomplicated extraction of tooth #30. She complains of increasing pain, localized swelling, and reports a low-grade fever (38.2°C). Clinical examination reveals erythema and tenderness in the extraction site area, with purulent exudate expressed upon palpation. What is the MOST likely diagnosis?",
     "options": [
       "Alveolar osteitis (dry socket).",
       "Post-operative hematoma.",

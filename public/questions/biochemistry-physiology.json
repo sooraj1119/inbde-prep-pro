@@ -5235,12 +5235,12 @@
     "question": "Which of the following structural characteristics is universally shared by all classes of membrane lipids including phospholipids, glycolipids, and cholesterol?",
     "options": [
       "Contains ester-linked fatty acids",
-      "Amphipathic nature",
+      "AmHIPAAthic nature",
       "Presence of a glycerol backbone",
       "Contains a carbohydrate moiety"
     ],
     "correctAnswer": 1,
-    "explanation": "All membrane lipids (phospholipids, glycolipids, and cholesterol) are amphipathic molecules, possessing both hydrophilic (polar) and hydrophobic (nonpolar) regions, which is essential for the formation of the lipid bilayer. Phospholipids typically have a glycerol or sphingosine backbone, cholesterol has a steroid ring structure, and not all membrane lipids contain carbohydrates or ester-linked fatty acids (e.g., sphingolipids have amide bonds, cholesterol lacks fatty acid chains).",
+    "explanation": "All membrane lipids (phospholipids, glycolipids, and cholesterol) are amHIPAAthic molecules, possessing both hydrophilic (polar) and hydrophobic (nonpolar) regions, which is essential for the formation of the lipid bilayer. Phospholipids typically have a glycerol or sphingosine backbone, cholesterol has a steroid ring structure, and not all membrane lipids contain carbohydrates or ester-linked fatty acids (e.g., sphingolipids have amide bonds, cholesterol lacks fatty acid chains).",
     "aiVerified": true
   },
   {
@@ -6447,7 +6447,7 @@
   {
     "id": "biochemistry-physiology-436",
     "topicId": "biochemistry-physiology",
-    "question": "A 45-year-old female patient presents to your dental office with localized, severe throbbing pain in the mandibular right posterior region, which started spontaneously and is exacerbated by hot and cold stimuli, lingering for several minutes. Radiographic examination reveals a deep carious lesion approximating the pulp chamber of tooth #46, with no periapical radiolucency. What is the MOST appropriate diagnosis?",
+    "question": "A 45-year-old female patient presents to your dental office with localized, severe throbbing pain in the mandibular right posterior region, which started spontaneously and is exacerbated by hot and cold stimuli, lingering for several minutes. Radiographic examination reveals a deep carious lesion approximating the pulp chamber of tooth #30, with no periapical radiolucency. What is the MOST appropriate diagnosis?",
     "options": [
       "Reversible pulpitis",
       "Irreversible pulpitis",
@@ -6617,7 +6617,7 @@
   {
     "id": "biochemistry-physiology-448",
     "topicId": "biochemistry-physiology",
-    "question": "A 10-year-old female patient presents with pain and sensitivity in her mandibular right first molar (#46). Clinical examination reveals a deep pit and fissure caries on the occlusal surface, with no evidence of pulpal exposure. Radiographic examination confirms a deep lesion extending into dentin, but no periapical pathology. The tooth is vital. What is the MOST appropriate restorative treatment for this tooth?",
+    "question": "A 10-year-old female patient presents with pain and sensitivity in her mandibular right first molar (#30). Clinical examination reveals a deep pit and fissure caries on the occlusal surface, with no evidence of pulpal exposure. Radiographic examination confirms a deep lesion extending into dentin, but no periapical pathology. The tooth is vital. What is the MOST appropriate restorative treatment for this tooth?",
     "options": [
       "Indirect pulp cap with calcium hydroxide.",
       "Direct pulp cap with MTA.",
@@ -6687,7 +6687,7 @@
   {
     "id": "biochemistry-physiology-453",
     "topicId": "biochemistry-physiology",
-    "question": "A 50-year-old male patient presents with a swelling on the buccal aspect of his maxillary left first molar (#26). The tooth is vital and responds normally to pulp tests. Radiographic examination reveals a well-defined, corticated radiolucency originating from the lateral root surface of #26, not associated with the apex. What is the MOST likely diagnosis?",
+    "question": "A 50-year-old male patient presents with a swelling on the buccal aspect of his maxillary left first molar (#14). The tooth is vital and responds normally to pulp tests. Radiographic examination reveals a well-defined, corticated radiolucency originating from the lateral root surface of #26, not associated with the apex. What is the MOST likely diagnosis?",
     "options": [
       "Periapical cyst",
       "Lateral periodontal cyst",
@@ -6757,12 +6757,12 @@
   {
     "id": "biochemistry-physiology-458",
     "topicId": "biochemistry-physiology",
-    "question": "A 5-year-old male patient presents with severe pain and swelling in the mandibular left primary first molar (#74). His mother reports he has been experiencing pain for two days, and it has worsened. Clinical examination reveals a large carious lesion extending subgingivally, significant mobility, and a buccal sinus tract. Radiographically, there is extensive periapical and furcation radiolucency. What is the MOST appropriate management?",
+    "question": "A 5-year-old male patient presents with severe pain and swelling in the mandibular left primary first molar (tooth L). His mother reports he has been experiencing pain for two days, and it has worsened. Clinical examination reveals a large carious lesion extending subgingivally, significant mobility, and a buccal sinus tract. Radiographically, there is extensive periapical and furcation radiolucency. What is the MOST appropriate management?",
     "options": [
       "Pulpotomy and stainless steel crown.",
       "Indirect pulp cap and restoration.",
       "Prescribe antibiotics and monitor for resolution.",
-      "Extraction of tooth #74."
+      "Extraction of tooth L."
     ],
     "correctAnswer": 3,
     "explanation": "The presence of significant mobility, a sinus tract, and extensive periapical/furcation radiolucency in a primary tooth are clear signs of irreversible pulpitis and widespread infection, which contraindicate vital pulp therapies like pulpotomy or indirect pulp caps. Extraction is the most appropriate definitive treatment to eliminate the source of infection and pain. Antibiotics alone will not resolve the infection without definitive treatment.",
@@ -6841,7 +6841,7 @@
   {
     "id": "biochemistry-physiology-464",
     "topicId": "biochemistry-physiology",
-    "question": "A 9-year-old male patient presents with a deep carious lesion on tooth #36. Radiographs show caries approaching the pulp horn, but no periapical radiolucency. The tooth is vital to pulp testing, and the patient reports only mild, transient pain to cold. There is no evidence of irreversible pulpitis. The root development is incomplete. What is the MOST appropriate pulp treatment to promote continued root development?",
+    "question": "A 9-year-old male patient presents with a deep carious lesion on tooth #19. Radiographs show caries approaching the pulp horn, but no periapical radiolucency. The tooth is vital to pulp testing, and the patient reports only mild, transient pain to cold. There is no evidence of irreversible pulpitis. The root development is incomplete. What is the MOST appropriate pulp treatment to promote continued root development?",
     "options": [
       "Pulpectomy and root canal filling.",
       "Vital pulp therapy (e.g., partial pulpotomy) with a biocompatible material and definitive restoration.",
@@ -6967,7 +6967,7 @@
   {
     "id": "biochemistry-physiology-473",
     "topicId": "biochemistry-physiology",
-    "question": "A 32-year-old male patient presents with severe, throbbing pain in his mandibular right first molar (tooth #46) that started spontaneously and wakes him at night. Clinical examination reveals a deep carious lesion on the occlusal surface. Radiographic examination shows the lesion extending close to the pulp chamber, with no periapical radiolucency. The tooth is tender to percussion and responds with lingering pain to cold testing. What is the MOST appropriate definitive treatment?",
+    "question": "A 32-year-old male patient presents with severe, throbbing pain in his mandibular right first molar (tooth #30) that started spontaneously and wakes him at night. Clinical examination reveals a deep carious lesion on the occlusal surface. Radiographic examination shows the lesion extending close to the pulp chamber, with no periapical radiolucency. The tooth is tender to percussion and responds with lingering pain to cold testing. What is the MOST appropriate definitive treatment?",
     "options": [
       "Pulpotomy.",
       "Root canal therapy.",
@@ -6981,9 +6981,9 @@
   {
     "id": "biochemistry-physiology-474",
     "topicId": "biochemistry-physiology",
-    "question": "A 24-year-old female patient presents with acute pain, swelling, and trismus related to her partially erupted mandibular left third molar (tooth #38). Clinical examination reveals inflamed pericoronal tissues with pus exudate. Radiographically, the tooth is mesioangularly impacted with pericoronal radiolucency. Her medical history is non-contributory. What is the MOST appropriate initial management?",
+    "question": "A 24-year-old female patient presents with acute pain, swelling, and trismus related to her partially erupted mandibular left third molar (tooth #17). Clinical examination reveals inflamed pericoronal tissues with pus exudate. Radiographically, the tooth is mesioangularly impacted with pericoronal radiolucency. Her medical history is non-contributory. What is the MOST appropriate initial management?",
     "options": [
-      "Immediate surgical extraction of tooth #38.",
+      "Immediate surgical extraction of tooth #17.",
       "Prescription of systemic antibiotics and analgesics, followed by re-evaluation.",
       "Incision and drainage of the pericoronal abscess, followed by extraction.",
       "Warm saline rinses and referral to an oral surgeon for consultation."
@@ -7017,7 +7017,7 @@
       "Position the patient upright."
     ],
     "correctAnswer": 1,
-    "explanation": "When a conscious patient exhibits classic signs of an acute myocardial infarction (crushing chest pain, radiation to the left arm, diaphoresis, dyspnea), the first action mandated by the CDA and provincial emergency‑management protocols is to call emergency medical services (EMS) (CDA Code of Ethics; Malamed, Medical Emergencies in the Dental Office). Nitroglycerin, supplemental oxygen, and positioning are appropriate adjuncts, but they are administered after EMS activation. Prompt EMS activation ensures rapid definitive care and is the priority in the INBDE‑approved emergency algorithm.",
+    "explanation": "When a conscious patient exhibits classic signs of an acute myocardial infarction (crushing chest pain, radiation to the left arm, diaphoresis, dyspnea), the first action mandated by the ADA and state emergency‑management protocols is to call emergency medical services (EMS) (ADA Principles of Ethics and Code of Professional Conduct; Malamed, Medical Emergencies in the Dental Office). Nitroglycerin, supplemental oxygen, and positioning are appropriate adjuncts, but they are administered after EMS activation. Prompt EMS activation ensures rapid definitive care and is the priority in the INBDE‑approved emergency algorithm.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -7052,7 +7052,7 @@
   {
     "id": "biochemistry-physiology-479",
     "topicId": "biochemistry-physiology",
-    "question": "A 60-year-old male patient presents with persistent mild discomfort and a \"feeling of pressure\" in tooth #37 (mandibular second molar) three months after completion of root canal therapy. Radiographically, the root canal filling appears dense and extends to the apex. However, a small, well-defined periapical radiolucency is still visible, unchanged from the pre-operative radiograph. Clinically, the tooth is not tender to percussion or palpation, and there is no swelling. What is the MOST appropriate next step in management?",
+    "question": "A 60-year-old male patient presents with persistent mild discomfort and a \"feeling of pressure\" in tooth #18 (mandibular second molar) three months after completion of root canal therapy. Radiographically, the root canal filling appears dense and extends to the apex. However, a small, well-defined periapical radiolucency is still visible, unchanged from the pre-operative radiograph. Clinically, the tooth is not tender to percussion or palpation, and there is no swelling. What is the MOST appropriate next step in management?",
     "options": [
       "Immediate retreatment of the root canal.",
       "Surgical endodontic procedure (apicoectomy).",
@@ -7066,7 +7066,7 @@
   {
     "id": "biochemistry-physiology-480",
     "topicId": "biochemistry-physiology",
-    "question": "A 30-year-old female patient presents with a painless, slow-growing swelling on the lingual aspect of her mandibular left posterior region, extending from tooth #35 to #37. The overlying mucosa appears normal. Radiographs reveal a well-defined, unilocular radiolucency with a sclerotic border, approximately 2 cm in diameter, located apical to the roots of the vital teeth #35 and #36, displacing them slightly. Pulp vitality tests for adjacent teeth are positive. What is the MOST likely diagnosis?",
+    "question": "A 30-year-old female patient presents with a painless, slow-growing swelling on the lingual aspect of her mandibular left posterior region, extending from tooth #20 to #18. The overlying mucosa appears normal. Radiographs reveal a well-defined, unilocular radiolucency with a sclerotic border, approximately 2 cm in diameter, located apical to the roots of the vital tooth #20 and #19, displacing them slightly. Pulp vitality tests for adjacent teeth are positive. What is the MOST likely diagnosis?",
     "options": [
       "Odontogenic keratocyst (OKC).",
       "Radicular cyst.",
@@ -7094,7 +7094,7 @@
   {
     "id": "biochemistry-physiology-482",
     "topicId": "biochemistry-physiology",
-    "question": "A dental assistant accidentally sustains a percutaneous injury with a contaminated needle after administering local anesthetic to a patient. The patient's medical history is unknown regarding bloodborne pathogens. What is the MOST appropriate immediate action following the injury, according to Canadian infection control guidelines?",
+    "question": "A dental assistant accidentally sustains a percutaneous injury with a contaminated needle after administering local anesthetic to a patient. The patient's medical history is unknown regarding bloodborne pathogens. What is the MOST appropriate immediate action following the injury, according to CDC infection control guidelines?",
     "options": [
       "Immediately report the incident to the employer and rinse the wound with alcohol.",
       "Squeeze the wound to promote bleeding and apply an antiseptic.",
@@ -7102,7 +7102,7 @@
       "Obtain the patient's consent for immediate blood testing for HIV, HBV, and HCV."
     ],
     "correctAnswer": 2,
-    "explanation": "According to Canadian infection control guidelines, the immediate action after a percutaneous injury is to thoroughly wash the wound with soap and water to physically remove contaminants. Squeezing the wound is not recommended, and alcohol is not the primary cleansing agent. Reporting the incident is crucial but follows immediate wound care, and obtaining patient consent for blood testing is a subsequent step after initial wound management and reporting.",
+    "explanation": "According to CDC infection control guidelines, the immediate action after a percutaneous injury is to thoroughly wash the wound with soap and water to physically remove contaminants. Squeezing the wound is not recommended, and alcohol is not the primary cleansing agent. Reporting the incident is crucial but follows immediate wound care, and obtaining patient consent for blood testing is a subsequent step after initial wound management and reporting.",
     "aiVerified": true
   },
   {
@@ -7122,7 +7122,7 @@
   {
     "id": "biochemistry-physiology-484",
     "topicId": "biochemistry-physiology",
-    "question": "A 16-year-old male patient presents to your office for an emergency extraction of tooth #36 due to severe pain and infection. He is accompanied by his 19-year-old brother, who states the parents are out of the country and he is responsible for his younger sibling. The patient is deemed competent to understand the procedure. What is the MOST appropriate course of action regarding consent?",
+    "question": "A 16-year-old male patient presents to your office for an emergency extraction of tooth #19 due to severe pain and infection. He is accompanied by his 19-year-old brother, who states the parents are out of the country and he is responsible for his younger sibling. The patient is deemed competent to understand the procedure. What is the MOST appropriate course of action regarding consent?",
     "options": [
       "Obtain consent directly from the 16-year-old patient, as he is a mature minor.",
       "Proceed with the extraction, as the 19-year-old brother can provide consent.",
@@ -7130,7 +7130,7 @@
       "Contact Child Protective Services due to absent parental consent."
     ],
     "correctAnswer": 0,
-    "explanation": "In Canada, a mature minor (typically 12 years or older) who is deemed competent to understand the nature and consequences of a proposed treatment can provide their own consent, even without parental consent. The 19-year-old brother is not a legal guardian, and delaying treatment for an emergency situation would be inappropriate and potentially harmful. Contacting Child Protective Services is unwarranted as the situation can be managed by the mature minor's consent.",
+    "explanation": "in the United States, a mature minor (typically 12 years or older) who is deemed competent to understand the nature and consequences of a proposed treatment can provide their own consent, even without parental consent. The 19-year-old brother is not a legal guardian, and delaying treatment for an emergency situation would be inappropriate and potentially harmful. Contacting Child Protective Services is unwarranted as the situation can be managed by the mature minor's consent.",
     "aiVerified": true
   },
   {
@@ -7144,7 +7144,7 @@
       "Offer to replace them with glass ionomer cement for fluoride release."
     ],
     "correctAnswer": 1,
-    "explanation": "The American Dental Association (CDA) and other professional bodies generally advise against replacing clinically sound amalgam restorations solely for esthetic reasons. Such procedures can lead to unnecessary tooth structure removal, potential pulp damage, and microleakage, with no proven clinical benefit over sound amalgam. While ceramic inlays or composite are esthetic options, they are not indicated if the current restoration is sound, and glass ionomer is not typically used for definitive posterior restorations in adults.",
+    "explanation": "The American Dental Association (ADA) and other professional bodies generally advise against replacing clinically sound amalgam restorations solely for esthetic reasons. Such procedures can lead to unnecessary tooth structure removal, potential pulp damage, and microleakage, with no proven clinical benefit over sound amalgam. While ceramic inlays or composite are esthetic options, they are not indicated if the current restoration is sound, and glass ionomer is not typically used for definitive posterior restorations in adults.",
     "aiVerified": true
   },
   {
@@ -7192,7 +7192,7 @@
   {
     "id": "biochemistry-physiology-489",
     "topicId": "biochemistry-physiology",
-    "question": "According to the Code of Ethics for the dental profession in Canada, which of the following ethical principles emphasizes the dentist's obligation to respect the patient's right to make their own decisions about their oral health care?",
+    "question": "According to the Code of Ethics for the dental profession in the United States, which of the following ethical principles emphasizes the dentist's obligation to respect the patient's right to make their own decisions about their oral health care?",
     "options": [
       "Beneficence.",
       "Non-maleficence.",
@@ -7249,7 +7249,7 @@
   {
     "id": "biochemistry-physiology-493",
     "topicId": "biochemistry-physiology",
-    "question": "A 25-year-old female patient presents with a chief complaint of constant, dull pain in her mandibular right posterior region for the past three days. The pain is exacerbated by hot and cold stimuli, lingering for several minutes after removal. Clinical examination reveals deep caries on tooth #46. Percussion is mildly sensitive, and palpation is negative. Radiographically, there is a deep carious lesion approaching the pulp chamber with no periapical radiolucency. What is the MOST likely pulpal diagnosis?",
+    "question": "A 25-year-old female patient presents with a chief complaint of constant, dull pain in her mandibular right posterior region for the past three days. The pain is exacerbated by hot and cold stimuli, lingering for several minutes after removal. Clinical examination reveals deep caries on tooth #30. Percussion is mildly sensitive, and palpation is negative. Radiographically, there is a deep carious lesion approaching the pulp chamber with no periapical radiolucency. What is the MOST likely pulpal diagnosis?",
     "options": [
       "Reversible pulpitis",
       "Irreversible pulpitis",
@@ -7277,7 +7277,7 @@
   {
     "id": "biochemistry-physiology-495",
     "topicId": "biochemistry-physiology",
-    "question": "A 7-year-old female patient presents to your office with severe pain in her mandibular right first permanent molar (#46). Her mother reports the pain started suddenly last night and keeps her awake. Clinical examination reveals a large carious lesion on the occlusal surface of #46, with tenderness to percussion and mobility Class I. A periapical radiograph shows a deep carious lesion extending into the pulp chamber and a developing periapical radiolucency. The patient is otherwise healthy. What is the MOST appropriate treatment for tooth #46?",
+    "question": "A 7-year-old female patient presents to your office with severe pain in her mandibular right first permanent molar (#30). Her mother reports the pain started suddenly last night and keeps her awake. Clinical examination reveals a large carious lesion on the occlusal surface of #30, with tenderness to percussion and mobility Class I. A periapical radiograph shows a deep carious lesion extending into the pulp chamber and a developing periapical radiolucency. The patient is otherwise healthy. What is the MOST appropriate treatment for tooth #30?",
     "options": [
       "Direct pulp capping",
       "Extraction",

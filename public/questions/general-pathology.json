@@ -4381,7 +4381,7 @@
       "Globulomaxillary lesion (Odontogenic keratocyst or lateral periodontal cyst)"
     ],
     "correctAnswer": 3,
-    "explanation": "Current Canadian dental pathology texts (Neville, Damm, Allen & Bouquot, 4th ed.) note that the term “globulomaxillary cyst” is obsolete; lesions in the lateral incisor‑canine region are most often odontogenic keratocysts or lateral periodontal cysts (p. 514‑516).  The radiographic picture—unilocular radiolucency causing root divergence in a young adult with vital teeth—is characteristic of these developmental odontogenic cysts.  Nasolabial cysts are soft‑tissue lesions, Stafne bone defects occur in the posterior mandible, and nasopalatine duct cysts are midline lesions.  Hence, among the choices provided, the combined “globulomaxillary lesion (odontogenic keratocyst or lateral periodontal cyst)” is the most appropriate answer.",
+    "explanation": "Current oral pathology textbooks (Neville, Damm, Allen & Bouquot, 4th ed.) note that the term “globulomaxillary cyst” is obsolete; lesions in the lateral incisor‑canine region are most often odontogenic keratocysts or lateral periodontal cysts (p. 514‑516).  The radiographic picture—unilocular radiolucency causing root divergence in a young adult with vital teeth—is characteristic of these developmental odontogenic cysts.  Nasolabial cysts are soft‑tissue lesions, Stafne bone defects occur in the posterior mandible, and nasopalatine duct cysts are midline lesions.  Hence, among the choices provided, the combined “globulomaxillary lesion (odontogenic keratocyst or lateral periodontal cyst)” is the most appropriate answer.",
     "aiVerified": true
   },
   {
@@ -5241,7 +5241,7 @@
   {
     "id": "general-pathology-349",
     "topicId": "general-pathology",
-    "question": "A 45-year-old female patient presents to your dental office three days after receiving an inferior alveolar nerve block for a restorative procedure on tooth #36. She complains of difficulty opening her mouth and mild pain in the left jaw. Clinically, her maximum interincisal opening is 20mm, and there is slight tenderness upon palpation of the medial pterygoid muscle. What is the MOST appropriate initial management?",
+    "question": "A 45-year-old female patient presents to your dental office three days after receiving an inferior alveolar nerve block for a restorative procedure on tooth #19. She complains of difficulty opening her mouth and mild pain in the left jaw. Clinically, her maximum interincisal opening is 20mm, and there is slight tenderness upon palpation of the medial pterygoid muscle. What is the MOST appropriate initial management?",
     "options": [
       "Prescribe a course of antibiotics and advise warm compresses.",
       "Recommend warm compresses, gentle jaw exercises, and NSAIDs.",
@@ -5255,12 +5255,12 @@
   {
     "id": "general-pathology-350",
     "topicId": "general-pathology",
-    "question": "A 32-year-old male patient presents with severe throbbing pain in his mandibular right quadrant, accompanied by facial swelling extending into the submandibular space. He reports sensitivity to percussion on tooth #46, and a periapical radiolucency is noted on the radiograph. His temperature is 38.5°C. What is the MOST appropriate initial management plan?",
+    "question": "A 32-year-old male patient presents with severe throbbing pain in his mandibular right quadrant, accompanied by facial swelling extending into the submandibular space. He reports sensitivity to percussion on tooth #30, and a periapical radiolucency is noted on the radiograph. His temperature is 38.5°C. What is the MOST appropriate initial management plan?",
     "options": [
       "Prescribe antibiotics immediately and schedule for extraction in one week.",
       "Establish drainage through endodontic access or incision, prescribe antibiotics, and manage pain.",
-      "Schedule for immediate root canal treatment on tooth #46.",
-      "Administer local anesthetic and perform an extraction of tooth #46."
+      "Schedule for immediate root canal treatment on tooth #30.",
+      "Administer local anesthetic and perform an extraction of tooth #30."
     ],
     "correctAnswer": 1,
     "explanation": "For an acute periapical abscess with spreading infection and systemic signs (fever), establishing drainage is paramount to relieve pressure and remove purulent exudate. Antibiotics are indicated due to systemic involvement, and pain management is necessary. Immediate extraction without prior drainage or controlling infection can spread the infection.",
@@ -5311,7 +5311,7 @@
   {
     "id": "general-pathology-354",
     "topicId": "general-pathology",
-    "question": "A 12-year-old female patient presents after a fall, exhibiting her permanent maxillary left central incisor (#21) displaced palatally and slightly extruded, but still vital. The tooth is mobile but not avulsed. Radiographs confirm displacement with no root fracture. What is the MOST appropriate immediate management?",
+    "question": "A 12-year-old female patient presents after a fall, exhibiting her permanent maxillary left central incisor (#9) displaced palatally and slightly extruded, but still vital. The tooth is mobile but not avulsed. Radiographs confirm displacement with no root fracture. What is the MOST appropriate immediate management?",
     "options": [
       "Extract the tooth due to severe trauma.",
       "Initiate root canal treatment immediately and then reposition and splint.",
@@ -5325,7 +5325,7 @@
   {
     "id": "general-pathology-355",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental infection control guidelines, which of the following is considered the MOST critical step in preventing cross-contamination from contaminated instruments?",
+    "question": "According to CDC and OSHA infection control guidelines, which of the following is considered the MOST critical step in preventing cross-contamination from contaminated instruments?",
     "options": [
       "Sterilization of critical and semi-critical instruments after each use.",
       "Wearing personal protective equipment (PPE) during patient care.",
@@ -5395,11 +5395,11 @@
   {
     "id": "general-pathology-360",
     "topicId": "general-pathology",
-    "question": "A 42-year-old male patient presents with a localized, painful, fluctuant swelling on the buccal gingiva adjacent to tooth #34, which has a deep periodontal pocket. The tooth is vital and has no carious lesions. Radiographs show localized bone loss around #34. What is the MOST appropriate initial management?",
+    "question": "A 42-year-old male patient presents with a localized, painful, fluctuant swelling on the buccal gingiva adjacent to tooth #21, which has a deep periodontal pocket. The tooth is vital and has no carious lesions. Radiographs show localized bone loss around #21. What is the MOST appropriate initial management?",
     "options": [
       "Prescribe antibiotics and schedule for root canal treatment.",
       "Perform incision and drainage, irrigate the pocket, and consider systemic antibiotics if severe.",
-      "Extract tooth #34 immediately.",
+      "Extract tooth #21 immediately.",
       "Initiate scaling and root planing across the entire quadrant."
     ],
     "correctAnswer": 1,
@@ -5437,7 +5437,7 @@
   {
     "id": "general-pathology-363",
     "topicId": "general-pathology",
-    "question": "A 50-year-old female patient complains of sharp, transient pain in her mandibular right first molar (#46) specifically when biting on hard foods and sometimes when releasing bite pressure. Clinical examination reveals no caries, but a vertical fracture line is visible extending from the occlusal surface into the dentin. The tooth is vital and responds normally to percussion. What is the MOST appropriate initial restorative management?",
+    "question": "A 50-year-old female patient complains of sharp, transient pain in her mandibular right first molar (#30) specifically when biting on hard foods and sometimes when releasing bite pressure. Clinical examination reveals no caries, but a vertical fracture line is visible extending from the occlusal surface into the dentin. The tooth is vital and responds normally to percussion. What is the MOST appropriate initial restorative management?",
     "options": [
       "Recommend a full-coverage crown to prevent crack propagation.",
       "Initiate root canal treatment immediately.",
@@ -5451,9 +5451,9 @@
   {
     "id": "general-pathology-364",
     "topicId": "general-pathology",
-    "question": "A 30-year-old female patient presents for a routine check-up, reporting no pain or discomfort. A panoramic radiograph reveals a well-defined, solitary, dense radiopacity approximately 5mm in diameter, located apical to the mandibular first molar (#46). The tooth is vital and free of caries or restorations. What is the MOST appropriate next step in managing this radiographic finding?",
+    "question": "A 30-year-old female patient presents for a routine check-up, reporting no pain or discomfort. A panoramic radiograph reveals a well-defined, solitary, dense radiopacity approximately 5mm in diameter, located apical to the mandibular first molar (#30). The tooth is vital and free of caries or restorations. What is the MOST appropriate next step in managing this radiographic finding?",
     "options": [
-      "Schedule the patient for immediate endodontic treatment of tooth #46.",
+      "Schedule the patient for immediate endodontic treatment of tooth #30.",
       "Monitor the lesion with periodic radiographs and clinical examination.",
       "Refer the patient to an oral surgeon for surgical removal.",
       "Prescribe antibiotics to prevent potential infection."
@@ -5579,7 +5579,7 @@
   {
     "id": "general-pathology-373",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental infection prevention and control guidelines, what is the recommended minimum frequency for biological monitoring of steam sterilizers (autoclaves)?",
+    "question": "According to dental infection prevention and control guidelines, what is the recommended minimum frequency for biological monitoring of steam sterilizers (autoclaves)?",
     "options": [
       "Daily",
       "Monthly",
@@ -5621,7 +5621,7 @@
   {
     "id": "general-pathology-376",
     "topicId": "general-pathology",
-    "question": "A 28-year-old male patient presents with severe, spontaneous, lingering pain in his mandibular left first molar (#36) that is exacerbated by hot and cold stimuli and often wakes him at night. Radiographic examination reveals a deep carious lesion approaching the pulp. The tooth is sensitive to percussion and palpation, and there is no frank swelling. What is the MOST appropriate pulpal diagnosis?",
+    "question": "A 28-year-old male patient presents with severe, spontaneous, lingering pain in his mandibular left first molar (#19) that is exacerbated by hot and cold stimuli and often wakes him at night. Radiographic examination reveals a deep carious lesion approaching the pulp. The tooth is sensitive to percussion and palpation, and there is no frank swelling. What is the MOST appropriate pulpal diagnosis?",
     "options": [
       "Symptomatic irreversible pulpitis",
       "Asymptomatic irreversible pulpitis",
@@ -5747,7 +5747,7 @@
   {
     "id": "general-pathology-385",
     "topicId": "general-pathology",
-    "question": "In Canada, which of the following statements BEST describes the legal principle of \"informed consent\" in dentistry?",
+    "question": "in the United States, which of the following statements BEST describes the legal principle of \"informed consent\" in dentistry?",
     "options": [
       "Consent is implied if the patient sits in the dental chair for treatment.",
       "The patient must understand the nature, risks, benefits, and alternatives of the proposed treatment.",
@@ -5755,7 +5755,7 @@
       "A parent's consent is always sufficient for a minor, regardless of the minor's maturity."
     ],
     "correctAnswer": 1,
-    "explanation": "In Canadian dental jurisprudence, informed consent requires that the patient (or their legal guardian) fully understands the nature of the proposed treatment, its potential risks and benefits, and any reasonable alternative treatments, as well as the risks of refusing treatment. Consent is not implied by merely sitting in the chair, nor is it limited to surgical procedures. For minors, the \"mature minor\" doctrine may apply, allowing some minors to consent based on their capacity to understand, rather than always requiring parental consent.",
+    "explanation": "In Dental jurisprudence and state dental practice acts, informed consent requires that the patient (or their legal guardian) fully understands the nature of the proposed treatment, its potential risks and benefits, and any reasonable alternative treatments, as well as the risks of refusing treatment. Consent is not implied by merely sitting in the chair, nor is it limited to surgical procedures. For minors, the \"mature minor\" doctrine may apply, allowing some minors to consent based on their capacity to understand, rather than always requiring parental consent.",
     "aiVerified": true
   },
   {
@@ -5845,7 +5845,7 @@
   {
     "id": "general-pathology-392",
     "topicId": "general-pathology",
-    "question": "A 28-year-old male patient presents with a chief complaint of severe, spontaneous, lingering pain in his mandibular left first molar. The pain started two days ago, is exacerbated by hot and cold, and keeps him awake at night. No significant medical history. Tooth #36 is sensitive to percussion and palpation, has a deep occlusal restoration, and exhibits a lingering pain response to cold application (greater than 30 seconds). Radiographs show no periapical radiolucency but reveal a deep restoration close to the pulp. What is the MOST appropriate pulpal diagnosis for tooth #36?",
+    "question": "A 28-year-old male patient presents with a chief complaint of severe, spontaneous, lingering pain in his mandibular left first molar. The pain started two days ago, is exacerbated by hot and cold, and keeps him awake at night. No significant medical history. tooth #19 is sensitive to percussion and palpation, has a deep occlusal restoration, and exhibits a lingering pain response to cold application (greater than 30 seconds). Radiographs show no periapical radiolucency but reveal a deep restoration close to the pulp. What is the MOST appropriate pulpal diagnosis for tooth #19?",
     "options": [
       "Symptomatic irreversible pulpitis",
       "Reversible pulpitis",
@@ -5873,7 +5873,7 @@
   {
     "id": "general-pathology-394",
     "topicId": "general-pathology",
-    "question": "In Canada, which of the following principles forms the foundation for obtaining informed consent from a competent adult patient for a dental procedure?",
+    "question": "in the United States, which of the following principles forms the foundation for obtaining informed consent from a competent adult patient for a dental procedure?",
     "options": [
       "Beneficence",
       "Non-maleficence",
@@ -5979,7 +5979,7 @@
       "Soft tissue conditioning and pain relief, followed by a reline"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is the placement of mandibular implants to support an overdenture. In patients with severe mandibular alveolar ridge resorption, conventional complete dentures often fail to provide adequate retention and stability due to the loss of ridge volume and the lack of undercuts. According to current Canadian dental standards and ADA clinical guidelines, implant-supported overdentures (typically using two implants in the anterior mandible) are considered the gold standard for long-term management in such cases. This approach significantly improves retention, stability, masticatory efficiency, and patient satisfaction compared to conventional dentures, while also helping to preserve remaining alveolar bone by reducing the loading on the atrophic ridge.\n\nWhy the other options are incorrect:\n- Relining the existing denture (Option 0): While a reline can improve fit temporarily, it does not address the fundamental biomechanical issue of severe ridge resorption. The denture will likely become loose again as resorption continues, and it does not provide the enhanced retention and stability that implants offer. It is a short-term or interim measure, not the best long-term strategy for severe atrophy.\n- Fabrication of a new complete mandibular denture (Option 1): A new conventional denture may offer initial improvement in fit and comfort, but it is subject to the same limitations as the old one. In a severely atrophic mandible, a new conventional denture will still have poor retention and stability, leading to recurrent sores and dissatisfaction. It is not the most appropriate long-term solution when implant therapy is a viable option.\n- Soft tissue conditioning and pain relief, followed by a reline (Option 3): This is a conservative, short-term approach to manage acute symptoms (sores and pain). It does not provide a long-term solution to the underlying problem of ridge resorption and poor denture retention. It is a preparatory step, not a definitive long-term management strategy.",
+    "explanation": "The correct answer is the placement of mandibular implants to support an overdenture. In patients with severe mandibular alveolar ridge resorption, conventional complete dentures often fail to provide adequate retention and stability due to the loss of ridge volume and the lack of undercuts. According to ADA clinical guidelines and US standards of care, implant-supported overdentures (typically using two implants in the anterior mandible) are considered the gold standard for long-term management in such cases. This approach significantly improves retention, stability, masticatory efficiency, and patient satisfaction compared to conventional dentures, while also helping to preserve remaining alveolar bone by reducing the loading on the atrophic ridge.\n\nWhy the other options are incorrect:\n- Relining the existing denture (Option 0): While a reline can improve fit temporarily, it does not address the fundamental biomechanical issue of severe ridge resorption. The denture will likely become loose again as resorption continues, and it does not provide the enhanced retention and stability that implants offer. It is a short-term or interim measure, not the best long-term strategy for severe atrophy.\n- Fabrication of a new complete mandibular denture (Option 1): A new conventional denture may offer initial improvement in fit and comfort, but it is subject to the same limitations as the old one. In a severely atrophic mandible, a new conventional denture will still have poor retention and stability, leading to recurrent sores and dissatisfaction. It is not the most appropriate long-term solution when implant therapy is a viable option.\n- Soft tissue conditioning and pain relief, followed by a reline (Option 3): This is a conservative, short-term approach to manage acute symptoms (sores and pain). It does not provide a long-term solution to the underlying problem of ridge resorption and poor denture retention. It is a preparatory step, not a definitive long-term management strategy.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -6000,7 +6000,7 @@
   {
     "id": "general-pathology-403",
     "topicId": "general-pathology",
-    "question": "Which of the following is considered the MOST significant etiologic risk factor for oral squamous cell carcinoma in Canada?",
+    "question": "Which of the following is considered the MOST significant etiologic risk factor for oral squamous cell carcinoma in the United States?",
     "options": [
       "Human papillomavirus (HPV) infection",
       "Chronic candidiasis",
@@ -6008,7 +6008,7 @@
       "Tobacco and alcohol consumption"
     ],
     "correctAnswer": 3,
-    "explanation": "In Canada and globally, the synergistic effect of chronic tobacco and alcohol consumption remains the predominant and most significant etiologic risk factor for the development of oral squamous cell carcinoma. While human papillomavirus (HPV) infection is an increasingly recognized risk factor, particularly for oropharyngeal cancers, and chronic candidiasis and nutritional deficiencies can be contributing factors, they do not individually or collectively outweigh the risk associated with tobacco and alcohol.",
+    "explanation": "in the United States and globally, the synergistic effect of chronic tobacco and alcohol consumption remains the predominant and most significant etiologic risk factor for the development of oral squamous cell carcinoma. While human papillomavirus (HPV) infection is an increasingly recognized risk factor, particularly for oropharyngeal cancers, and chronic candidiasis and nutritional deficiencies can be contributing factors, they do not individually or collectively outweigh the risk associated with tobacco and alcohol.",
     "aiVerified": true
   },
   {
@@ -6028,7 +6028,7 @@
   {
     "id": "general-pathology-405",
     "topicId": "general-pathology",
-    "question": "A 25-year-old male patient requests extraction of his asymptomatic, fully impacted mandibular third molars. He reports no pain, swelling, or infection episodes and maintains good oral hygiene. A panoramic radiograph shows bilateral fully impacted mandibular third molars (tooth #38 and #48) with no evidence of pathology (caries, cyst, periodontal issues). Both are in close proximity to the inferior alveolar nerve canal. According to current ADA guidelines, what is the MOST appropriate management decision?",
+    "question": "A 25-year-old male patient requests extraction of his asymptomatic, fully impacted mandibular third molars. He reports no pain, swelling, or infection episodes and maintains good oral hygiene. A panoramic radiograph shows bilateral fully impacted mandibular third molars (tooth #17 and #32) with no evidence of pathology (caries, cyst, periodontal issues). Both are in close proximity to the inferior alveolar nerve canal. According to current ADA guidelines, what is the MOST appropriate management decision?",
     "options": [
       "Prophylactic extraction due to potential future complications",
       "Observation with regular clinical and radiographic follow-up",
@@ -6182,7 +6182,7 @@
   {
     "id": "general-pathology-416",
     "topicId": "general-pathology",
-    "question": "A 35-year-old female patient presents to your dental office with a chief complaint of severe pain and swelling in her mandibular right posterior region, 4 days after the surgical extraction of tooth #48. Clinical examination reveals a foul odor, exposed bone in the socket, and exquisite tenderness to touch. She reports moderate pain relief with ibuprofen, but it is not sufficient. What is the MOST likely diagnosis?",
+    "question": "A 35-year-old female patient presents to your dental office with a chief complaint of severe pain and swelling in her mandibular right posterior region, 4 days after the surgical extraction of tooth #32. Clinical examination reveals a foul odor, exposed bone in the socket, and exquisite tenderness to touch. She reports moderate pain relief with ibuprofen, but it is not sufficient. What is the MOST likely diagnosis?",
     "options": [
       "Post-operative infection",
       "Localized osteitis (dry socket)",
@@ -6232,7 +6232,7 @@
       "Generalized dentin hypersensitivity"
     ],
     "correctAnswer": 2,
-    "explanation": "According to Sturdevant's Art and Science of Operative Dentistry and the CDA guidelines on occlusal trauma, cracked tooth syndrome presents with vague, aching discomfort on mastication, positive percussion, and radiographic widening of the periodontal ligament space without a periapical radiolucency. Chronic apical periodontitis would normally show a radiolucent lesion, and reversible pulpitis is characterized by thermal sensitivity. Generalized dentin hypersensitivity produces sharp, transient pain to stimuli, not chewing‑related dull ache. Hence the most likely diagnosis is cracked tooth syndrome.",
+    "explanation": "According to Sturdevant's Art and Science of Operative Dentistry and the ADA clinical guidelines on occlusal trauma, cracked tooth syndrome presents with vague, aching discomfort on mastication, positive percussion, and radiographic widening of the periodontal ligament space without a periapical radiolucency. Chronic apical periodontitis would normally show a radiolucent lesion, and reversible pulpitis is characterized by thermal sensitivity. Generalized dentin hypersensitivity produces sharp, transient pain to stimuli, not chewing‑related dull ache. Hence the most likely diagnosis is cracked tooth syndrome.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -6247,14 +6247,14 @@
       "Administer Vitamin K intramuscularly immediately before the procedure to reverse anticoagulation."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option 1. According to current Canadian dental guidelines (CDA, INBDE standards) and major references (Malamed, Carranza), for minor oral surgical procedures such as the extraction of a single tooth, it is generally recommended to proceed with the procedure without discontinuing or adjusting warfarin, provided the INR is within the therapeutic range (typically 2.0–3.0, and often up to 3.5 for minor procedures). The risk of thromboembolic events (stroke, systemic embolism) from interrupting anticoagulation in a patient with atrial fibrillation significantly outweighs the risk of manageable local bleeding. Local hemostatic measures (e.g., suturing, oxidized cellulose, gelatin sponge, pressure) are the standard of care for controlling bleeding in anticoagulated patients. \n\nOption 0 is incorrect because discontinuing warfarin for a minor procedure exposes the patient to an unnecessary and significant risk of thromboembolism, which is contraindicated for simple extractions when the INR is therapeutic.\nOption 2 is incorrect because while consultation is always good practice, the specific action of 'adjusting dosage or switching to bridging therapy' is not the gold standard for a simple extraction with a therapeutic INR. Bridging therapy is typically reserved for high-risk patients undergoing major surgery or when INR is significantly supratherapeutic, and it introduces its own risks (e.g., heparin-induced thrombocytopenia, bleeding). The primary management is to proceed with local measures, not to alter the systemic regimen unnecessarily.\nOption 4 is incorrect because administering Vitamin K is a method for reversing warfarin effect, which is reserved for emergency situations (e.g., life-threatening bleeding) or when rapid reversal is needed for major surgery. It is not a routine pre-procedure measure for minor dental extractions and would unnecessarily destabilize the patient's anticoagulation status.",
+    "explanation": "The correct answer is Option 1. According to current ADA clinical guidelines (ADA, INBDE standards) and major references (Malamed, Carranza), for minor oral surgical procedures such as the extraction of a single tooth, it is generally recommended to proceed with the procedure without discontinuing or adjusting warfarin, provided the INR is within the therapeutic range (typically 2.0–3.0, and often up to 3.5 for minor procedures). The risk of thromboembolic events (stroke, systemic embolism) from interrupting anticoagulation in a patient with atrial fibrillation significantly outweighs the risk of manageable local bleeding. Local hemostatic measures (e.g., suturing, oxidized cellulose, gelatin sponge, pressure) are the standard of care for controlling bleeding in anticoagulated patients. \n\nOption 0 is incorrect because discontinuing warfarin for a minor procedure exposes the patient to an unnecessary and significant risk of thromboembolism, which is contraindicated for simple extractions when the INR is therapeutic.\nOption 2 is incorrect because while consultation is always good practice, the specific action of 'adjusting dosage or switching to bridging therapy' is not the gold standard for a simple extraction with a therapeutic INR. Bridging therapy is typically reserved for high-risk patients undergoing major surgery or when INR is significantly supratherapeutic, and it introduces its own risks (e.g., heparin-induced thrombocytopenia, bleeding). The primary management is to proceed with local measures, not to alter the systemic regimen unnecessarily.\nOption 4 is incorrect because administering Vitamin K is a method for reversing warfarin effect, which is reserved for emergency situations (e.g., life-threatening bleeding) or when rapid reversal is needed for major surgery. It is not a routine pre-procedure measure for minor dental extractions and would unnecessarily destabilize the patient's anticoagulation status.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": "general-pathology-421",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental infection prevention and control guidelines, which of the following is the MOST appropriate method for sterilizing heat-sensitive critical dental instruments?",
+    "question": "According to dental infection prevention and control guidelines, which of the following is the MOST appropriate method for sterilizing heat-sensitive critical dental instruments?",
     "options": [
       "Autoclaving at 121°C for 20 minutes.",
       "Chemical immersion in glutaraldehyde for 10 hours.",
@@ -6282,7 +6282,7 @@
   {
     "id": "general-pathology-423",
     "topicId": "general-pathology",
-    "question": "A 40-year-old male patient presents with a chief complaint of sensitivity to cold and sweets in his mandibular left first molar (tooth #36). Clinical examination reveals a non-carious cervical lesion (NCCL) with significant wear on the buccal aspect. The tooth responds normally to percussion and palpation, and there is no lingering pain to cold. What is the MOST appropriate treatment for this lesion?",
+    "question": "A 40-year-old male patient presents with a chief complaint of sensitivity to cold and sweets in his mandibular left first molar (tooth #19). Clinical examination reveals a non-carious cervical lesion (NCCL) with significant wear on the buccal aspect. The tooth responds normally to percussion and palpation, and there is no lingering pain to cold. What is the MOST appropriate treatment for this lesion?",
     "options": [
       "Endodontic therapy to eliminate pulp sensitivity.",
       "Placement of a direct composite resin restoration.",
@@ -6352,7 +6352,7 @@
   {
     "id": "general-pathology-428",
     "topicId": "general-pathology",
-    "question": "A 48-year-old male patient presents with a chief complaint of severe, spontaneous pain in his mandibular left molar region that is exacerbated by cold and lingers for several minutes after the stimulus is removed. He reports the pain wakes him up at night. Percussion and palpation tests are positive for tooth #36. Radiographic examination reveals a deep carious lesion approximating the pulp chamber of #36, with no periapical radiolucency. What is the MOST appropriate initial management?",
+    "question": "A 48-year-old male patient presents with a chief complaint of severe, spontaneous pain in his mandibular left molar region that is exacerbated by cold and lingers for several minutes after the stimulus is removed. He reports the pain wakes him up at night. Percussion and palpation tests are positive for tooth #19. Radiographic examination reveals a deep carious lesion approximating the pulp chamber of #19, with no periapical radiolucency. What is the MOST appropriate initial management?",
     "options": [
       "Prescribe antibiotics and pain medication",
       "Perform a pulpotomy",
@@ -6380,7 +6380,7 @@
   {
     "id": "general-pathology-430",
     "topicId": "general-pathology",
-    "question": "A 22-year-old male patient presents with a chief complaint of a slowly growing, firm, painless swelling in the right posterior mandible over the past 6 months. He denies any pain or paresthesia. Radiographic examination reveals a well-defined, unilocular radiolucency associated with the crown of an impacted mandibular right third molar (#48). The lesion has a sclerotic border and appears to displace the tooth. What is the MOST probable diagnosis?",
+    "question": "A 22-year-old male patient presents with a chief complaint of a slowly growing, firm, painless swelling in the right posterior mandible over the past 6 months. He denies any pain or paresthesia. Radiographic examination reveals a well-defined, unilocular radiolucency associated with the crown of an impacted mandibular right third molar (#32). The lesion has a sclerotic border and appears to displace the tooth. What is the MOST probable diagnosis?",
     "options": [
       "Odontogenic keratocyst (OKC)",
       "Dentigerous cyst",
@@ -6408,7 +6408,7 @@
   {
     "id": "general-pathology-432",
     "topicId": "general-pathology",
-    "question": "In Canada, which of the following is considered the primary ethical responsibility of a dentist when a patient refuses a recommended, evidence-based treatment plan?",
+    "question": "in the United States, which of the following is considered the primary ethical responsibility of a dentist when a patient refuses a recommended, evidence-based treatment plan?",
     "options": [
       "To proceed with the recommended treatment regardless, if it is in the patient's best interest",
       "To dismiss the patient from the practice due to non-compliance",
@@ -6416,7 +6416,7 @@
       "To seek a second opinion from another dentist on behalf of the patient"
     ],
     "correctAnswer": 2,
-    "explanation": "In Canada, respecting patient autonomy is paramount. When a patient refuses a recommended treatment, the dentist's primary ethical responsibility is to ensure the patient has been fully informed about the proposed treatment, alternatives, and the potential risks of refusal, and to document this discussion thoroughly. Proceeding with treatment against the patient's will or dismissing them without due process violates ethical principles and patient rights.",
+    "explanation": "in the United States, respecting patient autonomy is paramount. When a patient refuses a recommended treatment, the dentist's primary ethical responsibility is to ensure the patient has been fully informed about the proposed treatment, alternatives, and the potential risks of refusal, and to document this discussion thoroughly. Proceeding with treatment against the patient's will or dismissing them without due process violates ethical principles and patient rights.",
     "aiVerified": true
   },
   {
@@ -6464,7 +6464,7 @@
   {
     "id": "general-pathology-436",
     "topicId": "general-pathology",
-    "question": "A 30-year-old female patient presents 3 days after the extraction of tooth #38 (mandibular left third molar) with severe, throbbing pain in the extraction site that radiates to her ear, accompanied by a foul odor and taste. Clinical examination reveals a partially empty socket with exposed bone and no evidence of significant swelling or pus. She is otherwise healthy and denies fever. What is the MOST appropriate diagnosis?",
+    "question": "A 30-year-old female patient presents 3 days after the extraction of tooth #17 (mandibular left third molar) with severe, throbbing pain in the extraction site that radiates to her ear, accompanied by a foul odor and taste. Clinical examination reveals a partially empty socket with exposed bone and no evidence of significant swelling or pus. She is otherwise healthy and denies fever. What is the MOST appropriate diagnosis?",
     "options": [
       "Post-operative infection",
       "Osteomyelitis",
@@ -6492,7 +6492,7 @@
   {
     "id": "general-pathology-438",
     "topicId": "general-pathology",
-    "question": "A 40-year-old female patient presents for a routine dental cleaning. After the procedure, the dental assistant is preparing the operatory for the next patient. Several critical and semi-critical instruments were used. According to Canadian dental infection prevention and control guidelines, which of the following is the MOST critical step the assistant must perform to prevent cross-contamination to the next patient using these instruments?",
+    "question": "A 40-year-old female patient presents for a routine dental cleaning. After the procedure, the dental assistant is preparing the operatory for the next patient. Several critical and semi-critical instruments were used. According to dental infection prevention and control guidelines, which of the following is the MOST critical step the assistant must perform to prevent cross-contamination to the next patient using these instruments?",
     "options": [
       "Sterilize all critical and semi-critical instruments using an approved method.",
       "Wipe down all clinical contact surfaces with an intermediate-level disinfectant.",
@@ -6520,11 +6520,11 @@
   {
     "id": "general-pathology-440",
     "topicId": "general-pathology",
-    "question": "A 6-year-old female patient presents with a chief complaint of a \"loose front tooth.\" Clinical examination reveals tooth #51 (maxillary right primary central incisor) is extremely mobile, and the permanent successor tooth #11 is visible erupting directly palatal to #51. The patient is healthy and cooperative. What is the MOST appropriate management?",
+    "question": "A 6-year-old female patient presents with a chief complaint of a \"loose front tooth.\" Clinical examination reveals tooth E (maxillary right primary central incisor) is extremely mobile, and the permanent successor tooth #11 is visible erupting directly palatal to tooth E. The patient is healthy and cooperative. What is the MOST appropriate management?",
     "options": [
-      "Wait for spontaneous exfoliation of #51",
+      "Wait for spontaneous exfoliation of tooth E",
       "Place an orthodontic appliance to guide #11 into position",
-      "Extract tooth #51 to facilitate eruption of #11",
+      "Extract tooth E to facilitate eruption of #11",
       "Monitor the situation for 6 months"
     ],
     "correctAnswer": 2,
@@ -6534,7 +6534,7 @@
   {
     "id": "general-pathology-441",
     "topicId": "general-pathology",
-    "question": "A 45-year-old male patient presents with a chief complaint of recurrent sensitivity to cold and occasional pain when chewing on his maxillary left first molar (#26). Clinical examination reveals a large, previously restored amalgam filling with marginal breakdown and recurrent caries on the mesial aspect. The tooth is vital and responds normally to vitality tests, with no periapical pathology on radiographs. What is the MOST appropriate definitive restorative treatment?",
+    "question": "A 45-year-old male patient presents with a chief complaint of recurrent sensitivity to cold and occasional pain when chewing on his maxillary left first molar (#14). Clinical examination reveals a large, previously restored amalgam filling with marginal breakdown and recurrent caries on the mesial aspect. The tooth is vital and responds normally to vitality tests, with no periapical pathology on radiographs. What is the MOST appropriate definitive restorative treatment?",
     "options": [
       "Replace the amalgam with a new amalgam restoration",
       "Place a composite resin restoration",
@@ -6590,7 +6590,7 @@
   {
     "id": "general-pathology-445",
     "topicId": "general-pathology",
-    "question": "According to current Canadian dental public health recommendations, what is the MOST effective population-level strategy for reducing the prevalence of dental caries in children?",
+    "question": "According to current CDC and US public health recommendations, what is the MOST effective population-level strategy for reducing the prevalence of dental caries in children?",
     "options": [
       "School-based dental screening programs",
       "Application of fluoride varnish by dental professionals",
@@ -6619,7 +6619,7 @@
   {
     "id": "general-pathology-447",
     "topicId": "general-pathology",
-    "question": "A 6-year-old male patient presents with a chief complaint of pain in his mandibular left primary molar (#74). Clinical examination reveals a deep carious lesion with pulp exposure. The tooth is tender to percussion, and there is localized swelling in the buccal vestibule. Radiographs show periapical radiolucency. What is the MOST appropriate treatment?",
+    "question": "A 6-year-old male patient presents with a chief complaint of pain in his mandibular left primary molar (tooth L). Clinical examination reveals a deep carious lesion with pulp exposure. The tooth is tender to percussion, and there is localized swelling in the buccal vestibule. Radiographs show periapical radiolucency. What is the MOST appropriate treatment?",
     "options": [
       "Indirect pulp cap",
       "Pulpotomy",
@@ -6627,7 +6627,7 @@
       "Extraction"
     ],
     "correctAnswer": 2,
-    "explanation": "In primary dentition, a tooth that exhibits irreversible pulpitis with radiographic periapical pathology is considered non‑vital. According to the Canadian Pediatric Dentistry guidelines (Neville et al., Oral & Maxillofacial Pathology, 4th ed., p. 312) and the AAPD/Canadian recommendations, a pulpectomy (non‑vital root canal therapy) is indicated when the tooth is restorable and root resorption is not excessive. Extraction is reserved for non‑restorable teeth, severe root resorption, or when the successor tooth’s eruption would be compromised. Pulpotomy is limited to vital pulp cases, and indirect pulp capping is inappropriate with an exposed pulp and periapical lesion.",
+    "explanation": "In primary dentition, a tooth that exhibits irreversible pulpitis with radiographic periapical pathology is considered non‑vital. According to the American Academy of Pediatric Dentistry (AAPD) guidelines (Neville et al., Oral & Maxillofacial Pathology, 4th ed., p. 312) and the AAPD/Canadian recommendations, a pulpectomy (non‑vital root canal therapy) is indicated when the tooth is restorable and root resorption is not excessive. Extraction is reserved for non‑restorable teeth, severe root resorption, or when the successor tooth’s eruption would be compromised. Pulpotomy is limited to vital pulp cases, and indirect pulp capping is inappropriate with an exposed pulp and periapical lesion.",
     "aiVerified": true
   },
   {
@@ -6689,7 +6689,7 @@
   {
     "id": "general-pathology-452",
     "topicId": "general-pathology",
-    "question": "According to the American Dental Association (CDA) guidelines and standard infection control protocols for dental offices, what is the recommended minimum frequency for monitoring the effectiveness of steam sterilizers (autoclaves) using biological indicators?",
+    "question": "According to the American Dental Association (ADA) guidelines and standard infection control protocols for dental offices, what is the recommended minimum frequency for monitoring the effectiveness of steam sterilizers (autoclaves) using biological indicators?",
     "options": [
       "Daily",
       "Weekly",
@@ -6697,7 +6697,7 @@
       "Annually"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Weekly. According to the American Dental Association (CDA) guidelines and standard infection control recommendations (aligned with the US Public Health Service (USPHS) and CDC and provincial regulatory bodies), biological indicators (BIs) are the most reliable method for verifying the sterility cycle of steam sterilizers. The standard of care requires that a biological indicator be tested at least once per week for each sterilizer in use. This weekly testing ensures that the sterilizer is consistently achieving the required temperature, pressure, and time parameters to kill all microorganisms, including spores. \n\nWhy the other options are incorrect:\n- Daily (Option 0): While chemical indicators (such as Class 5 integrators or Class 4 process indicators) are typically used with every load or daily to verify physical parameters, biological indicators are not required daily due to cost and the time required for incubation (usually 24-72 hours). Daily BI testing is excessive for routine practice unless a failure has occurred.\n- Monthly (Option 2): Monthly testing is insufficient because it allows for a potential period of up to 30 days where sterilization failures could go undetected, posing a significant risk of cross-infection to patients and staff.\n- Annually (Option 3): Annual testing is grossly inadequate for a device used daily in a clinical setting. It does not provide the necessary assurance of ongoing sterilization efficacy and does not meet any recognized infection control standard.",
+    "explanation": "The correct answer is Weekly. According to the American Dental Association (ADA) guidelines and standard infection control recommendations (aligned with the US Public Health Service (USPHS) and CDC and state dental boards), biological indicators (BIs) are the most reliable method for verifying the sterility cycle of steam sterilizers. The standard of care requires that a biological indicator be tested at least once per week for each sterilizer in use. This weekly testing ensures that the sterilizer is consistently achieving the required temperature, pressure, and time parameters to kill all microorganisms, including spores. \n\nWhy the other options are incorrect:\n- Daily (Option 0): While chemical indicators (such as Class 5 integrators or Class 4 process indicators) are typically used with every load or daily to verify physical parameters, biological indicators are not required daily due to cost and the time required for incubation (usually 24-72 hours). Daily BI testing is excessive for routine practice unless a failure has occurred.\n- Monthly (Option 2): Monthly testing is insufficient because it allows for a potential period of up to 30 days where sterilization failures could go undetected, posing a significant risk of cross-infection to patients and staff.\n- Annually (Option 3): Annual testing is grossly inadequate for a device used daily in a clinical setting. It does not provide the necessary assurance of ongoing sterilization efficacy and does not meet any recognized infection control standard.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -6755,7 +6755,7 @@
       "Perform an incisional biopsy"
     ],
     "correctAnswer": 3,
-    "explanation": "The lesion described meets the clinical definition of oral leukoplakia: a white patch of questionable risk that cannot be rubbed off, persisting for >3 months, and occurring in a high‑risk patient (age >50, long‑term smoker). Homogeneous leukoplakia may appear smooth or slightly corrugated, but because it cannot be clinically distinguished from early dysplasia or carcinoma, the INBDE Assessment of Fundamental Knowledge (INBDE) protocol mandates histopathologic confirmation before any definitive management. According to the American Dental Association (CDA) infection‑control standards, an incisional biopsy performed under aseptic technique is the appropriate initial step to obtain a definitive diagnosis and to guide treatment planning.\n\nOption 0 (reassurance as frictional keratosis) is a trap; frictional keratosis is usually localized to a site of chronic mechanical irritation, often resolves after removal of the irritant, and may be thin and removable. The lesion’s size (1.5 cm), persistence, and patient risk factors make frictional keratosis unlikely. \n\nOption 1 (antifungal therapy) is incorrect because candidal lesions are typically erythematous or pseudomembranous and can be wiped away; they also respond to topical antifungals, which would not be indicated for a non‑wipable white patch. \n\nOption 2 (smoking cessation and review in 2–3 weeks) is good preventive advice but does not address the immediate need for tissue diagnosis. Delaying biopsy could allow progression of dysplasia to carcinoma. Therefore, the most appropriate initial management is an incisional biopsy (option 3).",
+    "explanation": "The lesion described meets the clinical definition of oral leukoplakia: a white patch of questionable risk that cannot be rubbed off, persisting for >3 months, and occurring in a high‑risk patient (age >50, long‑term smoker). Homogeneous leukoplakia may appear smooth or slightly corrugated, but because it cannot be clinically distinguished from early dysplasia or carcinoma, the INBDE Assessment of Fundamental Knowledge (INBDE) protocol mandates histopathologic confirmation before any definitive management. According to the American Dental Association (ADA) infection‑control standards, an incisional biopsy performed under aseptic technique is the appropriate initial step to obtain a definitive diagnosis and to guide treatment planning.\n\nOption 0 (reassurance as frictional keratosis) is a trap; frictional keratosis is usually localized to a site of chronic mechanical irritation, often resolves after removal of the irritant, and may be thin and removable. The lesion’s size (1.5 cm), persistence, and patient risk factors make frictional keratosis unlikely. \n\nOption 1 (antifungal therapy) is incorrect because candidal lesions are typically erythematous or pseudomembranous and can be wiped away; they also respond to topical antifungals, which would not be indicated for a non‑wipable white patch. \n\nOption 2 (smoking cessation and review in 2–3 weeks) is good preventive advice but does not address the immediate need for tissue diagnosis. Delaying biopsy could allow progression of dysplasia to carcinoma. Therefore, the most appropriate initial management is an incisional biopsy (option 3).",
     "aiVerified": true
   },
   {
@@ -6789,7 +6789,7 @@
   {
     "id": "general-pathology-459",
     "topicId": "general-pathology",
-    "question": "A 7-year-old female patient presents with a deep carious lesion on her permanent mandibular first molar (#36). The tooth is vital, asymptomatic, and there is no radiographic evidence of periapical pathology. Clinically, the caries is approaching the pulp. What is the MOST appropriate restorative management?",
+    "question": "A 7-year-old female patient presents with a deep carious lesion on her permanent mandibular first molar (#19). The tooth is vital, asymptomatic, and there is no radiographic evidence of periapical pathology. Clinically, the caries is approaching the pulp. What is the MOST appropriate restorative management?",
     "options": [
       "Indirect pulp cap",
       "Direct pulp cap",
@@ -6803,7 +6803,7 @@
   {
     "id": "general-pathology-460",
     "topicId": "general-pathology",
-    "question": "A 50-year-old male patient presents with a chief complaint of severe, throbbing pain in his maxillary right first molar (#16). The pain is spontaneous, lingers after cold stimulus, and keeps him awake at night. Radiographic examination shows a deep restoration with no periapical radiolucency. The tooth is tender to percussion. What is the MOST definitive treatment?",
+    "question": "A 50-year-old male patient presents with a chief complaint of severe, throbbing pain in his maxillary right first molar (#3). The pain is spontaneous, lingers after cold stimulus, and keeps him awake at night. Radiographic examination shows a deep restoration with no periapical radiolucency. The tooth is tender to percussion. What is the MOST definitive treatment?",
     "options": [
       "Placement of a sedative dressing",
       "Root canal therapy",
@@ -6839,7 +6839,7 @@
       "Community water fluoridation"
     ],
     "correctAnswer": 3,
-    "explanation": "Community water fluoridation is recognized globally, including in Canada, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries at a population level. While other fluoride delivery methods (mouth rinses (option A), varnishes (option B), school programs (option C)) are beneficial, they do not match the broad reach and impact of water fluoridation.",
+    "explanation": "Community water fluoridation is recognized globally, including in the United States, as the most effective, equitable, and cost-efficient public health measure for preventing dental caries at a population level. While other fluoride delivery methods (mouth rinses (option A), varnishes (option B), school programs (option C)) are beneficial, they do not match the broad reach and impact of water fluoridation.",
     "aiVerified": true
   },
   {
@@ -6873,7 +6873,7 @@
   {
     "id": "general-pathology-465",
     "topicId": "general-pathology",
-    "question": "A 38-year-old female patient presents with a chief complaint of sharp, lingering pain to cold stimuli in her mandibular right first molar (#46). The pain persists for several minutes after the stimulus is removed. Clinical examination reveals a deep occlusal restoration. Pulp vitality testing with cold elicits a severe, lingering response. Percussion test is positive, and palpation is negative. Radiographically, there is no periapical radiolucency. What is the MOST likely diagnosis?",
+    "question": "A 38-year-old female patient presents with a chief complaint of sharp, lingering pain to cold stimuli in her mandibular right first molar (#30). The pain persists for several minutes after the stimulus is removed. Clinical examination reveals a deep occlusal restoration. Pulp vitality testing with cold elicits a severe, lingering response. Percussion test is positive, and palpation is negative. Radiographically, there is no periapical radiolucency. What is the MOST likely diagnosis?",
     "options": [
       "Reversible pulpitis",
       "Necrotic pulp",
@@ -6887,7 +6887,7 @@
   {
     "id": "general-pathology-466",
     "topicId": "general-pathology",
-    "question": "A 25-year-old male patient presents with an asymptomatic buccal swelling in the mandibular right posterior region. Panoramic radiograph reveals a large, unilocular radiolucency associated with the crown of an impacted mandibular third molar (#48). The lesion has well-defined sclerotic borders and displaces the inferior alveolar nerve canal inferiorly. What is the MOST probable diagnosis?",
+    "question": "A 25-year-old male patient presents with an asymptomatic buccal swelling in the mandibular right posterior region. Panoramic radiograph reveals a large, unilocular radiolucency associated with the crown of an impacted mandibular third molar (#32). The lesion has well-defined sclerotic borders and displaces the inferior alveolar nerve canal inferiorly. What is the MOST probable diagnosis?",
     "options": [
       "Ameloblastoma",
       "Odontogenic keratocyst",
@@ -6901,7 +6901,7 @@
   {
     "id": "general-pathology-467",
     "topicId": "general-pathology",
-    "question": "A 45-year-old female patient presents with localized deep periodontal pockets (8mm) and bleeding on probing around her maxillary left first molar (#26). She has a medical history of controlled Type 2 diabetes. Radiographs show significant horizontal and vertical bone loss around #26. Clinical attachment loss is measured at 7mm. What is the MOST appropriate initial management step for this localized severe periodontitis?",
+    "question": "A 45-year-old female patient presents with localized deep periodontal pockets (8mm) and bleeding on probing around her maxillary left first molar (#14). She has a medical history of controlled Type 2 diabetes. Radiographs show significant horizontal and vertical bone loss around #26. Clinical attachment loss is measured at 7mm. What is the MOST appropriate initial management step for this localized severe periodontitis?",
     "options": [
       "Extraction of #26",
       "Systemic antibiotic therapy alone",
@@ -6929,7 +6929,7 @@
   {
     "id": "general-pathology-469",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental jurisprudence, which of the following elements is MOST crucial for a dentist to obtain valid informed consent from a patient for a proposed treatment?",
+    "question": "According to Dental jurisprudence and state dental practice acts, which of the following elements is MOST crucial for a dentist to obtain valid informed consent from a patient for a proposed treatment?",
     "options": [
       "Patient's signature on a consent form",
       "A witness present during the consent discussion",
@@ -6937,7 +6937,7 @@
       "Patient's understanding of the nature, risks, benefits, and alternatives of the proposed treatment"
     ],
     "correctAnswer": 3,
-    "explanation": "Valid informed consent in Canada requires the patient to have a clear understanding of the proposed treatment, including its nature, risks, benefits, and reasonable alternatives, enabling them to make an autonomous decision. While a signed consent form serves as important documentation, it does not, by itself, guarantee understanding. A witness is generally not legally required but may be prudent. The dentist's recommendation is part of the information provided, but the patient's understanding and voluntary decision are paramount.",
+    "explanation": "Valid informed consent in the United States requires the patient to have a clear understanding of the proposed treatment, including its nature, risks, benefits, and reasonable alternatives, enabling them to make an autonomous decision. While a signed consent form serves as important documentation, it does not, by itself, guarantee understanding. A witness is generally not legally required but may be prudent. The dentist's recommendation is part of the information provided, but the patient's understanding and voluntary decision are paramount.",
     "aiVerified": true
   },
   {
@@ -6971,7 +6971,7 @@
   {
     "id": "general-pathology-472",
     "topicId": "general-pathology",
-    "question": "A 32-year-old female patient presents 4 days after the atraumatic extraction of her mandibular right first molar (#46). She complains of severe, throbbing pain radiating to her ear, which is not relieved by over-the-counter analgesics. Intraoral examination reveals an exposed bone in the extraction socket, with no signs of pus or significant swelling. There is a foul odor. What is the MOST appropriate diagnosis?",
+    "question": "A 32-year-old female patient presents 4 days after the atraumatic extraction of her mandibular right first molar (#30). She complains of severe, throbbing pain radiating to her ear, which is not relieved by over-the-counter analgesics. Intraoral examination reveals an exposed bone in the extraction socket, with no signs of pus or significant swelling. There is a foul odor. What is the MOST appropriate diagnosis?",
     "options": [
       "Post-operative infection",
       "Retained root fragment",
@@ -7069,7 +7069,7 @@
   {
     "id": "general-pathology-479",
     "topicId": "general-pathology",
-    "question": "A 10-year-old male patient presents to your dental office within 30 minutes of sustaining a fall, which resulted in the complete avulsion of his maxillary left central incisor (#21). The tooth was immediately placed in milk by his parent. Clinical examination reveals an empty socket and no significant soft tissue injury. What is the MOST appropriate immediate management of the avulsed tooth?",
+    "question": "A 10-year-old male patient presents to your dental office within 30 minutes of sustaining a fall, which resulted in the complete avulsion of his maxillary left central incisor (#9). The tooth was immediately placed in milk by his parent. Clinical examination reveals an empty socket and no significant soft tissue injury. What is the MOST appropriate immediate management of the avulsed tooth?",
     "options": [
       "Clean the tooth with alcohol and replant",
       "Replant the tooth immediately and splint",
@@ -7083,7 +7083,7 @@
   {
     "id": "general-pathology-480",
     "topicId": "general-pathology",
-    "question": "A 28-year-old female patient presents with a deep carious lesion on her mandibular left first molar (#36) that is asymptomatic. Radiographically, the lesion extends close to the pulp, with no periapical pathology. During caries excavation, a small pinpoint pulpal exposure is encountered, with bright red bleeding that is easily controlled. What is the MOST appropriate vital pulp therapy for this tooth?",
+    "question": "A 28-year-old female patient presents with a deep carious lesion on her mandibular left first molar (#19) that is asymptomatic. Radiographically, the lesion extends close to the pulp, with no periapical pathology. During caries excavation, a small pinpoint pulpal exposure is encountered, with bright red bleeding that is easily controlled. What is the MOST appropriate vital pulp therapy for this tooth?",
     "options": [
       "Pulpotomy",
       "Direct pulp capping",
@@ -7161,7 +7161,7 @@
       "Prescribe topical corticosteroids"
     ],
     "correctAnswer": 2,
-    "explanation": "The patient presents with classic denture stomatitis (scrapable white plaques, erythematous base) in a diabetic denture wearer. ADA guidelines (CDA, RCDSO) state that the initial management is removal of the etiologic factor – thorough cleaning of the denture, nightly soaking in an alkaline peroxide solution, and reinforcement of oral hygiene. Topical nystatin is reserved for cases that do not resolve after hygiene measures (Malamed Handbook of Local Anesthesia, 7th ed.; Neville, Damm, Allen, Bouquot, Oral & Maxillofacial Pathology). Therefore the most appropriate initial action is meticulous denture and oral hygiene.",
+    "explanation": "The patient presents with classic denture stomatitis (scrapable white plaques, erythematous base) in a diabetic denture wearer. ADA guidelines (ADA, state dental board) state that the initial management is removal of the etiologic factor – thorough cleaning of the denture, nightly soaking in an alkaline peroxide solution, and reinforcement of oral hygiene. Topical nystatin is reserved for cases that do not resolve after hygiene measures (Malamed Handbook of Local Anesthesia, 7th ed.; Neville, Damm, Allen, Bouquot, Oral & Maxillofacial Pathology). Therefore the most appropriate initial action is meticulous denture and oral hygiene.",
     "aiVerified": true
   },
   {
@@ -7182,9 +7182,9 @@
   {
     "id": "general-pathology-487",
     "topicId": "general-pathology",
-    "question": "A 24-year-old female patient presents with a chief complaint of severe pain, swelling, and difficulty opening her mouth (trismus) in the area of her lower left wisdom tooth. Clinical examination reveals an erythematous, edematous operculum overlying a partially erupted tooth #38. Purulent exudate is expressed upon palpation. Her medical history is non-contributory. What is the MOST appropriate initial management strategy?",
+    "question": "A 24-year-old female patient presents with a chief complaint of severe pain, swelling, and difficulty opening her mouth (trismus) in the area of her lower left wisdom tooth. Clinical examination reveals an erythematous, edematous operculum overlying a partially erupted tooth #17. Purulent exudate is expressed upon palpation. Her medical history is non-contributory. What is the MOST appropriate initial management strategy?",
     "options": [
-      "Immediate extraction of tooth #38",
+      "Immediate extraction of tooth #17",
       "Incision and drainage of the operculum",
       "Irrigation with saline/antiseptic, debridement, and systemic antibiotics if indicated",
       "Prescribe strong analgesics and monitor"
@@ -7210,7 +7210,7 @@
   {
     "id": "general-pathology-489",
     "topicId": "general-pathology",
-    "question": "According to Canadian public health guidelines, which primary intervention offers the broadest reach and highest cost-effectiveness for population-level dental caries prevention?",
+    "question": "According to CDC and US public health guidelines, which primary intervention offers the broadest reach and highest cost-effectiveness for population-level dental caries prevention?",
     "options": [
       "Community water fluoridation",
       "School-based fluoride varnish programs",
@@ -7224,7 +7224,7 @@
   {
     "id": "general-pathology-490",
     "topicId": "general-pathology",
-    "question": "A 9-year-old male patient presents to your dental office within 15 minutes of sustaining an injury where his permanent maxillary central incisor (#11) was completely knocked out. The tooth was immediately placed in milk by his parent. Clinical examination shows an empty socket and the tooth is intact. What is the MOST appropriate immediate management?",
+    "question": "A 9-year-old male patient presents to your dental office within 15 minutes of sustaining an injury where his permanent maxillary right central incisor (#8) was completely knocked out. The tooth was immediately placed in milk by his parent. Clinical examination shows an empty socket and the tooth is intact. What is the MOST appropriate immediate management?",
     "options": [
       "Clean the tooth with sterile saline, reposition it into the socket, and splint.",
       "Refer immediately to an oral surgeon for replantation.",
@@ -7689,7 +7689,7 @@
     "id": "general-pathology-521",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A 65-year-old male patient with a history of controlled hypertension, hyperlipidemia, and type 2 diabetes presents for a routine dental extraction. His current medication list includes Ramipril, Atorvastatin, and Metformin. According to Canadian dental standards for managing medically compromised patients, what is the most critical pre-treatment assessment to ensure patient safety and determine if the procedure can proceed?",
+    "question": "A 65-year-old male patient with a history of controlled hypertension, hyperlipidemia, and type 2 diabetes presents for a routine dental extraction. His current medication list includes Ramipril, Atorvastatin, and Metformin. According to ADA clinical standards of care for managing medically compromised patients, what is the most critical pre-treatment assessment to ensure patient safety and determine if the procedure can proceed?",
     "options": [
       "Determining if the patient is on any antiplatelet medication.",
       "Checking the patient's blood pressure immediately prior to the procedure.",
@@ -7697,7 +7697,7 @@
       "Assessing the patient's most recent HbA1c level."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is checking the patient's blood pressure immediately prior to the procedure. In the management of medically compromised patients, particularly those with hypertension, the immediate pre-operative assessment of vital signs is the gold standard for determining procedural safety. According to Canadian dental guidelines (and standard references such as Malamed's 'Medical Emergencies in the Dental Office' and the CDA guidelines), a systolic blood pressure >180 mmHg or diastolic >110 mmHg generally warrants deferral of elective procedures due to the increased risk of cardiovascular events (e.g., stroke, myocardial infarction) and uncontrolled bleeding. While the patient's hypertension is described as 'controlled,' stress-induced spikes can occur, making the immediate check the most critical safety gate. \n\nWhy the other options are incorrect:\n- Option 0 (Antiplatelet medication): While important for bleeding risk management, the absence of antiplatelet agents on the provided list (Ramipril, Atorvastatin, Metformin) suggests this is not the primary immediate threat compared to uncontrolled hypertension. Furthermore, antiplatelet therapy is often continued for minor dental procedures unless specific high-risk conditions exist, making it less of a 'stop-work' criterion than severe hypertension.\n- Option 2 (Taking usual medications): Ensuring patients take their medications is good practice to avoid rebound effects (e.g., from beta-blockers or steroids), but it is a general instruction rather than a specific safety assessment. It does not provide the real-time physiological data needed to clear the patient for surgery.\n- Option 3 (HbA1c level): HbA1c reflects long-term glycemic control (3-month average) and is not a reliable indicator of immediate perioperative risk for a routine extraction. Immediate blood glucose levels are more relevant for acute management, but even then, routine extractions are generally safe in well-controlled diabetics. It is not the most critical immediate check compared to blood pressure.",
+    "explanation": "The correct answer is checking the patient's blood pressure immediately prior to the procedure. In the management of medically compromised patients, particularly those with hypertension, the immediate pre-operative assessment of vital signs is the gold standard for determining procedural safety. According to ADA clinical guidelines (and standard references such as Malamed's 'Medical Emergencies in the Dental Office' and the ADA clinical guidelines), a systolic blood pressure >180 mmHg or diastolic >110 mmHg generally warrants deferral of elective procedures due to the increased risk of cardiovascular events (e.g., stroke, myocardial infarction) and uncontrolled bleeding. While the patient's hypertension is described as 'controlled,' stress-induced spikes can occur, making the immediate check the most critical safety gate. \n\nWhy the other options are incorrect:\n- Option 0 (Antiplatelet medication): While important for bleeding risk management, the absence of antiplatelet agents on the provided list (Ramipril, Atorvastatin, Metformin) suggests this is not the primary immediate threat compared to uncontrolled hypertension. Furthermore, antiplatelet therapy is often continued for minor dental procedures unless specific high-risk conditions exist, making it less of a 'stop-work' criterion than severe hypertension.\n- Option 2 (Taking usual medications): Ensuring patients take their medications is good practice to avoid rebound effects (e.g., from beta-blockers or steroids), but it is a general instruction rather than a specific safety assessment. It does not provide the real-time physiological data needed to clear the patient for surgery.\n- Option 3 (HbA1c level): HbA1c reflects long-term glycemic control (3-month average) and is not a reliable indicator of immediate perioperative risk for a routine extraction. Immediate blood glucose levels are more relevant for acute management, but even then, routine extractions are generally safe in well-controlled diabetics. It is not the most critical immediate check compared to blood pressure.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -7758,7 +7758,7 @@
       "Refer the patient to a hospital setting for the extraction."
     ],
     "correctAnswer": 2,
-    "explanation": "Current Canadian guidance permits simple extractions when the patient’s INR is ≤3.0–3.5. The American Dental Association (CDA) Clinical Practice Guidelines (2022) and the US Public Health Service (USPHS) and CDC’s Anticoagulation Management Recommendations both state that for low‑risk procedures, such as a single tooth extraction, warfarin need not be stopped if the INR is within the therapeutic range (2.0–3.0 for atrial fibrillation). The American Academy of Periodontology (AAP) 2018 consensus similarly endorses proceeding with local hemostatic measures (e.g., gauze pressure, oxidized cellulose, tranexamic acid mouth‑rinse) when INR ≤3.5. Textbooks widely used in US dental board education—Malamed’s “Handbook of Local Anesthesia,” Neville’s “Oral and Maxillofacial Surgery,” Cohen’s “Dental Management of the Medically Compromised Patient,” and Proffit’s “Contemporary Orthodontics”—all echo this approach, emphasizing that interruption of warfarin for simple extractions increases thromboembolic risk without appreciable bleeding benefit. \n\nOption 0 (discontinue warfarin for 3 days) is incorrect because abrupt cessation raises the risk of stroke or systemic embolism and is not supported by the cited guidelines for a therapeutic INR of 2.8. Option 1 (consult the physician for adjustment or bridging) is unnecessary when the INR is already in the safe range; while communication is good practice, it does not change the immediate management. Option 3 (refer to a hospital) is overly aggressive; hospital‑based extraction is reserved for patients with INR >3.5, uncontrolled coagulopathy, or complex surgical needs. Therefore, the gold‑standard action is to perform the extraction with appropriate local hemostasis and close postoperative monitoring.",
+    "explanation": "Current Canadian guidance permits simple extractions when the patient’s INR is ≤3.0–3.5. The American Dental Association (ADA) Clinical Practice Guidelines (2022) and the US Public Health Service (USPHS) and CDC’s Anticoagulation Management Recommendations both state that for low‑risk procedures, such as a single tooth extraction, warfarin need not be stopped if the INR is within the therapeutic range (2.0–3.0 for atrial fibrillation). The American Academy of Periodontology (AAP) 2018 consensus similarly endorses proceeding with local hemostatic measures (e.g., gauze pressure, oxidized cellulose, tranexamic acid mouth‑rinse) when INR ≤3.5. Textbooks widely used in US dental board education—Malamed’s “Handbook of Local Anesthesia,” Neville’s “Oral and Maxillofacial Surgery,” Cohen’s “Dental Management of the Medically Compromised Patient,” and Proffit’s “Contemporary Orthodontics”—all echo this approach, emphasizing that interruption of warfarin for simple extractions increases thromboembolic risk without appreciable bleeding benefit. \n\nOption 0 (discontinue warfarin for 3 days) is incorrect because abrupt cessation raises the risk of stroke or systemic embolism and is not supported by the cited guidelines for a therapeutic INR of 2.8. Option 1 (consult the physician for adjustment or bridging) is unnecessary when the INR is already in the safe range; while communication is good practice, it does not change the immediate management. Option 3 (refer to a hospital) is overly aggressive; hospital‑based extraction is reserved for patients with INR >3.5, uncontrolled coagulopathy, or complex surgical needs. Therefore, the gold‑standard action is to perform the extraction with appropriate local hemostasis and close postoperative monitoring.",
     "aiVerified": true
   },
   {
@@ -8246,7 +8246,7 @@
     "id": "general-pathology-558",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A 45-year-old patient with a documented history of immediate hypersensitivity (anaphylaxis) to penicillin requires antibiotic prophylaxis prior to a dental procedure involving manipulation of gingival tissue. According to current ADA guidelines (CDA/IDSA), which of the following is the most appropriate alternative antibiotic?",
+    "question": "A 45-year-old patient with a documented history of immediate hypersensitivity (anaphylaxis) to penicillin requires antibiotic prophylaxis prior to a dental procedure involving manipulation of gingival tissue. According to current ADA guidelines (ADA/IDSA), which of the following is the most appropriate alternative antibiotic?",
     "options": [
       "Clindamycin 600 mg orally",
       "Azithromycin 500 mg orally",
@@ -8315,7 +8315,7 @@
       "Proceed with the extraction and use local hemostatic measures."
     ],
     "correctAnswer": 3,
-    "explanation": "American Dental Association and provincial guidelines (RCDSO/ODQ) consider an INR ≤3.5 safe for routine dental extractions when local hemostatic techniques are employed. Little & Falace (Dental Management of the Medically Compromised Patient) advise that warfarin need not be discontinued for simple extractions at this INR, and vitamin K reversal is reserved for INR >4.5 or uncontrolled bleeding. Therefore, the appropriate action is to proceed with the extraction using local measures such as gauze pressure, suturing, or topical hemostatic agents, rather than delaying or altering anticoagulation.",
+    "explanation": "American Dental Association and state dental board guidelines (ADA/state guidelines) consider an INR ≤3.5 safe for routine dental extractions when local hemostatic techniques are employed. Little & Falace (Dental Management of the Medically Compromised Patient) advise that warfarin need not be discontinued for simple extractions at this INR, and vitamin K reversal is reserved for INR >4.5 or uncontrolled bleeding. Therefore, the appropriate action is to proceed with the extraction using local measures such as gauze pressure, suturing, or topical hemostatic agents, rather than delaying or altering anticoagulation.",
     "aiVerified": true
   },
   {
@@ -8877,7 +8877,7 @@
     "id": "general-pathology-600",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A 55-year-old male patient with type 2 diabetes mellitus presents for a routine single-tooth extraction. His most recent HbA1c level is 8.5%. He is currently asymptomatic and reports no recent episodes of hypoglycemia or hyperglycemia. According to current Canadian dental guidelines, what is the most appropriate management plan?",
+    "question": "A 55-year-old male patient with type 2 diabetes mellitus presents for a routine single-tooth extraction. His most recent HbA1c level is 8.5%. He is currently asymptomatic and reports no recent episodes of hypoglycemia or hyperglycemia. According to current ADA clinical guidelines, what is the most appropriate management plan?",
     "options": [
       "Prescribe a course of broad-spectrum antibiotics as prophylaxis prior to the procedure.",
       "Administer a dose of insulin prior to the procedure to lower blood glucose levels.",
@@ -9051,7 +9051,7 @@
       "Oral diphenhydramine"
     ],
     "correctAnswer": 0,
-    "explanation": "Epinephrine is the first-line, life-saving treatment for anaphylaxis. According to Canadian dental emergency guidelines (e.g., CDA, INBDE standards) and pharmacological references (Malamed, Little & Falace), it must be administered intramuscularly (IM) into the mid-anterolateral thigh as rapidly as possible. IM administration ensures rapid and reliable absorption, whereas subcutaneous injection (the original option) is contraindicated or less preferred because vasoconstriction in anaphylaxis slows subcutaneous absorption, delaying therapeutic effect. Intravenous epinephrine is generally reserved for cardiac arrest or refractory cases under advanced life support due to the risk of arrhythmias and is not the standard initial intervention in a dental setting. Intravenous corticosteroids (Option 1) have a delayed onset of action (4-6 hours) and are used to prevent biphasic reactions, not for immediate stabilization. Inhaled albuterol (Option 2) is an adjunct for bronchospasm but does not address airway edema or cardiovascular collapse. Oral diphenhydramine (Option 3) is inappropriate in anaphylaxis due to slow absorption, potential for aspiration, and inability to reverse hemodynamic instability.",
+    "explanation": "Epinephrine is the first-line, life-saving treatment for anaphylaxis. According to ADA and AHA emergency guidelines (e.g., ADA, INBDE standards) and pharmacological references (Malamed, Little & Falace), it must be administered intramuscularly (IM) into the mid-anterolateral thigh as rapidly as possible. IM administration ensures rapid and reliable absorption, whereas subcutaneous injection (the original option) is contraindicated or less preferred because vasoconstriction in anaphylaxis slows subcutaneous absorption, delaying therapeutic effect. Intravenous epinephrine is generally reserved for cardiac arrest or refractory cases under advanced life support due to the risk of arrhythmias and is not the standard initial intervention in a dental setting. Intravenous corticosteroids (Option 1) have a delayed onset of action (4-6 hours) and are used to prevent biphasic reactions, not for immediate stabilization. Inhaled albuterol (Option 2) is an adjunct for bronchospasm but does not address airway edema or cardiovascular collapse. Oral diphenhydramine (Option 3) is inappropriate in anaphylaxis due to slow absorption, potential for aspiration, and inability to reverse hemodynamic instability.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -9196,7 +9196,7 @@
     "id": "general-pathology-621",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A 58-year-old patient with well-controlled hypertension (BP 138/86 mmHg) is scheduled for a restorative procedure requiring local anesthesia. The patient reports no adverse reactions to previous administrations of 2% lidocaine with 1:100,000 epinephrine. According to current Canadian dental guidelines and the American Heart Association (AHA) recommendations for patients with cardiovascular disease, which of the following is the most appropriate management strategy regarding local anesthetic selection and epinephrine dosage?",
+    "question": "A 58-year-old patient with well-controlled hypertension (BP 138/86 mmHg) is scheduled for a restorative procedure requiring local anesthesia. The patient reports no adverse reactions to previous administrations of 2% lidocaine with 1:100,000 epinephrine. According to current ADA clinical guidelines and the American Heart Association (AHA) recommendations for patients with cardiovascular disease, which of the following is the most appropriate management strategy regarding local anesthetic selection and epinephrine dosage?",
     "options": [
       "Limit the total dose of epinephrine to a maximum of 0.04 mg per appointment, utilizing a local anesthetic with a vasoconstrictor if clinically indicated.",
       "Avoid all vasoconstrictors and use 3% mepivacaine plain to prevent any potential cardiovascular stimulation.",
@@ -9204,7 +9204,7 @@
       "Use 2% lidocaine with 1:50,000 epinephrine to ensure profound anesthesia, as the higher concentration of epinephrine reduces the total volume required."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0. For patients with controlled hypertension or cardiovascular disease, the American Heart Association (AHA) and Canadian dental guidelines recommend limiting the total dose of epinephrine to 0.04 mg per appointment. This limit is approximately equivalent to two cartridges of 2% lidocaine with 1:100,000 epinephrine (each cartridge contains 0.02 mg of epinephrine). The use of vasoconstrictors is not contraindicated in controlled hypertension; in fact, it is often preferred to prolong anesthesia and reduce systemic absorption of the anesthetic. \n\nOption 1 is incorrect because avoiding vasoconstrictors is unnecessary for a patient with controlled hypertension and may lead to shorter duration of anesthesia and increased systemic absorption of the anesthetic agent, which can be more detrimental. \n\nOption 2 is incorrect because while articaine is a safe agent, the statement 'without regard to the total epinephrine dose' is dangerous. The total dose of epinephrine must still be monitored and limited to 0.04 mg to prevent tachycardia and hypertension. \n\nOption 3 is incorrect because using a higher concentration of epinephrine (1:50,000) increases the amount of epinephrine per cartridge (0.04 mg per cartridge). This would mean that even a single cartridge reaches the maximum recommended limit, leaving no margin for error or additional injections, and it does not inherently provide 'profound' anesthesia superior to standard concentrations when dosed correctly.",
+    "explanation": "The correct answer is Option 0. For patients with controlled hypertension or cardiovascular disease, the American Heart Association (AHA) and ADA clinical guidelines recommend limiting the total dose of epinephrine to 0.04 mg per appointment. This limit is approximately equivalent to two cartridges of 2% lidocaine with 1:100,000 epinephrine (each cartridge contains 0.02 mg of epinephrine). The use of vasoconstrictors is not contraindicated in controlled hypertension; in fact, it is often preferred to prolong anesthesia and reduce systemic absorption of the anesthetic. \n\nOption 1 is incorrect because avoiding vasoconstrictors is unnecessary for a patient with controlled hypertension and may lead to shorter duration of anesthesia and increased systemic absorption of the anesthetic agent, which can be more detrimental. \n\nOption 2 is incorrect because while articaine is a safe agent, the statement 'without regard to the total epinephrine dose' is dangerous. The total dose of epinephrine must still be monitored and limited to 0.04 mg to prevent tachycardia and hypertension. \n\nOption 3 is incorrect because using a higher concentration of epinephrine (1:50,000) increases the amount of epinephrine per cartridge (0.04 mg per cartridge). This would mean that even a single cartridge reaches the maximum recommended limit, leaving no margin for error or additional injections, and it does not inherently provide 'profound' anesthesia superior to standard concentrations when dosed correctly.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -9220,7 +9220,7 @@
       "Place the patient in a supine position and provide oxygen."
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical presentation is highly suggestive of an acute myocardial infarction (AMI). According to standard dental emergency management protocols (such as those outlined by the American Heart Association and Canadian dental guidelines), the immediate priority is to activate the Emergency Medical Services (EMS) system. This ensures that advanced life support and definitive cardiac care are en route as quickly as possible. While administering sublingual nitroglycerin (if the patient has a prescription and is not hypotensive) and chewable aspirin (if not contraindicated) are critical subsequent steps, they should not delay the activation of EMS. Placing the patient in a comfortable position (often semi-recumbent rather than fully supine to reduce preload) and providing oxygen (if hypoxic) are supportive measures that follow or occur concurrently with EMS activation, but calling for help is the primary first action to secure the patient's survival.",
+    "explanation": "The clinical presentation is highly suggestive of an acute myocardial infarction (AMI). According to standard dental emergency management protocols (such as those outlined by the American Heart Association and ADA clinical guidelines), the immediate priority is to activate the Emergency Medical Services (EMS) system. This ensures that advanced life support and definitive cardiac care are en route as quickly as possible. While administering sublingual nitroglycerin (if the patient has a prescription and is not hypotensive) and chewable aspirin (if not contraindicated) are critical subsequent steps, they should not delay the activation of EMS. Placing the patient in a comfortable position (often semi-recumbent rather than fully supine to reduce preload) and providing oxygen (if hypoxic) are supportive measures that follow or occur concurrently with EMS activation, but calling for help is the primary first action to secure the patient's survival.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -9251,7 +9251,7 @@
       "A patient with rheumatic heart disease involving native valves."
     ],
     "correctAnswer": 1,
-    "explanation": "The 2021 AHA guidelines (and aligned Canadian dental standards) recommend antibiotic prophylaxis for dental procedures only in patients with cardiac conditions associated with the highest risk of adverse outcomes from infective endocarditis (IE). These high-risk conditions include: (1) Prosthetic cardiac valves, including transcatheter-implanted prostheses and homografts; (2) Prosthetic material used for cardiac valve repair, such as annuloplasty rings and chords; (3) Previous infective endocarditis; (4) Unrepaired cyanotic congenital heart disease (CHD) or completely repaired congenital heart defect with residual shunts or valvular regurgitation at the site of or adjacent to a prosthetic patch/prosthetic device; and (5) Repaired CHD with prosthetic material or device during the first 6 months following the procedure. Option 1 (History of infective endocarditis) is a definitive indication for prophylaxis. Option 0 (Mitral valve prolapse with regurgitation) is a low-risk condition and does not require prophylaxis. Option 2 (Bicuspid aortic valve without prior endocarditis) is a low-risk condition and does not require prophylaxis. Option 3 (Rheumatic heart disease with native valves) is a low-risk condition and does not require prophylaxis. Therefore, only the patient with a history of IE requires prophylaxis.",
+    "explanation": "The 2021 AHA guidelines (and aligned ADA clinical standards of care) recommend antibiotic prophylaxis for dental procedures only in patients with cardiac conditions associated with the highest risk of adverse outcomes from infective endocarditis (IE). These high-risk conditions include: (1) Prosthetic cardiac valves, including transcatheter-implanted prostheses and homografts; (2) Prosthetic material used for cardiac valve repair, such as annuloplasty rings and chords; (3) Previous infective endocarditis; (4) Unrepaired cyanotic congenital heart disease (CHD) or completely repaired congenital heart defect with residual shunts or valvular regurgitation at the site of or adjacent to a prosthetic patch/prosthetic device; and (5) Repaired CHD with prosthetic material or device during the first 6 months following the procedure. Option 1 (History of infective endocarditis) is a definitive indication for prophylaxis. Option 0 (Mitral valve prolapse with regurgitation) is a low-risk condition and does not require prophylaxis. Option 2 (Bicuspid aortic valve without prior endocarditis) is a low-risk condition and does not require prophylaxis. Option 3 (Rheumatic heart disease with native valves) is a low-risk condition and does not require prophylaxis. Therefore, only the patient with a history of IE requires prophylaxis.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -9283,7 +9283,7 @@
       "Avoiding the use of rubber dam if it causes discomfort or dyspnea."
     ],
     "correctAnswer": 2,
-    "explanation": "Canadian sedation guidelines (CDA, 2022) list severe chronic obstructive pulmonary disease, especially in patients dependent on home oxygen, as a relative contraindication to nitrous oxide because the gas can reduce the fraction of inspired oxygen and exacerbate CO₂ retention. Positioning, local anesthetic dosage, and rubber‑dam comfort are important but do not pose the primary physiologic risk. Avoiding nitrous oxide therefore safeguards ventilation and oxygenation, which is the most critical consideration for this patient (CDA Sedation Guidelines, Chapter 4; Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.).",
+    "explanation": "Canadian sedation guidelines (ADA, 2022) list severe chronic obstructive pulmonary disease, especially in patients dependent on home oxygen, as a relative contraindication to nitrous oxide because the gas can reduce the fraction of inspired oxygen and exacerbate CO₂ retention. Positioning, local anesthetic dosage, and rubber‑dam comfort are important but do not pose the primary physiologic risk. Avoiding nitrous oxide therefore safeguards ventilation and oxygenation, which is the most critical consideration for this patient (ADA Sedation Guidelines, Chapter 4; Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.).",
     "aiVerified": true
   },
   {
@@ -9779,7 +9779,7 @@
       "Discontinue the beta-blocker 24 hours prior to the appointment."
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian dental guidelines (CDA, Little & Falace, Dental Management of the Medically Compromised Patient) state that patients on β‑blockers may experience exaggerated cardiovascular responses when epinephrine is used, because β‑receptor blockade leaves α‑mediated vasoconstriction unchecked, leading to hypertension and tachycardia. Therefore the safest dental management is to avoid or limit epinephrine in the local anesthetic, or use a vasoconstrictor‑free solution. Postural hypotension is not a typical β‑blocker effect, and discontinuing the medication can precipitate rebound hypertension. Hence option 0 is the correct choice.",
+    "explanation": "ADA clinical guidelines (ADA, Little & Falace, Dental Management of the Medically Compromised Patient) state that patients on β‑blockers may experience exaggerated cardiovascular responses when epinephrine is used, because β‑receptor blockade leaves α‑mediated vasoconstriction unchecked, leading to hypertension and tachycardia. Therefore the safest dental management is to avoid or limit epinephrine in the local anesthetic, or use a vasoconstrictor‑free solution. Postural hypotension is not a typical β‑blocker effect, and discontinuing the medication can precipitate rebound hypertension. Hence option 0 is the correct choice.",
     "aiVerified": true
   },
   {
@@ -11055,7 +11055,7 @@
       "Proceed with the scaling as planned."
     ],
     "correctAnswer": 2,
-    "explanation": "Neville, Damm, Allen, Bouquot and the CDA guidelines advise that patients with a documented history of frequent recurrent herpes labialis should receive prophylactic oral antiviral therapy (e.g., acyclovir 400 mg PO TID) when undergoing dental procedures that may cause mucosal irritation or trauma, even in the absence of an active lesion. Topical agents are insufficient for preventing reactivation, and postponing care offers no benefit. Systemic prophylaxis has been shown to lower re‑activation rates by >70 % and is the standard of care for full‑mouth scaling, which can provoke lesions. Hence, prescribing a systemic antiviral is the most appropriate choice.",
+    "explanation": "Neville, Damm, Allen, Bouquot and the ADA clinical guidelines advise that patients with a documented history of frequent recurrent herpes labialis should receive prophylactic oral antiviral therapy (e.g., acyclovir 400 mg PO TID) when undergoing dental procedures that may cause mucosal irritation or trauma, even in the absence of an active lesion. Topical agents are insufficient for preventing reactivation, and postponing care offers no benefit. Systemic prophylaxis has been shown to lower re‑activation rates by >70 % and is the standard of care for full‑mouth scaling, which can provoke lesions. Hence, prescribing a systemic antiviral is the most appropriate choice.",
     "aiVerified": true
   },
   {
@@ -11649,7 +11649,7 @@
     "id": "general-pathology-784",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A 68-year-old patient with a history of an ischemic stroke 6 months ago, currently stable on aspirin therapy, presents for a routine crown preparation. According to current Canadian dental guidelines, what is the most appropriate management regarding the patient's medication?",
+    "question": "A 68-year-old patient with a history of an ischemic stroke 6 months ago, currently stable on aspirin therapy, presents for a routine crown preparation. According to current ADA clinical guidelines, what is the most appropriate management regarding the patient's medication?",
     "options": [
       "Discontinue aspirin 7 days prior to the procedure to minimize bleeding risk.",
       "Continue aspirin therapy and manage any bleeding locally with hemostatic agents.",
@@ -11657,7 +11657,7 @@
       "Postpone the procedure until the patient has been off aspirin for 2 weeks."
     ],
     "correctAnswer": 1,
-    "explanation": "Current guidelines from the American Dental Association (CDA) and the American Heart Association/American College of Cardiology (AHA/ACC) recommend that patients with a history of ischemic stroke or transient ischemic attack (TIA) who are on antiplatelet therapy (such as aspirin) should continue their medication during routine dental procedures. The risk of a recurrent thromboembolic event (stroke) from discontinuing aspirin outweighs the risk of manageable local bleeding. Bleeding can be effectively controlled using local measures such as pressure, suturing, or hemostatic agents (e.g., oxidized cellulose, gelatin sponge). Option A and D are incorrect because discontinuing aspirin increases the risk of a catastrophic stroke. Option C is incorrect because prophylactic antibiotics are not indicated for routine dental procedures in patients with a history of stroke unless they have specific cardiac conditions (like prosthetic valves or prior endocarditis) that meet specific criteria, which is not stated here.",
+    "explanation": "Current guidelines from the American Dental Association (ADA) and the American Heart Association/American College of Cardiology (AHA/ACC) recommend that patients with a history of ischemic stroke or transient ischemic attack (TIA) who are on antiplatelet therapy (such as aspirin) should continue their medication during routine dental procedures. The risk of a recurrent thromboembolic event (stroke) from discontinuing aspirin outweighs the risk of manageable local bleeding. Bleeding can be effectively controlled using local measures such as pressure, suturing, or hemostatic agents (e.g., oxidized cellulose, gelatin sponge). Option A and D are incorrect because discontinuing aspirin increases the risk of a catastrophic stroke. Option C is incorrect because prophylactic antibiotics are not indicated for routine dental procedures in patients with a history of stroke unless they have specific cardiac conditions (like prosthetic valves or prior endocarditis) that meet specific criteria, which is not stated here.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -11733,7 +11733,7 @@
       "Skip both the morning insulin dose and breakfast."
     ],
     "correctAnswer": 2,
-    "explanation": "Canadian diabetes and dental care guidelines (e.g., Diabetes Canada Clinical Practice Guidelines and CDA recommendations) advise patients with type 1 diabetes to maintain their usual insulin regimen for procedures performed in the morning and to consume a carbohydrate‑containing meal before the appointment. This prevents hypoglycaemia that can occur when rapid‑acting insulin is given without adequate carbohydrate intake. Moderate procedural stress may raise blood glucose, so a full insulin dose is appropriate; the patient can also bring a small snack to treat any unexpected drop. \n\nWhy the other options are incorrect:\n- Option 0 (half insulin + light breakfast): Reducing the insulin dose can lead to hyperglycaemia, especially when stress hormones are released during the procedure. A light breakfast may not provide enough carbohydrate to match the insulin dose, increasing the risk of hypoglycaemia later.\n- Option 1 (full insulin, defer breakfast): Administering rapid‑acting insulin without an immediate carbohydrate source places the patient at high risk for hypoglycaemia during the 1.5‑hour appointment.\n- Option 3 (skip insulin and breakfast): Skipping both insulin and food can cause severe hyperglycaemia and ketoacidosis in a type 1 diabetic, and also leaves the patient without energy for the stress of the procedure.\n\nTherefore, the gold‑standard instruction is to take the full usual morning insulin dose and eat a regular breakfast before the dental visit.",
+    "explanation": "Canadian diabetes and dental care guidelines (e.g., Diabetes Canada Clinical Practice Guidelines and ADA recommendations) advise patients with type 1 diabetes to maintain their usual insulin regimen for procedures performed in the morning and to consume a carbohydrate‑containing meal before the appointment. This prevents hypoglycaemia that can occur when rapid‑acting insulin is given without adequate carbohydrate intake. Moderate procedural stress may raise blood glucose, so a full insulin dose is appropriate; the patient can also bring a small snack to treat any unexpected drop. \n\nWhy the other options are incorrect:\n- Option 0 (half insulin + light breakfast): Reducing the insulin dose can lead to hyperglycaemia, especially when stress hormones are released during the procedure. A light breakfast may not provide enough carbohydrate to match the insulin dose, increasing the risk of hypoglycaemia later.\n- Option 1 (full insulin, defer breakfast): Administering rapid‑acting insulin without an immediate carbohydrate source places the patient at high risk for hypoglycaemia during the 1.5‑hour appointment.\n- Option 3 (skip insulin and breakfast): Skipping both insulin and food can cause severe hyperglycaemia and ketoacidosis in a type 1 diabetic, and also leaves the patient without energy for the stress of the procedure.\n\nTherefore, the gold‑standard instruction is to take the full usual morning insulin dose and eat a regular breakfast before the dental visit.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -11809,7 +11809,7 @@
       "Proceed with the extraction, as clopidogrel cessation is not typically required for minor oral surgery."
     ],
     "correctAnswer": 3,
-    "explanation": "The most appropriate immediate action is Option 3. For minor oral surgery such as a simple extraction, antiplatelet therapy with clopidogrel should be maintained (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; CDA Guidelines). Discontinuation increases the risk of stent thrombosis, especially within six months of a myocardial infarction. Hemorrhage can be managed with local hemostatic agents, suturing, and pressure. Consulting the cardiologist (Option 0) is unnecessary unless the procedure is extensive or the patient has additional bleeding disorders. Antibiotic prophylaxis (Option 1) is not indicated, and routine cessation of clopidogrel (Option 2) is contraindicated.",
+    "explanation": "The most appropriate immediate action is Option 3. For minor oral surgery such as a simple extraction, antiplatelet therapy with clopidogrel should be maintained (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; ADA clinical guidelines). Discontinuation increases the risk of stent thrombosis, especially within six months of a myocardial infarction. Hemorrhage can be managed with local hemostatic agents, suturing, and pressure. Consulting the cardiologist (Option 0) is unnecessary unless the procedure is extensive or the patient has additional bleeding disorders. Antibiotic prophylaxis (Option 1) is not indicated, and routine cessation of clopidogrel (Option 2) is contraindicated.",
     "aiVerified": true
   },
   {
@@ -12056,7 +12056,7 @@
     "id": "general-pathology-811",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A patient scheduled for a single tooth extraction reports taking warfarin. Their most recent INR is 2.8. According to current Canadian dental guidelines, what is the MOST appropriate management of their anticoagulant therapy?",
+    "question": "A patient scheduled for a single tooth extraction reports taking warfarin. Their most recent INR is 2.8. According to current ADA clinical guidelines, what is the MOST appropriate management of their anticoagulant therapy?",
     "options": [
       "Discontinue warfarin 3-5 days prior to the procedure to normalize the INR.",
       "Proceed with the extraction using local hemostatic measures, as the INR is within the therapeutic range.",
@@ -12064,7 +12064,7 @@
       "Postpone the extraction until the INR drops below 1.5."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option 1. According to current Canadian dental standards (including guidelines from the American Dental Association and consensus statements in Malamed's 'Medical Emergencies in the Dental Office' and Carranza's 'Clinical Periodontology'), patients on warfarin with an INR within the therapeutic range (typically 2.0-3.0) can safely undergo minor oral surgery, such as a single tooth extraction, without interrupting their anticoagulant therapy. The standard of care is to proceed with the procedure while employing effective local hemostatic measures (e.g., suturing, oxidized cellulose, gelatin sponge, or pressure). \n\nOption 0 is incorrect because discontinuing warfarin increases the risk of thromboembolic events (stroke, DVT, PE) without significantly reducing the risk of clinically significant bleeding in minor oral procedures when local hemostasis is used. \nOption 2 is incorrect because administering vitamin K is an invasive and unnecessary intervention for a routine extraction in a patient with a stable, therapeutic INR; it is reserved for cases of supratherapeutic INR or active major bleeding. \nOption 3 is incorrect because postponing the procedure until the INR is sub-therapeutic (<1.5) exposes the patient to unnecessary thrombotic risk and is not supported by evidence-based guidelines for minor oral surgery.",
+    "explanation": "The correct answer is Option 1. According to current ADA clinical guidelines (including guidelines from the American Dental Association and consensus statements in Malamed's 'Medical Emergencies in the Dental Office' and Carranza's 'Clinical Periodontology'), patients on warfarin with an INR within the therapeutic range (typically 2.0-3.0) can safely undergo minor oral surgery, such as a single tooth extraction, without interrupting their anticoagulant therapy. The standard of care is to proceed with the procedure while employing effective local hemostatic measures (e.g., suturing, oxidized cellulose, gelatin sponge, or pressure). \n\nOption 0 is incorrect because discontinuing warfarin increases the risk of thromboembolic events (stroke, DVT, PE) without significantly reducing the risk of clinically significant bleeding in minor oral procedures when local hemostasis is used. \nOption 2 is incorrect because administering vitamin K is an invasive and unnecessary intervention for a routine extraction in a patient with a stable, therapeutic INR; it is reserved for cases of supratherapeutic INR or active major bleeding. \nOption 3 is incorrect because postponing the procedure until the INR is sub-therapeutic (<1.5) exposes the patient to unnecessary thrombotic risk and is not supported by evidence-based guidelines for minor oral surgery.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -12201,7 +12201,7 @@
       "Any day is acceptable, as long as blood work is recent."
     ],
     "correctAnswer": 1,
-    "explanation": "Current Canadian dental and nephrology guidance (American Dental Association, the US Public Health Service (USPHS) and CDC, and the 2018 American Academy of Periodontology consensus) recommends that invasive oral surgery in patients receiving hemodialysis be performed on a non‑dialysis day, ideally the day after a dialysis session. During hemodialysis unfractionated heparin is administered to prevent circuit clotting; its anticoagulant effect can persist for 4–6 hours and may be prolonged in uremic patients. Scheduling the extraction after dialysis (Option 0) places the procedure while heparin levels are still elevated, markedly increasing intra‑operative and post‑operative bleeding risk. Performing the extraction immediately before the next dialysis (Option 2) also exposes the wound to fresh heparin, jeopardizing clot stability and potentially leading to hemorrhage during the subsequent session. Option 3 ignores the pharmacokinetics of heparin and the need to coordinate with the dialysis schedule; recent laboratory values alone do not mitigate the bleeding risk associated with heparin exposure. The “non‑dialysis day” approach allows the clinician to verify acceptable platelet count, PT/INR, and hemoglobin, and to schedule the procedure when heparin has been cleared, thereby minimizing bleeding while preserving adequate vascular access. This recommendation is reinforced in standard texts (Malamed’s Clinical Procedures, Neville & Damm, Cohen’s Pathways of the Pulp, and Proffit’s Contemporary Orthodontics) which all advise timing oral surgery on a day without dialysis, preferably the day after a session, to achieve optimal hemostasis and patient safety.",
+    "explanation": "Current dental and nephrology guidance (American Dental Association, the US Public Health Service (USPHS) and CDC, and the 2018 American Academy of Periodontology consensus) recommends that invasive oral surgery in patients receiving hemodialysis be performed on a non‑dialysis day, ideally the day after a dialysis session. During hemodialysis unfractionated heparin is administered to prevent circuit clotting; its anticoagulant effect can persist for 4–6 hours and may be prolonged in uremic patients. Scheduling the extraction after dialysis (Option 0) places the procedure while heparin levels are still elevated, markedly increasing intra‑operative and post‑operative bleeding risk. Performing the extraction immediately before the next dialysis (Option 2) also exposes the wound to fresh heparin, jeopardizing clot stability and potentially leading to hemorrhage during the subsequent session. Option 3 ignores the pharmacokinetics of heparin and the need to coordinate with the dialysis schedule; recent laboratory values alone do not mitigate the bleeding risk associated with heparin exposure. The “non‑dialysis day” approach allows the clinician to verify acceptable platelet count, PT/INR, and hemoglobin, and to schedule the procedure when heparin has been cleared, thereby minimizing bleeding while preserving adequate vascular access. This recommendation is reinforced in standard texts (Malamed’s Clinical Procedures, Neville & Damm, Cohen’s Pathways of the Pulp, and Proffit’s Contemporary Orthodontics) which all advise timing oral surgery on a day without dialysis, preferably the day after a session, to achieve optimal hemostasis and patient safety.",
     "aiVerified": true
   },
   {
@@ -12621,7 +12621,7 @@
       "Place the patient in a supine position and monitor vital signs."
     ],
     "correctAnswer": 1,
-    "explanation": "According to the CDA’s *Medical Emergencies in the Dental Office* (2022) and the INBDE Clinical Standards, when a patient experiences sudden, crushing chest pain with radiation to the left arm, the dental team must immediately call emergency medical services. Activation of EMS precedes any on‑site therapy because definitive treatment (defibrillation, advanced cardiac life support) can only be provided by trained personnel. Sublingual nitroglycerin may be given only after EMS has been notified and if the patient has a prescription and no contraindications (e.g., hypotension, recent phosphodiesterase‑5 inhibitor use). Oxygen and positioning are supportive measures but do not replace EMS activation.",
+    "explanation": "According to the ADA’s *Medical Emergencies in the Dental Office* (2022) and the INBDE Clinical Standards, when a patient experiences sudden, crushing chest pain with radiation to the left arm, the dental team must immediately call emergency medical services. Activation of EMS precedes any on‑site therapy because definitive treatment (defibrillation, advanced cardiac life support) can only be provided by trained personnel. Sublingual nitroglycerin may be given only after EMS has been notified and if the patient has a prescription and no contraindications (e.g., hypotension, recent phosphodiesterase‑5 inhibitor use). Oxygen and positioning are supportive measures but do not replace EMS activation.",
     "aiVerified": true
   },
   {
@@ -12899,7 +12899,7 @@
     "id": "general-pathology-867",
     "topicId": "general-pathology",
     "difficulty": "medium",
-    "question": "A patient with a documented history of an anaphylactic reaction to penicillin requires antibiotic prophylaxis for infective endocarditis prior to a dental procedure. According to current Canadian dental guidelines, which of the following is the most appropriate alternative antibiotic?",
+    "question": "A patient with a documented history of an anaphylactic reaction to penicillin requires antibiotic prophylaxis for infective endocarditis prior to a dental procedure. According to current ADA clinical guidelines, which of the following is the most appropriate alternative antibiotic?",
     "options": [
       "Azithromycin",
       "Clindamycin",
@@ -13213,7 +13213,7 @@
   {
     "id": "general-pathology-888",
     "topicId": "general-pathology",
-    "question": "A 62-year-old male patient presents for a simple extraction of tooth #18 due to severe caries. His medical history includes a previous mitral valve repair with prosthetic ring implantation five years ago, well-controlled hypertension, and Type 2 Diabetes. He is not currently on any antibiotics. According to the American Dental Association (CDA) and Canadian Cardiovascular Society (CCS) guidelines, what is the MOST appropriate management regarding antibiotic prophylaxis?",
+    "question": "A 62-year-old male patient presents for a simple extraction of tooth #18 due to severe caries. His medical history includes a previous mitral valve repair with prosthetic ring implantation five years ago, well-controlled hypertension, and Type 2 Diabetes. He is not currently on any antibiotics. According to the American Dental Association (ADA) and American Heart Association (AHA) and American College of Cardiology (ACC) (CCS) guidelines, what is the MOST appropriate management regarding antibiotic prophylaxis?",
     "options": [
       "Administer amoxicillin 2g orally one hour before the procedure.",
       "Proceed with the extraction without antibiotic prophylaxis, as prosthetic rings are considered low risk.",
@@ -13221,7 +13221,7 @@
       "Administer clindamycin 600mg orally one hour before the procedure."
     ],
     "correctAnswer": 0,
-    "explanation": "The joint CDA and Canadian Cardiovascular Society (2015) recommendations state that patients with prosthetic cardiac valve material—including annuloplasty rings placed during mitral valve repair—require antibiotic prophylaxis before invasive dental procedures. The recommended regimen is amoxicillin 2 g orally 30–60 minutes prior to the procedure for patients without a penicillin allergy. No prophylaxis is advised only for low‑risk cardiac conditions (e.g., isolated native valve disease). Clindamycin is reserved for penicillin‑allergic patients, and a 7‑day therapeutic course is not indicated for prophylaxis. Therefore, the correct management is a single pre‑operative dose of amoxicillin.",
+    "explanation": "The joint ADA and American Heart Association (AHA) and American College of Cardiology (ACC) (2015) recommendations state that patients with prosthetic cardiac valve material—including annuloplasty rings placed during mitral valve repair—require antibiotic prophylaxis before invasive dental procedures. The recommended regimen is amoxicillin 2 g orally 30–60 minutes prior to the procedure for patients without a penicillin allergy. No prophylaxis is advised only for low‑risk cardiac conditions (e.g., isolated native valve disease). Clindamycin is reserved for penicillin‑allergic patients, and a 7‑day therapeutic course is not indicated for prophylaxis. Therefore, the correct management is a single pre‑operative dose of amoxicillin.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -13425,7 +13425,7 @@
   {
     "id": "general-pathology-903",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental jurisprudence, which of the following elements is absolutely essential for valid informed consent for a dental procedure?",
+    "question": "According to Dental jurisprudence and state dental practice acts, which of the following elements is absolutely essential for valid informed consent for a dental procedure?",
     "options": [
       "The patient must have the mental capacity to understand the proposed treatment and its alternatives.",
       "The patient must be advised of all possible complications, no matter how remote.",
@@ -13481,11 +13481,11 @@
   {
     "id": "general-pathology-907",
     "topicId": "general-pathology",
-    "question": "A 45-year-old female patient presents to your dental office with localized pain and swelling around tooth #36. She reports a history of recurrent oral infections and has poorly controlled Type 1 Diabetes Mellitus, with recent HbA1c levels of 9.5%. Radiographic examination reveals a periapical radiolucency associated with tooth #36. What is the MOST appropriate initial management consideration?",
+    "question": "A 45-year-old female patient presents to your dental office with localized pain and swelling around tooth #19. She reports a history of recurrent oral infections and has poorly controlled Type 1 Diabetes Mellitus, with recent HbA1c levels of 9.5%. Radiographic examination reveals a periapical radiolucency associated with tooth #19. What is the MOST appropriate initial management consideration?",
     "options": [
       "Initiate incision and drainage of the abscess and consult with her physician regarding diabetes control prior to definitive dental treatment.",
       "Prescribe broad-spectrum antibiotics and schedule a root canal treatment.",
-      "Immediate extraction of tooth #36 to prevent further systemic complications.",
+      "Immediate extraction of tooth #19 to prevent further systemic complications.",
       "Perform root canal treatment immediately to address the infection source."
     ],
     "correctAnswer": 0,
@@ -13537,7 +13537,7 @@
   {
     "id": "general-pathology-911",
     "topicId": "general-pathology",
-    "question": "A 60-year-old male patient presents with a history of chronic alcoholism and cirrhosis. He requires an extraction of a periodontally hopeless tooth #46. His current international normalized ratio (INR) is 2.8. Which of the following is the MOST appropriate management strategy prior to the extraction?",
+    "question": "A 60-year-old male patient presents with a history of chronic alcoholism and cirrhosis. He requires an extraction of a periodontally hopeless tooth #30. His current international normalized ratio (INR) is 2.8. Which of the following is the MOST appropriate management strategy prior to the extraction?",
     "options": [
       "Proceed with the extraction using local hemostatic measures only.",
       "Administer a vitamin K supplement immediately prior to the procedure.",
@@ -13566,7 +13566,7 @@
   {
     "id": "general-pathology-913",
     "topicId": "general-pathology",
-    "question": "In Canada, what is the generally accepted maximum radiation dose for a dental worker per year (excluding medical exposure)?",
+    "question": "in the United States, what is the generally accepted maximum radiation dose for a dental worker per year (excluding medical exposure)?",
     "options": [
       "1 mSv",
       "5 mSv",
@@ -13574,7 +13574,7 @@
       "50 mSv"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the US Public Health Service (USPHS) and CDC's Radiation Protection Bureau and the Safety Code 30, the maximum effective dose equivalent for a dental worker (occupationally exposed person) is 20 mSv per year. The public dose limit is 1 mSv/year, and 50 mSv was an older limit or applies to specific circumstances for non-pregnant workers, making it an incorrect general annual limit for dental workers.",
+    "explanation": "According to the US Public Health Service (USPHS) and CDC's Radiation Protection Bureau and the ADA/FDA radiation protection guidelines, the maximum effective dose equivalent for a dental worker (occupationally exposed person) is 20 mSv per year. The public dose limit is 1 mSv/year, and 50 mSv was an older limit or applies to specific circumstances for non-pregnant workers, making it an incorrect general annual limit for dental workers.",
     "aiVerified": true
   },
   {
@@ -13594,7 +13594,7 @@
   {
     "id": "general-pathology-915",
     "topicId": "general-pathology",
-    "question": "A 40-year-old male patient presents with a complaint of significant pain and swelling around his mandibular third molar (#38). Clinical examination shows pericoronitis with pus discharge. His medical history includes well-controlled asthma, for which he uses a salbutamol inhaler as needed. He denies any allergies. What is the MOST appropriate initial management strategy?",
+    "question": "A 40-year-old male patient presents with a complaint of significant pain and swelling around his mandibular third molar (#17). Clinical examination shows pericoronitis with pus discharge. His medical history includes well-controlled asthma, for which he uses a salbutamol inhaler as needed. He denies any allergies. What is the MOST appropriate initial management strategy?",
     "options": [
       "Prescribe a broad-spectrum antibiotic and schedule extraction.",
       "Irrigate the pericoronal flap, debride the area, and prescribe oral hygiene instructions.",
@@ -13784,7 +13784,7 @@
       "Prescribe tranexamic acid rinse post-extraction"
     ],
     "correctAnswer": 2,
-    "explanation": "Option 2 is correct. Canadian dental and cardiovascular guidelines state that after six months post‑stent placement, patients can undergo minor oral surgery without interrupting antiplatelet therapy (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; Canadian Cardiovascular Society). Continuing clopidogrel avoids the risk of stent thrombosis, and any increased bleeding can be controlled with local measures such as tranexamic acid rinses, sutures, or hemostatic gauze. Consulting the cardiologist (Option 1) is not required for a simple extraction at this time, and discontinuation (Option 0) would expose the patient to unnecessary cardiac risk.",
+    "explanation": "Option 2 is correct. dental and cardiovascular guidelines state that after six months post‑stent placement, patients can undergo minor oral surgery without interrupting antiplatelet therapy (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; American Heart Association (AHA) and American College of Cardiology (ACC)). Continuing clopidogrel avoids the risk of stent thrombosis, and any increased bleeding can be controlled with local measures such as tranexamic acid rinses, sutures, or hemostatic gauze. Consulting the cardiologist (Option 1) is not required for a simple extraction at this time, and discontinuation (Option 0) would expose the patient to unnecessary cardiac risk.",
     "aiVerified": true
   },
   {
@@ -13846,7 +13846,7 @@
   {
     "id": "general-pathology-933",
     "topicId": "general-pathology",
-    "question": "A dental clinic is reprocessing a set of heat-sensitive hand instruments that are classified as critical items because they penetrate sterile tissue or the vascular system. According to Canadian dental infection control guidelines, which of the following is the most appropriate reprocessing method for these instruments?",
+    "question": "A dental clinic is reprocessing a set of heat-sensitive hand instruments that are classified as critical items because they penetrate sterile tissue or the vascular system. According to CDC and OSHA infection control guidelines, which of the following is the most appropriate reprocessing method for these instruments?",
     "options": [
       "High-level disinfection",
       "Intermediate-level disinfection",
@@ -13903,7 +13903,7 @@
   {
     "id": "general-pathology-937",
     "topicId": "general-pathology",
-    "question": "A 6-year-old male patient presents with a deep carious lesion on his primary mandibular first molar (#74). Clinical examination reveals no spontaneous pain, but he experiences transient pain to cold stimuli that resolves immediately upon removal of the stimulus. There is no swelling, fistula, or sinus tract, and radiographs show no periapical pathology. The caries is removed, and the pulp is exposed. What is the MOST appropriate treatment for this tooth?",
+    "question": "A 6-year-old male patient presents with a deep carious lesion on his primary mandibular first molar (tooth L). Clinical examination reveals no spontaneous pain, but he experiences transient pain to cold stimuli that resolves immediately upon removal of the stimulus. There is no swelling, fistula, or sinus tract, and radiographs show no periapical pathology. The caries is removed, and the pulp is exposed. What is the MOST appropriate treatment for this tooth?",
     "options": [
       "Extraction",
       "Pulpectomy",
@@ -13932,7 +13932,7 @@
   {
     "id": "general-pathology-939",
     "topicId": "general-pathology",
-    "question": "In Canadian dental practice, which of the following best describes the principle of 'beneficence'?",
+    "question": "In dental practice, which of the following best describes the principle of 'beneficence'?",
     "options": [
       "Respecting a patient's autonomy to make decisions",
       "Treating all patients fairly and equitably",
@@ -14066,13 +14066,13 @@
       "Consult with her physician regarding temporary interruption or modification of Dabigatran."
     ],
     "correctAnswer": 1,
-    "explanation": "Current INBDE and CDA guidance state that direct oral anticoagulants (DOACs) such as dabigatran need not be stopped for low‑risk dental surgery (e.g., a single‑tooth extraction). Evidence in Malamed’s Handbook of Local Anesthesia (7th ed.) and Little & Falace’s Dental Management of the Medically Compromised Patient recommends continuing the medication and employing local measures (e.g., pressure, oxidized cellulose, tranexamic acid) to control bleeding. Discontinuation without physician input increases thrombo‑embolic risk, and switching to warfarin is unnecessary. Therefore the most appropriate management is to proceed with the extraction while maintaining dabigatran and using local hemostatic techniques.",
+    "explanation": "Current INBDE and ADA guidance state that direct oral anticoagulants (DOACs) such as dabigatran need not be stopped for low‑risk dental surgery (e.g., a single‑tooth extraction). Evidence in Malamed’s Handbook of Local Anesthesia (7th ed.) and Little & Falace’s Dental Management of the Medically Compromised Patient recommends continuing the medication and employing local measures (e.g., pressure, oxidized cellulose, tranexamic acid) to control bleeding. Discontinuation without physician input increases thrombo‑embolic risk, and switching to warfarin is unnecessary. Therefore the most appropriate management is to proceed with the extraction while maintaining dabigatran and using local hemostatic techniques.",
     "aiVerified": true
   },
   {
     "id": "general-pathology-949",
     "topicId": "general-pathology",
-    "question": "A 28-year-old male patient presents with a chief complaint of sensitivity to cold on tooth #36. Clinical examination reveals a deep occlusal caries lesion extending close to the pulp on tooth #36, but no spontaneous pain or pain to percussion. Radiographs confirm deep caries with no periapical radiolucency. What is the MOST appropriate treatment option for this tooth?",
+    "question": "A 28-year-old male patient presents with a chief complaint of sensitivity to cold on tooth #19. Clinical examination reveals a deep occlusal caries lesion extending close to the pulp on tooth #19, but no spontaneous pain or pain to percussion. Radiographs confirm deep caries with no periapical radiolucency. What is the MOST appropriate treatment option for this tooth?",
     "options": [
       "Direct pulp cap",
       "Pulpectomy",
@@ -14086,11 +14086,11 @@
   {
     "id": "general-pathology-950",
     "topicId": "general-pathology",
-    "question": "A 7-year-old male patient presents to your office with a chief complaint of a \"loose front tooth\" for the past two weeks. Clinical examination reveals mobility of tooth #51 (primary maxillary right central incisor) and the permanent successor, tooth #11, is visible erupting lingually. The patient has no pain or infection. What is the MOST appropriate management?",
+    "question": "A 7-year-old male patient presents to your office with a chief complaint of a \"loose front tooth\" for the past two weeks. Clinical examination reveals mobility of tooth E (primary maxillary right central incisor) and the permanent successor, tooth #11, is visible erupting lingually. The patient has no pain or infection. What is the MOST appropriate management?",
     "options": [
       "Referral to an orthodontist.",
-      "Wait for spontaneous exfoliation of tooth #51.",
-      "Immediate extraction of tooth #51.",
+      "Wait for spontaneous exfoliation of tooth E.",
+      "Immediate extraction of tooth E.",
       "Application of a space maintainer."
     ],
     "correctAnswer": 1,
@@ -14114,7 +14114,7 @@
   {
     "id": "general-pathology-952",
     "topicId": "general-pathology",
-    "question": "A 40-year-old male patient presents with excruciating, spontaneous, lingering pain in tooth #46 that is exacerbated by cold and lasts for several minutes after the stimulus is removed. Radiographs show a deep carious lesion approximating the pulp chamber with no periapical radiolucency. The tooth is vital but painful to percussion. What is the MOST likely diagnosis?",
+    "question": "A 40-year-old male patient presents with excruciating, spontaneous, lingering pain in tooth #30 that is exacerbated by cold and lasts for several minutes after the stimulus is removed. Radiographs show a deep carious lesion approximating the pulp chamber with no periapical radiolucency. The tooth is vital but painful to percussion. What is the MOST likely diagnosis?",
     "options": [
       "Pulp necrosis",
       "Irreversible pulpitis",
@@ -14128,11 +14128,11 @@
   {
     "id": "general-pathology-953",
     "topicId": "general-pathology",
-    "question": "A 25-year-old female patient presents with a chief complaint of trismus and pain in the right mandibular angle region for 3 days. Clinical examination reveals swelling over the right angle of the mandible, tenderness on palpation, and limited mouth opening (20mm). Radiographs show a partially impacted tooth #48 with a pericoronal radiolucency. What is the MOST appropriate initial management?",
+    "question": "A 25-year-old female patient presents with a chief complaint of trismus and pain in the right mandibular angle region for 3 days. Clinical examination reveals swelling over the right angle of the mandible, tenderness on palpation, and limited mouth opening (20mm). Radiographs show a partially impacted tooth #32 with a pericoronal radiolucency. What is the MOST appropriate initial management?",
     "options": [
       "Incision and drainage of the swelling.",
       "Prescribe antibiotics and analgesics, then re-evaluate.",
-      "Immediate surgical extraction of tooth #48.",
+      "Immediate surgical extraction of tooth #32.",
       "Prescribe a muscle relaxant and warm compresses."
     ],
     "correctAnswer": 1,
@@ -14156,7 +14156,7 @@
   {
     "id": "general-pathology-955",
     "topicId": "general-pathology",
-    "question": "A 16-year-old female patient presents for a dental examination without a parent. She is deemed to have the mental capacity to understand the proposed treatment and its alternatives. According to Canadian dental jurisprudence, what principle allows her to consent to her own treatment?",
+    "question": "A 16-year-old female patient presents for a dental examination without a parent. She is deemed to have the mental capacity to understand the proposed treatment and its alternatives. According to Dental jurisprudence and state dental practice acts, what principle allows her to consent to her own treatment?",
     "options": [
       "Parental consent",
       "Mature minor doctrine",
@@ -14164,7 +14164,7 @@
       "Implied consent"
     ],
     "correctAnswer": 1,
-    "explanation": "In Canadian dental jurisprudence, the mature minor doctrine allows a minor, regardless of age, to provide their own consent for treatment if they demonstrate sufficient understanding and appreciation of the nature and consequences of the proposed treatment. Parental consent is typically required for minors but can be overridden by the mature minor doctrine if these criteria are met. Power of attorney is for adults appointing someone else to make decisions, and implied consent applies to routine actions or emergencies, not planned treatment.",
+    "explanation": "In Dental jurisprudence and state dental practice acts, the mature minor doctrine allows a minor, regardless of age, to provide their own consent for treatment if they demonstrate sufficient understanding and appreciation of the nature and consequences of the proposed treatment. Parental consent is typically required for minors but can be overridden by the mature minor doctrine if these criteria are met. Power of attorney is for adults appointing someone else to make decisions, and implied consent applies to routine actions or emergencies, not planned treatment.",
     "aiVerified": true
   },
   {
@@ -14206,7 +14206,7 @@
       "Call 911 immediately and await emergency medical services."
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian emergency‑medicine protocols (CDA, INBDE) place activation of EMS as the initial step when a patient develops chest pain suggestive of acute coronary syndrome during dental care. After dialing 911, the clinician should administer supplemental oxygen, allow sublingual nitroglycerin, and give chewable aspirin if no contraindications, but these interventions follow EMS activation. CPR is reserved for cardiac arrest, and waiting to give aspirin without EMS is unsafe. Hence the most immediate action is to call 911 and await professional emergency response.",
+    "explanation": "Canadian emergency‑medicine protocols (ADA, INBDE) place activation of EMS as the initial step when a patient develops chest pain suggestive of acute coronary syndrome during dental care. After dialing 911, the clinician should administer supplemental oxygen, allow sublingual nitroglycerin, and give chewable aspirin if no contraindications, but these interventions follow EMS activation. CPR is reserved for cardiac arrest, and waiting to give aspirin without EMS is unsafe. Hence the most immediate action is to call 911 and await professional emergency response.",
     "aiVerified": true
   },
   {
@@ -14254,7 +14254,7 @@
   {
     "id": "general-pathology-962",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental infection control guidelines, which of the following practices is considered the MOST effective single measure to prevent the spread of infectious diseases in a dental clinic?",
+    "question": "According to CDC and OSHA infection control guidelines, which of the following practices is considered the MOST effective single measure to prevent the spread of infectious diseases in a dental clinic?",
     "options": [
       "Proper hand hygiene.",
       "Sterilization of all critical instruments.",
@@ -14366,7 +14366,7 @@
   {
     "id": "general-pathology-970",
     "topicId": "general-pathology",
-    "question": "A 28-year-old female patient requires a posterior composite restoration for tooth #36. She is concerned about marginal staining and recurrent caries. Which property of the restorative material is MOST critical for preventing microleakage and secondary caries in this scenario?",
+    "question": "A 28-year-old female patient requires a posterior composite restoration for tooth #19. She is concerned about marginal staining and recurrent caries. Which property of the restorative material is MOST critical for preventing microleakage and secondary caries in this scenario?",
     "options": [
       "High compressive strength",
       "Low polymerization shrinkage",
@@ -14465,7 +14465,7 @@
   {
     "id": "general-pathology-977",
     "topicId": "general-pathology",
-    "question": "A 35-year-old male patient presents three days after an uncomplicated extraction of tooth #38 (mandibular third molar) with severe, throbbing pain in the extraction site, radiating to his ear. He reports a foul taste and odor. Clinical examination reveals an empty socket with exposed bone, and no evidence of significant swelling or purulent exudate. What is the MOST likely diagnosis?",
+    "question": "A 35-year-old male patient presents three days after an uncomplicated extraction of tooth #17 (mandibular third molar) with severe, throbbing pain in the extraction site, radiating to his ear. He reports a foul taste and odor. Clinical examination reveals an empty socket with exposed bone, and no evidence of significant swelling or purulent exudate. What is the MOST likely diagnosis?",
     "options": [
       "Alveolar osteitis (dry socket)",
       "Post-operative infection",
@@ -14493,7 +14493,7 @@
   {
     "id": "general-pathology-979",
     "topicId": "general-pathology",
-    "question": "A 38-year-old male patient, who is a known carrier of Hepatitis C virus (HCV), presents for a routine dental cleaning. He reports being generally healthy with no active symptoms. According to Canadian dental infection control guidelines, what is the MOST appropriate protocol for managing this patient's instruments?",
+    "question": "A 38-year-old male patient, who is a known carrier of Hepatitis C virus (HCV), presents for a routine dental cleaning. He reports being generally healthy with no active symptoms. According to CDC and OSHA infection control guidelines, what is the MOST appropriate protocol for managing this patient's instruments?",
     "options": [
       "Use standard sterilization procedures for critical and semi-critical instruments.",
       "Disinfect instruments with a high-level disinfectant only, as HCV is less virulent than HBV.",
@@ -14501,7 +14501,7 @@
       "Isolate instruments in a separate container for specific HCV sterilization."
     ],
     "correctAnswer": 0,
-    "explanation": "Standard sterilization procedures for critical and semi-critical instruments are effective against all bloodborne pathogens, including Hepatitis C virus, and are the cornerstone of infection control in Canadian dental practice for all patients, regardless of known infectious status. There is no need for specific 'HCV sterilization' or unique isolation beyond standard protocols. Disinfection alone is insufficient for critical and semi-critical instruments, and while disposable instruments can be used, it's not mandated or the most appropriate protocol for routine care.",
+    "explanation": "Standard sterilization procedures for critical and semi-critical instruments are effective against all bloodborne pathogens, including Hepatitis C virus, and are the cornerstone of infection control In dental practice for all patients, regardless of known infectious status. There is no need for specific 'HCV sterilization' or unique isolation beyond standard protocols. Disinfection alone is insufficient for critical and semi-critical instruments, and while disposable instruments can be used, it's not mandated or the most appropriate protocol for routine care.",
     "aiVerified": true
   },
   {
@@ -14564,7 +14564,7 @@
   {
     "id": "general-pathology-984",
     "topicId": "general-pathology",
-    "question": "A 35-year-old female patient presents with a chief complaint of pain and swelling in the mandibular right posterior region. Her medical history is unremarkable. Clinically, there is swelling in the buccal vestibule adjacent to tooth #46, and the tooth is tender to percussion. Radiographically, tooth #46 exhibits a deep mesial carious lesion approximating the pulp, and there is a diffuse radiolucency around the apex. What is the MOST likely diagnosis?",
+    "question": "A 35-year-old female patient presents with a chief complaint of pain and swelling in the mandibular right posterior region. Her medical history is unremarkable. Clinically, there is swelling in the buccal vestibule adjacent to tooth #30, and the tooth is tender to percussion. Radiographically, tooth #30 exhibits a deep mesial carious lesion approximating the pulp, and there is a diffuse radiolucency around the apex. What is the MOST likely diagnosis?",
     "options": [
       "Acute apical periodontitis.",
       "Acute apical abscess.",
@@ -14578,10 +14578,10 @@
   {
     "id": "general-pathology-985",
     "topicId": "general-pathology",
-    "question": "A 6-year-old female patient presents with a chief complaint of her permanent front tooth erupting behind her primary tooth. Her parents are concerned about the alignment. Clinically, tooth #31 is erupting lingually to the retained primary mandibular central incisor (#71). There is no mobility of the primary tooth. What is the MOST appropriate initial management?",
+    "question": "A 6-year-old female patient presents with a chief complaint of her permanent front tooth erupting behind her primary tooth. Her parents are concerned about the alignment. Clinically, tooth #31 is erupting lingually to the retained primary mandibular central incisor (tooth O). There is no mobility of the primary tooth. What is the MOST appropriate initial management?",
     "options": [
       "Monitor the situation for 3-6 months as it may self-correct.",
-      "Extract the retained primary mandibular central incisor (#71).",
+      "Extract the retained primary mandibular central incisor (tooth O).",
       "Refer to an orthodontist for early intervention.",
       "Initiate fixed orthodontic appliance therapy immediately."
     ],
@@ -14606,7 +14606,7 @@
   {
     "id": "general-pathology-987",
     "topicId": "general-pathology",
-    "question": "According to Canadian dental ethical principles, which of the following best describes the principle of 'veracity'?",
+    "question": "According to ADA Principles of Ethics and Code of Professional Conduct, which of the following best describes the principle of 'veracity'?",
     "options": [
       "The obligation to do good and promote the well-being of the patient.",
       "The responsibility to treat all patients fairly and without discrimination.",
@@ -14614,7 +14614,7 @@
       "The duty to act in the best interest of the patient while respecting their autonomy."
     ],
     "correctAnswer": 2,
-    "explanation": "Veracity, in Canadian dental ethics, refers to the commitment to truthfulness and honesty in all professional interactions with patients and colleagues. The obligation to do good is beneficence, while the responsibility to treat patients fairly is justice. The duty to act in the best interest of the patient while respecting autonomy is a combination, not solely veracity.",
+    "explanation": "Veracity, in ADA Code of Ethics, refers to the commitment to truthfulness and honesty in all professional interactions with patients and colleagues. The obligation to do good is beneficence, while the responsibility to treat patients fairly is justice. The duty to act in the best interest of the patient while respecting autonomy is a combination, not solely veracity.",
     "aiVerified": true
   },
   {
@@ -14704,7 +14704,7 @@
   {
     "id": "general-pathology-994",
     "topicId": "general-pathology",
-    "question": "A 5-year-old male patient presents with a deep carious lesion on tooth #75 (primary mandibular second molar). Clinical examination reveals no spontaneous pain, but there is pain on percussion and a small draining sinus tract on the buccal gingiva adjacent to the tooth. Radiographically, there is a large periapical radiolucency involving the furcation area. What is the MOST appropriate treatment for tooth #75?",
+    "question": "A 5-year-old male patient presents with a deep carious lesion on tooth K (primary mandibular second molar). Clinical examination reveals no spontaneous pain, but there is pain on percussion and a small draining sinus tract on the buccal gingiva adjacent to the tooth. Radiographically, there is a large periapical radiolucency involving the furcation area. What is the MOST appropriate treatment for tooth K?",
     "options": [
       "Pulpotomy.",
       "Direct pulp capping.",

@@ -510,7 +510,7 @@
   {
     "id": "periodontics-37",
     "topicId": "periodontics",
-    "question": "A 60-year-old patient with a history of generalized chronic periodontitis is undergoing supportive periodontal therapy. During a recall visit, a new 7mm probing depth with suppuration is noted on the buccal aspect of tooth #36 (mandibular first molar). The tooth is vital and has no significant mobility. What is the most likely diagnosis?",
+    "question": "A 60-year-old patient with a history of generalized chronic periodontitis is undergoing supportive periodontal therapy. During a recall visit, a new 7mm probing depth with suppuration is noted on the buccal aspect of tooth #19 (mandibular first molar). The tooth is vital and has no significant mobility. What is the most likely diagnosis?",
     "options": [
       "Periodontal abscess",
       "Combined endo-perio lesion",
@@ -637,7 +637,7 @@
   {
     "id": "periodontics-46",
     "topicId": "periodontics",
-    "question": "During a periodontal examination, a 6mm probing depth is recorded on the buccal aspect of tooth #36. The gingival margin is located 2mm coronal to the cementoenamel junction (CEJ). What is the clinical attachment loss (CAL) at this site?",
+    "question": "During a periodontal examination, a 6mm probing depth is recorded on the buccal aspect of tooth #19. The gingival margin is located 2mm coronal to the cementoenamel junction (CEJ). What is the clinical attachment loss (CAL) at this site?",
     "options": [
       "4mm",
       "8mm",
@@ -834,7 +834,7 @@
   {
     "id": "periodontics-60",
     "topicId": "periodontics",
-    "question": "A 60-year-old patient with a history of mechanical heart valve replacement is scheduled for scaling and root planing. According to current Canadian and international guidelines (e.g., Canadian Cardiovascular Society, AHA), which of the following is the MOST appropriate management regarding antibiotic prophylaxis?",
+    "question": "A 60-year-old patient with a history of mechanical heart valve replacement is scheduled for scaling and root planing. According to current Canadian and international guidelines (e.g., American Heart Association (AHA) and American College of Cardiology (ACC), AHA), which of the following is the MOST appropriate management regarding antibiotic prophylaxis?",
     "options": [
       "Administer Amoxicillin 2g orally, 1 hour before the procedure.",
       "No antibiotic prophylaxis is indicated for this procedure.",
@@ -842,7 +842,7 @@
       "Administer Azithromycin 500mg orally, 1 hour before the procedure."
     ],
     "correctAnswer": 0,
-    "explanation": "The Canadian Cardiovascular Society and the American Heart Association (2021 update) recommend antibiotic prophylaxis for individuals with prosthetic cardiac valves undergoing dental procedures that involve manipulation of gingival tissue, the periapical region, or perforation of oral mucosa. Scaling and root planing meets this definition because it disrupts gingival tissue and can cause bacteremia. The first‑line regimen is amoxicillin 2 g PO 30–60 minutes before the procedure; clindamycin or azithromycin are reserved for penicillin‑allergic patients. Little and Falace’s Dental Management of the Medically Compromised Patient confirms this recommendation for high‑risk cardiac patients.",
+    "explanation": "The American Heart Association (AHA) and American College of Cardiology (ACC) and the American Heart Association (2021 update) recommend antibiotic prophylaxis for individuals with prosthetic cardiac valves undergoing dental procedures that involve manipulation of gingival tissue, the periapical region, or perforation of oral mucosa. Scaling and root planing meets this definition because it disrupts gingival tissue and can cause bacteremia. The first‑line regimen is amoxicillin 2 g PO 30–60 minutes before the procedure; clindamycin or azithromycin are reserved for penicillin‑allergic patients. Little and Falace’s Dental Management of the Medically Compromised Patient confirms this recommendation for high‑risk cardiac patients.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -1403,7 +1403,7 @@
     "id": "periodontics-100",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old female complains of localized gingival recession on the facial aspect of tooth #33. Clinical examination reveals 4 mm of recession with the gingival margin extending apical to the mucogingival junction, but no loss of interproximal bone or soft tissue. How is this recession defect classified using the Cairo classification system?",
+    "question": "A 42-year-old female complains of localized gingival recession on the facial aspect of tooth #22. Clinical examination reveals 4 mm of recession with the gingival margin extending apical to the mucogingival junction, but no loss of interproximal bone or soft tissue. How is this recession defect classified using the Cairo classification system?",
     "options": [
       "RT2",
       "RT3",
@@ -1496,10 +1496,10 @@
     "id": "periodontics-106",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 60-year-old male presents for a periodontal re-evaluation 6 weeks after completing full-mouth scaling and root planing. Most sites show significant improvement, but tooth #46 exhibits a persistent 6 mm probing depth with bleeding on probing and Class II furcation involvement on the buccal. What is the most appropriate next step in management?",
+    "question": "A 60-year-old male presents for a periodontal re-evaluation 6 weeks after completing full-mouth scaling and root planing. Most sites show significant improvement, but tooth #30 exhibits a persistent 6 mm probing depth with bleeding on probing and Class II furcation involvement on the buccal. What is the most appropriate next step in management?",
     "options": [
       "Extract the tooth immediately due to hopeless prognosis",
-      "Perform a second round of non-surgical scaling and root planing on tooth #46",
+      "Perform a second round of non-surgical scaling and root planing on tooth #30",
       "Refer the patient for periodontal surgery (e.g., access flap, root resection, or regenerative therapy)",
       "Place the patient on a 6-month maintenance interval and monitor"
     ],
@@ -1602,7 +1602,7 @@
     "id": "periodontics-113",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance, a clinician measures a 7 mm probing depth on the distal of tooth #37 with grade 2 mobility and a 3 mm zone of keratinized gingiva. Which surgical approach is most contraindicated if the objective is to eliminate the pocket while preserving or increasing the zone of attached gingiva?",
+    "question": "During periodontal maintenance, a clinician measures a 7 mm probing depth on the distal of tooth #18 with grade 2 mobility and a 3 mm zone of keratinized gingiva. Which surgical approach is most contraindicated if the objective is to eliminate the pocket while preserving or increasing the zone of attached gingiva?",
     "options": [
       "Apically positioned flap with osseous surgery",
       "Distal wedge procedure",
@@ -1752,7 +1752,7 @@
     "id": "periodontics-123",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance of a patient with a history of generalized aggressive periodontitis, the clinician notes a 6 mm probing depth on the mesial root of tooth #36 with a Class II furcation involvement. The zone of keratinized gingiva is 1 mm wide. Which surgical approach is most appropriate to predictably gain access for root surface debridement and manage the defect?",
+    "question": "During periodontal maintenance of a patient with a history of generalized aggressive periodontitis, the clinician notes a 6 mm probing depth on the mesial root of tooth #19 with a Class II furcation involvement. The zone of keratinized gingiva is 1 mm wide. Which surgical approach is most appropriate to predictably gain access for root surface debridement and manage the defect?",
     "options": [
       "Modified Widman flap",
       "Free gingival graft performed prior to any periodontal therapy",
@@ -1760,7 +1760,7 @@
       "Apically positioned flap with or without osseous surgery"
     ],
     "correctAnswer": 3,
-    "explanation": "A 6 mm probing depth with a Class II furcation on tooth #36 requires a flap that exposes the root surface and the furcation entrance. The Modified Widman flap is indicated when adequate keratinized tissue exists and for shallow pockets; it does not increase access in deep furcations. A free gingival graft augments keratinized tissue but does not itself provide surgical access. An apically positioned flap re‑positions the marginal tissue apically, creating a wide operative field and can be combined with osseous surgery to reduce the defect (Carranza’s Clinical Periodontology, 12th ed.; Sturdevant’s Art & Science of Operative Dentistry, 7th ed.). Hence the APF with or without osseous surgery is the most predictable approach.",
+    "explanation": "A 6 mm probing depth with a Class II furcation on tooth #19 requires a flap that exposes the root surface and the furcation entrance. The Modified Widman flap is indicated when adequate keratinized tissue exists and for shallow pockets; it does not increase access in deep furcations. A free gingival graft augments keratinized tissue but does not itself provide surgical access. An apically positioned flap re‑positions the marginal tissue apically, creating a wide operative field and can be combined with osseous surgery to reduce the defect (Carranza’s Clinical Periodontology, 12th ed.; Sturdevant’s Art & Science of Operative Dentistry, 7th ed.). Hence the APF with or without osseous surgery is the most predictable approach.",
     "aiVerified": true
   },
   {
@@ -1812,7 +1812,7 @@
     "id": "periodontics-127",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 54-year-old male presents for a comprehensive periodontal evaluation. He is a heavy smoker and has well-controlled type 2 diabetes. Clinical examination reveals generalized moderate periodontitis with a maximum probing depth of 6 mm, vertical bone loss on tooth #36, and heavy plaque accumulation. According to the 2017 World Workshop Classification of Periodontal Diseases, what is the most appropriate staging and grading for this patient?",
+    "question": "A 54-year-old male presents for a comprehensive periodontal evaluation. He is a heavy smoker and has well-controlled type 2 diabetes. Clinical examination reveals generalized moderate periodontitis with a maximum probing depth of 6 mm, vertical bone loss on tooth #19, and heavy plaque accumulation. According to the 2017 World Workshop Classification of Periodontal Diseases, what is the most appropriate staging and grading for this patient?",
     "options": [
       "Stage IV, Grade C",
       "Stage III, Grade B",
@@ -1948,7 +1948,7 @@
     "id": "periodontics-136",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease without valvular dysfunction requires non-surgical periodontal scaling and root planing. According to current ADA guidelines (such as those from the AHA/CDA), is antibiotic prophylaxis indicated prior to this procedure?",
+    "question": "A patient with a history of rheumatic heart disease without valvular dysfunction requires non-surgical periodontal scaling and root planing. According to current ADA guidelines (such as those from the AHA/ADA), is antibiotic prophylaxis indicated prior to this procedure?",
     "options": [
       "Yes, Clindamycin 600mg due to penicillin allergy concerns",
       "Yes, only if the patient has active gingival bleeding during the procedure",
@@ -1963,7 +1963,7 @@
     "id": "periodontics-137",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 54-year-old male presents with a localized 7 mm probing depth on the distal of tooth #37, accompanied by 3 mm of gingival recession and bleeding on probing. The furcation is non-involved. Which of the following periodontal surgical procedures is most appropriate to achieve access for root debridement while preserving maximum keratinized tissue?",
+    "question": "A 54-year-old male presents with a localized 7 mm probing depth on the distal of tooth #18, accompanied by 3 mm of gingival recession and bleeding on probing. The furcation is non-involved. Which of the following periodontal surgical procedures is most appropriate to achieve access for root debridement while preserving maximum keratinized tissue?",
     "options": [
       "Modified Widman flap",
       "Apically positioned flap with osseous resection",
@@ -2098,7 +2098,7 @@
     "id": "periodontics-146",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal examination, a clinician notes a furcation defect on the buccal aspect of tooth #46 where the probe penetrates into the furcation greater than 1 mm, but does not pass completely through to the lingual side. According to Glickman's classification, how should this furcation defect be graded?",
+    "question": "During periodontal examination, a clinician notes a furcation defect on the buccal aspect of tooth #30 where the probe penetrates into the furcation greater than 1 mm, but does not pass completely through to the lingual side. According to Glickman's classification, how should this furcation defect be graded?",
     "options": [
       "Grade IV",
       "Grade III",
@@ -2128,7 +2128,7 @@
     "id": "periodontics-148",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a localized recession defect on tooth #34 that extends apical to the mucogingival junction, with no loss of interproximal attachment or bone, and significant root prominence. What is the Miller Classification for this recession defect?",
+    "question": "A patient presents with a localized recession defect on tooth #21 that extends apical to the mucogingival junction, with no loss of interproximal attachment or bone, and significant root prominence. What is the Miller Classification for this recession defect?",
     "options": [
       "Class III",
       "Class I",
@@ -2158,7 +2158,7 @@
     "id": "periodontics-150",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During scaling and root planing (SRP) of a deep periodontal pocket, the clinician encounters tenacious subgingival calculus on the distal root surface of mandibular first molar #46. Which Gracey curet is specifically designed and angled to adapt to this surface?",
+    "question": "During scaling and root planing (SRP) of a deep periodontal pocket, the clinician encounters tenacious subgingival calculus on the distal root surface of mandibular first molar #30. Which Gracey curet is specifically designed and angled to adapt to this surface?",
     "options": [
       "Gracey 7/8",
       "Gracey 13/14",
@@ -2263,9 +2263,9 @@
     "id": "periodontics-157",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 45-year-old female patient with a history of well-controlled type 2 diabetes presents with generalized Stage III, Grade B periodontitis. She exhibits 5-7 mm probing depths and 2 mm of attachment loss. Following phase I therapy (scaling and root planing), re-evaluation at 8 weeks reveals persistent 6 mm pockets with bleeding on probing on teeth #36 and #37. What is the most appropriate next step in management?",
+    "question": "A 45-year-old female patient with a history of well-controlled type 2 diabetes presents with generalized Stage III, Grade B periodontitis. She exhibits 5-7 mm probing depths and 2 mm of attachment loss. Following phase I therapy (scaling and root planing), re-evaluation at 8 weeks reveals persistent 6 mm pockets with bleeding on probing on tooth #19 and #18. What is the most appropriate next step in management?",
     "options": [
-      "Perform immediate extraction of #36 and #37",
+      "Perform immediate extraction of #19 and #18",
       "Prescribe systemic tetracycline without further mechanical therapy",
       "Place the patient on a 6-month maintenance recall interval",
       "Perform periodontal flap surgery for access and debridement"
@@ -2399,7 +2399,7 @@
     "id": "periodontics-166",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 45-year-old male is diagnosed with Stage III, Grade B periodontitis. He is a non-smoker and has no systemic diseases. Following phase I periodontal therapy (scaling and root planing and oral hygiene reinforcement), re-evaluation at 3 months reveals persistent probing depths of 6 mm with bleeding on probing on the mesial of tooth #36. There is a Class II furcation involvement on the buccal aspect. What is the most appropriate next step in management?",
+    "question": "A 45-year-old male is diagnosed with Stage III, Grade B periodontitis. He is a non-smoker and has no systemic diseases. Following phase I periodontal therapy (scaling and root planing and oral hygiene reinforcement), re-evaluation at 3 months reveals persistent probing depths of 6 mm with bleeding on probing on the mesial of tooth #19. There is a Class II furcation involvement on the buccal aspect. What is the most appropriate next step in management?",
     "options": [
       "Repeat full-mouth scaling and root planing and re-evaluate in another 6 months",
       "Immediate extraction and implant placement",
@@ -2459,7 +2459,7 @@
     "id": "periodontics-170",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a deep 8 mm periodontal pocket on the distal of tooth #47. Radiographic evaluation reveals a three-wall infrabony defect. Which regenerative periodontal therapy material provides osteoinductive properties to promote new cementum, periodontal ligament, and bone formation?",
+    "question": "A patient presents with a deep 8 mm periodontal pocket on the distal of tooth #31. Radiographic evaluation reveals a three-wall infrabony defect. Which regenerative periodontal therapy material provides osteoinductive properties to promote new cementum, periodontal ligament, and bone formation?",
     "options": [
       "Calcium sulfate alloplast",
       "Enamel matrix derivative (EMD)",
@@ -2655,7 +2655,7 @@
     "id": "periodontics-183",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "When performing non-surgical periodontal therapy (scaling and root planing), which of the following local delivery antimicrobial agents is approved in Canada as an adjunct to scaling and root planing for the reduction of pocket depth in patients with adult periodontitis?",
+    "question": "When performing non-surgical periodontal therapy (scaling and root planing), which of the following local delivery antimicrobial agents is approved in the United States as an adjunct to scaling and root planing for the reduction of pocket depth in patients with adult periodontitis?",
     "options": [
       "Systemic metronidazole",
       "Minocycline HCl microspheres",
@@ -2670,7 +2670,7 @@
     "id": "periodontics-184",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 62-year-old chronic smoker presents with a 7 mm probing depth, Class II furcation involvement, and 2 mm of mobility on tooth #46. The patient asks about long-term prognosis. Which of the following factors generally has the most significant negative impact on the long-term prognosis of a multi-rooted tooth?",
+    "question": "A 62-year-old chronic smoker presents with a 7 mm probing depth, Class II furcation involvement, and 2 mm of mobility on tooth #30. The patient asks about long-term prognosis. Which of the following factors generally has the most significant negative impact on the long-term prognosis of a multi-rooted tooth?",
     "options": [
       "Smoking status",
       "Patient age",
@@ -2775,7 +2775,7 @@
     "id": "periodontics-191",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 45-year-old patient presents with a localized, 3-wall intrabony defect on the distal aspect of tooth #37 with a probing depth of 6 mm. Based on current evidence-based periodontal literature, which surgical intervention is most likely to result in the greatest clinical attachment gain and radiographic bone fill for this specific defect morphology?",
+    "question": "A 45-year-old patient presents with a localized, 3-wall intrabony defect on the distal aspect of tooth #18 with a probing depth of 6 mm. Based on current evidence-based periodontal literature, which surgical intervention is most likely to result in the greatest clinical attachment gain and radiographic bone fill for this specific defect morphology?",
     "options": [
       "Open flap debridement (OFD) alone",
       "Guided tissue regeneration (GTR) using a non-resorbable barrier membrane",
@@ -2971,7 +2971,7 @@
     "id": "periodontics-204",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a deep 7 mm periodontal pocket on the distal aspect of tooth #37, which features a Class II furcation involvement and adequate zone of keratinized attached gingiva. The apex of the root is well away from the inferior alveolar canal. Which surgical procedure is best suited to gain access for defect correction and long-term maintenance?",
+    "question": "A patient presents with a deep 7 mm periodontal pocket on the distal aspect of tooth #18, which features a Class II furcation involvement and adequate zone of keratinized attached gingiva. The apex of the root is well away from the inferior alveolar canal. Which surgical procedure is best suited to gain access for defect correction and long-term maintenance?",
     "options": [
       "Gingivectomy",
       "Modified Widman flap",
@@ -3001,7 +3001,7 @@
     "id": "periodontics-206",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During a periodontal examination of a 30-year-old female, you note localized recession of 3mm on the facial aspect of tooth #33. The interproximal bone height is intact, with no loss of interdental attachment, and the recession extends beyond the mucogingival junction with no root surface step. According to Cairo's classification, what type of recession defect is this?",
+    "question": "During a periodontal examination of a 30-year-old female, you note localized recession of 3mm on the facial aspect of tooth #22. The interproximal bone height is intact, with no loss of interdental attachment, and the recession extends beyond the mucogingival junction with no root surface step. According to Cairo's classification, what type of recession defect is this?",
     "options": [
       "RT1",
       "RT2",
@@ -3046,7 +3046,7 @@
     "id": "periodontics-209",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance, a hygienist measures a 6 mm probing depth on the distal aspect of tooth #36. Re-evaluation 3 months post-scaling and root planing reveals persistent 6 mm probing depth with bleeding on probing. Which surgical approach is most indicated to achieve pocket reduction and direct access for root surface debridement in a multi-rooted molar with a Class I furcation?",
+    "question": "During periodontal maintenance, a hygienist measures a 6 mm probing depth on the distal aspect of tooth #19. Re-evaluation 3 months post-scaling and root planing reveals persistent 6 mm probing depth with bleeding on probing. Which surgical approach is most indicated to achieve pocket reduction and direct access for root surface debridement in a multi-rooted molar with a Class I furcation?",
     "options": [
       "Undulsed gingival graft",
       "Apically positioned flap with osseous surgery",
@@ -3137,7 +3137,7 @@
     "id": "periodontics-215",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old female complains of localized recession on the facial surface of tooth #33. Clinical examination reveals 4 mm of recession with the root surface extending beyond the mucogingival junction, but no loss of interproximal attachment or bone. Using the Cairo Classification system, how should this recession defect be categorized?",
+    "question": "A 42-year-old female complains of localized recession on the facial surface of tooth #22. Clinical examination reveals 4 mm of recession with the root surface extending beyond the mucogingival junction, but no loss of interproximal attachment or bone. Using the Cairo Classification system, how should this recession defect be categorized?",
     "options": [
       "RT1",
       "Class I Miller",
@@ -3333,7 +3333,7 @@
     "id": "periodontics-228",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a 7 mm periodontal pocket on the mesial of tooth #36. Periodontal probing reveals that the pocket base is located apical to the mucogingival junction, and there is an inadequate zone of keratinized attached gingiva. Which surgical approach is most indicated?",
+    "question": "A patient presents with a 7 mm periodontal pocket on the mesial of tooth #19. Periodontal probing reveals that the pocket base is located apical to the mucogingival junction, and there is an inadequate zone of keratinized attached gingiva. Which surgical approach is most indicated?",
     "options": [
       "Gingivectomy",
       "Conventional coronally advanced flap",
@@ -3363,12 +3363,12 @@
     "id": "periodontics-230",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient diagnosed with Stage II, Grade B periodontitis undergoes scaling and root planing and re-evaluation 8 weeks later. The re-evaluation reveals generalized probing depths of 2-3 mm with no bleeding on probing, except for a persistent 6 mm pocket on the distolingual aspect of tooth #37 with 3 mm of bleeding on probing. What is the most appropriate next step in management?",
+    "question": "A patient diagnosed with Stage II, Grade B periodontitis undergoes scaling and root planing and re-evaluation 8 weeks later. The re-evaluation reveals generalized probing depths of 2-3 mm with no bleeding on probing, except for a persistent 6 mm pocket on the distolingual aspect of tooth #18 with 3 mm of bleeding on probing. What is the most appropriate next step in management?",
     "options": [
       "Discharge the patient to a standard 12-month recall schedule",
       "Prescribe a systemic course of broad-spectrum antibiotics without further mechanical intervention",
-      "Perform surgical periodontal therapy or localized site-specific re-instrumentation for tooth #37",
-      "Immediately extract tooth #37 due to irreversible failure"
+      "Perform surgical periodontal therapy or localized site-specific re-instrumentation for tooth #18",
+      "Immediately extract tooth #18 due to irreversible failure"
     ],
     "correctAnswer": 2,
     "explanation": "A persistent deep pocket (≥ 6 mm) with bleeding on probing following initial non-surgical therapy indicates active disease at that specific site, requiring site-specific re-intervention such as periodontal flap surgery for access or localized re-instrumentation. Discharging the patient is premature, extraction is unwarranted without attempting site-specific therapy first, and systemic antibiotics alone without mechanical debridement are ineffective against subgingival biofilms.",
@@ -3558,7 +3558,7 @@
     "id": "periodontics-243",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient exhibits Miller Class III gingival recession on the facial surface of tooth #33. Which of the following statements best describes this classification?",
+    "question": "A patient exhibits Miller Class III gingival recession on the facial surface of tooth #22. Which of the following statements best describes this classification?",
     "options": [
       "Recession that extends beyond the mucogingival junction with no interproximal bone loss",
       "Wide and deep recession with severe interproximal bone loss making complete root coverage entirely predictable",
@@ -3603,7 +3603,7 @@
     "id": "periodontics-246",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 54-year-old male presents with generalized moderate periodontitis, Stage III, Grade B. During supportive periodontal therapy, localized attachment loss of 2 mm and bleeding on probing are noted at tooth #36 distobuccal. Which of the following is considered the primary etiologic factor for this localized progression?",
+    "question": "A 54-year-old male presents with generalized moderate periodontitis, Stage III, Grade B. During supportive periodontal therapy, localized attachment loss of 2 mm and bleeding on probing are noted at tooth #19 distobuccal. Which of the following is considered the primary etiologic factor for this localized progression?",
     "options": [
       "Aggressive Actinobacillus actinomycetemcomitans infection",
       "Occlusal trauma causing rapid attachment loss",
@@ -3710,7 +3710,7 @@
     "id": "periodontics-253",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 50-year-old female presents with a mandibular first molar (#36) exhibiting localized 7 mm probing depths and Grade II furcation involvement. After Phase I therapy, the furcation entrance remains exposed, with residual 5 mm probing depths and adequate width of keratinized tissue. What is the most appropriate next step in management?",
+    "question": "A 50-year-old female presents with a mandibular first molar (#19) exhibiting localized 7 mm probing depths and Grade II furcation involvement. After Phase I therapy, the furcation entrance remains exposed, with residual 5 mm probing depths and adequate width of keratinized tissue. What is the most appropriate next step in management?",
     "options": [
       "Immediate extraction and implant placement",
       "Periodontal regenerative therapy (e.g., bone graft and membrane)",
@@ -3743,7 +3743,7 @@
     "id": "periodontics-255",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 55-year-old male presents with generalized moderate periodontitis. His medical history is significant for well-controlled hypertension. Clinical examination reveals 5 mm probing depths on the mesial and distal surfaces of tooth #36, with Grade 2 furcation involvement on the buccal aspect. Which of the following is the most appropriate primary objective of initial non-surgical periodontal therapy for this tooth?",
+    "question": "A 55-year-old male presents with generalized moderate periodontitis. His medical history is significant for well-controlled hypertension. Clinical examination reveals 5 mm probing depths on the mesial and distal surfaces of tooth #19, with Grade 2 furcation involvement on the buccal aspect. Which of the following is the most appropriate primary objective of initial non-surgical periodontal therapy for this tooth?",
     "options": [
       "Surgical tunneling to convert the furcation into a self-cleansable area",
       "Disruption and removal of subgingival biofilm and calculus to reduce inflammation",
@@ -3998,7 +3998,7 @@
     "id": "periodontics-272",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance of a patient with a history of generalized severe periodontitis, a 6 mm probing depth with bleeding on probing is found on the distal aspect of tooth #36. The mucogingival junction is located 2 mm apical to the base of the pocket. What is the width of the keratinized gingiva and the width of the attached gingiva?",
+    "question": "During periodontal maintenance of a patient with a history of generalized severe periodontitis, a 6 mm probing depth with bleeding on probing is found on the distal aspect of tooth #19. The mucogingival junction is located 2 mm apical to the base of the pocket. What is the width of the keratinized gingiva and the width of the attached gingiva?",
     "options": [
       "Keratinized gingiva: 4 mm; Attached gingiva: 0 mm",
       "Keratinized gingiva: 4 mm; Attached gingiva: 2 mm",
@@ -4088,7 +4088,7 @@
     "id": "periodontics-278",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 62-year-old female is diagnosed with localized severe periodontitis affecting tooth #36, which exhibits a Class II furcation involvement on the buccal aspect and a 7 mm probing depth. Which of the following anatomic features makes maxillary first molar furcations particularly challenging to treat compared to mandibular molars?",
+    "question": "A 62-year-old female is diagnosed with localized severe periodontitis affecting tooth #19, which exhibits a Class II furcation involvement on the buccal aspect and a 7 mm probing depth. Which of the following anatomic features makes maxillary first molar furcations particularly challenging to treat compared to mandibular molars?",
     "options": [
       "Greater inter-radicular bone height",
       "Presence of a mesial furcation entrance located centrally",
@@ -4119,7 +4119,7 @@
     "id": "periodontics-280",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance, a patient demonstrates persistent 6 mm bleeding pockets on the distal of tooth #47 despite previous scaling and root planing. The mucogingival junction is aligned directly at the gingival margin, resulting in a zone of keratinized tissue of 0 mm. Which mucogingival procedure is best indicated to increase the band of attached gingiva?",
+    "question": "During periodontal maintenance, a patient demonstrates persistent 6 mm bleeding pockets on the distal of tooth #31 despite previous scaling and root planing. The mucogingival junction is aligned directly at the gingival margin, resulting in a zone of keratinized tissue of 0 mm. Which mucogingival procedure is best indicated to increase the band of attached gingiva?",
     "options": [
       "Apically positioned flap with osseous surgery",
       "Gingivectomy",
@@ -4194,7 +4194,7 @@
     "id": "periodontics-285",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with localized gingival recession (Miller Class I / RT1) on the labial aspect of tooth #33, causing esthetic concern and mild root hypersensitivity. The band of keratinized tissue apical to the recession is 3 mm, and the recession depth is 3 mm with no interproximal attachment loss. Which surgical procedure is most predictable for achieving complete root coverage?",
+    "question": "A patient presents with localized gingival recession (Miller Class I / RT1) on the labial aspect of tooth #22, causing esthetic concern and mild root hypersensitivity. The band of keratinized tissue apical to the recession is 3 mm, and the recession depth is 3 mm with no interproximal attachment loss. Which surgical procedure is most predictable for achieving complete root coverage?",
     "options": [
       "Apically positioned flap",
       "Lateral sliding flap",
@@ -4209,7 +4209,7 @@
     "id": "periodontics-286",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 55-year-old male with a history of generalized periodontitis, classified as Stage III, Grade B, is undergoing supportive periodontal therapy (SPT). During the most recent two SPT visits, bleeding on probing (BOP) has increased from 10% to 35%, and localized 6 mm pockets with 3 mm of clinical attachment loss are noted at teeth #16 and #26. According to the 2017 World Workshop classification and current periodontal management guidelines, what is the most appropriate next step in his diagnosis and management?",
+    "question": "A 55-year-old male with a history of generalized periodontitis, classified as Stage III, Grade B, is undergoing supportive periodontal therapy (SPT). During the most recent two SPT visits, bleeding on probing (BOP) has increased from 10% to 35%, and localized 6 mm pockets with 3 mm of clinical attachment loss are noted at teeth #3 and #14. According to the 2017 World Workshop classification and current periodontal management guidelines, what is the most appropriate next step in his diagnosis and management?",
     "options": [
       "Diagnose aggressive periodontitis and order genetic susceptibility testing",
       "Discharge the patient from supportive periodontal therapy back to general maintenance",
@@ -4240,7 +4240,7 @@
     "id": "periodontics-288",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old female presents with localized gingival recession of 4 mm on the facial aspect of tooth #33. The interproximal bone height is intact, and the recession defect extends apical to the mucogingival junction with no interproximal tissue loss. Using the Cairo classification system, how should this recession defect be categorized?",
+    "question": "A 42-year-old female presents with localized gingival recession of 4 mm on the facial aspect of tooth #22. The interproximal bone height is intact, and the recession defect extends apical to the mucogingival junction with no interproximal tissue loss. Using the Cairo classification system, how should this recession defect be categorized?",
     "options": [
       "RT1",
       "RT2",
@@ -4301,7 +4301,7 @@
     "id": "periodontics-292",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal surgery, a practitioner aims to achieve predictable regeneration of a 3-walled intrabony defect on the distal of tooth #36. Which biological principle is the primary mechanism of action for barrier membranes used in Guided Tissue Regeneration (GTR)?",
+    "question": "During periodontal surgery, a practitioner aims to achieve predictable regeneration of a 3-walled intrabony defect on the distal of tooth #19. Which biological principle is the primary mechanism of action for barrier membranes used in Guided Tissue Regeneration (GTR)?",
     "options": [
       "Acting as an antibiotic-eluting scaffold to eliminate red complex pathogens",
       "Providing osteoinductive growth factors to stimulate new bone formation",
@@ -4362,11 +4362,11 @@
     "id": "periodontics-296",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 55-year-old male presents with generalized moderate periodontitis, Stage III, Grade B. During periodontal examination, the clinician notes 7 mm probing depths on the distal of tooth #37, which exhibits Class II mobility. Which of the following is the most appropriate primary treatment objective for this specific site?",
+    "question": "A 55-year-old male presents with generalized moderate periodontitis, Stage III, Grade B. During periodontal examination, the clinician notes 7 mm probing depths on the distal of tooth #18, which exhibits Class II mobility. Which of the following is the most appropriate primary treatment objective for this specific site?",
     "options": [
       "Elimination of inflammation and reduction of probing depth to facilitate home care",
       "Permanent elimination of all subgingival microflora via scaling and root planing alone",
-      "Immediate extraction of tooth #37",
+      "Immediate extraction of tooth #18",
       "Complete regeneration of all lost periodontal ligament and alveolar bone"
     ],
     "correctAnswer": 0,
@@ -4437,7 +4437,7 @@
     "id": "periodontics-301",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During supportive periodontal therapy (SPT), a 60-year-old patient exhibits recurrent bleeding on probing (BOP) and a pocket depth that increased from 4 mm to 6 mm at the distofacial of tooth #46 over successive maintenance visits. What is the most appropriate immediate clinical action?",
+    "question": "During supportive periodontal therapy (SPT), a 60-year-old patient exhibits recurrent bleeding on probing (BOP) and a pocket depth that increased from 4 mm to 6 mm at the distofacial of tooth #30 over successive maintenance visits. What is the most appropriate immediate clinical action?",
     "options": [
       "Place the patient on a longer 9-month maintenance interval",
       "Extract the tooth immediately",
@@ -4512,7 +4512,7 @@
     "id": "periodontics-306",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 55-year-old male presents with generalized moderate periodontitis, Stage III, Grade B. During the initial periodontal examination, you record probing depths of 6 mm on the mesial of tooth #36, which also exhibits Class II furcation involvement. Which of the following systemic conditions, if reported in his medical history, would most significantly impact the long-term prognosis of his periodontal therapy?",
+    "question": "A 55-year-old male presents with generalized moderate periodontitis, Stage III, Grade B. During the initial periodontal examination, you record probing depths of 6 mm on the mesial of tooth #19, which also exhibits Class II furcation involvement. Which of the following systemic conditions, if reported in his medical history, would most significantly impact the long-term prognosis of his periodontal therapy?",
     "options": [
       "Controlled hypertension",
       "Well-controlled Type 2 diabetes mellitus (HbA1c < 7.0%)",
@@ -4527,7 +4527,7 @@
     "id": "periodontics-307",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old female complains of localized recession on the buccal aspect of tooth #34. Clinical examination reveals 3 mm of recession with the gingival margin remaining apical to the cementoenamel junction (CEJ) but not extending to the mucogingival line. There is no loss of interproximal bone or soft tissue. According to Cairo's Periodontal Classification, how is this recession defect best categorized?",
+    "question": "A 42-year-old female complains of localized recession on the buccal aspect of tooth #21. Clinical examination reveals 3 mm of recession with the gingival margin remaining apical to the cementoenamel junction (CEJ) but not extending to the mucogingival line. There is no loss of interproximal bone or soft tissue. According to Cairo's Periodontal Classification, how is this recession defect best categorized?",
     "options": [
       "RT2 (Recession Type 2)",
       "Miller Class IV",
@@ -4542,7 +4542,7 @@
     "id": "periodontics-308",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During supportive periodontal therapy (SPT), a 60-year-old patient exhibits localized bleeding on probing (BOP) of 35% across the mouth, with single sites showing persistent 6 mm pockets that bleed on probing on teeth #16 and #26. What is the most appropriate next step in clinical management?",
+    "question": "During supportive periodontal therapy (SPT), a 60-year-old patient exhibits localized bleeding on probing (BOP) of 35% across the mouth, with single sites showing persistent 6 mm pockets that bleed on probing on teeth #3 and #14. What is the most appropriate next step in clinical management?",
     "options": [
       "Perform localized re-instrumentation (scaling and root planing) combined with site-specific risk assessment",
       "Immediately refer the patient for full-mouth extraction and implant placement",
@@ -4602,7 +4602,7 @@
     "id": "periodontics-312",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a deep 8 mm infrabony defect on the distal of tooth #37, with adequate remaining periodontal support, thick keratinized tissue, and good patient compliance. Which surgical modality holds the highest predictability for periodontal regeneration of this specific defect?",
+    "question": "A patient presents with a deep 8 mm infrabony defect on the distal of tooth #18, with adequate remaining periodontal support, thick keratinized tissue, and good patient compliance. Which surgical modality holds the highest predictability for periodontal regeneration of this specific defect?",
     "options": [
       "Apically positioned flap with osseous recontouring",
       "Guided tissue regeneration (GTR) using a barrier membrane with or without bone grafts",
@@ -4662,10 +4662,10 @@
     "id": "periodontics-316",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 45-year-old female complains of localized pain, swelling, and bleeding from the interdental papilla between teeth #36 and #37. She is a heavy smoker and has been under severe psychological stress due to job loss. Clinically, the papilla appears punched-out, covered by a pseudomembranous greyish exudate, and bleeds profusely upon minimal stimulation. There is a distinct fetor oris. What is the most appropriate initial emergency management?",
+    "question": "A 45-year-old female complains of localized pain, swelling, and bleeding from the interdental papilla between tooth #19 and #18. She is a heavy smoker and has been under severe psychological stress due to job loss. Clinically, the papilla appears punched-out, covered by a pseudomembranous greyish exudate, and bleeds profusely upon minimal stimulation. There is a distinct fetor oris. What is the most appropriate initial emergency management?",
     "options": [
       "Gentle debridement of necrotic tissue, prescription of an oxygenating mouthrinse, and systemic metronidazole if systemic symptoms are present",
-      "Extraction of teeth #36 and #37 due to rapid bone loss",
+      "Extraction of tooth #19 and #18 due to rapid bone loss",
       "Periodontal flap surgery with osseous recontouring",
       "Full-mouth scaling and root planing under local anesthesia immediately"
     ],
@@ -4857,7 +4857,7 @@
     "id": "periodontics-329",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a localized 6 mm periodontal pocket on the distal aspect of tooth #37. There is no mobility, but the zone of keratinized tissue is measured at 0.5 mm with the gingival margin apical to the mucogingival junction. Which periodontal plastic surgery procedure is indicated to increase the zone of attached, keratinized tissue prior to restorative work?",
+    "question": "A patient presents with a localized 6 mm periodontal pocket on the distal aspect of tooth #18. There is no mobility, but the zone of keratinized tissue is measured at 0.5 mm with the gingival margin apical to the mucogingival junction. Which periodontal plastic surgery procedure is indicated to increase the zone of attached, keratinized tissue prior to restorative work?",
     "options": [
       "Gingivectomy",
       "Apically positioned flap with osseous surgery",
@@ -4887,7 +4887,7 @@
     "id": "periodontics-331",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old female presents with a localized 6 mm probing depth on the distal of tooth #36. The ging margin is apical to the cemento-enamel junction (CEJ) by 2 mm. What is the total clinical attachment loss (CAL) for this site?",
+    "question": "A 42-year-old female presents with a localized 6 mm probing depth on the distal of tooth #19. The ging margin is apical to the cemento-enamel junction (CEJ) by 2 mm. What is the total clinical attachment loss (CAL) for this site?",
     "options": [
       "8 mm",
       "6 mm",
@@ -4917,7 +4917,7 @@
     "id": "periodontics-333",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance, a clinician evaluates a molar with a Furcation Class II involvement on the buccal aspect of tooth #46. Which clinical description best defines a Class II furcation defect?",
+    "question": "During periodontal maintenance, a clinician evaluates a molar with a Furcation Class II involvement on the buccal aspect of tooth #30. Which clinical description best defines a Class II furcation defect?",
     "options": [
       "Severe bone loss; a probe passes completely through the furcation from buccal to lingual.",
       "Total loss of attachment with significant gingival recession exposing the entire furcation.",
@@ -4955,7 +4955,7 @@
       "Delaying all periodontal treatment until 2 years post-myocardial infarction"
     ],
     "correctAnswer": 0,
-    "explanation": "A recent myocardial infarction within 6 months is a significant medical risk. Consultation with the cardiologist is essential to assess cardiovascular stability and manage any antithrombotic medications (like aspirin or clopidogrel). Antibiotic prophylaxis is no longer recommended for standard periodontal procedures based on current AHA/CDA guidelines, and local anesthetics should be used judiciously with minimal vasoconstrictor.",
+    "explanation": "A recent myocardial infarction within 6 months is a significant medical risk. Consultation with the cardiologist is essential to assess cardiovascular stability and manage any antithrombotic medications (like aspirin or clopidogrel). Antibiotic prophylaxis is no longer recommended for standard periodontal procedures based on current AHA/ADA clinical guidelines, and local anesthetics should be used judiciously with minimal vasoconstrictor.",
     "aiVerified": true
   },
   {
@@ -5038,11 +5038,11 @@
     "id": "periodontics-341",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 48-year-old patient presents for periodontal maintenance 3 months after completing initial non-surgical periodontal therapy (scaling and root planing). The patient demonstrates excellent oral hygiene and compliance. Clinical examination reveals a 6 mm probing depth on the distal aspect of tooth #37 with bleeding on probing. Radiographs show no significant vertical bone loss or furcation involvement. What is the most appropriate next step in clinical management?",
+    "question": "A 48-year-old patient presents for periodontal maintenance 3 months after completing initial non-surgical periodontal therapy (scaling and root planing). The patient demonstrates excellent oral hygiene and compliance. Clinical examination reveals a 6 mm probing depth on the distal aspect of tooth #18 with bleeding on probing. Radiographs show no significant vertical bone loss or furcation involvement. What is the most appropriate next step in clinical management?",
     "options": [
       "Prescribe systemic metronidazole as adjunctive therapy",
       "Perform periodontal flap surgery for access and debridement",
-      "Extract tooth #37 immediately",
+      "Extract tooth #18 immediately",
       "Perform re-treatment of scaling and root planing (re-instrumentation)"
     ],
     "correctAnswer": 3,
@@ -5253,7 +5253,7 @@
     "id": "periodontics-355",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 45-year-old female smoker presents with painful, bleeding gingiva and halitosis of sudden onset. Examination reveals punched-out interdental papillae covered by a pseudomembranous gray exudate, and a mild fever. What is the most appropriate initial management in a Canadian dental practice?",
+    "question": "A 45-year-old female smoker presents with painful, bleeding gingiva and halitosis of sudden onset. Examination reveals punched-out interdental papillae covered by a pseudomembranous gray exudate, and a mild fever. What is the most appropriate initial management in a contemporary US dental practice?",
     "options": [
       "Gentle debridement, prescription of an oxygenating rinse, and systemic metronidazole if systemic symptoms are present",
       "Excisional biopsy of the interdental papilla to rule out malignancy",
@@ -5316,7 +5316,7 @@
     "id": "periodontics-359",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 28-year-old female presents with localized gingival recession (Miller Class I / RT1) on the facial surface of tooth #33, measuring 4mm of recession with 2mm of remaining zone of keratinized tissue. She complains of cervical dentin hypersensitivity and aesthetic concerns. Which surgical procedure is best indicated to achieve complete root coverage?",
+    "question": "A 28-year-old female presents with localized gingival recession (Miller Class I / RT1) on the facial surface of tooth #22, measuring 4mm of recession with 2mm of remaining zone of keratinized tissue. She complains of cervical dentin hypersensitivity and aesthetic concerns. Which surgical procedure is best indicated to achieve complete root coverage?",
     "options": [
       "Apically positioned flap with osseous surgery",
       "Subepithelial connective tissue graft with a coronally advanced flap",
@@ -5406,7 +5406,7 @@
     "id": "periodontics-365",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 40-year-old male presents for a routine exam. Radiographs reveal a localized 5 mm vertical bone defect on the distal aspect of tooth #36. The pocket depth is 7 mm, and the base of the pocket is located apical to the alveolar crest. How is this bony defect properly classified?",
+    "question": "A 40-year-old male presents for a routine exam. Radiographs reveal a localized 5 mm vertical bone defect on the distal aspect of tooth #19. The pocket depth is 7 mm, and the base of the pocket is located apical to the alveolar crest. How is this bony defect properly classified?",
     "options": [
       "Dehiscence defect",
       "Horizontal bone loss",
@@ -5504,7 +5504,7 @@
       "Place a resorbable collagen membrane over the perforation and continue the bone grafting procedure."
     ],
     "correctAnswer": 3,
-    "explanation": "Current Canadian sinus‑augmentation guidelines (CDA/ODQ) and the literature on sinus floor elevation state that perforations ≤5 mm should be repaired by covering the tear with a resorbable collagen membrane (e.g., Bio‑Gide) to re‑establish the barrier and allow graft placement. The membrane is thin and cannot be sutured without enlarging the tear; primary suturing is therefore not recommended. Abandoning the case or using non‑resorbable hydroxyapatite is unnecessary when a seal can be achieved. Hence the correct choice is option 3, which reflects the accepted evidence‑based protocol.",
+    "explanation": "Current Canadian sinus‑augmentation guidelines (ADA/state dental board) and the literature on sinus floor elevation state that perforations ≤5 mm should be repaired by covering the tear with a resorbable collagen membrane (e.g., Bio‑Gide) to re‑establish the barrier and allow graft placement. The membrane is thin and cannot be sutured without enlarging the tear; primary suturing is therefore not recommended. Abandoning the case or using non‑resorbable hydroxyapatite is unnecessary when a seal can be achieved. Hence the correct choice is option 3, which reflects the accepted evidence‑based protocol.",
     "aiVerified": true
   },
   {
@@ -5541,7 +5541,7 @@
     "id": "periodontics-374",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a localized, deep 8 mm periodontal pocket on the mesial of tooth #36. Radiographic evaluation reveals a three-wall infrabony defect. Which surgical approach offers the greatest predictable potential for true periodontal regeneration (new attachment)?",
+    "question": "A patient presents with a localized, deep 8 mm periodontal pocket on the mesial of tooth #19. Radiographic evaluation reveals a three-wall infrabony defect. Which surgical approach offers the greatest predictable potential for true periodontal regeneration (new attachment)?",
     "options": [
       "Apically positioned flap with osseous recontouring",
       "Gingivectomy",
@@ -5571,7 +5571,7 @@
     "id": "periodontics-376",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old male is referred for evaluation of a localized recession defect on tooth #33. The gingival margin is 4 mm apical to the cementoenamel junction (CEJ), but does not extend to or beyond the mucogingival junction. There is no loss of interproximal bone or soft tissue. According to Cairo's classification, what is this recession type?",
+    "question": "A 42-year-old male is referred for evaluation of a localized recession defect on tooth #22. The gingival margin is 4 mm apical to the cementoenamel junction (CEJ), but does not extend to or beyond the mucogingival junction. There is no loss of interproximal bone or soft tissue. According to Cairo's classification, what is this recession type?",
     "options": [
       "RT2 (Recession Type 2)",
       "RT3 (Recession Type 3)",
@@ -5737,7 +5737,7 @@
     "id": "periodontics-387",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 35-year-old male presents with acute pain, interdental papillae necrosis, and spontaneous gingival bleeding. He reports high stress due to final exams and heavy smoking. What is the most appropriate initial treatment in Canada?",
+    "question": "A 35-year-old male presents with acute pain, interdental papillae necrosis, and spontaneous gingival bleeding. He reports high stress due to final exams and heavy smoking. What is the most appropriate initial treatment in the United States?",
     "options": [
       "Immediate full-mouth periodontal flap surgery",
       "Extraction of all involved teeth due to poor prognosis",
@@ -5872,7 +5872,7 @@
     "id": "periodontics-396",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 38-year-old female presents with localized 4 mm recession on the facial surface of tooth #33. There is no loss of interproximal attachment, and the recession does not extend to the mucogingival junction. Using the Cairo classification system, how should this recession defect be categorized?",
+    "question": "A 38-year-old female presents with localized 4 mm recession on the facial surface of tooth #22. There is no loss of interproximal attachment, and the recession does not extend to the mucogingival junction. Using the Cairo classification system, how should this recession defect be categorized?",
     "options": [
       "RT3",
       "RT1",
@@ -5887,7 +5887,7 @@
     "id": "periodontics-397",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During supportive periodontal therapy (SPT), a patient exhibits recurrent 6 mm pockets with bleeding on probing on the distal of tooth #37 despite two previous rounds of non-surgical scaling and root planing. The furcation is class II. What is the biological rationale for recommending access flap surgery for this site?",
+    "question": "During supportive periodontal therapy (SPT), a patient exhibits recurrent 6 mm pockets with bleeding on probing on the distal of tooth #18 despite two previous rounds of non-surgical scaling and root planing. The furcation is class II. What is the biological rationale for recommending access flap surgery for this site?",
     "options": [
       "To permanently alter the patient's plaque biofilm composition to entirely non-pathogenic species",
       "To eliminate the systemic bacteremia associated with subgingival scaling",
@@ -5917,7 +5917,7 @@
     "id": "periodontics-399",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 60-year-old male with a history of myocardial infarction 6 months ago and current prescription for daily low-dose acetylsalicylic acid (Aspirin) and Warfarin requires full-mouth scaling and root planing. According to Canadian dental guidelines, what is the most appropriate initial laboratory test to review prior to proceeding?",
+    "question": "A 60-year-old male with a history of myocardial infarction 6 months ago and current prescription for daily low-dose acetylsalicylic acid (Aspirin) and Warfarin requires full-mouth scaling and root planing. According to ADA clinical guidelines, what is the most appropriate initial laboratory test to review prior to proceeding?",
     "options": [
       "Bleeding time",
       "International Normalized Ratio (INR)",
@@ -5977,7 +5977,7 @@
     "id": "periodontics-403",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal maintenance of a 60-year-old patient, you note persistent 6 mm bleeding pockets on the mesial of tooth #36 despite scaling and root planing performed 3 months ago. Upon re-evaluation, surgical intervention is planned. Which surgical technique is primarily indicated to gain access for root instrumentation and reduce pocket depth via resective osseous surgery when crown-to-root ratio and esthetics permit?",
+    "question": "During periodontal maintenance of a 60-year-old patient, you note persistent 6 mm bleeding pockets on the mesial of tooth #19 despite scaling and root planing performed 3 months ago. Upon re-evaluation, surgical intervention is planned. Which surgical technique is primarily indicated to gain access for root instrumentation and reduce pocket depth via resective osseous surgery when crown-to-root ratio and esthetics permit?",
     "options": [
       "Apically Positioned Flap with Osseous Resection",
       "Modified Widman Flap",
@@ -6038,7 +6038,7 @@
     "id": "periodontics-407",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 68-year-old male with a history of myocardial infarction 6 months ago requires non-surgical periodontal therapy with scaling and root planing. He takes low-dose aspirin daily. What is the standard Canadian dental management guideline regarding his antiplatelet therapy before the procedure?",
+    "question": "A 68-year-old male with a history of myocardial infarction 6 months ago requires non-surgical periodontal therapy with scaling and root planing. He takes low-dose aspirin daily. What is the standard dental management guideline regarding his antiplatelet therapy before the procedure?",
     "options": [
       "Stop aspirin 7 days prior to scaling and root planing",
       "Double the aspirin dose to prevent clotting during the procedure",
@@ -6083,9 +6083,9 @@
     "id": "periodontics-410",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A patient presents with a localized periodontal abscess on tooth #36. The tooth has a vital pulp response, a 9 mm probing depth with a narrow, tortuous pocket, and no history of recent scaling and root planing. What is the most appropriate initial emergency management?",
+    "question": "A patient presents with a localized periodontal abscess on tooth #19. The tooth has a vital pulp response, a 9 mm probing depth with a narrow, tortuous pocket, and no history of recent scaling and root planing. What is the most appropriate initial emergency management?",
     "options": [
-      "Immediate extraction of tooth #36",
+      "Immediate extraction of tooth #19",
       "Immediate conventional root canal treatment",
       "Drainage through the pocket, scaling and root planing, and local debridement",
       "Systemic antibiotic therapy alone"
@@ -6174,7 +6174,7 @@
     "id": "periodontics-416",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "A 42-year-old female presents with localized severe recession (Miller Class III / RT2) on tooth #33. She complains of severe cervical dentin hypersensitivity and esthetic concerns. Which of the following periodontal plastic surgical procedures offers the highest predictability for complete root coverage in this specific defect?",
+    "question": "A 42-year-old female presents with localized severe recession (Miller Class III / RT2) on tooth #22. She complains of severe cervical dentin hypersensitivity and esthetic concerns. Which of the following periodontal plastic surgical procedures offers the highest predictability for complete root coverage in this specific defect?",
     "options": [
       "Coronally advanced flap alone",
       "Lateral sliding flap",
@@ -6309,7 +6309,7 @@
     "id": "periodontics-425",
     "topicId": "periodontics",
     "difficulty": "medium",
-    "question": "During periodontal surgery on a mandibular molar, you observe a bone defect around the mesial root of #46 that is bounded by three bony walls (facial, lingual, and distal). What type of intraosseous defect is this?",
+    "question": "During periodontal surgery on a mandibular molar, you observe a bone defect around the mesial root of #30 that is bounded by three bony walls (facial, lingual, and distal). What type of intraosseous defect is this?",
     "options": [
       "Two-wall defect",
       "Three-wall defect",
@@ -6429,7 +6429,7 @@
     "id": "periodontics-433",
     "topicId": "periodontics",
     "difficulty": "hard",
-    "question": "A 55-year-old female patient completed generalized scaling and root planing 3 months ago for Stage III Grade B Generalized Periodontitis. At her re-evaluation, all clinical parameters have improved significantly except for persistent bleeding on probing and a 6mm probing depth on the disto-buccal aspect of tooth #36, which also exhibits a Class II furcation involvement. The adjacent teeth show good response to therapy.",
+    "question": "A 55-year-old female patient completed generalized scaling and root planing 3 months ago for Stage III Grade B Generalized Periodontitis. At her re-evaluation, all clinical parameters have improved significantly except for persistent bleeding on probing and a 6mm probing depth on the disto-buccal aspect of tooth #19, which also exhibits a Class II furcation involvement. The adjacent teeth show good response to therapy.",
     "options": [
       "Schedule a 6-month recall for re-assessment",
       "Refer for periodontal surgical intervention (e.g., osseous surgery or regenerative procedure)",
@@ -6459,7 +6459,7 @@
     "id": "periodontics-435",
     "topicId": "periodontics",
     "difficulty": "hard",
-    "question": "A 60-year-old non-smoking patient presents for a routine check-up. She has a dental implant in the #46 region placed 8 years ago. Clinically, there is redness and swelling of the peri-implant tissues, probing depths are 7mm all around the implant, and pus can be expressed. Radiographs show saucerization of the bone around the implant platform, with approximately 3mm of bone loss compared to baseline radiographs taken 5 years ago.",
+    "question": "A 60-year-old non-smoking patient presents for a routine check-up. She has a dental implant in the #30 region placed 8 years ago. Clinically, there is redness and swelling of the peri-implant tissues, probing depths are 7mm all around the implant, and pus can be expressed. Radiographs show saucerization of the bone around the implant platform, with approximately 3mm of bone loss compared to baseline radiographs taken 5 years ago.",
     "options": [
       "Peri-implant mucositis",
       "Implant failure",
@@ -6562,7 +6562,7 @@
   {
     "id": "periodontics-442",
     "topicId": "periodontics",
-    "question": "A 30-year-old male patient presents to your dental office with severe, spontaneous pain in tooth #37 that is exacerbated by cold and lingers for several minutes after the stimulus is removed. Radiographic examination reveals deep caries approximating the pulp chamber. What is the MOST appropriate diagnosis?",
+    "question": "A 30-year-old male patient presents to your dental office with severe, spontaneous pain in tooth #18 that is exacerbated by cold and lingers for several minutes after the stimulus is removed. Radiographic examination reveals deep caries approximating the pulp chamber. What is the MOST appropriate diagnosis?",
     "options": [
       "Reversible pulpitis",
       "Irreversible pulpitis",
@@ -6590,7 +6590,7 @@
   {
     "id": "periodontics-444",
     "topicId": "periodontics",
-    "question": "According to Canadian dental infection control guidelines, what is the recommended method for sterilizing heat-sensitive critical instruments that cannot withstand autoclaving?",
+    "question": "According to CDC and OSHA infection control guidelines, what is the recommended method for sterilizing heat-sensitive critical instruments that cannot withstand autoclaving?",
     "options": [
       "High-level disinfection with glutaraldehyde immersion",
       "Dry heat sterilization",
@@ -6618,7 +6618,7 @@
   {
     "id": "periodontics-446",
     "topicId": "periodontics",
-    "question": "A 7-year-old male patient presents with a deep carious lesion on tooth #75 (mandibular primary second molar) that extends close to the pulp radiographically, but he is asymptomatic. Clinical examination reveals no signs of pulp necrosis or irreversible pulpitis. What is the MOST appropriate pulp therapy for this tooth?",
+    "question": "A 7-year-old male patient presents with a deep carious lesion on tooth K (mandibular primary second molar) that extends close to the pulp radiographically, but he is asymptomatic. Clinical examination reveals no signs of pulp necrosis or irreversible pulpitis. What is the MOST appropriate pulp therapy for this tooth?",
     "options": [
       "Direct pulp cap with calcium hydroxide",
       "Pulpotomy",
@@ -6674,12 +6674,12 @@
   {
     "id": "periodontics-450",
     "topicId": "periodontics",
-    "question": "A 35-year-old male patient presents with acute pain and swelling in the mandibular right posterior region. Radiographic examination reveals a horizontally impacted tooth #48 with associated pericoronal radiolucency. Clinical examination shows trismus and tenderness to palpation. What is the MOST appropriate initial management?",
+    "question": "A 35-year-old male patient presents with acute pain and swelling in the mandibular right posterior region. Radiographic examination reveals a horizontally impacted tooth #32 with associated pericoronal radiolucency. Clinical examination shows trismus and tenderness to palpation. What is the MOST appropriate initial management?",
     "options": [
-      "Immediate surgical extraction of tooth #48",
+      "Immediate surgical extraction of tooth #32",
       "Prescription of antibiotics and analgesics, followed by reassessment",
       "Incision and drainage of the swelling",
-      "Root canal treatment of tooth #48"
+      "Root canal treatment of tooth #32"
     ],
     "correctAnswer": 1,
     "explanation": "In cases of acute pericoronitis with trismus and swelling, the initial management involves controlling the acute infection with antibiotics and analgesics. Once the acute infection subsides, a definitive treatment like extraction can be planned. Immediate surgical extraction in an acutely infected area can spread the infection and increase complications. Incision and drainage may be necessary if there is a fluctuant abscess, but antibiotics are usually still indicated. Root canal treatment is not an option for an impacted tooth.",
@@ -6842,7 +6842,7 @@
   {
     "id": "periodontics-462",
     "topicId": "periodontics",
-    "question": "A 32-year-old female patient presents for a routine dental check-up. She reports no pain. Her medical history is unremarkable. During the examination, a well-circumscribed, asymptomatic, dome-shaped radiopacity is noted at the apex of the mandibular right first molar (#46). The tooth is vital and has no caries or restorations. What is the MOST appropriate management?",
+    "question": "A 32-year-old female patient presents for a routine dental check-up. She reports no pain. Her medical history is unremarkable. During the examination, a well-circumscribed, asymptomatic, dome-shaped radiopacity is noted at the apex of the mandibular right first molar (#30). The tooth is vital and has no caries or restorations. What is the MOST appropriate management?",
     "options": [
       "Initiate root canal therapy due to a periapical lesion.",
       "Extract the tooth due to potential odontogenic tumor.",
@@ -6856,7 +6856,7 @@
   {
     "id": "periodontics-463",
     "topicId": "periodontics",
-    "question": "A 7-year-old male patient presents with a deep carious lesion on the mandibular left first primary molar (#74). Clinical examination reveals no spontaneous pain, but there is mild sensitivity to cold that dissipates immediately. Radiographically, the lesion extends into the pulpal third of the dentin, with no periapical pathology. What is the MOST appropriate treatment for tooth #74?",
+    "question": "A 7-year-old male patient presents with a deep carious lesion on the mandibular left first primary molar (tooth L). Clinical examination reveals no spontaneous pain, but there is mild sensitivity to cold that dissipates immediately. Radiographically, the lesion extends into the pulpal third of the dentin, with no periapical pathology. What is the MOST appropriate treatment for tooth L?",
     "options": [
       "Direct pulp cap.",
       "Pulpotomy.",
@@ -6870,12 +6870,12 @@
   {
     "id": "periodontics-464",
     "topicId": "periodontics",
-    "question": "A 38-year-old male patient presents with acute pain and swelling in the mandibular right posterior region. He reports a history of recurrent pericoronitis associated with the partially erupted mandibular third molar (#48). Clinical examination reveals inflamed, edematous gingival tissue partially covering the distal aspect of #48, purulent exudate upon pressure, and limited mouth opening. Radiographically, #48 is mesioangularly impacted. What is the MOST appropriate initial management?",
+    "question": "A 38-year-old male patient presents with acute pain and swelling in the mandibular right posterior region. He reports a history of recurrent pericoronitis associated with the partially erupted mandibular third molar (#32). Clinical examination reveals inflamed, edematous gingival tissue partially covering the distal aspect of #32, purulent exudate upon pressure, and limited mouth opening. Radiographically, #32 is mesioangularly impacted. What is the MOST appropriate initial management?",
     "options": [
-      "Immediate surgical extraction of tooth #48.",
+      "Immediate surgical extraction of tooth #32.",
       "Prescribe systemic antibiotics and analgesics, then schedule for extraction once acute infection subsides.",
       "Perform irrigation and debridement under the operculum, along with analgesics and warm saline rinses.",
-      "Initiate root canal therapy on tooth #48 to address the inflammation."
+      "Initiate root canal therapy on tooth #32 to address the inflammation."
     ],
     "correctAnswer": 2,
     "explanation": "The most appropriate initial management for acute pericoronitis is local debridement and irrigation under the operculum, along with warm saline rinses and analgesics to control symptoms. Systemic antibiotics are only indicated if there are signs of systemic involvement (e.g., fever, lymphadenopathy, trismus, or cellulitis). Immediate surgical extraction is contraindicated during an acute infection due to increased risk of complications. Root canal therapy is not indicated as the pain is pericoronal, not pulpal.",
@@ -6940,7 +6940,7 @@
   {
     "id": "periodontics-469",
     "topicId": "periodontics",
-    "question": "A 30-year-old male patient presents to your dental office with severe, spontaneous pain in tooth #36 (mandibular left first molar) that has been waking him at night. He reports prolonged sensitivity to cold and heat. Clinical examination reveals a deep mesial restoration and tenderness to percussion. Radiographically, the lesion appears to extend close to the pulp chamber, with no periapical radiolucency. What is the MOST likely pulpal diagnosis?",
+    "question": "A 30-year-old male patient presents to your dental office with severe, spontaneous pain in tooth #19 (mandibular left first molar) that has been waking him at night. He reports prolonged sensitivity to cold and heat. Clinical examination reveals a deep mesial restoration and tenderness to percussion. Radiographically, the lesion appears to extend close to the pulp chamber, with no periapical radiolucency. What is the MOST likely pulpal diagnosis?",
     "options": [
       "Reversible pulpitis.",
       "Irreversible pulpitis.",
@@ -7039,7 +7039,7 @@
   {
     "id": "periodontics-476",
     "topicId": "periodontics",
-    "question": "A 25-year-old female patient presents with intermittent sharp pain in her mandibular right first molar (#46) when consuming cold beverages. The pain is localized, lasts for a few seconds after the stimulus is removed, and does not occur spontaneously. Radiographic examination reveals a deep carious lesion approaching the pulp chamber. The tooth responds positively to vitality testing (cold) and is non-tender to percussion and palpation. What is the MOST likely pulpal diagnosis?",
+    "question": "A 25-year-old female patient presents with intermittent sharp pain in her mandibular right first molar (#30) when consuming cold beverages. The pain is localized, lasts for a few seconds after the stimulus is removed, and does not occur spontaneously. Radiographic examination reveals a deep carious lesion approaching the pulp chamber. The tooth responds positively to vitality testing (cold) and is non-tender to percussion and palpation. What is the MOST likely pulpal diagnosis?",
     "options": [
       "Irreversible pulpitis",
       "Reversible pulpitis",
@@ -7067,7 +7067,7 @@
   {
     "id": "periodontics-478",
     "topicId": "periodontics",
-    "question": "A 72‑year‑old woman had a prosthetic heart valve placed 3 years ago. She is on warfarin with an INR of 2.5 measured yesterday and reports no drug allergies. She requires extraction of tooth #36 (lower left first molar) because of deep caries. According to the current American Dental Association/Infectious Diseases Society of America (CDA/IDSA) guidelines, which of the following is the most appropriate antibiotic prophylaxis regimen for this patient?",
+    "question": "A 72‑year‑old woman had a prosthetic heart valve placed 3 years ago. She is on warfarin with an INR of 2.5 measured yesterday and reports no drug allergies. She requires extraction of tooth #19 (lower left first molar) because of deep caries. According to the current American Dental Association/Infectious Diseases Society of America (ADA/IDSA) guidelines, which of the following is the most appropriate antibiotic prophylaxis regimen for this patient?",
     "options": [
       "Amoxicillin 2 g orally, 30–60 minutes before the procedure.",
       "Clindamycin 600 mg orally, 30–60 minutes before the procedure.",
@@ -7075,7 +7075,7 @@
       "Azithromycin 500 mg orally, 30–60 minutes before the procedure."
     ],
     "correctAnswer": 0,
-    "explanation": "The CDA/IDSA prophylaxis recommendations list prosthetic cardiac valves as a high‑risk cardiac condition for infective endocarditis. For patients without a documented penicillin allergy, the first‑line regimen is amoxicillin 2 g taken orally 30–60 minutes before the invasive dental procedure (e.g., tooth extraction, periodontal surgery, or any procedure that manipulates gingival tissue or the periapical region). \n\nWhy the other options are incorrect:\n1. **Clindamycin 600 mg** – This is the recommended alternative only for patients with a serious (type I) penicillin allergy. The patient has no allergy, so amoxicillin remains the drug of choice.\n2. **No prophylaxis** – Prosthetic heart valves are explicitly included in the list of cardiac conditions for which prophylaxis is indicated; omission would be contrary to current ADA guidelines and could increase the risk of infective endocarditis.\n3. **Azithromycin 500 mg** – Azithromycin is not listed as an acceptable alternative in the ADA guidelines (it appears in some US recommendations). In Canada, the only oral alternatives for penicillin‑allergic patients are clindamycin or, if clindamycin is contraindicated, a macrolide such as clarithromycin, but azithromycin is not recommended.\n\nTherefore, the gold‑standard regimen for this patient is amoxicillin 2 g PO 30–60 minutes before the extraction.",
+    "explanation": "The ADA/IDSA prophylaxis recommendations list prosthetic cardiac valves as a high‑risk cardiac condition for infective endocarditis. For patients without a documented penicillin allergy, the first‑line regimen is amoxicillin 2 g taken orally 30–60 minutes before the invasive dental procedure (e.g., tooth extraction, periodontal surgery, or any procedure that manipulates gingival tissue or the periapical region). \n\nWhy the other options are incorrect:\n1. **Clindamycin 600 mg** – This is the recommended alternative only for patients with a serious (type I) penicillin allergy. The patient has no allergy, so amoxicillin remains the drug of choice.\n2. **No prophylaxis** – Prosthetic heart valves are explicitly included in the list of cardiac conditions for which prophylaxis is indicated; omission would be contrary to current ADA guidelines and could increase the risk of infective endocarditis.\n3. **Azithromycin 500 mg** – Azithromycin is not listed as an acceptable alternative in the ADA guidelines (it appears in some US recommendations). in the United States, the only oral alternatives for penicillin‑allergic patients are clindamycin or, if clindamycin is contraindicated, a macrolide such as clarithromycin, but azithromycin is not recommended.\n\nTherefore, the gold‑standard regimen for this patient is amoxicillin 2 g PO 30–60 minutes before the extraction.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -7083,7 +7083,7 @@
   {
     "id": "periodontics-479",
     "topicId": "periodontics",
-    "question": "A 35-year-old male patient returns to your office three days after the uneventful extraction of his mandibular right first molar (#46). He complains of severe, throbbing pain radiating to his ear, which is not relieved by over-the-counter analgesics. Intraoral examination reveals a partially empty socket with a grayish-brown clot, foul odor, and exposed bone. There is no significant swelling or purulent exudate. What is the MOST likely diagnosis?",
+    "question": "A 35-year-old male patient returns to your office three days after the uneventful extraction of his mandibular right first molar (#30). He complains of severe, throbbing pain radiating to his ear, which is not relieved by over-the-counter analgesics. Intraoral examination reveals a partially empty socket with a grayish-brown clot, foul odor, and exposed bone. There is no significant swelling or purulent exudate. What is the MOST likely diagnosis?",
     "options": [
       "Post-operative infection",
       "Osteomyelitis",
@@ -7139,7 +7139,7 @@
   {
     "id": "periodontics-483",
     "topicId": "periodontics",
-    "question": "A 65-year-old cognitively impaired male patient requires extraction of a severely decayed tooth (#37). His daughter, who holds a valid Power of Attorney for Personal Care, accompanies him to the appointment. The patient himself is agreeable to the procedure but appears to have difficulty fully understanding the risks and benefits. What is the MOST appropriate approach to obtain informed consent for the extraction?",
+    "question": "A 65-year-old cognitively impaired male patient requires extraction of a severely decayed tooth (#18). His daughter, who holds a valid Power of Attorney for Personal Care, accompanies him to the appointment. The patient himself is agreeable to the procedure but appears to have difficulty fully understanding the risks and benefits. What is the MOST appropriate approach to obtain informed consent for the extraction?",
     "options": [
       "Obtain consent from both the patient and the daughter, ensuring the daughter understands and consents on the patient's behalf after the patient has given assent.",
       "Obtain consent solely from the patient, as he is agreeable.",
@@ -7153,7 +7153,7 @@
   {
     "id": "periodontics-484",
     "topicId": "periodontics",
-    "question": "A 28-year-old female patient experiences numbness of her lower lip and chin on the right side immediately following the extraction of a horizontally impacted mandibular third molar (#48). She reports no pain or swelling, but the numbness is persistent. What is the MOST likely nerve involved in this complication?",
+    "question": "A 28-year-old female patient experiences numbness of her lower lip and chin on the right side immediately following the extraction of a horizontally impacted mandibular third molar (#32). She reports no pain or swelling, but the numbness is persistent. What is the MOST likely nerve involved in this complication?",
     "options": [
       "Lingual nerve",
       "Inferior alveolar nerve",
@@ -7251,7 +7251,7 @@
   {
     "id": "periodontics-491",
     "topicId": "periodontics",
-    "question": "A 7-year-old male patient presents with premature loss of his mandibular left first primary molar (#74) due to extensive caries and infection. The permanent first molar (#36) has already erupted, and the permanent second premolar (#35) is not yet visible radiographically. What is the MOST appropriate immediate management to prevent space loss?",
+    "question": "A 7-year-old male patient presents with premature loss of his mandibular left first primary molar (tooth L) due to extensive caries and infection. The permanent first molar (#19) has already erupted, and the permanent second premolar (#20) is not yet visible radiographically. What is the MOST appropriate immediate management to prevent space loss?",
     "options": [
       "No space maintainer is needed as the permanent first molar is already erupted.",
       "Recommend a distal shoe appliance to guide the eruption of the second premolar.",
@@ -7336,7 +7336,7 @@
   {
     "id": "periodontics-497",
     "topicId": "periodontics",
-    "question": "A 28-year-old female patient, who is 20 weeks pregnant, presents with a severely decayed and painful mandibular third molar (#38) diagnosed with acute irreversible pulpitis. Radiographs show horizontal impaction and close proximity to the inferior alveolar nerve. She reports moderate pain despite over-the-counter analgesics. What is the MOST appropriate immediate management plan?",
+    "question": "A 28-year-old female patient, who is 20 weeks pregnant, presents with a severely decayed and painful mandibular third molar (#17) diagnosed with acute irreversible pulpitis. Radiographs show horizontal impaction and close proximity to the inferior alveolar nerve. She reports moderate pain despite over-the-counter analgesics. What is the MOST appropriate immediate management plan?",
     "options": [
       "Prescribe a broad-spectrum antibiotic and postpone extraction until after delivery.",
       "Refer for root canal therapy to alleviate pain, then re-evaluate for extraction postpartum.",
@@ -7344,7 +7344,7 @@
       "Extract the tooth under local anesthesia, ensuring adequate pain control."
     ],
     "correctAnswer": 3,
-    "explanation": "The patient is 20 weeks pregnant (second trimester), a period when elective dental procedures, including extractions, are considered safest (Malamed, Handbook of Local Anesthesia, 7th ed.; CDA guidelines). The tooth is severely decayed, non‑restorable, and has acute irreversible pulpitis; definitive treatment is extraction rather than endodontic therapy, which would be technically difficult on a horizontally impacted molar near the IAN. Local anesthesia with a limited dose of vasoconstrictor (e.g., 1:200,000) is contraindication‑free in pregnancy. Antibiotics alone do not resolve pulpitis, and systemic corticosteroids are avoided unless medically indicated.",
+    "explanation": "The patient is 20 weeks pregnant (second trimester), a period when elective dental procedures, including extractions, are considered safest (Malamed, Handbook of Local Anesthesia, 7th ed.; ADA clinical guidelines). The tooth is severely decayed, non‑restorable, and has acute irreversible pulpitis; definitive treatment is extraction rather than endodontic therapy, which would be technically difficult on a horizontally impacted molar near the IAN. Local anesthesia with a limited dose of vasoconstrictor (e.g., 1:200,000) is contraindication‑free in pregnancy. Antibiotics alone do not resolve pulpitis, and systemic corticosteroids are avoided unless medically indicated.",
     "aiVerified": true
   },
   {

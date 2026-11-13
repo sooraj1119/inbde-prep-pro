@@ -290,7 +290,7 @@
       "Extraction of the adjacent lateral incisor to create space."
     ],
     "correctAnswer": 1,
-    "explanation": "Interceptive management of a labially impacted maxillary canine in a child of mixed dentition is extraction of the primary canine followed by observation; this creates space and removes the guidance barrier, permitting spontaneous eruption in up to 70 % of cases (Proffit, Contemporary Orthodontics, 6th ed., p. 452; RCDSO guidelines on impacted canines).  Surgical exposure with orthodontic traction is reserved for cases that fail to erupt after primary canine removal or when the canine is positioned palatally or high in the alveolus.  Extraction of the lateral incisor or removal of the permanent canine are overtreatment.",
+    "explanation": "Interceptive management of a labially impacted maxillary canine in a child of mixed dentition is extraction of the primary canine followed by observation; this creates space and removes the guidance barrier, permitting spontaneous eruption in up to 70 % of cases (Proffit, Contemporary Orthodontics, 6th ed., p. 452; state dental board guidelines on impacted canines).  Surgical exposure with orthodontic traction is reserved for cases that fail to erupt after primary canine removal or when the canine is positioned palatally or high in the alveolus.  Extraction of the lateral incisor or removal of the permanent canine are overtreatment.",
     "aiVerified": true
   },
   {
@@ -458,7 +458,7 @@
       "Perform a primary closure of the defect using a buccal advancement flap."
     ],
     "correctAnswer": 3,
-    "explanation": "A 3‑mm oro‑antral communication (OAC) is considered a small defect. Current Canadian dental guidelines (INBDE, American Dental Association) recommend that OACs less than 5 mm be closed surgically at the time of extraction to prevent progression to a chronic oro‑antral fistula. The buccal advancement (Rehrmann) flap provides a well‑vascularized soft‑tissue seal and is the technique of choice for primary closure of small to moderate OACs. \n\nWhy the other options are incorrect:\n0. Caldwell‑Luc is an invasive maxillary sinus surgery reserved for large defects, chronic sinusitis, or when other closure techniques have failed. It is unnecessary and overly aggressive for a 3‑mm acute OAC in a healthy patient.\n1. Antibiotics and nasal precautions are adjunctive measures; they do not close the defect. An untreated 3‑mm communication is unlikely to close spontaneously and may develop into a chronic fistula.\n2. Gelfoam can be used as a temporary hemostatic aid or for very tiny (<2 mm) communications, but it does not provide a reliable tissue seal. Without definitive closure, the risk of persistent communication remains high.\n\nTherefore, the gold‑standard immediate management is primary closure with a buccal advancement flap (option 3).",
+    "explanation": "A 3‑mm oro‑antral communication (OAC) is considered a small defect. Current ADA clinical guidelines (INBDE, American Dental Association) recommend that OACs less than 5 mm be closed surgically at the time of extraction to prevent progression to a chronic oro‑antral fistula. The buccal advancement (Rehrmann) flap provides a well‑vascularized soft‑tissue seal and is the technique of choice for primary closure of small to moderate OACs. \n\nWhy the other options are incorrect:\n0. Caldwell‑Luc is an invasive maxillary sinus surgery reserved for large defects, chronic sinusitis, or when other closure techniques have failed. It is unnecessary and overly aggressive for a 3‑mm acute OAC in a healthy patient.\n1. Antibiotics and nasal precautions are adjunctive measures; they do not close the defect. An untreated 3‑mm communication is unlikely to close spontaneously and may develop into a chronic fistula.\n2. Gelfoam can be used as a temporary hemostatic aid or for very tiny (<2 mm) communications, but it does not provide a reliable tissue seal. Without definitive closure, the risk of persistent communication remains high.\n\nTherefore, the gold‑standard immediate management is primary closure with a buccal advancement flap (option 3).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -676,7 +676,7 @@
   {
     "id": "oral-surgery-emergencies-49",
     "topicId": "oral-surgery-emergencies",
-    "question": "A patient undergoing multiple quadrant extractions reports moderate to severe post-operative pain. Which of the following is considered the most effective and safe initial analgesic regimen for this level of pain, according to current Canadian dental guidelines?",
+    "question": "A patient undergoing multiple quadrant extractions reports moderate to severe post-operative pain. Which of the following is considered the most effective and safe initial analgesic regimen for this level of pain, According to current ADA clinical guidelines?",
     "options": [
       "Codeine with acetaminophen.",
       "Ibuprofen alone.",
@@ -1169,7 +1169,7 @@
   {
     "id": "oral-surgery-emergencies-84",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 19-year-old male presents to the clinic with persistent discomfort and pericoronitis associated with a partially erupted mandibular third molar (#38). Clinically, there is inflammation of the overlying soft tissue, and the tooth is mesioangularly impacted with moderate depth. What is the most appropriate management for this patient?",
+    "question": "A 19-year-old male presents to the clinic with persistent discomfort and pericoronitis associated with a partially erupted mandibular third molar (#17). Clinically, there is inflammation of the overlying soft tissue, and the tooth is mesioangularly impacted with moderate depth. What is the most appropriate management for this patient?",
     "options": [
       "Initiate a course of antibiotics and advise warm salt water rinses.",
       "Perform an operculectomy to remove the inflamed soft tissue.",
@@ -1239,7 +1239,7 @@
   {
     "id": "oral-surgery-emergencies-89",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 55-year-old patient with a history of intravenous bisphosphonate therapy for multiple myeloma requires extraction of a periodontally compromised tooth #46. The tooth has mobility grade III and a periapical lesion. What is the most significant potential complication to discuss with the patient prior to extraction?",
+    "question": "A 55-year-old patient with a history of intravenous bisphosphonate therapy for multiple myeloma requires extraction of a periodontally compromised tooth #30. The tooth has mobility grade III and a periapical lesion. What is the most significant potential complication to discuss with the patient prior to extraction?",
     "options": [
       "Increased risk of post-operative infection and delayed healing.",
       "Potential for osteonecrosis of the jaw (ONJ).",
@@ -1295,7 +1295,7 @@
   {
     "id": "oral-surgery-emergencies-93",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 65‑year‑old patient with a prosthetic heart valve requires a single tooth extraction. The patient has a documented penicillin allergy. According to current Canadian dental guidelines (e.g., American Dental Association), which antibiotic prophylaxis regimen is most appropriate?",
+    "question": "A 65‑year‑old patient with a prosthetic heart valve requires a single tooth extraction. The patient has a documented penicillin allergy. According to current ADA clinical guidelines (e.g., American Dental Association), which antibiotic prophylaxis regimen is most appropriate?",
     "options": [
       "Amoxicillin 2 g orally one hour before the procedure",
       "Clindamycin 600 mg orally one hour before the procedure",
@@ -1409,9 +1409,9 @@
   {
     "id": "oral-surgery-emergencies-101",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 22-year-old healthy female presents for evaluation of her mandibular third molars. Panoramic radiograph reveals horizontally impacted #38 and #48, both close to the inferior alveolar canal. She reports intermittent mild discomfort. Which of the following is the most appropriate next step in her management?",
+    "question": "A 22-year-old healthy female presents for evaluation of her mandibular third molars. Panoramic radiograph reveals horizontally impacted #17 and #32, both close to the inferior alveolar canal. She reports intermittent mild discomfort. Which of the following is the most appropriate next step in her management?",
     "options": [
-      "Immediate surgical extraction of both #38 and #48.",
+      "Immediate surgical extraction of both #17 and #32.",
       "Prescribe antibiotics and NSAIDs for the discomfort.",
       "Order a cone-beam computed tomography (CBCT) scan.",
       "Advise regular warm salt water rinses and monitor."
@@ -1465,7 +1465,7 @@
   {
     "id": "oral-surgery-emergencies-105",
     "topicId": "oral-surgery-emergencies",
-    "question": "A patient reports persistent numbness and tingling in the lower lip and chin on the right side two days after an uncomplicated extraction of tooth #48 (mandibular third molar). There are no signs of infection. What is the most likely diagnosis?",
+    "question": "A patient reports persistent numbness and tingling in the lower lip and chin on the right side two days after an uncomplicated extraction of tooth #32 (mandibular third molar). There are no signs of infection. What is the most likely diagnosis?",
     "options": [
       "Trigeminal neuralgia.",
       "Paresthesia of the inferior alveolar nerve.",
@@ -1493,7 +1493,7 @@
   {
     "id": "oral-surgery-emergencies-107",
     "topicId": "oral-surgery-emergencies",
-    "question": "A panoramic radiograph of an asymptomatic 40-year-old male reveals a well-defined, unilocular radiolucency in the posterior mandible, associated with the crown of an impacted tooth #38. The lesion appears to be pushing the tooth inferiorly. What is the most probable diagnosis?",
+    "question": "A panoramic radiograph of an asymptomatic 40-year-old male reveals a well-defined, unilocular radiolucency in the posterior mandible, associated with the crown of an impacted tooth #17. The lesion appears to be pushing the tooth inferiorly. What is the most probable diagnosis?",
     "options": [
       "Residual cyst.",
       "Odontogenic keratocyst (OKC).",
@@ -1557,7 +1557,7 @@
       "Condylotomy."
     ],
     "correctAnswer": 0,
-    "explanation": "Current TMJ management protocols in Canada (Malamed: Medical Emergencies in the Dental Office; CDA TMJ guidelines) recommend arthrocentesis (or arthroscopy) as the initial surgical intervention for disc displacement without reduction after failed conservative care.  Arthrocentesis lavage removes inflammatory mediators and releases adhesions, improving mouth opening in the majority of patients.  Open arthroplasty, including disc repositioning, is considered only after less invasive procedures have failed (Malamed, 7th ed., p. 215; Little & Falace, Dental Management of the Medically Compromised Patient, 4th ed., p. 389).",
+    "explanation": "Current TMJ management protocols in the United States (Malamed: Medical Emergencies in the Dental Office; ADA TMJ guidelines) recommend arthrocentesis (or arthroscopy) as the initial surgical intervention for disc displacement without reduction after failed conservative care.  Arthrocentesis lavage removes inflammatory mediators and releases adhesions, improving mouth opening in the majority of patients.  Open arthroplasty, including disc repositioning, is considered only after less invasive procedures have failed (Malamed, 7th ed., p. 215; Little & Falace, Dental Management of the Medically Compromised Patient, 4th ed., p. 389).",
     "aiVerified": true
   },
   {
@@ -1633,12 +1633,12 @@
   {
     "id": "oral-surgery-emergencies-117",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 7-year-old child presents with a non-restorable primary mandibular first molar (#74) and significant caries extending into the furcation. The succedaneous permanent premolar (#34) is present. What is the most appropriate management?",
+    "question": "A 7-year-old child presents with a non-restorable primary mandibular first molar (tooth L) and significant caries extending into the furcation. The succedaneous permanent premolar (#21) is present. What is the most appropriate management?",
     "options": [
       "Pulpectomy and stainless steel crown.",
       "Space maintainer placement after extraction.",
-      "Extraction of #74 and monitor eruption of #34.",
-      "Extraction of #74 and immediate placement of a fixed space maintainer."
+      "Extraction of tooth L and monitor eruption of #21.",
+      "Extraction of tooth L and immediate placement of a fixed space maintainer."
     ],
     "correctAnswer": 3,
     "explanation": "For a non-restorable primary mandibular first molar in a 7-year-old, especially with a developing permanent premolar, extraction is indicated. To prevent mesial migration of the permanent first molar and subsequent impaction or malposition of the developing premolar, a space maintainer is crucial. Immediate placement of a fixed space maintainer is the most appropriate action. Pulpectomy is not indicated for non-restorable teeth. Simply monitoring can lead to space loss.",
@@ -1773,10 +1773,10 @@
   {
     "id": "oral-surgery-emergencies-127",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 10-year-old patient presents with a deep carious lesion in tooth #36 (mandibular first molar). Radiographs reveal a radiolucency involving the periapical area and extending to the furcation, with signs of bone resorption. Clinically, there is a draining sinus tract on the buccal aspect. What is the most appropriate definitive treatment?",
+    "question": "A 10-year-old patient presents with a deep carious lesion in tooth #19 (mandibular first molar). Radiographs reveal a radiolucency involving the periapical area and extending to the furcation, with signs of bone resorption. Clinically, there is a draining sinus tract on the buccal aspect. What is the most appropriate definitive treatment?",
     "options": [
       "Root canal treatment with surgical curettage of the furcation area.",
-      "Extraction of tooth #36.",
+      "Extraction of tooth #19.",
       "Pulpotomy and placement of stainless steel crown.",
       "Incision and drainage of the sinus tract and antibiotic therapy."
     ],
@@ -1843,7 +1843,7 @@
   {
     "id": "oral-surgery-emergencies-132",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 6-year-old child presents with a complete intrusion of tooth #51 (primary maxillary right central incisor) following a fall. Clinical examination shows no visible tooth, and radiographs reveal the intruded tooth apex is positioned slightly palatal to the developing permanent incisor. What is the most appropriate management?",
+    "question": "A 6-year-old child presents with a complete intrusion of tooth E (primary maxillary right central incisor) following a fall. Clinical examination shows no visible tooth, and radiographs reveal the intruded tooth apex is positioned slightly palatal to the developing permanent incisor. What is the most appropriate management?",
     "options": [
       "Allow for spontaneous re-eruption and monitor.",
       "Immediately extract the intruded primary incisor.",
@@ -1885,12 +1885,12 @@
   {
     "id": "oral-surgery-emergencies-135",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 30-year-old patient presents with a rapidly growing, painful swelling in the right submandibular region, associated with an acute infection of #48 (mandibular third molar). The swelling is diffuse, firm, and extends into the neck, making it difficult to palpate distinct borders. The patient has a fever of 39°C and chills. What is the most appropriate management?",
+    "question": "A 30-year-old patient presents with a rapidly growing, painful swelling in the right submandibular region, associated with an acute infection of #32 (mandibular third molar). The swelling is diffuse, firm, and extends into the neck, making it difficult to palpate distinct borders. The patient has a fever of 39°C and chills. What is the most appropriate management?",
     "options": [
-      "Incision and drainage of the abscess, extraction of #48, and IV antibiotics.",
+      "Incision and drainage of the abscess, extraction of #32, and IV antibiotics.",
       "Prescribe oral antibiotics and analgesics, and reassess in 24 hours.",
       "Refer for CT scan to determine the extent of the infection.",
-      "Perform a pulpectomy on #48 and place a temporary restoration."
+      "Perform a pulpectomy on #32 and place a temporary restoration."
     ],
     "correctAnswer": 0,
     "explanation": "The rapidly growing, diffuse, painful swelling with systemic signs (fever, chills) indicates a spreading cellulitis, likely progressing to abscess formation. Immediate incision and drainage, combined with extraction of the offending tooth and intravenous antibiotics, is critical to prevent further spread and systemic complications. Oral antibiotics alone (Option B) are insufficient for a severe, spreading infection. While a CT scan (Option C) can be helpful, it should not delay definitive treatment if a clear fluctuant area is present or if the infection is rapidly spreading. Pulpectomy (Option D) is not a treatment for such a severe infection.",
@@ -1935,7 +1935,7 @@
       "Hyperventilation; instruct patient to breathe into a paper bag."
     ],
     "correctAnswer": 0,
-    "explanation": "Anaphylaxis presents with sudden cardiovascular collapse, respiratory distress, and cutaneous signs; the combination of chest pain, shortness of breath, weak rapid pulse, and marked hypotension in the dental setting aligns with the CDA and Canadian emergency guidelines for anaphylactic shock (CDA Emergency Management of Anaphylaxis, 2022). The first step is to administer 0.3–0.5 mg of 1:1000 epinephrine intramuscularly into the anterolateral thigh, while calling EMS and securing the airway. Acute myocardial infarction would be less likely without known cardiac risk factors and would not be the immediate priority over airway and circulatory support. Vasovagal syncope typically presents with bradycardia and does not cause severe hypotension of this magnitude, and hyperventilation lacks the hemodynamic collapse seen here.",
+    "explanation": "Anaphylaxis presents with sudden cardiovascular collapse, respiratory distress, and cutaneous signs; the combination of chest pain, shortness of breath, weak rapid pulse, and marked hypotension in the dental setting aligns with the ADA and Canadian emergency guidelines for anaphylactic shock (ADA Emergency Management of Anaphylaxis, 2022). The first step is to administer 0.3–0.5 mg of 1:1000 epinephrine intramuscularly into the anterolateral thigh, while calling EMS and securing the airway. Acute myocardial infarction would be less likely without known cardiac risk factors and would not be the immediate priority over airway and circulatory support. Vasovagal syncope typically presents with bradycardia and does not cause severe hypotension of this magnitude, and hyperventilation lacks the hemodynamic collapse seen here.",
     "aiVerified": true
   },
   {
@@ -2307,7 +2307,7 @@
   {
     "id": "oral-surgery-emergencies-165",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 4-year-old child presents with a traumatic injury to the maxillary left central incisor (tooth #61). Clinical examination reveals a horizontal fracture at the cervical level with pulp exposure and Grade II mobility. Radiographic evaluation shows no root fracture and no displacement of the permanent successor. What is the most appropriate initial management for the primary tooth?",
+    "question": "A 4-year-old child presents with a traumatic injury to the maxillary left central incisor (tooth F). Clinical examination reveals a horizontal fracture at the cervical level with pulp exposure and Grade II mobility. Radiographic evaluation shows no root fracture and no displacement of the permanent successor. What is the most appropriate initial management for the primary tooth?",
     "options": [
       "Extraction of the primary tooth and immediate placement of a space maintainer.",
       "Extraction of the primary tooth and monitoring for the eruption of the permanent successor.",
@@ -2443,7 +2443,7 @@
       "Postpone the procedure until 6 months have passed since the MI, regardless of the patient's current stability."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option B. According to current Canadian dental guidelines and medical literature (e.g., Malamed's Handbook of Local Anesthesia, INBDE standards), a recent myocardial infarction (within 6 months) is a relative contraindication for the use of epinephrine, not an absolute one, provided the patient is stable. The standard recommendation is to use a low concentration of epinephrine (1:100,000) and limit the total dose to approximately 0.04 mg (equivalent to 2 carpules of 1.5 mL of 1:100,000 solution) to minimize cardiovascular strain while ensuring adequate hemostasis and pain control. Option A is incorrect because standard concentrations (1:100,000 is low, but 1:200,000 is standard; however, the key is the dose limit, and 'standard of care for all' ignores the specific cardiac risk). Option C is incorrect because plain anesthetics are not strictly required if the patient is stable; epinephrine is beneficial for hemostasis and prolonging anesthesia, and the risk is managed by dose limitation rather than complete avoidance. Option D is incorrect because postponement is not mandatory if the patient is stable and the procedure is urgent or can be managed with precautions; the 6-month rule is a guideline for risk stratification, not an absolute ban on treatment.",
+    "explanation": "The correct answer is Option B. According to current ADA clinical guidelines and medical literature (e.g., Malamed's Handbook of Local Anesthesia, INBDE standards), a recent myocardial infarction (within 6 months) is a relative contraindication for the use of epinephrine, not an absolute one, provided the patient is stable. The standard recommendation is to use a low concentration of epinephrine (1:100,000) and limit the total dose to approximately 0.04 mg (equivalent to 2 carpules of 1.5 mL of 1:100,000 solution) to minimize cardiovascular strain while ensuring adequate hemostasis and pain control. Option A is incorrect because standard concentrations (1:100,000 is low, but 1:200,000 is standard; however, the key is the dose limit, and 'standard of care for all' ignores the specific cardiac risk). Option C is incorrect because plain anesthetics are not strictly required if the patient is stable; epinephrine is beneficial for hemostasis and prolonging anesthesia, and the risk is managed by dose limitation rather than complete avoidance. Option D is incorrect because postponement is not mandatory if the patient is stable and the procedure is urgent or can be managed with precautions; the 6-month rule is a guideline for risk stratification, not an absolute ban on treatment.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2520,7 +2520,7 @@
   {
     "id": "oral-surgery-emergencies-180",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 28-year-old healthy male presents for extraction of an impacted mandibular third molar (tooth #38) which is mesioangular and in close proximity to the inferior alveolar canal on a panoramic radiograph. During surgical extraction, despite careful technique, the patient reports persistent numbness of the left lower lip and chin immediately post-operatively. What is the most appropriate initial management for this complication?",
+    "question": "A 28-year-old healthy male presents for extraction of an impacted mandibular third molar (tooth #17) which is mesioangular and in close proximity to the inferior alveolar canal on a panoramic radiograph. During surgical extraction, despite careful technique, the patient reports persistent numbness of the left lower lip and chin immediately post-operatively. What is the most appropriate initial management for this complication?",
     "options": [
       "Inform the patient that this is a common, transient side effect of local anesthesia and will resolve within hours.",
       "Schedule an immediate follow-up cone-beam computed tomography (CBCT) to assess for nerve transection.",
@@ -2528,17 +2528,17 @@
       "Immediately refer the patient to a neurosurgeon for evaluation and potential surgical repair of the nerve."
     ],
     "correctAnswer": 0,
-    "explanation": "According to Malamed’s Handbook of Local Anesthesia and the CDA’s Medical Emergencies in the Dental Office, the initial management of suspected inferior alveolar nerve paresthesia following extraction is to reassure the patient that the sensation is usually transient and to monitor for resolution over the next 24‑48 hours. Systemic corticosteroids may be considered for prolonged swelling but are not first‑line. Immediate imaging or neurosurgical referral is reserved for persistent deficits beyond 2 weeks. Therefore the appropriate initial response is reassurance and observation.",
+    "explanation": "According to Malamed’s Handbook of Local Anesthesia and the ADA’s Medical Emergencies in the Dental Office, the initial management of suspected inferior alveolar nerve paresthesia following extraction is to reassure the patient that the sensation is usually transient and to monitor for resolution over the next 24‑48 hours. Systemic corticosteroids may be considered for prolonged swelling but are not first‑line. Immediate imaging or neurosurgical referral is reserved for persistent deficits beyond 2 weeks. Therefore the appropriate initial response is reassurance and observation.",
     "aiVerified": true
   },
   {
     "id": "oral-surgery-emergencies-181",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 45-year-old diabetic male presents with a rapidly progressing, painful swelling of the submandibular region, extending to the floor of the mouth, causing difficulty swallowing and breathing. His temperature is 39.5°C. Tooth #47 has deep caries and percussion sensitivity. What is the most critical immediate intervention?",
+    "question": "A 45-year-old diabetic male presents with a rapidly progressing, painful swelling of the submandibular region, extending to the floor of the mouth, causing difficulty swallowing and breathing. His temperature is 39.5°C. tooth #31 has deep caries and percussion sensitivity. What is the most critical immediate intervention?",
     "options": [
       "Administer broad-spectrum intravenous antibiotics and secure the airway.",
       "Perform an immediate incision and drainage of the submandibular space.",
-      "Extract tooth #47 and prescribe oral antibiotics.",
+      "Extract tooth #31 and prescribe oral antibiotics.",
       "Obtain a CT scan of the head and neck to define the extent of the infection."
     ],
     "correctAnswer": 0,
@@ -2562,7 +2562,7 @@
   {
     "id": "oral-surgery-emergencies-183",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 7-year-old child presents to your office with a completely avulsed permanent maxillary central incisor (#11) sustained 20 minutes ago. The tooth was found on the ground, has been briefly rinsed with water by the parent, and is currently being stored in milk. The extra-oral dry time was approximately 5 minutes. What is the most appropriate next step in managing this avulsed tooth?",
+    "question": "A 7-year-old child presents to your office with a completely avulsed permanent maxillary right central incisor (#8) sustained 20 minutes ago. The tooth was found on the ground, has been briefly rinsed with water by the parent, and is currently being stored in milk. The extra-oral dry time was approximately 5 minutes. What is the most appropriate next step in managing this avulsed tooth?",
     "options": [
       "Replant the tooth immediately after thoroughly cleaning its root surface with chlorhexidine.",
       "Gently rinse the root surface with saline, replant it, and splint for 1-2 weeks.",
@@ -2598,14 +2598,14 @@
       "Fine‑needle aspiration (FNA)"
     ],
     "correctAnswer": 1,
-    "explanation": "According to Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) and the CDA oral‑lesion guidelines, lesions on high‑risk oral sites (lateral tongue, floor of mouth) that are clinically suspicious for dysplasia or early carcinoma require an incisional biopsy regardless of size. Excisional biopsy is reserved for clearly benign, small (<1 cm) lesions where removal also serves as definitive therapy. Brush biopsy provides only cytology and lacks architectural detail, and FNA is unsuitable for superficial mucosal lesions. Therefore, the correct approach is an incisional biopsy to obtain adequate tissue for histopathologic assessment.",
+    "explanation": "According to Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) and the ADA oral‑lesion guidelines, lesions on high‑risk oral sites (lateral tongue, floor of mouth) that are clinically suspicious for dysplasia or early carcinoma require an incisional biopsy regardless of size. Excisional biopsy is reserved for clearly benign, small (<1 cm) lesions where removal also serves as definitive therapy. Brush biopsy provides only cytology and lacks architectural detail, and FNA is unsuitable for superficial mucosal lesions. Therefore, the correct approach is an incisional biopsy to obtain adequate tissue for histopathologic assessment.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": "oral-surgery-emergencies-186",
     "topicId": "oral-surgery-emergencies",
-    "question": "During a routine surgical extraction of tooth #48, a 25-year-old healthy patient suddenly becomes pale, diaphoretic, and reports feeling lightheaded, then loses consciousness. His pulse is weak and slow. What is the immediate priority in managing this patient?",
+    "question": "During a routine surgical extraction of tooth #32, a 25-year-old healthy patient suddenly becomes pale, diaphoretic, and reports feeling lightheaded, then loses consciousness. His pulse is weak and slow. What is the immediate priority in managing this patient?",
     "options": [
       "Administer oxygen via nasal cannula and monitor vital signs.",
       "Place the patient in a supine position with feet elevated (Trendelenburg position).",
@@ -2647,7 +2647,7 @@
   {
     "id": "oral-surgery-emergencies-189",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 12-year-old patient presents with a retained deciduous maxillary right canine and an unerupted permanent maxillary right canine (#13). A panoramic radiograph and CBCT reveal that #13 is palatally impacted, with its crown positioned apical to the roots of the adjacent lateral incisor (#12) and first premolar (#14), and its long axis significantly angled. What is the most appropriate management plan?",
+    "question": "A 12-year-old patient presents with a retained deciduous maxillary right canine and an unerupted permanent maxillary right canine (#6). A panoramic radiograph and CBCT reveal that #13 is palatally impacted, with its crown positioned apical to the roots of the adjacent lateral incisor (#12) and first premolar (#14), and its long axis significantly angled. What is the most appropriate management plan?",
     "options": [
       "Extract the deciduous canine and observe for spontaneous eruption for 12 months.",
       "Extract the deciduous canine and immediately refer for surgical exposure and orthodontic traction of #13.",
@@ -2661,7 +2661,7 @@
   {
     "id": "oral-surgery-emergencies-190",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 35-year-old patient returns to your office 3 days after an uncomplicated extraction of tooth #46. He complains of severe, throbbing pain in the extraction site that radiates to his ear, which is not relieved by over-the-counter pain medication. Clinical examination reveals a partially dissolved blood clot and exposed bone in the socket, with a foul odor. What is the most likely diagnosis?",
+    "question": "A 35-year-old patient returns to your office 3 days after an uncomplicated extraction of tooth #30. He complains of severe, throbbing pain in the extraction site that radiates to his ear, which is not relieved by over-the-counter pain medication. Clinical examination reveals a partially dissolved blood clot and exposed bone in the socket, with a foul odor. What is the most likely diagnosis?",
     "options": [
       "Post-operative infection.",
       "Alveolar osteitis (dry socket).",
@@ -2734,7 +2734,7 @@
   {
     "id": "oral-surgery-emergencies-195",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 42-year-old patient with a history of a prosthetic heart valve requires a surgical extraction of a carious tooth #37. She has a documented allergy to Penicillin. According to current American Dental Association (CDA) and American Heart Association (AHA) guidelines for infective endocarditis prophylaxis, which antibiotic regimen is most appropriate for this patient?",
+    "question": "A 42-year-old patient with a history of a prosthetic heart valve requires a surgical extraction of a carious tooth #18. She has a documented allergy to Penicillin. According to current American Dental Association (ADA) and American Heart Association (AHA) guidelines for infective endocarditis prophylaxis, which antibiotic regimen is most appropriate for this patient?",
     "options": [
       "Clindamycin 600 mg orally, 1 hour before the procedure.",
       "Amoxicillin 2 grams orally, 1 hour before the procedure.",
@@ -2791,7 +2791,7 @@
   {
     "id": "oral-surgery-emergencies-199",
     "topicId": "oral-surgery-emergencies",
-    "question": "A patient underwent a surgical extraction of an impacted mandibular third molar (#38). On the second post-operative day, she presents with moderate facial swelling, mild pain, and trismus, but no fever or purulent discharge. What is the most appropriate advice for managing her current symptoms?",
+    "question": "A patient underwent a surgical extraction of an impacted mandibular third molar (#17). On the second post-operative day, she presents with moderate facial swelling, mild pain, and trismus, but no fever or purulent discharge. What is the most appropriate advice for managing her current symptoms?",
     "options": [
       "Prescribe a course of prophylactic antibiotics to prevent infection.",
       "Apply warm compresses to the affected area to promote drainage.",
@@ -2805,12 +2805,12 @@
   {
     "id": "oral-surgery-emergencies-200",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 28-year-old male presents with recurrent pericoronitis associated with a partially erupted mandibular third molar (tooth #38). Radiographic examination reveals the tooth is mesioangularly impacted, with the root apex in close proximity to the mandibular canal. The patient reports a history of paresthesia in the lower lip following a previous inferior alveolar nerve block on the same side, which resolved after 3 months. What is the most appropriate initial management approach for this patient?",
+    "question": "A 28-year-old male presents with recurrent pericoronitis associated with a partially erupted mandibular third molar (tooth #17). Radiographic examination reveals the tooth is mesioangularly impacted, with the root apex in close proximity to the mandibular canal. The patient reports a history of paresthesia in the lower lip following a previous inferior alveolar nerve block on the same side, which resolved after 3 months. What is the most appropriate initial management approach for this patient?",
     "options": [
-      "Immediate surgical extraction of tooth #38 with coronectomy.",
-      "Referral for orthodontic uprighting of tooth #38.",
+      "Immediate surgical extraction of tooth #17 with coronectomy.",
+      "Referral for orthodontic uprighting of tooth #17.",
       "Conservative management with irrigation and antibiotics, deferring extraction.",
-      "Surgical extraction of tooth #38 with prophylactic dexamethasone."
+      "Surgical extraction of tooth #17 with prophylactic dexamethasone."
     ],
     "correctAnswer": 0,
     "explanation": "The AAOMS and Canadian Oral Surgery Association guidelines advise coronectomy when the root of a mandibular third molar is adjacent to or overlapping the inferior alveolar canal and the risk of permanent IAN injury is deemed significant. In this case, the radiograph shows close proximity of the apex to the canal, and the patient has a prior transient paresthesia from an IAN block, indicating heightened nerve sensitivity. Coronectomy removes the crown, resolves pericoronitis, and leaves the root in situ to avoid nerve trauma, with a low rate of postoperative complications. Orthodontic uprighting is not indicated for an impacted third molar, and conservative management does not address the underlying pathology. Therefore, immediate surgical extraction with coronectomy is the evidence‑based initial management.",
@@ -2849,7 +2849,7 @@
   {
     "id": "oral-surgery-emergencies-203",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 35-year-old patient presents with a slowly enlarging, asymptomatic swelling in the anterior maxilla, causing divergence of teeth #11 and #21. Radiographic examination reveals a well-defined, unilocular radiolucency with a sclerotic border, located between the roots of the central incisors. The teeth test vital. What is the most likely diagnosis?",
+    "question": "A 35-year-old patient presents with a slowly enlarging, asymptomatic swelling in the anterior maxilla, causing divergence of teeth #8 and #9. Radiographic examination reveals a well-defined, unilocular radiolucency with a sclerotic border, located between the roots of the central incisors. The teeth test vital. What is the most likely diagnosis?",
     "options": [
       "Radicular cyst.",
       "Lateral periodontal cyst.",
@@ -2871,7 +2871,7 @@
       "Refer for biopsy to rule out malignancy."
     ],
     "correctAnswer": 1,
-    "explanation": "A torus palatinus is a benign bony exostosis. According to the INBDE Clinical Knowledge Blueprint and standard prosthodontic texts (e.g., Little & Falace, Proffit), removal is indicated when the torus interferes with the extension, retention, or stability of a complete denture. Surgical excision eliminates the obstruction, allowing optimal denture extension and a proper posterior palatal seal, which are essential for retention in an edentulous maxilla. \n\nWhy the other options are incorrect:\n1. **Fabricate a denture with a relief area over the torus** – While a relief can be placed, a large, broad‑based torus will prevent adequate tissue contact and compromise the posterior seal, resulting in poor retention and stability. This is considered a sub‑optimal compromise when removal is feasible.\n2. **Leave the torus undisturbed** – The torus is already causing denture instability; leaving it in place would not resolve the prosthetic problem and would likely lead to patient dissatisfaction and recurrent ulceration.\n3. **Refer for biopsy** – Palatal tori have a characteristic appearance and are not malignant. Biopsy is reserved for lesions with atypical features (e.g., ulceration, rapid growth, irregular surface). In the absence of such signs, biopsy is unnecessary.\n\nTherefore, the gold‑standard management, consistent with Canadian dental standards, is surgical removal of the torus before proceeding with denture fabrication.",
+    "explanation": "A torus palatinus is a benign bony exostosis. According to the INBDE Clinical Knowledge Blueprint and standard prosthodontic texts (e.g., Little & Falace, Proffit), removal is indicated when the torus interferes with the extension, retention, or stability of a complete denture. Surgical excision eliminates the obstruction, allowing optimal denture extension and a proper posterior palatal seal, which are essential for retention in an edentulous maxilla. \n\nWhy the other options are incorrect:\n1. **Fabricate a denture with a relief area over the torus** – While a relief can be placed, a large, broad‑based torus will prevent adequate tissue contact and compromise the posterior seal, resulting in poor retention and stability. This is considered a sub‑optimal compromise when removal is feasible.\n2. **Leave the torus undisturbed** – The torus is already causing denture instability; leaving it in place would not resolve the prosthetic problem and would likely lead to patient dissatisfaction and recurrent ulceration.\n3. **Refer for biopsy** – Palatal tori have a characteristic appearance and are not malignant. Biopsy is reserved for lesions with atypical features (e.g., ulceration, rapid growth, irregular surface). In the absence of such signs, biopsy is unnecessary.\n\nTherefore, the gold‑standard management, consistent with ADA clinical standards of care, is surgical removal of the torus before proceeding with denture fabrication.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -2914,7 +2914,7 @@
       "Leave the socket to heal by secondary intention and advise sinus precautions only."
     ],
     "correctAnswer": 1,
-    "explanation": "In a healthy patient with a small (<2‑3 mm) oro‑antral communication, the preferred immediate treatment is a simple closure of the defect. A figure‑of‑eight (or similar) suture placed over a blood clot provides an effective seal, and adjunctive therapy with a short course of antibiotics (e.g., amoxicillin‑clavulanate) and a nasal decongestant reduces the risk of sinus infection. The patient should also be instructed on sinus precautions (avoid nose blowing, sneeze with mouth open, no straws, etc.).\n\nWhy the other options are incorrect:\n1. **Iodoform gauze packing** – This is an outdated technique that can act as a foreign body, impede healing, and increase the risk of chronic sinus communication. Modern practice favors primary closure rather than packing.\n2. **Buccal advancement flap** – This more extensive surgical closure is reserved for larger defects (>5 mm) or those that fail to close with simple suturing. Using it for a 2‑mm opening would be unnecessarily invasive.\n3. **Allowing secondary intention** – Leaving a sinus communication to heal on its own carries a high risk of persistent fistula formation and sinusitis. Small defects should be closed primarily to promote rapid, uneventful healing.\n\nThus, the gold‑standard management per Canadian dental and oral‑surgery guidelines (INBDE, Canadian Association of Oral and Maxillofacial Surgeons) is option 1.",
+    "explanation": "In a healthy patient with a small (<2‑3 mm) oro‑antral communication, the preferred immediate treatment is a simple closure of the defect. A figure‑of‑eight (or similar) suture placed over a blood clot provides an effective seal, and adjunctive therapy with a short course of antibiotics (e.g., amoxicillin‑clavulanate) and a nasal decongestant reduces the risk of sinus infection. The patient should also be instructed on sinus precautions (avoid nose blowing, sneeze with mouth open, no straws, etc.).\n\nWhy the other options are incorrect:\n1. **Iodoform gauze packing** – This is an outdated technique that can act as a foreign body, impede healing, and increase the risk of chronic sinus communication. Modern practice favors primary closure rather than packing.\n2. **Buccal advancement flap** – This more extensive surgical closure is reserved for larger defects (>5 mm) or those that fail to close with simple suturing. Using it for a 2‑mm opening would be unnecessarily invasive.\n3. **Allowing secondary intention** – Leaving a sinus communication to heal on its own carries a high risk of persistent fistula formation and sinusitis. Small defects should be closed primarily to promote rapid, uneventful healing.\n\nThus, the gold‑standard management per dental and oral‑surgery guidelines (INBDE, Canadian Association of Oral and Maxillofacial Surgeons) is option 1.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -2985,7 +2985,7 @@
       "Alloplast (hydroxyapatite)."
     ],
     "correctAnswer": 2,
-    "explanation": "While autogenous bone is the gold‑standard for its osteogenic and osteoinductive potential, it remodels rapidly and can lose volume in the anterior maxilla, making it less suitable when long‑term stability is paramount. DFDBA is primarily osteoinductive and its resorption rate is unpredictable, and hydroxyapatite is a purely scaffold material with limited integration. Bovine porous bone mineral (BPBM) is an osteoconductive xenograft that resorbs very slowly, preserving ridge dimensions over time. Canadian implant guidelines (CDA, 2022) and Sturdevant’s Art and Science of Operative Dentistry endorse xenografts for ridge preservation in aesthetically critical zones.",
+    "explanation": "While autogenous bone is the gold‑standard for its osteogenic and osteoinductive potential, it remodels rapidly and can lose volume in the anterior maxilla, making it less suitable when long‑term stability is paramount. DFDBA is primarily osteoinductive and its resorption rate is unpredictable, and hydroxyapatite is a purely scaffold material with limited integration. Bovine porous bone mineral (BPBM) is an osteoconductive xenograft that resorbs very slowly, preserving ridge dimensions over time. Canadian implant guidelines (ADA, 2022) and Sturdevant’s Art and Science of Operative Dentistry endorse xenografts for ridge preservation in aesthetically critical zones.",
     "aiVerified": true
   },
   {
@@ -3055,7 +3055,7 @@
       "Penetration of the posterior superior alveolar nerve by the needle."
     ],
     "correctAnswer": 1,
-    "explanation": "The pterygoid plexus lies in the infratemporal fossa adjacent to the posterior superior alveolar (PSA) injection site. Accidental needle placement into this plexus elicits a sudden neural‑vascular response that is perceived as sharp pain radiating to the orbit via the maxillary division of the trigeminal nerve. Intravascular injection would produce systemic signs (e.g., tachycardia), not localized orbital referral. Direct penetration of the PSA nerve causes localized tooth‑area discomfort, not orbital radiation. Injection into the broader infratemporal fossa without plexus involvement is less likely to produce this specific symptom. This mechanism is described in Malamed, Handbook of Local Anesthesia (7th ed) and reinforced by CDA anesthesia complication guidelines.",
+    "explanation": "The pterygoid plexus lies in the infratemporal fossa adjacent to the posterior superior alveolar (PSA) injection site. Accidental needle placement into this plexus elicits a sudden neural‑vascular response that is perceived as sharp pain radiating to the orbit via the maxillary division of the trigeminal nerve. Intravascular injection would produce systemic signs (e.g., tachycardia), not localized orbital referral. Direct penetration of the PSA nerve causes localized tooth‑area discomfort, not orbital radiation. Injection into the broader infratemporal fossa without plexus involvement is less likely to produce this specific symptom. This mechanism is described in Malamed, Handbook of Local Anesthesia (7th ed) and reinforced by ADA anesthesia complication guidelines.",
     "aiVerified": true
   },
   {
@@ -3173,7 +3173,7 @@
   {
     "id": "oral-surgery-emergencies-226",
     "topicId": "oral-surgery-emergencies",
-    "question": "A patient with well-controlled hypertension (taking an ACE inhibitor) requires extraction of tooth #36. What is the maximum number of cartridges of 2% Lidocaine with 1:100,000 epinephrine that can be safely administered for routine local anesthesia in this patient?",
+    "question": "A patient with well-controlled hypertension (taking an ACE inhibitor) requires extraction of tooth #19. What is the maximum number of cartridges of 2% Lidocaine with 1:100,000 epinephrine that can be safely administered for routine local anesthesia in this patient?",
     "options": [
       "2 cartridges",
       "4 cartridges",
@@ -3370,7 +3370,7 @@
   {
     "id": "oral-surgery-emergencies-240",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 22-year-old healthy female presents for evaluation of a mesioangularly impacted mandibular third molar (tooth #48) that is asymptomatic. A panoramic radiograph shows the inferior alveolar nerve canal superimposed over the root apices. What is the most appropriate next diagnostic step prior to considering extraction?",
+    "question": "A 22-year-old healthy female presents for evaluation of a mesioangularly impacted mandibular third molar (tooth #32) that is asymptomatic. A panoramic radiograph shows the inferior alveolar nerve canal superimposed over the root apices. What is the most appropriate next diagnostic step prior to considering extraction?",
     "options": [
       "Proceed directly to extraction, explaining the risk of paresthesia.",
       "Order a periapical radiograph to assess the root morphology.",
@@ -3398,7 +3398,7 @@
   {
     "id": "oral-surgery-emergencies-242",
     "topicId": "oral-surgery-emergencies",
-    "question": "During a routine extraction of tooth #36, the root tip fragments and is displaced into the submandibular space. The patient is otherwise healthy. What is the most appropriate immediate course of action?",
+    "question": "During a routine extraction of tooth #19, the root tip fragments and is displaced into the submandibular space. The patient is otherwise healthy. What is the most appropriate immediate course of action?",
     "options": [
       "Attempt to retrieve the root tip with a hemostat or suction.",
       "Inform the patient, obtain a radiograph to confirm location, and refer to an oral and maxillofacial surgeon.",
@@ -3434,7 +3434,7 @@
       "Prescribe Vitamin K prior to the procedure."
     ],
     "correctAnswer": 1,
-    "explanation": "ADA guidelines (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; CDA Clinical Practice Guidelines) state that direct oral anticoagulants need not be discontinued for simple extractions because the bleeding risk is low and the thromboembolic risk of interruption is greater. The recommended approach is to schedule the extraction at the end of the dosing interval (approximately 12 h after the last dose) and employ local measures (e.g., pressure packs, sutures, tranexamic acid). Vitamin K is ineffective for dabigatran, and routine physician consultation is not required for low‑risk extractions. Therefore option 1 is the correct management.",
+    "explanation": "ADA guidelines (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; ADA Clinical Practice Guidelines) state that direct oral anticoagulants need not be discontinued for simple extractions because the bleeding risk is low and the thromboembolic risk of interruption is greater. The recommended approach is to schedule the extraction at the end of the dosing interval (approximately 12 h after the last dose) and employ local measures (e.g., pressure packs, sutures, tranexamic acid). Vitamin K is ineffective for dabigatran, and routine physician consultation is not required for low‑risk extractions. Therefore option 1 is the correct management.",
     "aiVerified": true
   },
   {
@@ -3454,7 +3454,7 @@
   {
     "id": "oral-surgery-emergencies-246",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 10-year-old child presents after a fall, with an avulsed permanent maxillary central incisor (#11). The tooth was found immediately, stored in milk, and the extra-oral dry time was less than 30 minutes. What is the most appropriate emergency management after assessing the patient's general health?",
+    "question": "A 10-year-old child presents after a fall, with an avulsed permanent maxillary right central incisor (#8). The tooth was found immediately, stored in milk, and the extra-oral dry time was less than 30 minutes. What is the most appropriate emergency management after assessing the patient's general health?",
     "options": [
       "Clean the tooth with chlorhexidine, perform endodontic treatment, and then replant.",
       "Replant the tooth immediately, stabilize with a flexible splint, and refer for follow-up endodontic treatment.",
@@ -4184,7 +4184,7 @@
   {
     "id": "oral-surgery-emergencies-298",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 35-year-old female presents with a chief complaint of severe pain, swelling, and trismus for the past 3 days in the left mandibular angle region. Clinical examination reveals a tender, firm, indurated swelling extending from the angle of the mandible to the anterior border of the masseter muscle. Her temperature is 38.5°C. Radiographs show a partially erupted, mesioangular impacted tooth #38 with evidence of pericoronitis. Which fascial space is most likely involved?",
+    "question": "A 35-year-old female presents with a chief complaint of severe pain, swelling, and trismus for the past 3 days in the left mandibular angle region. Clinical examination reveals a tender, firm, indurated swelling extending from the angle of the mandible to the anterior border of the masseter muscle. Her temperature is 38.5°C. Radiographs show a partially erupted, mesioangular impacted tooth #17 with evidence of pericoronitis. Which fascial space is most likely involved?",
     "options": [
       "Submandibular space",
       "Masseteric space",
@@ -4212,7 +4212,7 @@
   {
     "id": "oral-surgery-emergencies-300",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 55-year-old female with a history of type 2 diabetes (well-controlled with metformin) and hypertension (controlled with hydrochlorothiazide) requires extraction of tooth #46 due to irreversible pulpitis. She reports no other medical conditions or allergies. Which of the following pre-operative considerations is most important for this patient?",
+    "question": "A 55-year-old female with a history of type 2 diabetes (well-controlled with metformin) and hypertension (controlled with hydrochlorothiazide) requires extraction of tooth #30 due to irreversible pulpitis. She reports no other medical conditions or allergies. Which of the following pre-operative considerations is most important for this patient?",
     "options": [
       "Pre-operative antibiotic prophylaxis to prevent infective endocarditis.",
       "Checking the patient's HbA1c levels if not recently performed.",
@@ -4240,7 +4240,7 @@
   {
     "id": "oral-surgery-emergencies-302",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 22-year-old patient undergoes surgical extraction of a horizontally impacted mandibular third molar (#38). During the procedure, the buccal plate is removed, and significant bone reduction is required. Post-operatively, the patient reports numbness of the left lower lip and chin. This finding is most likely due to injury to which nerve?",
+    "question": "A 22-year-old patient undergoes surgical extraction of a horizontally impacted mandibular third molar (#17). During the procedure, the buccal plate is removed, and significant bone reduction is required. Post-operatively, the patient reports numbness of the left lower lip and chin. This finding is most likely due to injury to which nerve?",
     "options": [
       "Buccal nerve",
       "Lingual nerve",
@@ -4296,7 +4296,7 @@
   {
     "id": "oral-surgery-emergencies-306",
     "topicId": "oral-surgery-emergencies",
-    "question": "Following a difficult extraction of tooth #47, a 58-year-old patient complains of severe, throbbing pain in the socket that started on the third post-operative day and is radiating to the ear. Clinical examination reveals a foul odor and a 'dry' looking socket with exposed bone. What is the most likely diagnosis?",
+    "question": "Following a difficult extraction of tooth #31, a 58-year-old patient complains of severe, throbbing pain in the socket that started on the third post-operative day and is radiating to the ear. Clinical examination reveals a foul odor and a 'dry' looking socket with exposed bone. What is the most likely diagnosis?",
     "options": [
       "Post-operative infection",
       "Osteomyelitis",
@@ -4380,7 +4380,7 @@
   {
     "id": "oral-surgery-emergencies-312",
     "topicId": "oral-surgery-emergencies",
-    "question": "A patient undergoing routine extraction of tooth #36 suddenly becomes pale, diaphoretic, and reports feeling dizzy and nauseous, then briefly loses consciousness. Their pulse is weak and slow. What is the most likely medical emergency occurring?",
+    "question": "A patient undergoing routine extraction of tooth #19 suddenly becomes pale, diaphoretic, and reports feeling dizzy and nauseous, then briefly loses consciousness. Their pulse is weak and slow. What is the most likely medical emergency occurring?",
     "options": [
       "Anaphylactic reaction",
       "Hyperventilation",
@@ -4436,7 +4436,7 @@
   {
     "id": "oral-surgery-emergencies-316",
     "topicId": "oral-surgery-emergencies",
-    "question": "A healthy 12-year-old patient presents with an unerupted maxillary left canine (#23) and the permanent right canine (#13) erupted normally. Clinical examination reveals a palpable bulge in the buccal vestibule corresponding to the unerupted #23, and radiographic assessment confirms its presence with sufficient space in the arch. The primary canine is still present and mobile. What is the most appropriate management plan for the unerupted maxillary left canine?",
+    "question": "A healthy 12-year-old patient presents with an unerupted maxillary left canine (#11) and the permanent right canine (#13) erupted normally. Clinical examination reveals a palpable bulge in the buccal vestibule corresponding to the unerupted #23, and radiographic assessment confirms its presence with sufficient space in the arch. The primary canine is still present and mobile. What is the most appropriate management plan for the unerupted maxillary left canine?",
     "options": [
       "Observe the situation for another 6-12 months, as it may erupt spontaneously.",
       "Extract the primary canine only, expecting spontaneous eruption of the permanent canine.",
@@ -5264,7 +5264,7 @@
   {
     "id": "oral-surgery-emergencies-375",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 68-year-old male on warfarin (Coumadin) therapy for atrial fibrillation requires the extraction of tooth #36. His last INR, taken 2 days ago, was 2.5. He has no other significant medical conditions. What is the MOST appropriate management strategy for this patient's extraction?",
+    "question": "A 68-year-old male on warfarin (Coumadin) therapy for atrial fibrillation requires the extraction of tooth #19. His last INR, taken 2 days ago, was 2.5. He has no other significant medical conditions. What is the MOST appropriate management strategy for this patient's extraction?",
     "options": [
       "Discontinue warfarin 3 days prior to extraction",
       "Continue warfarin and perform extraction with local hemostatic measures",
@@ -5390,7 +5390,7 @@
   {
     "id": "oral-surgery-emergencies-384",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 9-year-old child presents to the clinic 30 minutes after avulsing a permanent maxillary central incisor (#11) during a playground accident. The tooth was stored in milk. The root surface appears clean with no significant damage. What is the MOST appropriate immediate management of this avulsed tooth?",
+    "question": "A 9-year-old child presents to the clinic 30 minutes after avulsing a permanent maxillary right central incisor (#8) during a playground accident. The tooth was stored in milk. The root surface appears clean with no significant damage. What is the MOST appropriate immediate management of this avulsed tooth?",
     "options": [
       "Clean the root surface with chlorhexidine and store in saline",
       "Reimplant the tooth immediately after rinsing with saline, then stabilize",
@@ -5804,7 +5804,7 @@
       "Refer the patient for immediate endoscopic sinus surgery."
     ],
     "correctAnswer": 2,
-    "explanation": "An oroantral communication (OAC) that is ≥3 mm in diameter rarely closes spontaneously and carries a high risk of evolving into an oroantral fistula if left untreated. Current Canadian dental guidelines (INBDE, American Dental Association) recommend prompt surgical closure of OACs larger than 3 mm in the absence of infection. The buccal advancement (Rehrmann) flap provides a well‑vascularised, tension‑free closure and is the technique of choice for defects up to about 5 mm. \n\nWhy the other options are incorrect:\n\n0. Antibiotics alone do not close the defect, and advising the patient to blow the nose is contraindicated because increased sinus pressure can enlarge the communication and impede healing.\n1. Gelfoam packing may be useful for very small (<2‑3 mm) defects that are expected to heal spontaneously. A 4‑mm defect is beyond the size that reliably closes with packing alone, and reliance on this method has a high failure rate.\n3. Endoscopic sinus surgery is reserved for cases with chronic sinus disease, large defects that cannot be closed intra‑orally, or when a previously placed flap fails. It is not indicated as the first‑line treatment for an uncomplicated 4‑mm OAC.\n\nTherefore, the gold‑standard immediate management is primary surgical closure with a buccal advancement flap (option 2).",
+    "explanation": "An oroantral communication (OAC) that is ≥3 mm in diameter rarely closes spontaneously and carries a high risk of evolving into an oroantral fistula if left untreated. Current ADA clinical guidelines (INBDE, American Dental Association) recommend prompt surgical closure of OACs larger than 3 mm in the absence of infection. The buccal advancement (Rehrmann) flap provides a well‑vascularised, tension‑free closure and is the technique of choice for defects up to about 5 mm. \n\nWhy the other options are incorrect:\n\n0. Antibiotics alone do not close the defect, and advising the patient to blow the nose is contraindicated because increased sinus pressure can enlarge the communication and impede healing.\n1. Gelfoam packing may be useful for very small (<2‑3 mm) defects that are expected to heal spontaneously. A 4‑mm defect is beyond the size that reliably closes with packing alone, and reliance on this method has a high failure rate.\n3. Endoscopic sinus surgery is reserved for cases with chronic sinus disease, large defects that cannot be closed intra‑orally, or when a previously placed flap fails. It is not indicated as the first‑line treatment for an uncomplicated 4‑mm OAC.\n\nTherefore, the gold‑standard immediate management is primary surgical closure with a buccal advancement flap (option 2).",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -6089,7 +6089,7 @@
       "Refer immediately to an oral surgeon for surgical re-implantation."
     ],
     "correctAnswer": 1,
-    "explanation": "International Association of Dental Traumatology (IADT) and American Dental Association trauma guidelines state that when a permanent tooth has been extra‑orally dry for more than 60 minutes, the periodontal ligament cells are considered non‑viable. Re‑implantation under these conditions is not recommended because ankylosis and progressive root resorption are almost inevitable. The appropriate management is to discard the tooth and plan for later prosthetic replacement (e.g., bridge or implant) after alveolar healing. Options involving milk storage or surgical re‑implantation are only indicated when the extra‑oral dry time is <60 minutes. (IADT Guidelines 2020; CDA Trauma Protocol, 2022).",
+    "explanation": "International Association of Dental Traumatology (IADT) and American Dental Association trauma guidelines state that when a permanent tooth has been extra‑orally dry for more than 60 minutes, the periodontal ligament cells are considered non‑viable. Re‑implantation under these conditions is not recommended because ankylosis and progressive root resorption are almost inevitable. The appropriate management is to discard the tooth and plan for later prosthetic replacement (e.g., bridge or implant) after alveolar healing. Options involving milk storage or surgical re‑implantation are only indicated when the extra‑oral dry time is <60 minutes. (IADT Guidelines 2020; ADA Trauma Protocol, 2022).",
     "aiVerified": true
   },
   {
@@ -6625,7 +6625,7 @@
       "Pack the area with an absorbable gelatin sponge and allow secondary healing."
     ],
     "correctAnswer": 1,
-    "explanation": "Carranza’s Clinical Periodontology and the Canadian Oral Surgery curriculum advise that a maxillary tuberosity fracture that remains attached to the periosteum should be managed conservatively. The fragment is repositioned and secured with figure‑of‑eight sutures, periosteal sutures, or an arch‑bar to maintain bone integrity and allow healing. Extraction of the segment and tooth is a last‑resort measure that sacrifices valuable bone and increases the risk of an oro‑antral fistula. Referral is reserved for cases where the fragment cannot be stabilized chair‑side. (Carranza, 12th ed., p. 421; RCDSO Surgical Guidelines, 2021).",
+    "explanation": "Carranza’s Clinical Periodontology and the Canadian Oral Surgery curriculum advise that a maxillary tuberosity fracture that remains attached to the periosteum should be managed conservatively. The fragment is repositioned and secured with figure‑of‑eight sutures, periosteal sutures, or an arch‑bar to maintain bone integrity and allow healing. Extraction of the segment and tooth is a last‑resort measure that sacrifices valuable bone and increases the risk of an oro‑antral fistula. Referral is reserved for cases where the fragment cannot be stabilized chair‑side. (Carranza, 12th ed., p. 421; state dental board Surgical Guidelines, 2021).",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -6669,7 +6669,7 @@
       "Presence of a ventriculoperitoneal shunt."
     ],
     "correctAnswer": 1,
-    "explanation": "Unrepaired cyanotic congenital heart disease is a high-risk cardiac condition that warrants antibiotic prophylaxis prior to procedures involving manipulation of gingival tissue or the periapical region, according to current guidelines (e.g., AHA/CDA). Rheumatic fever without valvular damage (A) and mitral valve prolapse with regurgitation (C) are generally no longer considered indications for prophylaxis. A ventriculoperitoneal shunt (D) is not a cardiac condition and typically does not require prophylaxis for routine dental procedures.",
+    "explanation": "Unrepaired cyanotic congenital heart disease is a high-risk cardiac condition that warrants antibiotic prophylaxis prior to procedures involving manipulation of gingival tissue or the periapical region, according to current guidelines (e.g., AHA/ADA). Rheumatic fever without valvular damage (A) and mitral valve prolapse with regurgitation (C) are generally no longer considered indications for prophylaxis. A ventriculoperitoneal shunt (D) is not a cardiac condition and typically does not require prophylaxis for routine dental procedures.",
     "aiVerified": true
   },
   {
@@ -7482,7 +7482,7 @@
   {
     "id": "oral-surgery-emergencies-532",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to Canadian dental guidelines, which of the following drugs is considered the single most important medication to have in an emergency drug kit for managing life-threatening allergic reactions?",
+    "question": "According to ADA clinical guidelines, which of the following drugs is considered the single most important medication to have in an emergency drug kit for managing life-threatening allergic reactions?",
     "options": [
       "Diphenhydramine",
       "Salbutamol",
@@ -7532,7 +7532,7 @@
       "Have the patient breathe into cupped hands or a rebreathing mask"
     ],
     "correctAnswer": 1,
-    "explanation": "The patient’s perioral tingling, paresthesia of the fingers, and rapid deep breathing are classic signs of hyperventilation syndrome. Canadian emergency guidelines and Malamed’s Handbook advise that the immediate management is controlled re‑breathing with a paper bag (or equivalent device) to increase inhaled CO₂ and reverse respiratory alkalosis. Oxygen administration can worsen hypocapnia, and sedatives are not first‑line. While cupped‑hand re‑breathing is occasionally described, it is not endorsed in Canadian dental emergency protocols due to inconsistent CO₂ delivery. Hence, option 1 is the evidence‑based initial intervention.",
+    "explanation": "The patient’s perioral tingling, paresthesia of the fingers, and rapid deep breathing are classic signs of hyperventilation syndrome. Canadian emergency guidelines and Malamed’s Handbook advise that the immediate management is controlled re‑breathing with a paper bag (or equivalent device) to increase inhaled CO₂ and reverse respiratory alkalosis. Oxygen administration can worsen hypocapnia, and sedatives are not first‑line. While cupped‑hand re‑breathing is occasionally described, it is not endorsed in Emergency management protocols due to inconsistent CO₂ delivery. Hence, option 1 is the evidence‑based initial intervention.",
     "aiVerified": true
   },
   {
@@ -7700,7 +7700,7 @@
       "Discharge him immediately if vital signs are stable."
     ],
     "correctAnswer": 0,
-    "explanation": "The scenario describes a classic vasovagal (neurocardiogenic) syncope. Initial management—supine with legs elevated—has restored cerebral perfusion and consciousness. Current INBDE and Malamed recommendations state that, once the patient is alert, they should be allowed to sit up slowly and observed for recurrence of symptoms; this gradual transition maintains venous return and prevents a second syncopal event. Aromatic ammonia (smelling salts) is not recommended for vasovagal syncope in Canadian dental practice and may cause unnecessary irritation. Therefore, option 0 correctly outlines the next step in post‑syncope care.",
+    "explanation": "The scenario describes a classic vasovagal (neurocardiogenic) syncope. Initial management—supine with legs elevated—has restored cerebral perfusion and consciousness. Current INBDE and Malamed recommendations state that, once the patient is alert, they should be allowed to sit up slowly and observed for recurrence of symptoms; this gradual transition maintains venous return and prevents a second syncopal event. Aromatic ammonia (smelling salts) is not recommended for vasovagal syncope In dental practice and may cause unnecessary irritation. Therefore, option 0 correctly outlines the next step in post‑syncope care.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -7827,7 +7827,7 @@
       "Arrange for immediate transport to an emergency department for radiographic evaluation."
     ],
     "correctAnswer": 0,
-    "explanation": "Malamed’s *Medical Emergencies in the Dental Office* and the CDA emergency‑management protocol state that when a small object is lodged in the oropharynx and the patient can cough, speak, and breathe normally, there is no airway obstruction. Management consists of observation, encouraging the patient to cough, and reassurance; radiographic evaluation or emergency transport is only indicated if signs of aspiration, persistent choking, or respiratory compromise develop. Hence the correct answer is option 0.",
+    "explanation": "Malamed’s *Medical Emergencies in the Dental Office* and the ADA emergency‑management protocol state that when a small object is lodged in the oropharynx and the patient can cough, speak, and breathe normally, there is no airway obstruction. Management consists of observation, encouraging the patient to cough, and reassurance; radiographic evaluation or emergency transport is only indicated if signs of aspiration, persistent choking, or respiratory compromise develop. Hence the correct answer is option 0.",
     "aiVerified": true
   },
   {
@@ -7897,7 +7897,7 @@
       "Increase her hydrocortisone dose by 50% for 3 days post-operatively."
     ],
     "correctAnswer": 0,
-    "explanation": "Current Canadian endocrine and dental‑medical emergency guidelines (Little & Falace, Dental Management of the Medically Compromised Patient; CDA Clinical Guidelines) recommend that for procedures causing moderate physiological stress—such as a complex extraction—patients on chronic hydrocortisone should receive a single oral “stress dose” equal to twice their usual daily dose on the day of the procedure. This pre‑emptive increase maintains adequate cortisol levels during the peri‑operative stress response. Consulting the endocrinologist is advisable for individualized plans, but the immediate prophylactic measure is the oral dose escalation, not routine IV administration or postoperative dosing.",
+    "explanation": "Current Canadian endocrine and dental‑medical emergency guidelines (Little & Falace, Dental Management of the Medically Compromised Patient; ADA Clinical Guidelines) recommend that for procedures causing moderate physiological stress—such as a complex extraction—patients on chronic hydrocortisone should receive a single oral “stress dose” equal to twice their usual daily dose on the day of the procedure. This pre‑emptive increase maintains adequate cortisol levels during the peri‑operative stress response. Consulting the endocrinologist is advisable for individualized plans, but the immediate prophylactic measure is the oral dose escalation, not routine IV administration or postoperative dosing.",
     "aiVerified": true
   },
   {
@@ -8065,7 +8065,7 @@
       "Cover the eye with a sterile dressing and refer immediately to an ophthalmologist or emergency department."
     ],
     "correctAnswer": 1,
-    "explanation": "The immediate management of a corneal foreign body is to irrigate the eye with a sterile isotonic solution. The American Dental Association (CDA) Clinical Practice Guideline for Ocular Injuries and the US Public Health Service (USPHS) and CDC’s Eye‑Irrigation Safety Standard both state that copious saline flushes are the first‑line treatment to dislodge particulate matter, reduce epithelial trauma, and prevent infection. The American Academy of Ophthalmology (AAO) 2018 Preferred Practice Pattern similarly recommends saline irrigation before any attempt at mechanical removal. Malamed’s Handbook of Local Anesthesia emphasizes that any ocular irritation during dental work warrants prompt irrigation to avoid corneal abrasion. Neville’s Oral and Maxillofacial Pathology notes that a dark speck on the cornea is most often a superficial particulate that can be washed away; delayed removal increases the risk of epithelial defect and secondary ulceration. Cohen’s Handbook of Dental Materials advises against using cotton‑tip applicators on the ocular surface because fibers can embed in the cornea. Proffit’s Orthodontic literature reinforces that patient‑initiated rubbing can exacerbate corneal injury and introduce bacteria. \n\nOption [0] is incorrect because a cotton tip applicator may abrade the corneal epithelium and leave lint behind. Option [2] encourages vigorous rubbing, which can cause corneal laceration and infection. Option [3] over‑triages; while referral is needed if irrigation fails or the foreign body is embedded, immediate irrigation is the standard first step. Therefore, irrigating the eye thoroughly with sterile saline is the gold‑standard immediate action.",
+    "explanation": "The immediate management of a corneal foreign body is to irrigate the eye with a sterile isotonic solution. The American Dental Association (ADA) Clinical Practice Guideline for Ocular Injuries and the US Public Health Service (USPHS) and CDC’s Eye‑Irrigation Safety Standard both state that copious saline flushes are the first‑line treatment to dislodge particulate matter, reduce epithelial trauma, and prevent infection. The American Academy of Ophthalmology (AAO) 2018 Preferred Practice Pattern similarly recommends saline irrigation before any attempt at mechanical removal. Malamed’s Handbook of Local Anesthesia emphasizes that any ocular irritation during dental work warrants prompt irrigation to avoid corneal abrasion. Neville’s Oral and Maxillofacial Pathology notes that a dark speck on the cornea is most often a superficial particulate that can be washed away; delayed removal increases the risk of epithelial defect and secondary ulceration. Cohen’s Handbook of Dental Materials advises against using cotton‑tip applicators on the ocular surface because fibers can embed in the cornea. Proffit’s Orthodontic literature reinforces that patient‑initiated rubbing can exacerbate corneal injury and introduce bacteria. \n\nOption [0] is incorrect because a cotton tip applicator may abrade the corneal epithelium and leave lint behind. Option [2] encourages vigorous rubbing, which can cause corneal laceration and infection. Option [3] over‑triages; while referral is needed if irrigation fails or the foreign body is embedded, immediate irrigation is the standard first step. Therefore, irrigating the eye thoroughly with sterile saline is the gold‑standard immediate action.",
     "aiVerified": true
   },
   {
@@ -8337,7 +8337,7 @@
   {
     "id": "oral-surgery-emergencies-593",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to Canadian dental recommendations, what is the MOST appropriate storage condition for emergency drugs such as epinephrine and nitroglycerin in the dental office?",
+    "question": "According to ADA clinical recommendations, what is the MOST appropriate storage condition for emergency drugs such as epinephrine and nitroglycerin in the dental office?",
     "options": [
       "Refrigerated at 2-8°C.",
       "Frozen at -20°C.",
@@ -8457,7 +8457,7 @@
       "Monitor vital signs closely and observe without pharmacological intervention"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Administer oral diphenhydramine. According to Canadian dental emergency management guidelines (e.g., Malamed's Handbook of Medical Emergencies in Dentistry), the management of an allergic reaction is stratified by severity. This patient presents with mild symptoms (cutaneous: urticaria, pruritus) and stable vital signs, without signs of anaphylaxis (which requires involvement of two or more organ systems, such as respiratory compromise, hypotension, or gastrointestinal distress). For mild allergic reactions, an oral antihistamine (such as diphenhydramine 25-50 mg) is the appropriate first-line pharmacological intervention to alleviate symptoms. Intramuscular epinephrine (Option 1) is the gold standard for anaphylaxis but is not indicated for isolated cutaneous symptoms with stable vitals, as it carries significant cardiovascular risks. The Trendelenburg position (Option 2) is generally contraindicated or unnecessary in stable patients and is not a primary treatment for allergic reactions; it is sometimes used in syncope but can worsen respiratory mechanics if airway edema develops. Observation alone (Option 3) is insufficient because the patient is symptomatic and requires active pharmacological management to prevent progression and relieve discomfort, although close monitoring is always required alongside treatment.",
+    "explanation": "The correct answer is Administer oral diphenhydramine. According to ADA and AHA emergency management guidelines (e.g., Malamed's Handbook of Medical Emergencies in Dentistry), the management of an allergic reaction is stratified by severity. This patient presents with mild symptoms (cutaneous: urticaria, pruritus) and stable vital signs, without signs of anaphylaxis (which requires involvement of two or more organ systems, such as respiratory compromise, hypotension, or gastrointestinal distress). For mild allergic reactions, an oral antihistamine (such as diphenhydramine 25-50 mg) is the appropriate first-line pharmacological intervention to alleviate symptoms. Intramuscular epinephrine (Option 1) is the gold standard for anaphylaxis but is not indicated for isolated cutaneous symptoms with stable vitals, as it carries significant cardiovascular risks. The Trendelenburg position (Option 2) is generally contraindicated or unnecessary in stable patients and is not a primary treatment for allergic reactions; it is sometimes used in syncope but can worsen respiratory mechanics if airway edema develops. Observation alone (Option 3) is insufficient because the patient is symptomatic and requires active pharmacological management to prevent progression and relieve discomfort, although close monitoring is always required alongside treatment.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -8907,7 +8907,7 @@
       "Encourage the patient to breathe slowly and deeply, possibly into a paper bag."
     ],
     "correctAnswer": 2,
-    "explanation": "The patient’s symptoms (rapid breathing, paresthesia, light‑headedness) are classic for hyperventilation secondary to anxiety. Canadian dental emergency protocols (Medical Emergencies in the Dental Office, Malamed, 7th ed.) advise calm reassurance, encouraging slow diaphragmatic breathing, and close monitoring of vitals. Use of a paper bag is no longer recommended because it may inadvertently cause hypoxia, especially if the patient has an undiagnosed respiratory condition. Supplemental oxygen is unnecessary and may mask the underlying alkalosis, while intravenous midazolam is reserved for severe anxiety unresponsive to non‑pharmacologic measures.",
+    "explanation": "The patient’s symptoms (rapid breathing, paresthesia, light‑headedness) are classic for hyperventilation secondary to anxiety. Emergency management protocols (Medical Emergencies in the Dental Office, Malamed, 7th ed.) advise calm reassurance, encouraging slow diaphragmatic breathing, and close monitoring of vitals. Use of a paper bag is no longer recommended because it may inadvertently cause hypoxia, especially if the patient has an undiagnosed respiratory condition. Supplemental oxygen is unnecessary and may mask the underlying alkalosis, while intravenous midazolam is reserved for severe anxiety unresponsive to non‑pharmacologic measures.",
     "aiVerified": true
   },
   {
@@ -9096,7 +9096,7 @@
   {
     "id": "oral-surgery-emergencies-647",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to Canadian dental safety standards, what is the MOST appropriate storage practice for oxygen cylinders in the dental office?",
+    "question": "According to OSHA and ADA safety standards, what is the MOST appropriate storage practice for oxygen cylinders in the dental office?",
     "options": [
       "Stored horizontally under the dental chair for easy access.",
       "Stored in a locked cabinet to prevent unauthorized access.",
@@ -9582,7 +9582,7 @@
       "Reassure the patient and encourage slow, deep breaths."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0: Call emergency medical services (EMS) immediately. According to Canadian dental emergency management guidelines (CDA/INBDE standards) and standard textbooks such as Malamed's 'Handbook of Medical Emergencies in the Dental Office,' the management of a patient experiencing severe respiratory distress (severe dyspnea, wheezing, struggling to breathe) that does not resolve immediately upon removal from the offending agent requires immediate activation of the emergency medical system. The patient is exhibiting signs of a severe acute respiratory event (potentially severe bronchospasm, laryngospasm, or anaphylaxis) that exceeds the scope of basic dental office management. While the patient is described as having no history of asthma, the severity of the symptoms ('struggling to breathe', 'severe dyspnea') indicates a life-threatening emergency. The dentist's primary role is to stabilize the patient (positioning, oxygen if available and trained) and summon professional medical help. \n\nOption 1 (Oral antihistamine) is incorrect because oral medications have a slow onset of action (30-60 minutes) and are inappropriate for acute, severe respiratory distress. Furthermore, if the reaction is anaphylactic, epinephrine is the first-line treatment, not antihistamines, and oral administration is contraindicated in a patient struggling to breathe due to aspiration risk and delayed efficacy.\n\nOption 2 (Administer salbutamol) is incorrect for two main reasons. First, the patient has 'no known history of asthma,' so he likely does not have a personal inhaler available in the office. Second, even if a universal inhaler were available, the administration of a bronchodilator is a specific treatment for asthma/bronchospasm. In a patient with 'severe' distress and 'struggling to breathe,' the priority is securing advanced medical care. Relying solely on a bronchodilator without calling EMS for a patient in severe distress is a deviation from the standard of care for severe emergencies. Additionally, if the cause is laryngospasm or anaphylaxis, salbutamol alone is insufficient.\n\nOption 3 (Reassure and encourage slow breaths) is incorrect because the patient is in severe distress. While reassurance is part of the initial response, it is insufficient as the *most appropriate initial step* for a patient who is 'struggling to breathe' with 'severe dyspnea.' This approach delays critical intervention. In cases of mild anxiety or mild bronchospasm, this might be appropriate, but the severity described mandates immediate EMS activation.",
+    "explanation": "The correct answer is Option 0: Call emergency medical services (EMS) immediately. According to ADA and AHA emergency management guidelines (ADA/INBDE standards) and standard textbooks such as Malamed's 'Handbook of Medical Emergencies in the Dental Office,' the management of a patient experiencing severe respiratory distress (severe dyspnea, wheezing, struggling to breathe) that does not resolve immediately upon removal from the offending agent requires immediate activation of the emergency medical system. The patient is exhibiting signs of a severe acute respiratory event (potentially severe bronchospasm, laryngospasm, or anaphylaxis) that exceeds the scope of basic dental office management. While the patient is described as having no history of asthma, the severity of the symptoms ('struggling to breathe', 'severe dyspnea') indicates a life-threatening emergency. The dentist's primary role is to stabilize the patient (positioning, oxygen if available and trained) and summon professional medical help. \n\nOption 1 (Oral antihistamine) is incorrect because oral medications have a slow onset of action (30-60 minutes) and are inappropriate for acute, severe respiratory distress. Furthermore, if the reaction is anaphylactic, epinephrine is the first-line treatment, not antihistamines, and oral administration is contraindicated in a patient struggling to breathe due to aspiration risk and delayed efficacy.\n\nOption 2 (Administer salbutamol) is incorrect for two main reasons. First, the patient has 'no known history of asthma,' so he likely does not have a personal inhaler available in the office. Second, even if a universal inhaler were available, the administration of a bronchodilator is a specific treatment for asthma/bronchospasm. In a patient with 'severe' distress and 'struggling to breathe,' the priority is securing advanced medical care. Relying solely on a bronchodilator without calling EMS for a patient in severe distress is a deviation from the standard of care for severe emergencies. Additionally, if the cause is laryngospasm or anaphylaxis, salbutamol alone is insufficient.\n\nOption 3 (Reassure and encourage slow breaths) is incorrect because the patient is in severe distress. While reassurance is part of the initial response, it is insufficient as the *most appropriate initial step* for a patient who is 'struggling to breathe' with 'severe dyspnea.' This approach delays critical intervention. In cases of mild anxiety or mild bronchospasm, this might be appropriate, but the severity described mandates immediate EMS activation.",
     "aiVerified": true
   },
   {
@@ -9799,7 +9799,7 @@
   {
     "id": "oral-surgery-emergencies-697",
     "topicId": "oral-surgery-emergencies",
-    "question": "Which of the following medications is considered a critical component of a basic emergency drug kit in a Canadian dental office, primarily used for managing severe allergic reactions?",
+    "question": "Which of the following medications is considered a critical component of a basic emergency drug kit in a dental office, primarily used for managing severe allergic reactions?",
     "options": [
       "Atropine",
       "Dexamethasone",
@@ -9821,7 +9821,7 @@
       "Call emergency medical services (911) and monitor airway, breathing, and circulation."
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is option 4 (index 3). An unresponsive, diaphoretic patient is in severe hypoglycaemia and at immediate risk of airway compromise. Canadian dental emergency protocols (Little & Falace, Dental Management of the Medically Compromised Patient; CDA Guidelines) state that the dentist’s first action is to call EMS (911) and initiate basic life support, ensuring the ABCs are protected. Glucagon or IV dextrose are appropriate subsequent interventions, but they should be administered after EMS activation and while the airway is protected. Oral glucose is contraindicated in an unconscious patient, and IV dextrose requires established IV access, which is generally beyond the scope of a dental clinic without emergency personnel. (CDA, “Medical Emergencies in the Dental Office”; Little & Falace, 5th ed).",
+    "explanation": "The correct answer is option 4 (index 3). An unresponsive, diaphoretic patient is in severe hypoglycaemia and at immediate risk of airway compromise. Emergency management protocols (Little & Falace, Dental Management of the Medically Compromised Patient; ADA clinical guidelines) state that the dentist’s first action is to call EMS (911) and initiate basic life support, ensuring the ABCs are protected. Glucagon or IV dextrose are appropriate subsequent interventions, but they should be administered after EMS activation and while the airway is protected. Oral glucose is contraindicated in an unconscious patient, and IV dextrose requires established IV access, which is generally beyond the scope of a dental clinic without emergency personnel. (ADA, “Medical Emergencies in the Dental Office”; Little & Falace, 5th ed).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -9962,7 +9962,7 @@
       "Reassure the patient and have her lie flat in the dental chair."
     ],
     "correctAnswer": 0,
-    "explanation": "The patient’s presentation—rapid, deep breathing with perioral and fingertip paresthesia, normal SpO2, and no cardiopulmonary disease—is classic for acute anxiety‑induced hyperventilation (respiratory alkalosis). The American Dental Association (CDA) Clinical Guidelines for Dental Anxiety and the the US Public Health Service (USPHS) and CDC “Management of Acute Hyperventilation” protocol both endorse the paper‑bag rebreathing technique as the first‑line intervention in an otherwise healthy adult. By breathing slowly into a paper bag for 5–10 minutes, the patient re‑inspires a modest amount of CO₂, correcting the alkalosis and relieving symptoms. This approach is also described in the AAP 2018 Dental Anxiety Consensus, Malamed’s “Handbook of Local Anesthesia,” and the textbooks of Neville, Cohen, and Proffit as the standard immediate management for isolated hyperventilation.\n\nOption [1] (supplemental O₂) is unnecessary because oxygen saturation is already normal; delivering O₂ does not address the underlying low PaCO₂ and may delay the more effective CO₂ rebreathing. Option [2] (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm, conditions not present here; its use could precipitate tachycardia and hypertension in a calm patient. Option [3] (reassure and lie flat) ignores the physiologic cause—lying flat may even worsen ventilation‑perfusion mismatch, and reassurance alone does not correct the alkalosis. Thus, the paper‑bag breathing maneuver remains the gold‑standard initial management for anxiety‑related hyperventilation in dental practice.",
+    "explanation": "The patient’s presentation—rapid, deep breathing with perioral and fingertip paresthesia, normal SpO2, and no cardiopulmonary disease—is classic for acute anxiety‑induced hyperventilation (respiratory alkalosis). The American Dental Association (ADA) Clinical Guidelines for Dental Anxiety and the the US Public Health Service (USPHS) and CDC “Management of Acute Hyperventilation” protocol both endorse the paper‑bag rebreathing technique as the first‑line intervention in an otherwise healthy adult. By breathing slowly into a paper bag for 5–10 minutes, the patient re‑inspires a modest amount of CO₂, correcting the alkalosis and relieving symptoms. This approach is also described in the AAP 2018 Dental Anxiety Consensus, Malamed’s “Handbook of Local Anesthesia,” and the textbooks of Neville, Cohen, and Proffit as the standard immediate management for isolated hyperventilation.\n\nOption [1] (supplemental O₂) is unnecessary because oxygen saturation is already normal; delivering O₂ does not address the underlying low PaCO₂ and may delay the more effective CO₂ rebreathing. Option [2] (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm, conditions not present here; its use could precipitate tachycardia and hypertension in a calm patient. Option [3] (reassure and lie flat) ignores the physiologic cause—lying flat may even worsen ventilation‑perfusion mismatch, and reassurance alone does not correct the alkalosis. Thus, the paper‑bag breathing maneuver remains the gold‑standard initial management for anxiety‑related hyperventilation in dental practice.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -10848,7 +10848,7 @@
       "Immediately check the patient's pulse and respiration rate"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is option 4 (index 3). Syncope is a transient loss of consciousness due to cerebral hypoperfusion; the immediate priority is to confirm that the airway is patent, breathing is adequate, and circulation is present. Canadian emergency guidelines for dental settings (Malamed, Handbook of Local Anesthesia; CDA Emergency Protocols) require the clinician to assess pulse and respirations (the “ABCs”) before moving the patient. Once the ABCs are verified, the patient can be placed supine with legs elevated to augment venous return. Ammonia inhalants are not recommended because they may irritate the airway, and Trendelenburg positioning without confirming circulation could delay recognition of a more serious cardiac event. (Malamed, 7th ed; Little & Falace, 5th ed).",
+    "explanation": "The correct answer is option 4 (index 3). Syncope is a transient loss of consciousness due to cerebral hypoperfusion; the immediate priority is to confirm that the airway is patent, breathing is adequate, and circulation is present. Canadian emergency guidelines for dental settings (Malamed, Handbook of Local Anesthesia; ADA Emergency Protocols) require the clinician to assess pulse and respirations (the “ABCs”) before moving the patient. Once the ABCs are verified, the patient can be placed supine with legs elevated to augment venous return. Ammonia inhalants are not recommended because they may irritate the airway, and Trendelenburg positioning without confirming circulation could delay recognition of a more serious cardiac event. (Malamed, 7th ed; Little & Falace, 5th ed).",
     "aiVerified": true
   },
   {
@@ -11128,7 +11128,7 @@
       "Administer intravenous corticosteroids (e.g., hydrocortisone)."
     ],
     "correctAnswer": 0,
-    "explanation": "The patient is experiencing anaphylaxis, a life-threatening systemic allergic reaction. The first-line treatment is intramuscular epinephrine, which has already been administered. According to the American Heart Association (AHA) and Canadian dental emergency guidelines, the immediate next step in the management of anaphylaxis, particularly when respiratory compromise (wheezing) and hemodynamic instability are present, is to administer high-flow oxygen. Oxygen supports tissue perfusion and addresses hypoxia caused by bronchospasm and shock. While positioning the patient supine with legs elevated (Trendelenburg) is a standard adjunctive measure to improve venous return, it is secondary to ensuring adequate oxygenation and ventilation. Oral antihistamines are contraindicated in the acute phase of anaphylaxis with hypotension due to the risk of aspiration and delayed absorption; they are adjunctive therapies for residual symptoms. Intravenous corticosteroids are also adjunctive and have a delayed onset of action (4-6 hours), making them inappropriate as the immediate next step after epinephrine and oxygen.",
+    "explanation": "The patient is experiencing anaphylaxis, a life-threatening systemic allergic reaction. The first-line treatment is intramuscular epinephrine, which has already been administered. According to the American Heart Association (AHA) and ADA and AHA emergency guidelines, the immediate next step in the management of anaphylaxis, particularly when respiratory compromise (wheezing) and hemodynamic instability are present, is to administer high-flow oxygen. Oxygen supports tissue perfusion and addresses hypoxia caused by bronchospasm and shock. While positioning the patient supine with legs elevated (Trendelenburg) is a standard adjunctive measure to improve venous return, it is secondary to ensuring adequate oxygenation and ventilation. Oral antihistamines are contraindicated in the acute phase of anaphylaxis with hypotension due to the risk of aspiration and delayed absorption; they are adjunctive therapies for residual symptoms. Intravenous corticosteroids are also adjunctive and have a delayed onset of action (4-6 hours), making them inappropriate as the immediate next step after epinephrine and oxygen.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -11272,7 +11272,7 @@
       "Administer oxygen via non-rebreather mask and observe."
     ],
     "correctAnswer": 0,
-    "explanation": "The patient is unable to speak or cough, indicating a complete obstruction. Canadian emergency‑care guidelines (CDA, Medical Emergencies in the Dental Office) recommend delivering five back blows between the shoulder blades followed immediately by five abdominal thrusts (Heimlich maneuver) for a conscious adult. This sequence maximizes the chance of dislodging the foreign body while maintaining patient safety. Magill forceps are reserved for visualised objects in an unconscious patient, CPR is only initiated after loss of consciousness, and supplemental oxygen does not relieve a complete obstruction.",
+    "explanation": "The patient is unable to speak or cough, indicating a complete obstruction. Canadian emergency‑care guidelines (ADA, Medical Emergencies in the Dental Office) recommend delivering five back blows between the shoulder blades followed immediately by five abdominal thrusts (Heimlich maneuver) for a conscious adult. This sequence maximizes the chance of dislodging the foreign body while maintaining patient safety. Magill forceps are reserved for visualised objects in an unconscious patient, CPR is only initiated after loss of consciousness, and supplemental oxygen does not relieve a complete obstruction.",
     "aiVerified": true
   },
   {
@@ -11881,7 +11881,7 @@
   {
     "id": "oral-surgery-emergencies-845",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to Canadian dental standards and guidelines, what is the MOST important aspect of maintaining a dental office emergency drug kit?",
+    "question": "According to ADA clinical standards of care and guidelines, what is the MOST important aspect of maintaining a dental office emergency drug kit?",
     "options": [
       "Regularly checking expiry dates and replacing expired medications promptly.",
       "Storing all medications in a locked, refrigerated cabinet.",
@@ -12716,7 +12716,7 @@
       "Administer a fast-acting bronchodilator via metered-dose inhaler."
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical presentation is classic for Acute Coronary Syndrome (ACS), likely an acute myocardial infarction. According to Canadian dental emergency management guidelines (e.g., CDA, INBDE standards), the immediate management protocol for suspected ACS includes calling EMS, administering oxygen if hypoxic, and administering aspirin. Aspirin (typically 325 mg chewed) is the most critical immediate pharmacological intervention because it irreversibly inhibits platelet aggregation, reducing the risk of thrombus propagation and improving survival. While sublingual nitroglycerin is also indicated for chest pain relief, it is contraindicated if the patient is hypotensive (suggested by the 'thready' pulse) or has taken phosphodiesterase inhibitors. Furthermore, aspirin is the primary antiplatelet agent that must be administered as soon as possible. Diphenhydramine is for allergic reactions, and bronchodilators are for respiratory distress, neither of which addresses the primary cardiac emergency.",
+    "explanation": "The clinical presentation is classic for Acute Coronary Syndrome (ACS), likely an acute myocardial infarction. According to ADA and AHA emergency management guidelines (e.g., ADA, INBDE standards), the immediate management protocol for suspected ACS includes calling EMS, administering oxygen if hypoxic, and administering aspirin. Aspirin (typically 325 mg chewed) is the most critical immediate pharmacological intervention because it irreversibly inhibits platelet aggregation, reducing the risk of thrombus propagation and improving survival. While sublingual nitroglycerin is also indicated for chest pain relief, it is contraindicated if the patient is hypotensive (suggested by the 'thready' pulse) or has taken phosphodiesterase inhibitors. Furthermore, aspirin is the primary antiplatelet agent that must be administered as soon as possible. Diphenhydramine is for allergic reactions, and bronchodilators are for respiratory distress, neither of which addresses the primary cardiac emergency.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -12738,7 +12738,7 @@
   {
     "id": "oral-surgery-emergencies-906",
     "topicId": "oral-surgery-emergencies",
-    "question": "Which of the following non-pharmacological devices is considered indispensable for managing cardiac arrest and severe arrhythmias in a Canadian dental office, and should be immediately accessible?",
+    "question": "Which of the following non-pharmacological devices is considered indispensable for managing cardiac arrest and severe arrhythmias in a dental office, and should be immediately accessible?",
     "options": [
       "Pulse oximeter",
       "Automated External Defibrillator (AED)",
@@ -12948,7 +12948,7 @@
   {
     "id": "oral-surgery-emergencies-921",
     "topicId": "oral-surgery-emergencies",
-    "question": "In a Canadian dental office, which of the following best describes the recommended protocol for maintaining the emergency drug kit?",
+    "question": "In a dental office, which of the following best describes the recommended protocol for maintaining the emergency drug kit?",
     "options": [
       "Drugs should be stored in their original packaging, regardless of expiration date, to ensure sterility.",
       "The kit contents should be checked monthly for expiry dates and proper functionality of equipment (e.g., oxygen tanks).",
@@ -12956,7 +12956,7 @@
       "The kit should contain only Schedule I drugs, as Schedule II and III drugs require special handling."
     ],
     "correctAnswer": 1,
-    "explanation": "Canadian dental practice guidelines recommend that emergency drug kits and equipment be checked regularly, typically monthly, to ensure all drugs are within their expiry dates and all equipment (like oxygen tanks and AEDs) is functional and ready for immediate use. Storing expired drugs, restricting checking to medical professionals, or limiting to only Schedule I drugs are inappropriate practices for emergency preparedness.",
+    "explanation": "ADA clinical practice guidelines recommend that emergency drug kits and equipment be checked regularly, typically monthly, to ensure all drugs are within their expiry dates and all equipment (like oxygen tanks and AEDs) is functional and ready for immediate use. Storing expired drugs, restricting checking to medical professionals, or limiting to only Schedule I drugs are inappropriate practices for emergency preparedness.",
     "aiVerified": true
   },
   {
@@ -12970,7 +12970,7 @@
       "D. Administer oral diphenhydramine (50 mg)."
     ],
     "correctAnswer": 0,
-    "explanation": "The patient presents with classic signs of an acute coronary syndrome. Canadian dental emergency guidelines (CDA, “Medical Emergencies in the Dental Office” – Malamed, 7th ed.) state that the most important immediate pharmacologic intervention, after calling EMS, is a chewable aspirin 162‑325 mg to inhibit platelet aggregation. Nitroglycerin is administered only after aspirin and if systolic BP remains >90 mmHg. Epinephrine and diphenhydramine are reserved for anaphylaxis and allergic reactions, respectively, and are not indicated here. Therefore, option A is the correct initial medication.",
+    "explanation": "The patient presents with classic signs of an acute coronary syndrome. ADA and AHA emergency guidelines (ADA, “Medical Emergencies in the Dental Office” – Malamed, 7th ed.) state that the most important immediate pharmacologic intervention, after calling EMS, is a chewable aspirin 162‑325 mg to inhibit platelet aggregation. Nitroglycerin is administered only after aspirin and if systolic BP remains >90 mmHg. Epinephrine and diphenhydramine are reserved for anaphylaxis and allergic reactions, respectively, and are not indicated here. Therefore, option A is the correct initial medication.",
     "aiVerified": true
   },
   {
@@ -13278,7 +13278,7 @@
       "Provide oral diphenhydramine."
     ],
     "correctAnswer": 1,
-    "explanation": "The patient’s pain is described as dull, radiating to the left shoulder, and similar to his prior stable‑angina episodes. In the dental setting, the immediate pharmacologic response for an acute angina attack is sublingual nitroglycerin 0.4 mg, provided systolic BP is >90 mmHg (CDA emergency protocol, Malamed 7th ed.). Aspirin is essential for suspected myocardial infarction but is not the first drug for isolated stable‑angina pain. Epinephrine and diphenhydramine address anaphylaxis and allergic reactions, which are not present. Hence, option B is the appropriate initial step.",
+    "explanation": "The patient’s pain is described as dull, radiating to the left shoulder, and similar to his prior stable‑angina episodes. In the dental setting, the immediate pharmacologic response for an acute angina attack is sublingual nitroglycerin 0.4 mg, provided systolic BP is >90 mmHg (ADA emergency protocol, Malamed 7th ed.). Aspirin is essential for suspected myocardial infarction but is not the first drug for isolated stable‑angina pain. Epinephrine and diphenhydramine address anaphylaxis and allergic reactions, which are not present. Hence, option B is the appropriate initial step.",
     "aiVerified": true
   },
   {
@@ -13412,7 +13412,7 @@
   {
     "id": "oral-surgery-emergencies-954",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to INBDE recommendations for emergency preparedness in a Canadian dental office, which of the following pieces of equipment is considered mandatory?",
+    "question": "According to INBDE recommendations for emergency preparedness in a dental office, which of the following pieces of equipment is considered mandatory?",
     "options": [
       "Capnograph.",
       "Central venous catheter kit.",
@@ -13420,7 +13420,7 @@
       "Automated External Defibrillator (AED)."
     ],
     "correctAnswer": 3,
-    "explanation": "The INBDE and Canadian dental emergency guidelines mandate the presence of an Automated External Defibrillator (AED) in every dental office for the management of sudden cardiac arrest. While a capnograph is useful for monitoring ventilation during sedation, and catheter kits are for advanced care, the AED is universally mandatory.",
+    "explanation": "The INBDE and ADA and AHA emergency guidelines mandate the presence of an Automated External Defibrillator (AED) in every dental office for the management of sudden cardiac arrest. While a capnograph is useful for monitoring ventilation during sedation, and catheter kits are for advanced care, the AED is universally mandatory.",
     "aiVerified": true
   },
   {
@@ -13454,7 +13454,7 @@
   {
     "id": "oral-surgery-emergencies-957",
     "topicId": "oral-surgery-emergencies",
-    "question": "For continuous non-invasive monitoring of a patient's oxygenation and heart rate during dental procedures, particularly those involving sedation, which device is considered a fundamental piece of equipment in Canadian dental offices?",
+    "question": "For continuous non-invasive monitoring of a patient's oxygenation and heart rate during dental procedures, particularly those involving sedation, which device is considered a fundamental piece of equipment in dental offices?",
     "options": [
       "End-tidal CO2 monitor.",
       "Pulse oximeter.",
@@ -13538,7 +13538,7 @@
   {
     "id": "oral-surgery-emergencies-963",
     "topicId": "oral-surgery-emergencies",
-    "question": "A 68-year-old female patient, taking rivaroxaban (Xarelto) for atrial fibrillation, undergoes a simple extraction of tooth #36. Three hours post-extraction, she calls reporting continuous oozing from the extraction site despite firm biting on gauze. She denies any pain or swelling. What is the MOST appropriate initial management?",
+    "question": "A 68-year-old female patient, taking rivaroxaban (Xarelto) for atrial fibrillation, undergoes a simple extraction of tooth #19. Three hours post-extraction, she calls reporting continuous oozing from the extraction site despite firm biting on gauze. She denies any pain or swelling. What is the MOST appropriate initial management?",
     "options": [
       "Instruct the patient to continue biting on gauze for another 2-3 hours and apply ice externally.",
       "Prescribe an antibiotic to prevent infection and advise the patient to return if bleeding worsens.",
@@ -13552,7 +13552,7 @@
   {
     "id": "oral-surgery-emergencies-964",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to the American Dental Association (CDA) guidelines for emergency preparedness in a dental office, which of the following medications is NOT recommended to be stocked in the standard emergency drug kit for immediate use?",
+    "question": "According to the American Dental Association (ADA) guidelines for emergency preparedness in a dental office, which of the following medications is NOT recommended to be stocked in the standard emergency drug kit for immediate use?",
     "options": [
       "Epinephrine 1:1000",
       "Nitroglycerin 0.4 mg",
@@ -13560,7 +13560,7 @@
       "Aspirin 325 mg"
     ],
     "correctAnswer": 3,
-    "explanation": "The CDA’s Emergency Preparedness Guidelines specify that a standard dental office emergency drug kit should contain epinephrine (1:1000) for anaphylaxis and cardiac arrest, nitroglycerin (0.4 mg) for angina or suspected myocardial ischemia, diphenhydramine (50 mg) for allergic reactions, and a 50 % dextrose solution for hypoglycaemia. These four agents are considered essential for immediate management of the most common medical emergencies encountered in dental practice. Aspirin 325 mg, while useful in the long‑term management of cardiovascular disease, is not recommended for inclusion in the immediate‑use emergency kit. Its routine administration during an acute event could mask symptoms of a myocardial infarction, increase bleeding risk, and is not a first‑line treatment for the emergencies the kit is designed to address. Therefore, among the options provided, aspirin is the only medication that the CDA does not list as a required component of the standard emergency drug kit. Epinephrine, nitroglycerin, and diphenhydramine are all explicitly recommended, making them incorrect choices for a \"NOT recommended\" question.",
+    "explanation": "The ADA’s Emergency Preparedness Guidelines specify that a standard dental office emergency drug kit should contain epinephrine (1:1000) for anaphylaxis and cardiac arrest, nitroglycerin (0.4 mg) for angina or suspected myocardial ischemia, diphenhydramine (50 mg) for allergic reactions, and a 50 % dextrose solution for hypoglycaemia. These four agents are considered essential for immediate management of the most common medical emergencies encountered in dental practice. Aspirin 325 mg, while useful in the long‑term management of cardiovascular disease, is not recommended for inclusion in the immediate‑use emergency kit. Its routine administration during an acute event could mask symptoms of a myocardial infarction, increase bleeding risk, and is not a first‑line treatment for the emergencies the kit is designed to address. Therefore, among the options provided, aspirin is the only medication that the ADA does not list as a required component of the standard emergency drug kit. Epinephrine, nitroglycerin, and diphenhydramine are all explicitly recommended, making them incorrect choices for a \"NOT recommended\" question.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -13730,7 +13730,7 @@
       "0.3 mg subcutaneously (SC)"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is 0.3 mg intramuscularly (IM). According to current Canadian dental emergency guidelines (including those aligned with the American Dental Association, Resuscitation Council of Canada, and standard texts such as Malamed's 'Handbook of Medical Emergencies in Dentistry'), the first-line treatment for anaphylaxis is epinephrine 1:1000 (1 mg/mL) administered intramuscularly into the anterolateral thigh. The standard adult dose is 0.3 mg (0.3 mL). This route ensures rapid and reliable absorption, which is critical in a life-threatening emergency. Option 1 (0.5 mg IM) is incorrect because, while some older or specific institutional protocols may have suggested higher doses, the universally accepted standard for initial adult dosing in dental and general medical emergency care is 0.3 mg; higher doses increase the risk of adverse cardiovascular effects without proven superior efficacy in the initial phase. Option 2 (1.0 mg IV) is incorrect and dangerous as a first-line treatment; IV epinephrine is reserved for cardiac arrest or refractory shock under advanced life support due to the high risk of fatal arrhythmias and hypertensive crisis. Option 4 (0.3 mg SC) is incorrect because subcutaneous absorption is erratic and significantly slower than intramuscular absorption, making it unsuitable for the immediate management of anaphylaxis.",
+    "explanation": "The correct answer is 0.3 mg intramuscularly (IM). According to current ADA and AHA emergency guidelines (including those aligned with the American Dental Association, Resuscitation Council of Canada, and standard texts such as Malamed's 'Handbook of Medical Emergencies in Dentistry'), the first-line treatment for anaphylaxis is epinephrine 1:1000 (1 mg/mL) administered intramuscularly into the anterolateral thigh. The standard adult dose is 0.3 mg (0.3 mL). This route ensures rapid and reliable absorption, which is critical in a life-threatening emergency. Option 1 (0.5 mg IM) is incorrect because, while some older or specific institutional protocols may have suggested higher doses, the universally accepted standard for initial adult dosing in dental and general medical emergency care is 0.3 mg; higher doses increase the risk of adverse cardiovascular effects without proven superior efficacy in the initial phase. Option 2 (1.0 mg IV) is incorrect and dangerous as a first-line treatment; IV epinephrine is reserved for cardiac arrest or refractory shock under advanced life support due to the high risk of fatal arrhythmias and hypertensive crisis. Option 4 (0.3 mg SC) is incorrect because subcutaneous absorption is erratic and significantly slower than intramuscular absorption, making it unsuitable for the immediate management of anaphylaxis.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
@@ -13808,7 +13808,7 @@
   {
     "id": "oral-surgery-emergencies-982",
     "topicId": "oral-surgery-emergencies",
-    "question": "Which emergency medication stocked in a Canadian dental office acts primarily as a bronchodilator by directly stimulating beta-2 adrenergic receptors in the lungs?",
+    "question": "Which emergency medication stocked in a dental office acts primarily as a bronchodilator by directly stimulating beta-2 adrenergic receptors in the lungs?",
     "options": [
       "Epinephrine",
       "Diphenhydramine",
@@ -13976,7 +13976,7 @@
   {
     "id": "oral-surgery-emergencies-994",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to ADA clinical guidelines for emergency preparedness, which of the following medications is considered essential for a Canadian dental office's emergency drug kit for the management of acute anaphylaxis?",
+    "question": "According to ADA clinical guidelines for emergency preparedness, which of the following medications is considered essential for a dental office's emergency drug kit for the management of acute anaphylaxis?",
     "options": [
       "Diazepam",
       "Nitroglycerin",
@@ -14018,7 +14018,7 @@
   {
     "id": "oral-surgery-emergencies-997",
     "topicId": "oral-surgery-emergencies",
-    "question": "According to Canadian dental safety standards, which of the following is a crucial safety measure when storing oxygen cylinders in a dental office?",
+    "question": "According to OSHA and ADA safety standards, which of the following is a crucial safety measure when storing oxygen cylinders in a dental office?",
     "options": [
       "Storing them horizontally on the floor to prevent tipping.",
       "Securing them upright with a chain or strap to prevent falling.",
