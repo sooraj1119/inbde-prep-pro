@@ -1,0 +1,313 @@
+import { getTotalQuestionCount } from './lib/questionsStore';
+import React, { useState, useEffect } from 'react';
+import { topics } from './lib/data';
+import { PlayCircle, Clock, Trophy, Flame, ChevronRight, Activity, CalendarDays, LibraryBig } from 'lucide-react';
+import { motion } from 'framer-motion';
+import { usePremiumStatus } from './lib/storage';
+import { PaywallModal } from './PaywallModal';
+import { Lock, Crown, Sparkles } from 'lucide-react';
+import { getTopicProgress, getDueSRSQuestions, getMistakes } from './lib/storage';
+import { loadAllQuestions } from './lib/questionsStore';
+import { InfoTooltip } from './InfoTooltip';
+
+
+interface Props {
+  onSelect: (topicId: string) => void;
+}
+
+export function TopicSelection({ onSelect }: Props) {
+  const [showPaywall, setShowPaywall] = useState(false);
+  const isPremium = usePremiumStatus();
+  const [topicCounts, setTopicCounts] = useState<Record<string, number>>({});
+  const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const [dueReviewCount, setDueReviewCount] = useState(0);
+  const [mistakesCount, setMistakesCount] = useState(0);
+
+  useEffect(() => {
+    // Check how many questions are due for Spaced Repetition Review today
+    const dueIds = getDueSRSQuestions();
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setDueReviewCount(dueIds.length);
+    setMistakesCount(getMistakes().length);
+  }, []);
+
+  useEffect(() => {
+    fetch(import.meta.env.BASE_URL + 'questions/manifest.json').then(r => r.json()).then((manifest: {id:string,count:number}[]) => {
+      const counts: Record<string,number> = {};
+      manifest.forEach((t: {id:string,count:number}) => { counts[t.id] = t.count; });
+      setTopicCounts(counts);
+    }).catch(() => {});
+    loadAllQuestions().catch(() => {});
+  }, []);
+
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    show: {
+      opacity: 1,
+      transition: { staggerChildren: 0.05 }
+    }
+  };
+
+  const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    show: { opacity: 1, y: 0 }
+  };
+
+  return (
+          <div style={{ maxWidth: '900px', margin: '0 auto', padding: 'clamp(0.85rem, 3vw, 1rem)' }}>
+        
+                  <div style={{ marginBottom: 'clamp(1rem, 4vw, 2rem)', textAlign: 'center' }}>
+            {!isPremium && (
+              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginBottom: 'clamp(1rem, 4vw, 1.5rem)', background: 'linear-gradient(to bottom, rgba(245, 158, 11, 0.08), transparent)', padding: 'clamp(1rem, 4vw, 1.5rem)', borderRadius: 'var(--radius-lg)', border: '1px solid rgba(245, 158, 11, 0.15)' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#d97706', marginBottom: '0.6rem', fontWeight: 800, fontSize: 'clamp(1rem, 4vw, 1.1rem)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                  <Sparkles size={22} />
+                  <span>Unlock Your Full Potential</span>
+                </div>
+                <p style={{ color: 'var(--text-secondary)', textAlign: 'center', margin: '0 0 1rem 0', fontSize: 'clamp(0.85rem, 3.5vw, 0.95rem)', maxWidth: '450px', lineHeight: '1.5' }}>
+                  Get instant access to all <strong style={{color: 'var(--text-primary)'}}>{getTotalQuestionCount().toLocaleString()} questions</strong>, detailed customized explanations, spaced repetition, and advanced analytics.
+                </p>
+                <button
+                  onClick={() => setShowPaywall(true)}
+                  style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', background: 'linear-gradient(135deg, #f59e0b 0%, #d97706 100%)', color: '#fff', border: 'none', padding: 'clamp(0.6rem, 3vw, 0.9rem) clamp(1.2rem, 5vw, 2.2rem)', borderRadius: '30px', fontWeight: 700, fontSize: 'clamp(0.85rem, 4vw, 0.95rem)', cursor: 'pointer', boxShadow: '0 8px 20px rgba(245,158,11,0.3)', transition: 'all 0.2s' }}
+                onMouseOver={(e) => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 10px 25px rgba(245,158,11,0.4)'; }}
+                onMouseOut={(e) => { e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = '0 8px 20px rgba(245,158,11,0.3)'; }}
+                >
+                  <Crown size={22} /> <span>Upgrade to Pro</span>
+                </button>
+              </div>
+            )}
+            <h2 style={{ fontSize: 'clamp(1.5rem, 5vw, 2rem)', marginBottom: '0.5rem', color: 'var(--text-primary)' }}>Select a Topic</h2>
+        <p style={{ color: 'var(--text-secondary)', fontSize: 'clamp(0.9rem, 4vw, 1.1rem)' }}>Master fundamental knowledge with detailed, customized explanations.</p>
+      </div>
+
+      <div style={{ display: 'grid', gap: 'clamp(0.75rem, 3vw, 1.25rem)', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', marginBottom: 'clamp(1.5rem, 4vw, 2rem)' }}>
+        {/* Daily Review Banner */}
+        <motion.div
+          data-testid="srs-review-banner"
+          onClick={() => {
+            if (!isPremium) setShowPaywall(true);
+            else if (dueReviewCount > 0) onSelect('srs_review');
+          }}
+          whileHover={(!isPremium || dueReviewCount > 0) ? { y: -5, boxShadow: 'var(--shadow-md)' } : {}}
+          style={{
+            background: (!isPremium || dueReviewCount > 0) ? 'linear-gradient(135deg, #f59e0b 0%, #d97706 100%)' : 'var(--surface-hover)',
+            padding: 'clamp(0.85rem, 3vw, 1rem)',
+            borderRadius: 'var(--radius-lg)',
+            color: (!isPremium || dueReviewCount > 0) ? 'white' : 'var(--text-secondary)',
+            cursor: (!isPremium || dueReviewCount > 0) ? 'pointer' : 'default',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            boxShadow: (!isPremium || dueReviewCount > 0) ? 'var(--shadow-sm)' : 'none',
+            gridColumn: '1 / -1',
+            opacity: (!isPremium || dueReviewCount > 0) ? 1 : 0.6
+          }}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+              <div style={{ background: (!isPremium || dueReviewCount > 0) ? 'rgba(255,255,255,0.2)' : 'var(--border-color)', padding: '0.6rem', borderRadius: '50%', flexShrink: 0 }}>
+              {!isPremium ? <Crown size={24} color="white" /> : <CalendarDays size={24} color={dueReviewCount > 0 ? "white" : "var(--text-secondary)"} />}
+            </div>
+            <div>
+              <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '0.8rem', marginBottom: '0.5rem' }}>
+                <h3 style={{ fontSize: 'clamp(1.1rem, 5vw, 1.3rem)', margin: 0, fontWeight: 700 }}>Daily Review (Spaced Repetition)</h3>
+                <InfoTooltip
+                  title="SRS Daily Review"
+                  subtitle="SuperMemo-2 (SM-2) Spaced Repetition"
+                  description="Optimizes retention by scheduling question reviews right before you are likely to forget. Correct answers lengthen the review interval (1d -> 3d -> 6d), while missed answers immediately reset the interval to ensure weak areas are mastered."
+                  tags={['SuperMemo-2 Algorithm', 'Automated Daily Quotas', 'Long-term Memory']}
+                  variant="light"
+                  testId="info-tooltip-srs"
+                />
+                {!isPremium && <span data-testid="srs-pro-badge" style={{ background: '#ffffff', color: '#b45309', padding: '0.25rem 0.75rem', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 800, letterSpacing: '0.04em', textTransform: 'uppercase', display: 'inline-flex', alignItems: 'center', gap: '5px', boxShadow: '0 2px 6px rgba(0,0,0,0.25)', border: '1px solid rgba(245, 158, 11, 0.4)' }}><Crown size={14} fill="#b45309" stroke="#b45309" /> PRO</span>}
+              </div>
+              <p style={{ margin: 0, opacity: 0.9, fontSize: 'clamp(0.85rem, 4vw, 0.95rem)' }}>
+                {!isPremium ? "Unlock to practice missed questions using spaced repetition." : 
+                 dueReviewCount > 0 ? (
+                    <>You have <span translate="no">{dueReviewCount}</span> questions due for review today.</>
+                  ) : "You're all caught up for today!"}
+              </p>
+            </div>
+          </div>
+          {(!isPremium || dueReviewCount > 0) && <ChevronRight size={22} opacity={0.8} style={{ flexShrink: 0 }} />}
+        </motion.div>
+
+
+        {/* Simulation Mode Banner */}
+        <motion.div 
+          onClick={() => onSelect('simulated')}
+          whileHover={{ y: -5, boxShadow: 'var(--shadow-md)' }}
+          style={{
+            background: 'linear-gradient(135deg, #3b82f6 0%, #2563eb 100%)',
+            padding: 'clamp(0.85rem, 3vw, 1rem)',
+            borderRadius: 'var(--radius-lg)',
+            color: 'white',
+            cursor: 'pointer',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            boxShadow: 'var(--shadow-sm)',
+            gridColumn: '1 / -1'
+          }}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+              <div style={{ background: 'rgba(255,255,255,0.2)', padding: '0.6rem', borderRadius: '50%', flexShrink: 0 }}>
+              <Activity size={24} color="white" />
+            </div>
+            <div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.5rem' }}>
+                <h3 style={{ fontSize: 'clamp(1.1rem, 5vw, 1.3rem)', margin: 0, fontWeight: 700 }}>Simulated Mock Exam</h3>
+                <InfoTooltip
+                  title="Simulated Mock Exam"
+                  subtitle="Simulated INBDE Examination Format"
+                  description="Simulates the INBDE dental boards examination environment. Generates 100 random questions proportionally sampled across all 22 topics, accompanied by a strict 2-hour countdown timer to benchmark pacing, endurance, and score readiness."
+                  tags={['100 Questions', '2.0-Hour Countdown', 'Proportional Topic Split']}
+                  variant="light"
+                  testId="info-tooltip-mock"
+                />
+              </div>
+              <p style={{ margin: 0, opacity: 0.9, fontSize: 'clamp(0.85rem, 4vw, 0.95rem)' }}>100 random questions | 2.0 hour timer</p>
+            </div>
+          </div>
+          <ChevronRight size={22} opacity={0.8} style={{ flexShrink: 0 }} />
+        </motion.div>
+
+        <motion.div 
+          data-testid="mistakes-banner"
+          onClick={() => {
+            if (!isPremium) setShowPaywall(true);
+            else onSelect('mistakes_list');
+          }}
+          whileHover={{ y: -5, boxShadow: 'var(--shadow-md)' }}
+          style={{
+            background: 'linear-gradient(135deg, #ef4444 0%, #dc2626 100%)',
+            padding: 'clamp(0.85rem, 3vw, 1rem)',
+            borderRadius: 'var(--radius-lg)',
+            color: 'white',
+            cursor: 'pointer',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            boxShadow: 'var(--shadow-sm)',
+            gridColumn: '1 / -1'
+          }}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+              <div style={{ background: 'rgba(255,255,255,0.2)', padding: '0.6rem', borderRadius: '50%', flexShrink: 0 }}>
+              {!isPremium ? <Crown size={24} color="white" /> : <Flame size={24} color="white" />}
+            </div>
+            <div>
+              <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '0.8rem', marginBottom: '0.5rem' }}>
+                <h3 style={{ fontSize: 'clamp(1.1rem, 5vw, 1.3rem)', margin: 0, fontWeight: 700 }}>Review Mistakes</h3>
+                <InfoTooltip
+                  title="Weakness Drilling"
+                  subtitle="Targeted Mistake Remediation"
+                  description="Automatically pools every question you've answered incorrectly across practice tests and study sessions. Practicing mistakes reinforces weak points until each question is answered correctly and removed from your queue."
+                  tags={['Targeted Recall', 'Auto-clears on Success', 'Personalized Pool']}
+                  variant="light"
+                  testId="info-tooltip-mistakes"
+                />
+                {!isPremium && <span data-testid="mistakes-pro-badge" style={{ background: '#ffffff', color: '#b91c1c', padding: '0.25rem 0.75rem', borderRadius: '20px', fontSize: '0.8rem', fontWeight: 800, letterSpacing: '0.04em', textTransform: 'uppercase', display: 'inline-flex', alignItems: 'center', gap: '5px', boxShadow: '0 2px 6px rgba(0,0,0,0.25)', border: '1px solid rgba(239, 68, 68, 0.4)' }}><Crown size={14} fill="#b91c1c" stroke="#b91c1c" /> PRO</span>}
+              </div>
+              <p style={{ margin: 0, opacity: 0.9, fontSize: 'clamp(0.85rem, 4vw, 0.95rem)' }}>{mistakesCount} incorrect answer{mistakesCount === 1 ? '' : 's'} saved for review</p>
+            </div>
+          </div>
+          <ChevronRight size={22} opacity={0.8} style={{ flexShrink: 0 }} />
+        </motion.div>
+      </div>
+
+      <motion.div 
+        variants={containerVariants}
+        initial="hidden"
+        animate="show"
+        className="topic-grid"
+          style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 'clamp(0.75rem, 3vw, 1.25rem)' }}
+      >
+        {topics.map((topic) => {
+          const Icon = topic.icon;
+          const isHovered = hoveredId === topic.id;
+          const progress = getTopicProgress(topic.id);
+          
+          const topicCount = topicCounts[topic.id] || 0;
+
+          return (
+            <motion.div 
+              key={topic.id}
+              data-testid={`topic-card-${topic.id}`}
+              variants={itemVariants}
+              onClick={() => {
+                if (topic.isPremiumOnly && !isPremium) {
+                  setShowPaywall(true);
+                } else {
+                  onSelect(topic.id);
+                }
+              }}
+              onMouseEnter={() => setHoveredId(topic.id)}
+              onMouseLeave={() => setHoveredId(null)}
+              className="glass-panel topic-card"
+              style={{ padding: 'clamp(0.85rem, 3vw, 1rem)', cursor: 'pointer', position: 'relative', overflow: 'hidden' }}
+              whileHover={{ y: -5, boxShadow: 'var(--shadow-md)' }}
+              whileTap={{ scale: 0.98 }}
+            >
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.75rem' }}>
+                <div className="icon-wrapper" style={{ 
+                  background: isHovered ? 'var(--accent-color)' : 'var(--surface-hover)', 
+                  padding: '0.6rem', borderRadius: 'var(--radius-md)',
+                  transition: 'all 0.3s ease'
+                }}>
+                  <Icon size={22} color={isHovered ? 'white' : 'var(--accent-color)'} />
+                </div>
+                
+                {topic.isPremiumOnly && !isPremium ? (
+                  <div className="lock-badge" style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', background: 'rgba(239, 68, 68, 0.1)', color: 'var(--error-color)', padding: '0.4rem 0.8rem', borderRadius: '20px', fontSize: '0.85rem', fontWeight: 700 }}>
+                    <Lock size={12} /> PRO
+                  </div>
+                ) : progress?.isFinished && (
+                  <div className="completed-badge" style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', background: 'rgba(16, 185, 129, 0.1)', color: 'var(--success-color)', padding: '0.4rem 0.8rem', borderRadius: '20px', fontSize: '0.85rem', fontWeight: 700 }}>
+                    <Trophy size={12} /> Completed
+                  </div>
+                )}
+              </div>
+
+              <h3 style={{ fontSize: '1.05rem', margin: '0 0 0.5rem 0', color: 'var(--text-primary)', fontWeight: 700, lineHeight: 1.2 }}>{topic.name}</h3>
+              
+              <div className="stats-row" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-secondary)', fontSize: '0.75rem' }}>
+                <span style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                  <LibraryBig size={14} /> <span translate="no">{topicCount}</span> Questions
+                </span>
+                {progress && progress.currentIndex > 0 && !progress.isFinished && (
+                  <span style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', color: '#eab308' }}>
+                    <Clock size={14} /> In Progress
+                  </span>
+                )}
+              </div>
+
+              {progress && (progress.isFinished || progress.highestScore > 0) && (
+                <div style={{ marginTop: '1.5rem' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.85rem', marginBottom: '0.5rem', fontWeight: 600 }}>
+                    <span style={{ color: 'var(--text-secondary)' }}>Best Score</span>
+                    <span translate="no" style={{ color: 'var(--accent-color)' }}>{progress.totalQuestions > 0 ? Math.min(100, Math.max(0, Math.round((progress.highestScore / progress.totalQuestions) * 100))) : 0}%</span>
+                  </div>
+                  <div style={{ width: '100%', height: '6px', background: 'var(--border-color)', borderRadius: '3px', overflow: 'hidden' }}>
+                    <div style={{ 
+                      height: '100%', 
+                      background: 'var(--accent-color)', 
+                      width: `${progress.totalQuestions > 0 ? Math.min(100, Math.max(0, (progress.highestScore / progress.totalQuestions) * 100)) : 0}%`,
+                      transition: 'width 1s ease-out'
+                    }} />
+                  </div>
+                </div>
+              )}
+            </motion.div>
+          );
+        })}
+      </motion.div>
+      <PaywallModal isOpen={showPaywall} onClose={() => setShowPaywall(false)} feature="Pro Features" />
+    </div>
+  );
+}
+
+
+
+
+
+

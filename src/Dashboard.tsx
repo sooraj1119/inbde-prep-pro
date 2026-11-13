@@ -1,0 +1,604 @@
+/* eslint-disable react-hooks/set-state-in-effect */
+import React, { useEffect, useState } from 'react';
+import { getProgress, TopicProgress, usePremiumStatus, getFlaggedQuestions, getMistakes, getGamification, resetAllProgress, getHistory, QuizAttempt } from './lib/storage';
+import { topics } from './lib/data';
+import { getQuestions, getTotalQuestionCount } from './lib/questionsStore';
+import { motion } from 'framer-motion';
+import { PaywallModal } from './PaywallModal';
+import { InfoTooltip } from './InfoTooltip';
+import { ConfirmModal } from './ConfirmModal';
+import { Lock } from 'lucide-react';
+import { Trophy, Target, BookOpen, Bookmark, Play, AlertOctagon, TrendingUp, XCircle, AlertCircle, CalendarDays, Edit2, Check, ShieldAlert } from 'lucide-react';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+
+
+interface Props {
+  onStartFlaggedQuiz: () => void;
+  onStartSRSQuiz?: () => void;
+  onStartMistakesQuiz: () => void;
+  onOpenDisclaimer?: () => void;
+}
+
+const BADGE_META: Record<string, { emoji: string; label: string }> = {
+  'first-step': { emoji: '\uD83C\uDFAF', label: 'First Step' },
+  'warm-up-10': { emoji: '\uD83D\uDCDA', label: 'Warm Up (10 Qs)' },
+  'on-a-roll-50': { emoji: '\uD83D\uDD25', label: 'On A Roll (50 Qs)' },
+  'century-club-100': { emoji: '\uD83D\uDCAF', label: 'Century Club' },
+  'quarter-millennium-250': { emoji: '\uD83D\uDE80', label: 'Quarter Millennium' },
+  'halfway-500': { emoji: '\uD83C\uDFC5', label: 'Halfway There' },
+  'question-master-1000': { emoji: '\uD83C\uDFC6', label: 'Question Master' },
+  'elite-scholar-5000': { emoji: '\uD83D\uDC51', label: 'Elite Scholar' },
+  'sharp-mind-70': { emoji: '\u2B50', label: 'Sharp Mind (70%)' },
+  'high-achiever-80': { emoji: '\uD83C\uDF1F', label: 'High Achiever (80%)' },
+  'diamond-standard-90': { emoji: '\uD83D\uDC8E', label: 'Diamond Standard' },
+  'streak-3': { emoji: '\uD83D\uDCC5', label: '3-Day Streak' },
+  'streak-7': { emoji: '\uD83D\uDD06', label: 'Week Warrior' },
+  'streak-30': { emoji: '\uD83C\uDF19', label: 'Monthly Grind' },
+};
+
+
+export function Dashboard({ onStartFlaggedQuiz, onStartSRSQuiz: _onStartSRSQuiz, onStartMistakesQuiz, onOpenDisclaimer }: Props) {
+  const questions = getQuestions();
+  const [progress, setProgress] = useState<Record<string, TopicProgress>>({});
+  const [flaggedCount, setFlaggedCount] = useState(0);
+  const [mistakesCount, setMistakesCount] = useState(0);
+  const [history, setHistory] = useState<QuizAttempt[]>([]);
+  const [showPaywall, setShowPaywall] = useState(false);
+  const [showResetConfirm, setShowResetConfirm] = useState(false);
+  const isPremium = usePremiumStatus();
+  
+  const [examDate, setExamDateState] = useState<number | null>(null);
+  const [isEditingDate, setIsEditingDate] = useState(false);
+  const [tempDate, setTempDate] = useState("");
+
+  useEffect(() => {
+    const p = getProgress(); setProgress(p);
+    setFlaggedCount(getFlaggedQuestions().length);
+    setMistakesCount(getMistakes().length);
+    setHistory(getHistory());
+    
+    if (typeof window !== 'undefined' && window.localStorage) {
+      const ed = localStorage.getItem('inbde_prep_exam_date');
+      if (ed) {
+        const parsed = parseInt(ed);
+        if (!isNaN(parsed)) {
+          setExamDateState(parsed);
+          try {
+            setTempDate(new Date(parsed).toISOString().split('T')[0]);
+          } catch {
+            // Ignore RangeError on corrupted dates
+          }
+        } else {
+          localStorage.removeItem('inbde_prep_exam_date');
+        }
+      }
+    }
+  }, []);
+
+  const totalQuestionsAvailable = questions.length > 0 ? questions.length : getTotalQuestionCount();
+  
+  let totalAnsweredCorrectly = 0;
+  let totalAttemptedQuestions = 0;
+  
+  Object.values(progress).forEach(p => {
+    // Only include real topics in the global stats
+    if (!topics.find(t => t.id === p.topicId)) return;
+
+    const attempted = p.isFinished 
+      ? p.totalQuestions 
+      : (p.highestScore > 0 && p.totalQuestions > 0 ? p.totalQuestions : (p.questionsAnswered || 0));
+    let correct = p.isFinished 
+      ? p.highestScore 
+      : (p.highestScore > 0 && p.totalQuestions > 0 ? p.highestScore : (p.currentScore || 0));
+    
+    // Safety clamp to guarantee it never exceeds 100% mathematically
+    correct = Math.min(correct, attempted);
+    
+    totalAnsweredCorrectly += correct;
+    totalAttemptedQuestions += attempted;
+  });
+
+  const completionPercentage = totalQuestionsAvailable > 0 
+    ? Math.min(100, Math.max(0, Math.round((totalAttemptedQuestions / totalQuestionsAvailable) * 100))) 
+    : 0;
+
+  const averageAccuracy = totalAttemptedQuestions > 0 
+    ? Math.min(100, Math.max(0, Math.round((totalAnsweredCorrectly / totalAttemptedQuestions) * 100))) 
+    : 0;
+
+  // --- Pacing Engine Logic ---
+  const totalBankQuestions = getTotalQuestionCount(); 
+  let answeredSoFar = 0;
+  Object.values(progress).forEach(p => {
+    answeredSoFar += p.questionsAnswered || 0;
+  });
+  
+  let daysLeft = 0;
+  let dailyQuota = 0;
+  if (examDate) {
+    const msLeft = examDate - (new Date().getTime());  
+    daysLeft = Math.max(1, Math.ceil(msLeft / (1000 * 60 * 60 * 24)));
+    const remainingQuestions = Math.max(0, totalBankQuestions - answeredSoFar);
+    dailyQuota = Math.ceil(remainingQuestions / daysLeft);
+  }
+
+  const handleSaveDate = () => {
+    if (!tempDate) {
+      setIsEditingDate(false);
+      return;
+    }
+    // Safari iOS bug fix: explicitly parse YYYY-MM-DD instead of relying on new Date(string)
+    const [year, month, day] = tempDate.split('-');
+    const dateObj = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+    const ms = dateObj.getTime();
+    
+    if (typeof window !== 'undefined' && window.localStorage) {
+      localStorage.setItem('inbde_prep_exam_date', ms.toString());
+    }
+    setExamDateState(ms);
+    setIsEditingDate(false);
+  };
+  // ---------------------------
+
+  // Prepare chart data: format timestamp to a short date string, and calculate percentage
+  const topicHistories = history.reduce((acc, attempt) => {
+    if (!acc[attempt.topicId]) acc[attempt.topicId] = [];
+    acc[attempt.topicId].push(attempt);
+    return acc;
+  }, {} as Record<string, QuizAttempt[]>);
+
+  const topicMilestones: Record<string, Record<number, number>> = {};
+  let maxMilestone = 0;
+
+  for (const [topicId, attempts] of Object.entries(topicHistories)) {
+    let cumulativeTotal = 0;
+    let cumulativeScore = 0;
+    let nextTarget = 100;
+    topicMilestones[topicId] = {};
+
+    for (const attempt of attempts) {
+      cumulativeTotal += attempt.total;
+      cumulativeScore += attempt.score;
+
+      while (cumulativeTotal >= nextTarget) {
+        topicMilestones[topicId][nextTarget] = Math.round((cumulativeScore / cumulativeTotal) * 100);
+        if (nextTarget > maxMilestone) maxMilestone = nextTarget;
+        nextTarget += 100;
+      }
+    }
+  }
+
+  const chartData: any[] = [];
+  for (let m = 100; m <= maxMilestone; m += 100) {
+    const dataPoint: any = { name: `${m} Qs` };
+    for (const topicId of Object.keys(topicHistories)) {
+      if (topicMilestones[topicId][m] !== undefined) {
+        const topicName = topics.find(t => t.id === topicId)?.name || topicId;
+        dataPoint[topicName] = topicMilestones[topicId][m];
+      }
+    }
+    chartData.push(dataPoint);
+  }
+
+  const CHART_COLORS = ['#0ea5e9', '#ef4444', '#f59e0b', '#84cc16', '#a855f7', '#6366f1', '#f97316', '#22c55e', '#ec4899'];
+  const activeTopicNames = Object.keys(topicHistories).map(id => topics.find(t => t.id === id)?.name || id);
+
+  return (
+    <motion.div 
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      style={{ maxWidth: '1000px', margin: '0 auto', padding: '1rem' }}
+    >
+              <div style={{ marginBottom: 'clamp(1rem, 4vw, 1.5rem)', display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: '1rem' }}>
+          <div style={{ textAlign: 'left' }}>
+            <h2 style={{ fontSize: 'clamp(1.5rem, 5vw, 2rem)', marginBottom: '0.5rem', color: 'var(--text-primary)' }}>Your Progress Dashboard</h2>
+            <p style={{ color: 'var(--text-secondary)', fontSize: 'clamp(0.85rem, 4vw, 1rem)' }}>Track your exam readiness and review your weak areas.</p>
+          </div>
+          {!isPremium && (
+            <button 
+              onClick={() => setShowPaywall(true)}
+              className="primary-btn pulse-glow"
+              style={{ padding: '0.8rem 1.5rem', background: 'linear-gradient(135deg, #10b981 0%, #059669 100%)', display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '1.1rem', fontWeight: 700 }}
+            >
+              <Lock size={20} /> <span>Upgrade to Pro</span>
+            </button>
+          )}
+        </div>
+        
+        {/* Dynamic Study Pacing Engine */}
+        <motion.div 
+          className="study-pacer-card"
+          initial={{ opacity: 0, scale: 0.95 }}
+          animate={{ opacity: 1, scale: 1 }}
+          style={{ marginBottom: 'clamp(1rem, 4vw, 1.5rem)', borderRadius: 'var(--radius-lg)', padding: 'clamp(0.85rem, 3vw, 1.25rem) clamp(0.75rem, 3vw, 1rem)', display: 'flex', flexDirection: 'column', gap: '1rem' }}
+        >
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '1rem' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+              <div style={{ background: '#22c55e', color: 'white', padding: '0.75rem', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 4px 10px rgba(34,197,94,0.3)' }}>
+                <CalendarDays size={24} />
+              </div>
+              <div>
+                <h3 className="study-pacer-title" style={{ margin: 0, fontSize: 'clamp(1.05rem, 4vw, 1.2rem)', fontWeight: 700 }}>Dynamic Study Pacer</h3>
+                <p className="study-pacer-subtitle" style={{ margin: '0.2rem 0 0', fontSize: '0.95rem' }}>Automated planning for your exam date</p>
+              </div>
+            </div>
+            
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              {isEditingDate ? (
+                <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                  <input 
+                    type="date" 
+                    value={tempDate} 
+                    onChange={(e) => setTempDate(e.target.value)}
+                    style={{ padding: '0.5rem', borderRadius: '8px', border: '1px solid #86efac', outline: 'none' }}
+                  />
+                  <button onClick={handleSaveDate} style={{ background: '#16a34a', color: 'white', border: 'none', padding: '0.5rem', borderRadius: '8px', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}><Check size={18} /></button>
+                </div>
+              ) : (
+                <button 
+                  onClick={() => setIsEditingDate(true)}
+                  style={{ background: 'var(--surface-color)', color: '#16a34a', border: '1px solid var(--border-color)', padding: '0.5rem 1rem', borderRadius: '20px', fontSize: '0.9rem', fontWeight: 600, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '0.4rem', boxShadow: '0 2px 5px rgba(0,0,0,0.05)' }}
+                >
+                  <Edit2 size={14} /> {examDate ? new Date(examDate).toLocaleDateString(undefined, {month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC'}) : "Set Exam Date"}
+                </button>
+              )}
+            </div>
+          </div>
+          
+          {examDate ? (
+            <div style={{ background: 'var(--surface-color)', border: '1px solid var(--border-color)', borderRadius: '12px', padding: '1.5rem', display: 'flex', justifyContent: 'space-around', alignItems: 'center', flexWrap: 'wrap', gap: '1rem', marginTop: '0.5rem' }}>
+              <div style={{ textAlign: 'center' }}>
+                <div style={{ fontSize: 'clamp(1.5rem, 5vw, 2rem)', fontWeight: 800, color: '#16a34a', lineHeight: 1 }}><span translate="no">{dailyQuota}</span></div>
+                <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', fontWeight: 500, marginTop: '0.3rem' }}>Questions / Day</div>
+              </div>
+              <div style={{ height: '50px', width: '1px', background: 'var(--border-color)', display: typeof window !== 'undefined' && window.innerWidth > 500 ? 'block' : 'none' }} />
+              <div style={{ textAlign: 'center' }}>
+                <div style={{ fontSize: 'clamp(1.5rem, 5vw, 2rem)', fontWeight: 800, color: '#3b82f6', lineHeight: 1 }}>{daysLeft}</div>
+                <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', fontWeight: 500, marginTop: '0.3rem' }}>Days Left</div>
+              </div>
+              <div style={{ height: '50px', width: '1px', background: 'var(--border-color)', display: typeof window !== 'undefined' && window.innerWidth > 500 ? 'block' : 'none' }} />
+              <div style={{ textAlign: 'center' }}>
+                <div style={{ fontSize: 'clamp(1.5rem, 5vw, 2rem)', fontWeight: 800, color: '#f59e0b', lineHeight: 1 }}><span translate="no">{totalBankQuestions - answeredSoFar}</span></div>
+                <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', fontWeight: 500, marginTop: '0.3rem' }}>Remaining in Bank</div>
+              </div>
+            </div>
+          ) : (
+            <div style={{ background: 'var(--surface-color)', border: '1px solid var(--border-color)', borderRadius: '12px', padding: '1.5rem', textAlign: 'center', marginTop: '0.5rem' }}>
+              <p style={{ margin: 0, color: 'var(--text-secondary)', fontSize: '1.05rem' }}>Set your exam date to instantly generate a personalized daily study quota.</p>
+            </div>
+          )}
+        </motion.div>
+
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))', gap: '0.75rem', marginBottom: 'clamp(1rem, 4vw, 1.5rem)' }}>
+        
+        {/* Stat Card 1 */}
+        <div className="glass-panel" style={{ padding: 'clamp(0.75rem, 3vw, 1rem)', display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '0.75rem' }}>
+          <div style={{ background: 'rgba(52, 211, 153, 0.1)', padding: '0.8rem', borderRadius: '50%', color: 'var(--success-color)' }}>
+            <Trophy size={24} />
+          </div>
+          <div>
+            <div style={{ fontSize: 'clamp(1.05rem, 4vw, 1.2rem)', fontWeight: 800, color: 'var(--text-primary)', lineHeight: 1.2 }}><span translate="no">{averageAccuracy}</span>%</div>
+            <div style={{ color: 'var(--text-secondary)', fontSize: '0.65rem', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em' }}>Avg Accuracy</div>
+          </div>
+        </div>
+
+        {/* Stat Card 2 */}
+        <div className="glass-panel" style={{ padding: 'clamp(0.75rem, 3vw, 1rem)', display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '0.75rem' }}>
+          <div style={{ background: 'rgba(56, 189, 248, 0.1)', padding: '0.8rem', borderRadius: '50%', color: 'var(--accent-color)' }}>
+            <Target size={24} />
+          </div>
+          <div>
+            <div style={{ fontSize: 'clamp(1.05rem, 4vw, 1.2rem)', fontWeight: 800, color: 'var(--text-primary)', lineHeight: 1.2 }}><span translate="no">{completionPercentage}</span>%</div>
+            <div style={{ color: 'var(--text-secondary)', fontSize: '0.65rem', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em' }}>Bank Completed</div>
+          </div>
+        </div>
+
+        {/* Stat Card 3 */}
+        <div className="glass-panel" style={{ padding: 'clamp(0.75rem, 3vw, 1rem)', display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '0.75rem' }}>
+          <div style={{ background: 'rgba(217, 70, 239, 0.1)', padding: '0.8rem', borderRadius: '50%', color: '#d946ef' }}>
+            <BookOpen size={24} />
+          </div>
+          <div>
+            <div style={{ fontSize: 'clamp(1.05rem, 4vw, 1.2rem)', fontWeight: 800, color: 'var(--text-primary)', lineHeight: 1.2 }}><span translate="no">{totalAttemptedQuestions} / {totalQuestionsAvailable}</span></div>
+            <div style={{ color: 'var(--text-secondary)', fontSize: '0.65rem', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em' }}>Questions Attempted</div>
+          </div>
+        </div>
+      </div>
+
+      {/* Learning Curve Analytics Graph */}
+        <div className="glass-panel" style={{ padding: 'clamp(0.85rem, 3vw, 1.25rem)', marginBottom: 'clamp(1rem, 4vw, 1.5rem)' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginBottom: '1.5rem' }}>
+            <div style={{ background: 'rgba(56, 189, 248, 0.1)', padding: '0.8rem', borderRadius: '50%', color: 'var(--accent-color)' }}>
+              <TrendingUp size={24} />
+            </div>
+            <div>
+              <h3 style={{ fontSize: 'clamp(1.1rem, 4vw, 1.3rem)', margin: 0, color: 'var(--text-primary)' }}>Progress Learning Curve</h3>
+              <p style={{ margin: '0.2rem 0 0', color: 'var(--text-secondary)', fontSize: '0.85rem' }}>Milestone accuracy mapped per 100 questions completed</p>
+            </div>
+          </div>
+          
+          {chartData.length > 0 ? (
+            <div style={{ width: '100%', height: '350px' }}>
+              <ResponsiveContainer>
+                <LineChart data={chartData} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="var(--border-color)" />
+                  <XAxis dataKey="name" stroke="var(--text-secondary)" fontSize={12} tickMargin={10} />
+                  <YAxis stroke="var(--text-secondary)" fontSize={12} domain={[0, 100]} tickFormatter={(val) => `${val}%`} />
+                  <Tooltip 
+                    contentStyle={{ backgroundColor: 'var(--surface-color)', borderColor: 'var(--border-color)', borderRadius: '8px' }}
+                    itemStyle={{ fontWeight: 'bold' }}
+                    formatter={(value: any, name: any) => [`${value}%`, name]}
+                  />
+                  {activeTopicNames.map((name, idx) => (
+                    <Line 
+                      key={name}
+                      type="monotone" 
+                      dataKey={name} 
+                      stroke={CHART_COLORS[idx % CHART_COLORS.length]} 
+                      strokeWidth={3}
+                      connectNulls
+                      activeDot={{ r: 6, strokeWidth: 2 }}
+                    />
+                  ))}
+                </LineChart>
+              </ResponsiveContainer>
+            </div>
+          ) : (
+            <div style={{ textAlign: 'center', padding: '1.5rem 1rem', color: 'var(--text-secondary)' }}>
+              <p style={{ margin: 0 }}>Complete 100 questions in any topic to unlock your learning curve.</p>
+            </div>
+          )}
+        </div>
+  
+        {/* Flagged Review Section */}
+      <div className="glass-panel" style={{ padding: 'clamp(0.85rem, 3vw, 1.25rem)', marginBottom: 'clamp(0.75rem, 3vw, 1rem)', display: 'flex', flexWrap: 'wrap', gap: '1.5rem', alignItems: 'center', justifyContent: 'space-between', background: 'linear-gradient(to right, var(--surface-color), rgba(251, 191, 36, 0.1))' }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1.5rem' }}>
+          <div style={{ background: 'rgba(217, 119, 6, 0.1)', padding: '0.8rem', borderRadius: '50%', color: '#d97706' }}>
+            <Bookmark size={24} />
+          </div>
+          <div>
+            <h3 style={{ margin: '0 0 0.5rem 0', fontSize: 'clamp(1.05rem, 4vw, 1.2rem)', color: 'var(--text-primary)' }}>Review Flagged Questions</h3>
+            <p style={{ margin: 0, color: 'var(--text-secondary)' }}>You have <strong translate="no">{flaggedCount}</strong> questions saved for review.</p>
+          </div>
+        </div>
+        <button 
+          onClick={onStartFlaggedQuiz}
+          disabled={flaggedCount === 0}
+          className="primary-btn"
+          style={{ padding: '0.8rem 1.5rem', borderRadius: 'var(--radius-md)', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '0.5rem', opacity: flaggedCount === 0 ? 0.5 : 1, cursor: flaggedCount === 0 ? 'not-allowed' : 'pointer' }}
+        >
+          <Play size={18} />
+          Start Review
+        </button>
+      </div>
+
+      {/* Mistakes Review Section */}
+              <div className="glass-panel" style={{ padding: 'clamp(0.85rem, 3vw, 1.25rem)', marginBottom: 'clamp(1rem, 4vw, 1.5rem)', display: 'flex', flexWrap: 'wrap', gap: '1.5rem', alignItems: 'center', justifyContent: 'space-between', background: 'linear-gradient(to right, var(--surface-color), rgba(239, 68, 68, 0.1))' }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '1.5rem' }}>
+            <div style={{ background: 'rgba(239, 68, 68, 0.1)', padding: '0.8rem', borderRadius: '50%', color: '#ef4444' }}>
+              <AlertCircle size={24} />
+            </div>
+            <div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', margin: '0 0 0.5rem 0' }}>
+              <h3 style={{ margin: 0, fontSize: 'clamp(1.05rem, 4vw, 1.2rem)', color: 'var(--text-primary)' }}>Weakness Drilling</h3>
+              <InfoTooltip
+                title="Weakness Drilling"
+                subtitle="Targeted Mistake Remediation"
+                description="Consolidates every question you answered incorrectly across all practice topics and mock exams into a dedicated study queue. As you answer them correctly during drill sessions, they are automatically removed from your mistakes pool."
+                tags={['Active Recall', 'Auto-clears on Success', 'Error Isolation']}
+                variant="default"
+                testId="info-tooltip-weakness-drilling"
+              />
+            </div>
+              <p style={{ margin: 0, color: 'var(--text-secondary)' }}>You have <strong translate="no">{mistakesCount}</strong> past mistakes to conquer.</p>
+            </div>
+          </div>
+          <button 
+            onClick={() => {
+              if (!isPremium) setShowPaywall(true);
+              else onStartMistakesQuiz();
+            }}
+            disabled={mistakesCount === 0 && isPremium}
+            className="primary-btn"
+            style={{ padding: '0.8rem 1.5rem', borderRadius: 'var(--radius-md)', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '0.5rem', opacity: (mistakesCount === 0 && isPremium) ? 0.5 : 1, cursor: (mistakesCount === 0 && isPremium) ? 'not-allowed' : 'pointer', background: (mistakesCount === 0 && isPremium) ? 'var(--accent-color)' : '#ef4444' }}
+          >
+            {!isPremium ? <Lock size={18} /> : <Play size={18} />}
+            {!isPremium ? 'Unlock Pro' : 'Drill Mistakes'}
+          </button>
+        </div>
+
+      {/* Gamification / Badges Section */}
+      <div style={{ marginBottom: 'clamp(1.5rem, 4vw, 2rem)' }}>
+        <h3 style={{ fontSize: 'clamp(1.2rem, 4vw, 1.4rem)', color: 'var(--text-primary)', marginBottom: '1.5rem', display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+          <Trophy size={24} color="var(--accent-color)" /> 
+          Achievements & Badges
+        </h3>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1rem' }}>
+          {getGamification().badges.length === 0 ? (
+            <div style={{ padding: '1.25rem', textAlign: 'center', background: 'var(--surface-color)', border: '1px dashed var(--border-color)', borderRadius: 'var(--radius-md)', color: 'var(--text-secondary)' }}>
+              No badges earned yet. Complete quizzes to unlock them!
+            </div>
+          ) : (
+            getGamification().badges.map((badge) => (
+              <div key={badge} className="glass-panel" style={{ padding: '0.75rem', textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
+                <div style={{ fontSize: 'clamp(1.5rem, 5vw, 2rem)' }}>{BADGE_META[badge]?.emoji || badge}</div>
+                <div style={{ fontWeight: 600, color: 'var(--text-primary)' }}>{BADGE_META[badge]?.label || badge}</div>
+                <div style={{ fontSize: '0.8rem', color: 'var(--success-color)' }}>Unlocked!</div>
+              </div>
+            ))
+          )}
+        </div>
+      </div>
+
+      <h3 style={{ fontSize: 'clamp(1.2rem, 4vw, 1.4rem)', color: 'var(--text-primary)', marginBottom: '1.5rem' }}>Topic Breakdown</h3>
+      <div className="topic-grid">
+        {topics.map((topic) => {
+          const topicProg = progress[topic.id];
+          const hasAttempted = !!topicProg;
+            const topicTotal = questions.filter(q => q.topicId === topic.id).length || 500;
+          
+          let completionProgress = 0;
+          let accuracy = 0;
+          let attemptedCount = 0;
+          
+          if (hasAttempted) {
+             attemptedCount = topicProg.isFinished 
+               ? topicProg.totalQuestions 
+               : (topicProg.highestScore > 0 && topicProg.totalQuestions > 0 ? topicProg.totalQuestions : (topicProg.questionsAnswered || 0));
+             completionProgress = Math.min(100, Math.max(0, Math.round((attemptedCount / topicTotal) * 100)));
+             if (attemptedCount > 0) {
+                 let correctCount = topicProg.isFinished 
+                   ? topicProg.highestScore 
+                   : (topicProg.highestScore > 0 && topicProg.totalQuestions > 0 ? topicProg.highestScore : (topicProg.currentScore || 0));
+                 correctCount = Math.min(correctCount, attemptedCount);
+                 accuracy = Math.min(100, Math.max(0, Math.round((correctCount / attemptedCount) * 100)));
+             }
+          }
+          
+          return (
+            <div key={topic.id} className="glass-panel topic-card" style={{ 
+              padding: '0.8rem', 
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '0.4rem',
+              position: 'relative'
+            }}>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '0.1rem' }}>
+                <div style={{ fontWeight: 600, fontSize: 'clamp(0.75rem, 3.5vw, 0.9rem)', color: 'var(--text-primary)', lineHeight: 1.15, wordBreak: 'break-word', hyphens: 'auto', letterSpacing: '-0.02em' }}>
+                  {topic.name}
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.3rem', marginTop: '0.1rem' }}>
+                  <div style={{ fontWeight: 800, color: hasAttempted && attemptedCount > 0 ? 'var(--accent-color)' : 'var(--text-secondary)', fontSize: '0.85rem' }}>
+                    {hasAttempted && attemptedCount > 0 ? <span translate="no">{accuracy}%</span> : '--'}
+                  </div>
+                  <div style={{ fontSize: '0.6rem', color: 'var(--text-secondary)', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 700 }}>
+                    ACC
+                  </div>
+                </div>
+              </div>
+              
+              <div style={{ marginTop: 'auto', paddingTop: '0.5rem', borderTop: '1px solid var(--border-color)' }}>
+                <div className="stats-row" style={{ display: 'flex', flexDirection: 'column', gap: '0.35rem' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '0.25rem', flexWrap: 'nowrap' }}>
+                  <span translate="no" style={{ fontSize: 'clamp(0.65rem, 3vw, 0.75rem)', color: 'var(--text-secondary)', fontWeight: 500, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                      {hasAttempted ? `${attemptedCount} / ${topicTotal}` : topicTotal}
+                    </span>
+                  {hasAttempted && !topicProg.isFinished && topicProg.currentIndex > 0 && (
+                    <span className="completed-badge" style={{ flexShrink: 0, fontSize: 'clamp(0.55rem, 2vw, 0.6rem)', background: 'var(--surface-hover)', color: 'var(--text-secondary)', padding: '0.15rem 0.35rem', borderRadius: '4px', fontWeight: 700 }}>Active</span>
+                  )}
+                  {hasAttempted && topicProg.isFinished && (
+                    <span className="completed-badge" style={{ flexShrink: 0, fontSize: 'clamp(0.55rem, 2vw, 0.6rem)', background: 'rgba(16, 185, 129, 0.1)', color: '#10b981', padding: '0.15rem 0.35rem', borderRadius: '4px', fontWeight: 700 }}>Done</span>
+                  )}
+                  </div>
+                  
+                  <div style={{ width: '100%', height: '4px', background: 'var(--border-color)', borderRadius: '2px', overflow: 'hidden' }}>
+                    <motion.div 
+                      initial={{ width: 0 }}
+                      animate={{ width: `${completionProgress}%` }}
+                      transition={{ duration: 1, ease: 'easeOut' }}
+                      style={{ 
+                        height: '100%', 
+                        background: completionProgress >= 100 ? '#10b981' : completionProgress > 0 ? 'var(--accent-color)' : 'transparent',
+                        borderRadius: '2px'
+                      }}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Medical & Legal Disclaimer Card */}
+      <div className="glass-panel" style={{ 
+        padding: '1.25rem', 
+        marginTop: '3rem',
+        marginBottom: '1rem', 
+        borderLeft: '4px solid #eab308',
+        display: 'flex',
+        flexWrap: 'wrap',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        gap: '1rem',
+        background: 'linear-gradient(to right, var(--surface-color), rgba(234, 179, 8, 0.04))'
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem', flex: 1, minWidth: '240px' }}>
+          <div style={{ background: 'rgba(234, 179, 8, 0.12)', padding: '0.7rem', borderRadius: '50%', color: '#eab308', flexShrink: 0 }}>
+            <AlertCircle size={24} />
+          </div>
+          <div>
+            <h4 style={{ margin: '0 0 0.25rem 0', color: 'var(--text-primary)', fontSize: '0.98rem', fontWeight: 700 }}>
+              Medical & Educational Disclaimer
+            </h4>
+            <p style={{ margin: 0, color: 'var(--text-secondary)', fontSize: '0.83rem', lineHeight: 1.45 }}>
+              Strictly for educational INBDE exam preparation. Does not constitute medical, dental, diagnostic, or clinical advice.
+            </p>
+          </div>
+        </div>
+        {onOpenDisclaimer && (
+          <button
+            type="button"
+            onClick={onOpenDisclaimer}
+            style={{
+              background: 'var(--surface-hover)',
+              border: '1px solid var(--border-color)',
+              color: 'var(--text-primary)',
+              padding: '0.65rem 1.15rem',
+              borderRadius: 'var(--radius-md)',
+              fontWeight: 600,
+              fontSize: '0.85rem',
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.45rem',
+              transition: 'all 0.2s ease',
+              whiteSpace: 'nowrap'
+            }}
+          >
+            <ShieldAlert size={16} color="#eab308" />
+            <span>View Disclaimer</span>
+          </button>
+        )}
+      </div>
+
+      <div style={{ marginTop: '4rem', padding: '2rem', border: '1px solid rgba(239, 68, 68, 0.3)', borderRadius: 'var(--radius-lg)', background: 'rgba(239, 68, 68, 0.05)', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1rem' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#ef4444', fontWeight: 700, fontSize: 'clamp(0.85rem, 4vw, 1rem)' }}>
+          <AlertOctagon size={24} /> Danger Zone
+        </div>
+        <p style={{ color: 'var(--text-secondary)', textAlign: 'center', margin: 0, maxWidth: '500px', fontSize: '0.95rem' }}>
+          This will permanently delete all your flagged questions, score history, and topic progress. This action cannot be undone.
+        </p>
+        <button 
+          onClick={() => {
+            setShowResetConfirm(true);
+          }}
+          style={{ background: '#ef4444', color: 'white', border: 'none', padding: '0.8rem 1.5rem', borderRadius: 'var(--radius-md)', fontWeight: 600, cursor: 'pointer', marginTop: '0.5rem', transition: 'background 0.2s ease' }}
+          onMouseEnter={(e) => e.currentTarget.style.background = '#dc2626'}
+          onMouseLeave={(e) => e.currentTarget.style.background = '#ef4444'}
+        >
+          Reset All Progress
+        </button>
+      </div>
+    <PaywallModal isOpen={showPaywall} onClose={() => setShowPaywall(false)} feature="Pro Features" />
+      <ConfirmModal
+        isOpen={showResetConfirm}
+        title="Reset All Progress?"
+        message="Are you absolutely sure you want to reset all progress? This will delete all history, scores, and mistakes. This action cannot be undone."
+        confirmLabel="Reset Progress"
+        confirmColor="#ef4444"
+        onCancel={() => setShowResetConfirm(false)}
+        onConfirm={() => { setShowResetConfirm(false); resetAllProgress(); }}
+      />
+    </motion.div>
+  );
+}
+
+
+
+
+
+
+
+
+

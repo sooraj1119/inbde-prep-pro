@@ -1,0 +1,312 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --nav-safe-top: env(safe-area-inset-top, 0px);
+  --bg-color: #f0f6ff;
+  --surface-color: rgba(255, 255, 255, 0.92);
+  --text-primary: #0f172a;
+  --text-secondary: #64748b;
+  --accent-color: #0284c7;
+  --success-color: #10b981;
+  --error-color: #ef4444;
+  --border-color: rgba(0, 0, 0, 0.1);
+  --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+  --surface-hover: #f1f5f9;
+  
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+}
+
+html.dark {
+  --bg-color: #0b1220;
+  --surface-color: rgba(22, 33, 55, 0.9);
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --accent-color: #38bdf8;
+  --success-color: #34d399;
+  --error-color: #f87171;
+  --border-color: rgba(255, 255, 255, 0.08);
+  --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+  --surface-hover: rgba(255, 255, 255, 0.06);
+}
+
+@media (max-width: 768px) {
+  :root {
+    /* On mobile devices, ensure at least 26px to safely clear hardware status bar & notch */
+    --nav-safe-top: max(env(safe-area-inset-top, 0px), 26px);
+  }
+}
+
+/* â”€â”€ Base â”€â”€ */
+*, *::before, *::after { box-sizing: border-box; }
+
+html::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: -1;
+  background-color: var(--bg-color);
+  background-image: radial-gradient(ellipse at 20% 10%, rgba(56, 189, 248, 0.10) 0%, transparent 60%),
+                    radial-gradient(ellipse at 80% 90%, rgba(16, 185, 129, 0.08) 0%, transparent 60%);
+  transition: background-color 0.3s ease;
+  pointer-events: none;
+}
+
+html {
+  color: var(--text-primary);
+  min-height: 100dvh;
+  background-color: var(--bg-color);
+}
+
+body {
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100dvh;
+  background-color: transparent !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: clip;
+  /* iOS safe areas padding on body */
+  padding-top: 0;
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+html.dark::before {
+  background-color: var(--bg-color);
+  background-image: radial-gradient(ellipse at 20% 10%, rgba(56, 189, 248, 0.06) 0%, transparent 60%),
+                    radial-gradient(ellipse at 80% 90%, rgba(52, 211, 153, 0.05) 0%, transparent 60%);
+}
+
+/* â”€â”€ Glass Panel â”€â”€ */
+.glass-panel {
+  background: var(--surface-color);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+}
+
+/* â”€â”€ Buttons â”€â”€ */
+.primary-btn {
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.4rem;
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.1s;
+  box-shadow: 0 4px 12px -2px rgba(2, 132, 199, 0.35);
+  white-space: nowrap;
+}
+
+.primary-btn:hover  { opacity: 0.88; }
+.primary-btn:active { transform: scale(0.97); }
+
+.secondary-btn {
+  background: var(--surface-hover);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  padding: 0.75rem 1.4rem;
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.secondary-btn:hover { background: var(--border-color); }
+
+/* â”€â”€ Nav button â”€â”€ */
+.nav-btn {
+  background: none;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 0.5rem 0.8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+.nav-btn:hover { background: var(--surface-hover); }
+
+/* â”€â”€ Bottom sheet safe area â”€â”€ */
+.bottom-sheet {
+  padding-bottom: calc(1.25rem + env(safe-area-inset-bottom));
+}
+
+/* â”€â”€ Shake animation (legacy) â”€â”€ */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60%  { transform: translateX(-5px); }
+  40%, 80%  { transform: translateX(5px); }
+}
+.shake { animation: shake 0.4s cubic-bezier(.36,.07,.19,.97) both; }
+
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+/* â”€â”€ Mobile responsive â”€â”€ */
+@media (max-width: 600px) {
+  /* Compact quiz panel on small screens */
+  .glass-panel { border-radius: var(--radius-md) !important; }
+
+  /* Hide logo text on tiny screens to save space */
+  .logo-text { display: none; }
+
+  /* Full-width buttons in quiz answer bottom sheet */
+  .bottom-sheet .primary-btn { font-size: 0.95rem; padding: 0.7rem 1rem; }
+
+  /* Reduce option padding on mobile */
+  .option-btn { padding: 0.9rem !important; font-size: 0.97rem !important; }
+}
+
+@media (max-width: 640px) {
+  .logo-text { display: none; }
+  .hide-on-mobile { display: none !important; }
+}
+
+
+
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+@media (max-width: 640px) {
+  .topic-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 0.75rem !important;
+  }
+  .topic-card {
+    padding: 1rem !important;
+  }
+  .topic-card h3 {
+    font-size: 1rem !important;
+  }
+  .topic-card .icon-wrapper {
+    padding: 0.6rem !important;
+  }
+  .topic-card .icon-wrapper svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .topic-card .stats-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.3rem !important;
+    font-size: 0.75rem !important;
+  }
+  .topic-card .completed-badge {
+    padding: 0.2rem 0.5rem !important;
+    font-size: 0.7rem !important;
+  }
+}
+
+
+body, html {
+  overflow-x: clip;
+}
+@media (max-width: 640px) {
+  main {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+  }
+  .topic-card {
+    padding: 0.85rem !important;
+  }
+  .topic-grid {
+    gap: 0.85rem !important;
+  }
+}
+
+/* ========================================================================== */
+/* Suppress Google Translate Floating Icon, Spinner, Tooltips & Banners       */
+/* ========================================================================== */
+html body [class*="VIpgJd"],
+html body .VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
+html body .VIpgJd-ZVi9od-aZ2wEe-OiiCO,
+html body .VIpgJd-ZVi9od-aZ2wEe,
+html body .VIpgJd-ZVi9od-ORHb-OEVmcd,
+html body .VIpgJd-yAWNEb-hvhgNd-THIOPb,
+html body .goog-te-banner-frame,
+html body .goog-te-balloon-frame,
+html body .goog-te-gadget,
+html body .goog-te-gadget-simple,
+html body .goog-te-gadget-icon,
+html body .goog-tooltip,
+html body .goog-tooltip-skiptranslate,
+html body #goog-gt-tt,
+html body #goog-gt-vt,
+html body #google_translate_element,
+html body iframe.skiptranslate,
+html body .skiptranslate > iframe.skiptranslate {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  max-width: 0 !important;
+  max-height: 0 !important;
+  z-index: -99999 !important;
+  position: absolute !important;
+  top: -9999px !important;
+  left: -9999px !important;
+  pointer-events: none !important;
+  overflow: hidden !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+.goog-text-highlight {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+
+main { position: relative; z-index: 1; }
+
+/* -- Dynamic Study Pacer -- */
+.study-pacer-card {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border: 1px solid #bbf7d0;
+  box-shadow: 0 4px 15px rgba(22, 163, 74, 0.1);
+}
+
+.study-pacer-title {
+  color: #166534;
+}
+
+.study-pacer-subtitle {
+  color: #15803d;
+}
+
+html.dark .study-pacer-card {
+  background: linear-gradient(135deg, rgba(34, 197, 94, 0.14) 0%, rgba(22, 163, 74, 0.08) 100%) !important;
+  border: 1px solid rgba(34, 197, 94, 0.25) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3) !important;
+}
+
+html.dark .study-pacer-title {
+  color: #4ade80 !important;
+}
+
+html.dark .study-pacer-subtitle {
+  color: #86efac !important;
+}

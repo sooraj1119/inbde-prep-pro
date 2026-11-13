@@ -1,0 +1,62 @@
+{
+  "totalQuestions": 14000,
+  "bySubject": {
+    "anatomical-sciences": {
+      "count": 1000,
+      "issues": 0
+    },
+    "biochemistry-physiology": {
+      "count": 500,
+      "issues": 0
+    },
+    "microbiology-immunology": {
+      "count": 500,
+      "issues": 0
+    },
+    "general-pathology": {
+      "count": 1000,
+      "issues": 0
+    },
+    "oral-pathology-medicine": {
+      "count": 1500,
+      "issues": 0
+    },
+    "pharmacology-anesthesia": {
+      "count": 2000,
+      "issues": 0
+    },
+    "operative-materials": {
+      "count": 1500,
+      "issues": 0
+    },
+    "periodontics": {
+      "count": 500,
+      "issues": 0
+    },
+    "endodontics": {
+      "count": 500,
+      "issues": 0
+    },
+    "prosthodontics-implants": {
+      "count": 1500,
+      "issues": 0
+    },
+    "oral-surgery-emergencies": {
+      "count": 1000,
+      "issues": 0
+    },
+    "orthodontics-pedodontics": {
+      "count": 1000,
+      "issues": 0
+    },
+    "oral-radiology": {
+      "count": 500,
+      "issues": 0
+    },
+    "patient-management-ethics": {
+      "count": 1000,
+      "issues": 0
+    }
+  },
+  "violations": []
+}

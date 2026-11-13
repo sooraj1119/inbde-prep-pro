@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/x-icon" href="/inbde-prep-pro/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/icons/icon-192.png" />
-    <link rel="manifest" href="/inbde-prep-pro/manifest.json" />
+    <link rel="manifest" href="/manifest.json" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0284c7" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -21,7 +21,50 @@
       })();
     </script>
 
-    <style>html body [class*=VIpgJd],html body .VIpgJd-ZVi9od-aZ2wEe-wOHMyf,html body .VIpgJd-ZVi9od-aZ2wEe-OiiCO,html body .VIpgJd-ZVi9od-aZ2wEe,html body .VIpgJd-ZVi9od-ORHb-OEVmcd,html body .VIpgJd-yAWNEb-hvhgNd-THIOPb,html body .goog-te-banner-frame,html body .goog-te-balloon-frame,html body .goog-te-gadget,html body .goog-te-gadget-simple,html body .goog-te-gadget-icon,html body .goog-tooltip,html body .goog-tooltip-skiptranslate,html body #goog-gt-tt,html body #goog-gt-vt,html body #google_translate_element,html body iframe.skiptranslate,html body .skiptranslate>iframe.skiptranslate{visibility:hidden!important;opacity:0!important;z-index:-99999!important;pointer-events:none!important;width:0!important;max-width:0!important;height:0!important;max-height:0!important;display:none!important;position:absolute!important;top:-9999px!important;left:-9999px!important;overflow:hidden!important}body{margin-top:0!important;position:static!important;top:0!important}.goog-text-highlight{box-shadow:none!important;background:0 0!important}</style>
+    <style>
+      /* Suppress Google Translate floating icon, spinner, banner, and tooltips entirely */
+      html body [class*="VIpgJd"],
+      html body .VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
+      html body .VIpgJd-ZVi9od-aZ2wEe-OiiCO,
+      html body .VIpgJd-ZVi9od-aZ2wEe,
+      html body .VIpgJd-ZVi9od-ORHb-OEVmcd,
+      html body .VIpgJd-yAWNEb-hvhgNd-THIOPb,
+      html body .goog-te-banner-frame,
+      html body .goog-te-balloon-frame,
+      html body .goog-te-gadget,
+      html body .goog-te-gadget-simple,
+      html body .goog-te-gadget-icon,
+      html body .goog-tooltip,
+      html body .goog-tooltip-skiptranslate,
+      html body #goog-gt-tt,
+      html body #goog-gt-vt,
+      html body #google_translate_element,
+      html body iframe.skiptranslate,
+      html body .skiptranslate > iframe.skiptranslate {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        height: 0 !important;
+        width: 0 !important;
+        max-width: 0 !important;
+        max-height: 0 !important;
+        z-index: -99999 !important;
+        position: absolute !important;
+        top: -9999px !important;
+        left: -9999px !important;
+        pointer-events: none !important;
+        overflow: hidden !important;
+      }
+      body {
+        top: 0px !important;
+        position: static !important;
+        margin-top: 0px !important;
+      }
+      .goog-text-highlight {
+        background: transparent !important;
+        box-shadow: none !important;
+      }
+    </style>
     <script>
       (function() {
         function hideGTWidget() {
@@ -51,13 +94,7 @@
         });
       }
     </script>
-    <script type="module" crossorigin src="/inbde-prep-pro/assets/index-CQdL3Ux8.js"></script>
-    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/dist-Btb5Jv1E.js">
-    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/storage-Xstzkset.js">
-    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/dist-D0bZphAR.js">
-    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/revenuecat-LaV02BIt.js">
-    <link rel="stylesheet" crossorigin href="/inbde-prep-pro/assets/index-DkDoMZn9.css">
-  <link rel="manifest" href="/inbde-prep-pro/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/inbde-prep-pro/registerSW.js"></script></head>
+  </head>
 
   <body>
     <!-- Google Translate widget — outside React root so React never destroys it -->
@@ -106,7 +143,8 @@
         };
       }
     </script>
-
+
+    <script type="module" src="/src/main.tsx"></script>
 
     <script type="text/javascript">
       function googleTranslateElementInit() {

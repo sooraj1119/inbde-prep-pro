@@ -1,0 +1,530 @@
+import { useState, useEffect } from 'react';
+import { App as CapacitorApp } from '@capacitor/app';
+import { Preferences } from '@capacitor/preferences';
+import { Capacitor } from '@capacitor/core';
+export interface TopicProgress {
+  topicId: string;
+  highestScore: number;
+  totalQuestions: number;
+  currentIndex: number;
+  currentScore: number;
+  isFinished: boolean;
+  questionsAnswered: number;
+}
+
+export interface SRSData {
+  questionId: string;
+  interval: number; // days until next review
+  repetition: number; // consecutive correct reviews
+  efactor: number; // easiness factor (starts at 2.5)
+  nextReviewDate: number; // timestamp in ms
+}
+
+const STORAGE_KEY = 'inbde_prep_progress';
+const FLAGS_KEY = 'inbde_prep_flags';
+const DISCLAIMER_KEY = 'inbde_prep_disclaimer_accepted';
+const SRS_KEY = 'inbde_prep_srs';
+
+// --- Topic Progress ---
+
+export const saveProgress = (
+  topicId: string, 
+  score: number, 
+  total: number, 
+  currentIndex: number, 
+  isFinished: boolean,
+  questionsAnswered: number
+) => {
+  try {
+    const existingStr = localStorage.getItem(STORAGE_KEY);
+    const existing: Record<string, TopicProgress> = existingStr ? JSON.parse(existingStr) : {};
+    
+    const prev = existing[topicId];
+    const prevHigh = prev?.highestScore || 0;
+    const prevTotal = prev?.totalQuestions || 0;
+    
+    let highestScore = prevHigh;
+    let totalQuestions = Math.max(prevTotal, total);
+    
+    if (isFinished) {
+      const prevRatio = prevTotal > 0 ? (prevHigh / prevTotal) : 0;
+      const newRatio = total > 0 ? (score / total) : 0;
+      
+      // Update high score if new accuracy ratio is strictly higher,
+      // or if equal accuracy ratio but over an equal or larger question set.
+      if (newRatio > prevRatio) {
+        highestScore = score;
+        totalQuestions = total;
+      } else if (newRatio === prevRatio && total >= prevTotal) {
+        highestScore = score;
+        totalQuestions = total;
+      }
+      // If newRatio < prevRatio, retain prevHigh and prevTotal intact!
+    }
+    
+    existing[topicId] = {
+      topicId,
+      highestScore: Math.min(highestScore, totalQuestions),
+      totalQuestions,
+      currentIndex: isFinished ? 0 : currentIndex,
+      currentScore: isFinished ? 0 : score,
+      isFinished: isFinished || (prev?.isFinished && !isFinished ? false : prev?.isFinished || false),
+      questionsAnswered: isFinished ? total : Math.min(questionsAnswered, total)
+    };
+    
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(existing));
+  } catch (error) {
+    console.error("Failed to save progress:", error);
+  }
+};
+
+export const getProgress = (): Record<string, TopicProgress> => {
+  try {
+    const str = localStorage.getItem(STORAGE_KEY);
+    return str ? JSON.parse(str) : {};
+  } catch {
+    return {};
+  }
+};
+
+export const getTopicProgress = (topicId: string): TopicProgress | null => {
+  const all = getProgress();
+  return all[topicId] || null;
+};
+
+// --- Flags ---
+
+export const getFlaggedQuestions = (): any[] => {
+  try {
+    const str = localStorage.getItem(FLAGS_KEY);
+    if (!str) return [];
+    const parsed = JSON.parse(str);
+    // Return deduplicated array
+    return Array.isArray(parsed) ? Array.from(new Set(parsed)).filter(id => String(id).includes('-')) : [];
+  } catch {
+    return [];
+  }
+};
+
+export const toggleFlagQuestion = (questionId: any): boolean => {
+  try {
+    let flags = getFlaggedQuestions();
+    let isFlagged = false;
+    
+    // Loose comparison by converting to string to prevent duplicate "123" vs 123
+    const exists = flags.some(id => String(id) === String(questionId));
+    
+    if (exists) {
+      flags = flags.filter(id => String(id) !== String(questionId));
+    } else {
+      flags.push(questionId);
+      isFlagged = true;
+    }
+    
+    flags = Array.from(new Set(flags));
+    localStorage.setItem(FLAGS_KEY, JSON.stringify(flags));
+    return isFlagged;
+  } catch (error) {
+    console.error("Failed to toggle flag:", error);
+    return false;
+  }
+};
+
+// --- Disclaimer ---
+const DISCLAIMER_SESSION_KEY = 'inbde_prep_disclaimer_session_accepted';
+
+let memoryDisclaimerAccepted = false;
+
+export const hasAcceptedDisclaimer = (): boolean => {
+  try {
+    // Automated Playwright test suite support where localStorage is explicitly mocked/pre-seeded
+    if (typeof window !== 'undefined' && (window as any).navigator?.webdriver) {
+      if (localStorage.getItem(DISCLAIMER_KEY) === 'true') {
+        return true;
+      }
+    }
+    if (typeof sessionStorage !== 'undefined') {
+      if (sessionStorage.getItem(DISCLAIMER_SESSION_KEY) === 'true') {
+        return true;
+      }
+    }
+    return memoryDisclaimerAccepted;
+  } catch {
+    return false;
+  }
+};
+
+export const resetDisclaimer = () => {
+  try {
+    memoryDisclaimerAccepted = false;
+    if (typeof sessionStorage !== 'undefined') {
+      sessionStorage.removeItem(DISCLAIMER_SESSION_KEY);
+    }
+    localStorage.removeItem(DISCLAIMER_KEY);
+  } catch (error) {
+    console.error('Failed to reset disclaimer acceptance:', error);
+  }
+};
+
+export const acceptDisclaimer = () => {
+  try {
+    memoryDisclaimerAccepted = true;
+    if (typeof sessionStorage !== 'undefined') {
+      sessionStorage.setItem(DISCLAIMER_SESSION_KEY, 'true');
+    }
+    localStorage.setItem(DISCLAIMER_KEY, 'true');
+  } catch (error) {
+    console.error("Failed to save disclaimer acceptance:", error);
+  }
+};
+
+// --- Spaced Repetition System (SM-2 Algorithm) ---
+
+export const getAllSRSData = (): Record<string, SRSData> => {
+  try {
+    const str = localStorage.getItem(SRS_KEY);
+    return str ? JSON.parse(str) : {};
+  } catch {
+    return {};
+  }
+};
+
+export const getDueSRSQuestions = (): string[] => {
+  const allData = getAllSRSData();
+  const now = Date.now();
+  const dueIds: string[] = [];
+  
+  for (const qId in allData) {
+    if (String(qId).includes('-') && allData[qId].nextReviewDate <= now) {
+      dueIds.push(String(qId));
+    }
+  }
+  return dueIds;
+};
+
+// Log a question answer using SuperMemo-2 (SM-2)
+export const logSRSAnswer = (questionId: string, isCorrect: boolean) => {
+  try {
+    const allData = getAllSRSData();
+    const existing = allData[questionId];
+    
+    let interval = 1;
+    let repetition = 0;
+    let efactor = 2.5;
+    
+    if (existing) {
+      interval = existing.interval;
+      repetition = existing.repetition;
+      efactor = existing.efactor;
+    }
+
+    const quality = isCorrect ? 4 : 0;
+
+    if (quality >= 3) {
+      if (repetition === 0) {
+        interval = 1;
+      } else if (repetition === 1) {
+        interval = 6;
+      } else {
+        interval = Math.round(interval * efactor);
+      }
+      repetition += 1;
+    } else {
+      repetition = 0;
+      interval = 1;
+    }
+
+    efactor = efactor + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02));
+    if (efactor < 1.3) efactor = 1.3;
+
+    // 1 day = 86400000 ms
+    const nextReviewDate = Date.now() + (interval * 86400000);
+
+    allData[questionId] = {
+      questionId,
+      interval,
+      repetition,
+      efactor,
+      nextReviewDate
+    };
+
+    localStorage.setItem(SRS_KEY, JSON.stringify(allData));
+  } catch (error) {
+    console.error("Failed to log SRS answer:", error);
+  }
+};
+
+// --- Gamification ---
+const GAMIFICATION_KEY = 'inbde_prep_gamification';
+
+export interface GamificationData {
+  currentStreak: number;
+  lastVisitDate: string; // YYYY-MM-DD
+  badges: string[];
+}
+
+export const getGamification = (): GamificationData => {
+  try {
+    const str = localStorage.getItem(GAMIFICATION_KEY);
+    if (str) {
+      return JSON.parse(str);
+    }
+  } catch (e) { void e; }
+  
+  return {
+    currentStreak: 0,
+    lastVisitDate: '',
+    badges: []
+  };
+};
+
+export const logDailyVisit = () => {
+  try {
+    const data = getGamification();
+    const today = new Date().toISOString().split('T')[0];
+    
+    if (data.lastVisitDate === today) {
+      // Already logged today
+      return data.currentStreak;
+    }
+    
+    const lastVisit = new Date(data.lastVisitDate);
+    const currentDate = new Date(today);
+    const diffTime = Math.abs(currentDate.getTime() - lastVisit.getTime());
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    
+    if (diffDays === 1) {
+      data.currentStreak += 1;
+    } else if (diffDays > 1 || !data.lastVisitDate || isNaN(diffDays)) {
+      // isNaN guard: handles corrupted lastVisitDate strings
+      data.currentStreak = 1;
+    }
+    
+    data.lastVisitDate = today;
+    localStorage.setItem(GAMIFICATION_KEY, JSON.stringify(data));
+    return data.currentStreak;
+  } catch {
+    return 0;
+  }
+};
+
+export const awardBadge = (badgeId: string) => {
+  try {
+    const data = getGamification();
+    if (!data.badges.includes(badgeId)) {
+      data.badges.push(badgeId);
+      localStorage.setItem(GAMIFICATION_KEY, JSON.stringify(data));
+      return true; // newly awarded
+    }
+    return false;
+  } catch {
+    return false;
+  }
+};
+
+// --- Premium State ---
+const PREMIUM_KEY = 'inbde_prep_is_premium';
+
+/**
+ * React hook that reflects the current premium status.
+ *
+ * Source of truth hierarchy:
+ *   1. RevenueCat (fetched on init, on foregrounding, and on every purchase/restore).
+ *   2. localStorage / native Preferences — cache only, used for instant first render.
+ *
+ * The hook subscribes to the 'premium_status_changed' custom event, which is
+ * dispatched by setIsPremium() every time RevenueCat confirms a new value.
+ */
+export const usePremiumStatus = () => {
+  const [isPremium, setIsPremiumState] = useState(getIsPremium());
+
+  useEffect(() => {
+    // Re-read cache whenever RC confirms a new value
+    const handleStatusChange = () => setIsPremiumState(getIsPremium());
+    window.addEventListener('premium_status_changed', handleStatusChange);
+
+    // Helper: re-sync from RC on app resume
+    const syncInBackground = () => {
+      // Dynamic import avoids circular dep: storage <-> revenuecat
+      import('./revenuecat').then(({ syncPremiumStatus }) => {
+        syncPremiumStatus().catch(() => {});
+      });
+    };
+
+    // Web/PWA: visibilitychange covers tab switching and PWA foreground
+    const handleVisibility = () => {
+      if (document.visibilityState === 'visible') syncInBackground();
+    };
+    document.addEventListener('visibilitychange', handleVisibility);
+
+    // Native (iOS/Android): appStateChange is more reliable than visibilitychange
+    // in a Capacitor WebView. Both listeners are registered; whichever fires first
+    // triggers the sync. Duplicate syncs are harmless.
+    let appStateListener: Promise<{ remove: () => void }> | null = null;
+    try {
+      appStateListener = CapacitorApp.addListener('appStateChange', ({ isActive }) => {
+        if (isActive) syncInBackground();
+      });
+    } catch (_) {
+      // Not on a native platform — fall through, visibilitychange is enough
+    }
+
+    return () => {
+      window.removeEventListener('premium_status_changed', handleStatusChange);
+      document.removeEventListener('visibilitychange', handleVisibility);
+      appStateListener?.then(l => l.remove()).catch(() => {});
+    };
+  }, []);
+
+  return isPremium;
+};
+
+export const getIsPremium = (): boolean => {
+  try {
+    return localStorage.getItem(PREMIUM_KEY) === 'true';
+  } catch {
+    return false;
+  }
+};
+
+export const setIsPremium = (status: boolean) => {
+  try {
+    localStorage.setItem(PREMIUM_KEY, status ? 'true' : 'false');
+    // Also persist to native Preferences so it survives WebView reloads on Android/iOS
+    if (Capacitor.isNativePlatform()) {
+      Preferences.set({ key: PREMIUM_KEY, value: status ? 'true' : 'false' }).catch(() => {});
+    }
+    // Dispatch an event so components can update instantly
+    window.dispatchEvent(new Event('premium_status_changed'));
+  } catch (e) { void e; }
+};
+
+// --- History / Learning Curve ---
+const HISTORY_KEY = 'inbde_prep_history';
+
+export interface QuizAttempt {
+  topicId: string; // 'simulated', 'srs', or actual topic ID
+  score: number;
+  total: number;
+  timestamp: number;
+}
+
+export const getHistory = (): QuizAttempt[] => {
+  try {
+    const str = localStorage.getItem(HISTORY_KEY);
+    return str ? JSON.parse(str) : [];
+  } catch {
+    return [];
+  }
+};
+
+export const logQuizAttempt = (topicId: string, score: number, total: number) => {
+  try {
+    let history = getHistory();
+    history.push({
+      topicId,
+      score,
+      total,
+      timestamp: Date.now()
+    });
+    if (history.length > 1000) history = history.slice(history.length - 1000);
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+  } catch (error) {
+    console.error("Failed to save history:", error);
+  }
+};
+
+// --- Active Mock Exam State ---
+const MOCK_EXAM_KEY = 'inbde_prep_active_mock';
+
+export interface ActiveMockExam {
+  questions: any[];
+  currentIndex: number;
+  score: number;
+  endTime?: number;
+}
+
+export const getActiveMockExam = (): ActiveMockExam | null => {
+  try {
+    const str = localStorage.getItem(MOCK_EXAM_KEY);
+    return str ? JSON.parse(str) : null;
+  } catch {
+    return null;
+  }
+};
+
+export const saveActiveMockExam = (data: ActiveMockExam) => {
+  try {
+    localStorage.setItem(MOCK_EXAM_KEY, JSON.stringify(data));
+  } catch (error) {
+    console.error("Failed to save active mock exam:", error);
+  }
+};
+
+export const clearActiveMockExam = () => {
+  try {
+    localStorage.removeItem(MOCK_EXAM_KEY);
+  } catch (e) { void e; }
+};
+
+export const resetAllProgress = () => { if (typeof sessionStorage !== 'undefined') { sessionStorage.removeItem('inbde_prep_disclaimer_session_accepted'); } memoryDisclaimerAccepted = false; localStorage.removeItem(STORAGE_KEY); localStorage.removeItem(DISCLAIMER_KEY); localStorage.removeItem(FLAGS_KEY); localStorage.removeItem(SRS_KEY); localStorage.removeItem(GAMIFICATION_KEY); localStorage.removeItem(HISTORY_KEY); localStorage.removeItem(MOCK_EXAM_KEY); localStorage.removeItem(MISTAKES_KEY); localStorage.removeItem(EXAM_DATE_KEY); window.location.reload(); };
+
+// --- Mistakes Tracking ---
+
+const MISTAKES_KEY = 'inbde_prep_mistakes';
+
+export const getMistakes = (): any[] => {
+  try {
+    const data = localStorage.getItem(MISTAKES_KEY);
+    if (!data) return [];
+    const parsed = JSON.parse(data);
+    return Array.isArray(parsed) ? Array.from(new Set(parsed)).filter(id => String(id).includes('-')) : [];
+  } catch {
+    return [];
+  }
+};
+
+export const logMistake = (questionId: any) => {
+  try {
+    let mistakes = getMistakes();
+    const exists = mistakes.some(id => String(id) === String(questionId));
+    if (!exists) {
+      mistakes.push(questionId);
+      mistakes = Array.from(new Set(mistakes));
+      localStorage.setItem(MISTAKES_KEY, JSON.stringify(mistakes));
+    }
+  } catch (e) { console.error('Failed to log mistake:', e); }
+};
+
+export const removeMistake = (questionId: any) => {
+  try {
+    const mistakes = getMistakes();
+    const updated = mistakes.filter(id => String(id) !== String(questionId));
+    localStorage.setItem(MISTAKES_KEY, JSON.stringify(Array.from(new Set(updated))));
+  } catch (e) { console.error('Failed to remove mistake:', e); }
+};
+
+
+// --- Study Pacing ---
+const EXAM_DATE_KEY = 'inbde_prep_exam_date';
+
+export const getExamDate = (): number | null => {
+  try {
+    const d = localStorage.getItem(EXAM_DATE_KEY);
+    return d ? parseInt(d) : null;
+  } catch {
+    return null;
+  }
+};
+
+export const setExamDate = (timestamp: number | null): void => {
+  try {
+    if (timestamp === null) {
+      localStorage.removeItem(EXAM_DATE_KEY);
+    } else {
+      localStorage.setItem(EXAM_DATE_KEY, timestamp.toString());
+    }
+  } catch (e) { void e; }
+};
+
+
