@@ -13,7 +13,7 @@ export async function generateExplanation(question: string, correctAnswer: strin
     return "API Key not configured. Please add VITE_GEMINI_API_KEY to your .env.local file in the project folder.";
   }
 
-  const prompt = `You are an expert dental tutor helping a student prepare for the NDEB AFK exam.
+  const prompt = `You are an expert dental tutor helping a student prepare for the INBDE (Integrated National Board Dental Examination).
 The student answered a multiple-choice question incorrectly.
 Question: "${question}"
 Correct Answer: "${correctAnswer}"

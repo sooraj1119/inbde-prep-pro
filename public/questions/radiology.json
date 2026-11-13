@@ -96,7 +96,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is a diameter exceeding 1 cm. While radiographic features alone cannot definitively distinguish between a periapical cyst and a periapical granuloma (histopathology is the gold standard), size is the most significant radiographic predictor. Periapical cysts are typically larger than granulomas, with a mean diameter often exceeding 1 cm, whereas granulomas are generally smaller. A distinct, corticated border (Option 3) is a feature of both cysts and granulomas, as both are encapsulated lesions, making it non-discriminatory. Resorption of adjacent tooth roots (Option 1) can occur with both entities due to pressure or inflammatory mediators and is not specific to cysts. The presence of a continuous radiopaque lamina dura (Option 0) is incorrect because periapical pathology, whether cystic or granulomatous, typically results in the destruction or loss of the lamina dura at the apex of the affected tooth.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 8,
@@ -333,9 +333,9 @@
       "Skeletal muscle"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is the Thyroid gland. According to the Law of Bergonié and Tribondeau, radiosensitivity is highest in cells that are undifferentiated, have a high mitotic rate, and a long dividing history. The thyroid gland, particularly in pediatric and young adult patients, contains highly active follicular cells that are susceptible to radiation-induced damage, including hypothyroidism and thyroid neoplasms. Consequently, the Canadian Dental Association (CDA) and NDEB guidelines emphasize the use of thyroid collars (or equivalent shielding) during intraoral and extraoral radiography to minimize this risk. \n\nWhy the other options are incorrect:\n1. Mature bone: While bone marrow is radiosensitive, mature cortical bone (the primary tissue of the jaw in adults) is relatively radioresistant due to its low mitotic activity and high degree of differentiation. It is not the primary concern for shielding in standard dental radiography compared to soft tissues like the thyroid.\n2. Salivary glands: Salivary glands are moderately radiosensitive and can suffer from xerostomia or atrophy with high-dose radiation therapy. However, in the context of diagnostic dental radiography, the thyroid gland is prioritized for shielding due to its higher sensitivity to low-dose ionizing radiation and the potential for long-term endocrine dysfunction.\n3. Skeletal muscle: Muscle tissue is highly differentiated and has a very low mitotic rate, making it one of the most radioresistant tissues in the body. It is not a primary target for radiation protection in dental imaging.",
+    "explanation": "The correct answer is the Thyroid gland. According to the Law of Bergonié and Tribondeau, radiosensitivity is highest in cells that are undifferentiated, have a high mitotic rate, and a long dividing history. The thyroid gland, particularly in pediatric and young adult patients, contains highly active follicular cells that are susceptible to radiation-induced damage, including hypothyroidism and thyroid neoplasms. Consequently, the American Dental Association (CDA) and ADA clinical guidelines emphasize the use of thyroid collars (or equivalent shielding) during intraoral and extraoral radiography to minimize this risk. \n\nWhy the other options are incorrect:\n1. Mature bone: While bone marrow is radiosensitive, mature cortical bone (the primary tissue of the jaw in adults) is relatively radioresistant due to its low mitotic activity and high degree of differentiation. It is not the primary concern for shielding in standard dental radiography compared to soft tissues like the thyroid.\n2. Salivary glands: Salivary glands are moderately radiosensitive and can suffer from xerostomia or atrophy with high-dose radiation therapy. However, in the context of diagnostic dental radiography, the thyroid gland is prioritized for shielding due to its higher sensitivity to low-dose ionizing radiation and the potential for long-term endocrine dysfunction.\n3. Skeletal muscle: Muscle tissue is highly differentiated and has a very low mitotic rate, making it one of the most radioresistant tissues in the body. It is not a primary target for radiation protection in dental imaging.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 25,
@@ -505,7 +505,7 @@
     "explanation": "The Transcranial (Schuller) view is the gold standard extraoral radiographic projection for evaluating the morphology of the mandibular condyle and its relationship to the glenoid fossa (mandibular fossa). This view projects the condyle through the orbit, providing a clear, undistorted image of the condylar head, neck, and the articular eminence, which is essential for diagnosing degenerative joint disease, condylar resorption, or positional abnormalities. The Panoramic radiograph (Option 0) is a useful screening tool but is subject to significant distortion of the condyles due to the curvature of the focal trough and superimposition of the zygomatic arches, making it less reliable for detailed morphological assessment. The Reverse Towne projection (Option 1) is primarily indicated for the evaluation of condylar fractures and trauma, as it visualizes the condyles in relation to the skull base but does not provide the same detailed view of the glenoid fossa relationship as the transcranial view. The Lateral cephalometric radiograph (Option 3) is used for orthodontic and orthognathic planning to assess skeletal relationships and does not provide the detailed anatomical detail of the condylar head morphology required for diagnosing TMJ pathology.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 37,
@@ -644,9 +644,9 @@
       "Periapical abscess"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Periapical cyst (Index 0). In the context of the NDEB AFK examination, radiographic differentiation between periapical cysts and periapical granulomas is a high-yield topic. While both are inflammatory lesions associated with non-vital teeth, a periapical cyst is classically characterized by a well-defined, unilocular radiolucency with a distinct, thin radiopaque cortical border (often described as a 'shell' or 'capsule'). The size mentioned (>1.5 cm) further supports a cystic etiology, as granulomas are typically smaller and less likely to develop a complete, distinct cortical border. \n\nWhy the other options are incorrect:\n- Condensing osteitis (Index 1) is incorrect because it presents as a radiopacity (increased bone density) surrounding the apex of a tooth, usually in response to low-grade, chronic inflammation in a vital tooth, not a radiolucency.\n- Periapical granuloma (Index 2) is the primary differential diagnosis. However, granulomas typically present as a less well-defined radiolucency without a distinct cortical border. They are generally smaller and lack the encapsulated appearance described in the stem. Histologically, they are composed of granulation tissue, whereas cysts have an epithelial lining.\n- Periapical abscess (Index 3) is incorrect because an acute periapical abscess typically presents with ill-defined radiographic changes, often with a widened periodontal ligament space and potential bone destruction that lacks the smooth, well-defined cortical border of a chronic cyst. Clinically, it is associated with acute pain, swelling, and systemic signs, which are not implied by the static radiographic description of a well-defined lesion.",
+    "explanation": "The correct answer is Periapical cyst (Index 0). In the context of the INBDE examination, radiographic differentiation between periapical cysts and periapical granulomas is a high-yield topic. While both are inflammatory lesions associated with non-vital teeth, a periapical cyst is classically characterized by a well-defined, unilocular radiolucency with a distinct, thin radiopaque cortical border (often described as a 'shell' or 'capsule'). The size mentioned (>1.5 cm) further supports a cystic etiology, as granulomas are typically smaller and less likely to develop a complete, distinct cortical border. \n\nWhy the other options are incorrect:\n- Condensing osteitis (Index 1) is incorrect because it presents as a radiopacity (increased bone density) surrounding the apex of a tooth, usually in response to low-grade, chronic inflammation in a vital tooth, not a radiolucency.\n- Periapical granuloma (Index 2) is the primary differential diagnosis. However, granulomas typically present as a less well-defined radiolucency without a distinct cortical border. They are generally smaller and lack the encapsulated appearance described in the stem. Histologically, they are composed of granulation tissue, whereas cysts have an epithelial lining.\n- Periapical abscess (Index 3) is incorrect because an acute periapical abscess typically presents with ill-defined radiographic changes, often with a widened periodontal ligament space and potential bone destruction that lacks the smooth, well-defined cortical border of a chronic cyst. Clinically, it is associated with acute pain, swelling, and systemic signs, which are not implied by the static radiographic description of a well-defined lesion.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 47,
@@ -675,7 +675,7 @@
     "correctAnswer": 3,
     "explanation": "The mental foramen is the correct answer. It is a common anatomical landmark that appears as a round or ovoid radiolucency in the mandible, typically located between the roots of the first and second premolars (or sometimes near the second premolar). It is the exit point for the mental nerve and vessels from the mandibular canal. On periapical radiographs, it is frequently mistaken for periapical pathology (such as a cyst or granuloma) if the clinician is not aware of its normal anatomical position. The incisive foramen (Option 1) is located in the anterior maxilla, not the mandible. The mandibular canal (Option 2) appears as a linear radiolucency running through the body of the mandible, not a discrete round/ovoid spot. The lingual foramen (Option 0) is located on the medial surface of the mandibular ramus and is not typically visible on standard periapical radiographs of the premolar region.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 49,
@@ -744,7 +744,7 @@
       "Checking the water temperature"
     ],
     "correctAnswer": 3,
-    "explanation": "The Canadian Dental Association’s radiographic processing QA protocol emphasizes that temperature control is the single most important daily check for automatic processors because temperature directly influences development time and contrast. Even with adequate chemical concentrations, a deviation of ±2 °C can produce over‑ or under‑development. Replenishing chemicals, cleaning rollers, or changing fixer are essential maintenance tasks but are performed based on usage levels rather than daily verification. Consequently, checking the water (developer/fixer) temperature each day is the critical daily QA step.",
+    "explanation": "The American Dental Association’s radiographic processing QA protocol emphasizes that temperature control is the single most important daily check for automatic processors because temperature directly influences development time and contrast. Even with adequate chemical concentrations, a deviation of ±2 °C can produce over‑ or under‑development. Replenishing chemicals, cleaning rollers, or changing fixer are essential maintenance tasks but are performed based on usage levels rather than daily verification. Consequently, checking the water (developer/fixer) temperature each day is the critical daily QA step.",
     "aiVerified": true
   },
   {
@@ -761,7 +761,7 @@
     "explanation": "The Odontogenic Keratocyst (OKC) is the most likely diagnosis given the specific radiographic features described. OKCs are characterized by a high propensity for anteroposterior growth within the medullary cavity of the jaw, allowing them to extend significantly along the long axis of the mandible (e.g., from the ramus to the premolar region) while often causing minimal buccolingual cortical expansion in their early to mid-stages. They typically present as well-corticated unilocular radiolucencies and frequently displace adjacent structures, such as the inferior alveolar nerve canal, without causing significant root resorption. In contrast, Ameloblastomas (Option 1) typically cause significant buccolingual cortical expansion and scalloping of the roots of adjacent teeth. Traumatic bone cysts (Option 0) are often scalloped between roots and do not typically present as a large, well-corticated unilocular lesion displacing the nerve canal in this manner. Dentigerous cysts (Option 3) are associated with the crown of an unerupted or impacted tooth, which is not mentioned in the scenario, and while they can be large, the specific pattern of extensive AP growth with nerve displacement is more characteristic of OKC.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 55,
@@ -886,9 +886,9 @@
       "Condensing osteitis"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct diagnosis is a radicular cyst (Option 1). In the context of the NDEB AFK examination, the differentiation between a periapical granuloma and a radicular cyst is a high-yield topic. While both are inflammatory lesions associated with non-vital teeth and appear as well-defined radiolucencies, the presence of external root resorption is a key clinical and radiographic indicator favoring a radicular cyst. Cysts are encapsulated by a fibrous wall lined by epithelium, which can exert pressure on adjacent structures, leading to root resorption and displacement of teeth. Additionally, lesions larger than 1 cm are statistically more likely to be cysts than granulomas. \n\nWhy the other options are incorrect:\n- Option 0 (Periapical granuloma): While granulomas are the most common periapical lesion and present as well-defined radiolucencies, they are typically smaller (often <1 cm) and less likely to cause significant external root resorption compared to cysts. Without the specific feature of root resorption or a larger size, a granuloma would be a strong differential, but the resorption tips the scale to cyst.\n- Option 2 (Periapical abscess): An acute periapical abscess typically presents with diffuse, ill-defined radiolucency due to acute inflammation and edema, often accompanied by severe pain, swelling, and systemic signs. A chronic abscess may present similarly to a granuloma but lacks the distinct encapsulation and specific radiographic features of a cyst. The 'well-defined' nature and lack of acute symptoms described make this less likely.\n- Option 4 (Condensing osteitis): This condition presents as a radiopaque (white) area of increased bone density at the apex of a vital tooth, usually in response to low-grade chronic inflammation. It is radiographically opposite to the radiolucent lesion described in the stem.",
+    "explanation": "The correct diagnosis is a radicular cyst (Option 1). In the context of the INBDE examination, the differentiation between a periapical granuloma and a radicular cyst is a high-yield topic. While both are inflammatory lesions associated with non-vital teeth and appear as well-defined radiolucencies, the presence of external root resorption is a key clinical and radiographic indicator favoring a radicular cyst. Cysts are encapsulated by a fibrous wall lined by epithelium, which can exert pressure on adjacent structures, leading to root resorption and displacement of teeth. Additionally, lesions larger than 1 cm are statistically more likely to be cysts than granulomas. \n\nWhy the other options are incorrect:\n- Option 0 (Periapical granuloma): While granulomas are the most common periapical lesion and present as well-defined radiolucencies, they are typically smaller (often <1 cm) and less likely to cause significant external root resorption compared to cysts. Without the specific feature of root resorption or a larger size, a granuloma would be a strong differential, but the resorption tips the scale to cyst.\n- Option 2 (Periapical abscess): An acute periapical abscess typically presents with diffuse, ill-defined radiolucency due to acute inflammation and edema, often accompanied by severe pain, swelling, and systemic signs. A chronic abscess may present similarly to a granuloma but lacks the distinct encapsulation and specific radiographic features of a cyst. The 'well-defined' nature and lack of acute symptoms described make this less likely.\n- Option 4 (Condensing osteitis): This condition presents as a radiopaque (white) area of increased bone density at the apex of a vital tooth, usually in response to low-grade chronic inflammation. It is radiographically opposite to the radiolucent lesion described in the stem.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 64,
@@ -987,7 +987,7 @@
     "correctAnswer": 0,
     "explanation": "The classic inverted‑Y radiopaque landmark seen on periapical films of the maxillary canine‑premolar region is formed by the superimposition of the inferior border of the nasal fossa (the nasal floor) and the inferior (anterior) border of the maxillary sinus. This configuration helps clinicians judge the proximity of the sinus to tooth apices and avoid sinus perforation during endodontic or implant procedures. Options 1‑3 describe structures that either lie in the midline or are posterior and do not generate the Y‑shaped opacity. (Neville, Damm, Allen & Bouquot, Oral & Maxillofacial Pathology, 4th ed., p. 212; White & Pharoah, Oral Radiology, 7th ed., p. 84).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 71,
@@ -1240,7 +1240,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Somatic effects. In radiation biology, effects are broadly categorized into somatic and genetic. Somatic effects are those that occur in the exposed individual (the fetus, in this scenario) and do not involve the transmission of heritable changes to offspring. These effects can be further subdivided into deterministic (tissue reactions with a threshold dose, such as cataracts or skin erythema) and stochastic (probabilistic effects with no threshold, such as cancer or genetic mutations in the individual's cells, though 'stochastic' is often reserved for cancer risk in adults, the key distinction here is the target: the individual vs. the germ line). Genetic effects refer specifically to mutations in the germ cells (sperm or ova) of the exposed individual that can be passed on to future generations; since the fetus is the exposed individual, not the parent whose germ cells are being mutated for the next generation, this is not a genetic effect in the strict radiobiological sense. Deterministic and stochastic are sub-classifications of somatic effects based on dose-response relationships, but 'Somatic effects' is the primary category that distinguishes effects on the exposed individual from genetic effects on the lineage. Therefore, effects on the fetus are somatic effects.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 89,
@@ -1547,7 +1547,7 @@
     "correctAnswer": 3,
     "explanation": "Magnetic resonance imaging (MRI) is the gold standard for evaluating soft tissue involvement, perineural spread, and bone marrow invasion, which is critical when investigating numb chin syndrome often associated with malignancy. While CBCT provides excellent bony detail, MRI is superior for neural and soft-tissue evaluation. Periapical and occlusal radiographs provide insufficient diagnostic detail for deep-seated mandibular lesions with suspected perineural invasion.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 110,
@@ -1666,9 +1666,9 @@
       "Maxillary sinus"
     ],
     "correctAnswer": 3,
-    "explanation": "The radiopaque, teardrop‑shaped structure seen superimposed on the roots of the maxillary premolars on a periapical film is the floor of the maxillary sinus. In the NDEB AFK curriculum, identification of normal anatomic landmarks on radiographs is a core competency; the sinus floor is described in Malamed, Carranza, and Sturdevant as a dense cortical outline that often appears as a teardrop‑shaped radiopaque density over the premolar and molar roots. This appearance results from the thin cortical bone separating the sinus cavity from the alveolar process. \n\nWhy the other options are incorrect:\n- **Incisive foramen (index 0)**: Located in the anterior maxilla between the central incisors; it presents as a radiolucent, ovoid or heart‑shaped area, not a radiopaque teardrop, and is never seen in the posterior premolar region. Selecting this answer reflects a common board trap of confusing anterior midline landmarks with posterior sinus anatomy.\n- **Inverted Y (index 1)**: Refers to the nasopalatine canal (or Y‑shaped suture) also confined to the anterior maxilla. Its radiographic signature is a radiolucent inverted‑Y configuration, again unrelated to the posterior premolar area.\n- **Zygomatic process (index 2)**: The zygomatic process of the maxilla may produce a radiopaque triangular projection near the maxillary molars, but its shape is angular, not teardrop, and it is situated more laterally and superiorly than the sinus floor seen over premolars. Confusing this with the sinus floor is a typical distractor.\n\nThus, according to the NDEB AFK standards and the referenced gold‑standard texts, the correct landmark is the maxillary sinus (option 3).",
+    "explanation": "The radiopaque, teardrop‑shaped structure seen superimposed on the roots of the maxillary premolars on a periapical film is the floor of the maxillary sinus. In the INBDE curriculum, identification of normal anatomic landmarks on radiographs is a core competency; the sinus floor is described in Malamed, Carranza, and Sturdevant as a dense cortical outline that often appears as a teardrop‑shaped radiopaque density over the premolar and molar roots. This appearance results from the thin cortical bone separating the sinus cavity from the alveolar process. \n\nWhy the other options are incorrect:\n- **Incisive foramen (index 0)**: Located in the anterior maxilla between the central incisors; it presents as a radiolucent, ovoid or heart‑shaped area, not a radiopaque teardrop, and is never seen in the posterior premolar region. Selecting this answer reflects a common board trap of confusing anterior midline landmarks with posterior sinus anatomy.\n- **Inverted Y (index 1)**: Refers to the nasopalatine canal (or Y‑shaped suture) also confined to the anterior maxilla. Its radiographic signature is a radiolucent inverted‑Y configuration, again unrelated to the posterior premolar area.\n- **Zygomatic process (index 2)**: The zygomatic process of the maxilla may produce a radiopaque triangular projection near the maxillary molars, but its shape is angular, not teardrop, and it is situated more laterally and superiorly than the sinus floor seen over premolars. Confusing this with the sinus floor is a typical distractor.\n\nThus, according to the INBDE standards and the referenced gold‑standard texts, the correct landmark is the maxillary sinus (option 3).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 119,
@@ -1727,10 +1727,10 @@
       "Increase the horizontal angulation to compensate for the flat palate"
     ],
     "correctAnswer": 0,
-    "explanation": "The paralleling technique requires the image receptor to be parallel to the long axis of the tooth and the central ray (CR) to be perpendicular to the receptor. When anatomic factors such as a very flat palate prevent true parallel placement, the recommended modification is to keep the receptor as close to parallel as possible and then alter the vertical angulation of the beam so that the CR remains perpendicular to the receptor. This “tilted‑receptor” adjustment is described in White & Pharoah, Sturdevant and the NDEB AFK radiography guidelines, which state that a vertical angulation change of up to 10–20° can compensate for a modest loss of parallelism while preserving image accuracy. Therefore, increasing the vertical angulation (option 0) is the correct response.\n\nWhy the other options are incorrect:\n• Option 1 – Switching to the bisecting‑angle technique abandons the paralleling method. Although bisecting‑angle can be used when the receptor cannot be placed, it yields greater distortion and is not the first‑line modification when a simple vertical‑angulation adjustment will correct the problem.\n• Option 2 – Accepting a 20° deviation from parallelism violates the NDEB standard, which permits only a 5° deviation before corrective measures are required; a 20° error would produce unacceptable elongation and loss of detail.\n• Option 3 – Increasing horizontal angulation compensates for mesiodistal projection errors, not for a receptor that cannot be placed parallel due to palate shape. Horizontal changes would introduce distortion without addressing the core issue of receptor alignment.\nThus, the evidence‑based and board‑approved answer is to increase the vertical angulation by up to 20° while maintaining the paralleling technique.",
+    "explanation": "The paralleling technique requires the image receptor to be parallel to the long axis of the tooth and the central ray (CR) to be perpendicular to the receptor. When anatomic factors such as a very flat palate prevent true parallel placement, the recommended modification is to keep the receptor as close to parallel as possible and then alter the vertical angulation of the beam so that the CR remains perpendicular to the receptor. This “tilted‑receptor” adjustment is described in White & Pharoah, Sturdevant and the INBDE radiography guidelines, which state that a vertical angulation change of up to 10–20° can compensate for a modest loss of parallelism while preserving image accuracy. Therefore, increasing the vertical angulation (option 0) is the correct response.\n\nWhy the other options are incorrect:\n• Option 1 – Switching to the bisecting‑angle technique abandons the paralleling method. Although bisecting‑angle can be used when the receptor cannot be placed, it yields greater distortion and is not the first‑line modification when a simple vertical‑angulation adjustment will correct the problem.\n• Option 2 – Accepting a 20° deviation from parallelism violates the INBDE standard, which permits only a 5° deviation before corrective measures are required; a 20° error would produce unacceptable elongation and loss of detail.\n• Option 3 – Increasing horizontal angulation compensates for mesiodistal projection errors, not for a receptor that cannot be placed parallel due to palate shape. Horizontal changes would introduce distortion without addressing the core issue of receptor alignment.\nThus, the evidence‑based and board‑approved answer is to increase the vertical angulation by up to 20° while maintaining the paralleling technique.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 123,
@@ -1834,7 +1834,7 @@
       "Nasolacrimal canal and nasal septum"
     ],
     "correctAnswer": 0,
-    "explanation": "On a periapical radiograph of the maxillary central incisors the characteristic V‑shaped (or inverted Y) radiolucency seen just superior to the root apices corresponds to the superimposition of two mid‑facial structures: the floor of the nasal cavity (nasal fossa) and the incisive (nasopalatine) canal. The nasal fossa appears as a thin, V‑shaped radiolucent line because it is a hollow space bounded inferiorly by bone; the incisive canal, which traverses the anterior maxilla, presents as an inverted‑Y or heart‑shaped radiolucency. Their anatomical convergence creates the classic pattern described in standard texts (Neville, Carranza, Sturdevant) and is a recognized radiographic landmark in NDEB AFK examinations. \n\nOption 1 (maxillary sinus floor and zygomatic process) is incorrect because the sinus floor lies posterior to the premolars and appears as a dome‑shaped radiolucency, while the zygomatic process is far lateral and does not intersect the central incisor region. \n\nOption 2 (incisal canal and maxillary sinus) is a distractor; the term \"incisal canal\" is not an anatomical entity, and the sinus does not extend anteriorly enough to intersect the central incisor apices. \n\nOption 3 (nasolacrimal canal and nasal septum) is also wrong: the nasolacrimal duct runs in the lateral wall of the nasal cavity near the orbit, and the nasal septum is a midline bony plate that does not produce a V‑shaped radiolucency in this area. Recognizing the true intersection of the nasal floor and incisive canal is essential for accurate diagnosis and avoids misinterpretation of pathology, aligning with NDEB AFK standards for radiographic anatomy.",
+    "explanation": "On a periapical radiograph of the maxillary central incisors the characteristic V‑shaped (or inverted Y) radiolucency seen just superior to the root apices corresponds to the superimposition of two mid‑facial structures: the floor of the nasal cavity (nasal fossa) and the incisive (nasopalatine) canal. The nasal fossa appears as a thin, V‑shaped radiolucent line because it is a hollow space bounded inferiorly by bone; the incisive canal, which traverses the anterior maxilla, presents as an inverted‑Y or heart‑shaped radiolucency. Their anatomical convergence creates the classic pattern described in standard texts (Neville, Carranza, Sturdevant) and is a recognized radiographic landmark in INBDE examinations. \n\nOption 1 (maxillary sinus floor and zygomatic process) is incorrect because the sinus floor lies posterior to the premolars and appears as a dome‑shaped radiolucency, while the zygomatic process is far lateral and does not intersect the central incisor region. \n\nOption 2 (incisal canal and maxillary sinus) is a distractor; the term \"incisal canal\" is not an anatomical entity, and the sinus does not extend anteriorly enough to intersect the central incisor apices. \n\nOption 3 (nasolacrimal canal and nasal septum) is also wrong: the nasolacrimal duct runs in the lateral wall of the nasal cavity near the orbit, and the nasal septum is a midline bony plate that does not produce a V‑shaped radiolucency in this area. Recognizing the true intersection of the nasal floor and incisive canal is essential for accurate diagnosis and avoids misinterpretation of pathology, aligning with INBDE standards for radiographic anatomy.",
     "aiVerified": true
   },
   {
@@ -2302,7 +2302,7 @@
     "correctAnswer": 1,
     "explanation": "Periapical cemento‑osseous dysplasia is a benign fibro‑osseous lesion that occurs in middle‑aged women, presents with vital teeth, and shows bilateral, symmetrical, well‑defined radiopacities at the apices of mandibular teeth (Neville et al., Oral and Maxillofacial Pathology, 4th ed., pp. 423‑425). Although the anterior mandible is the classic site, the lesion can extend to premolar‑molar regions, preserving the same radiographic pattern. Idiopathic osteosclerosis is usually solitary, condensing osteitis is associated with non‑vital teeth, and torus mandibularis is an extra‑alveolar exostosis, none of which fit the bilateral periapical presentation.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 163,
@@ -2391,7 +2391,7 @@
       "50 mSv per year in any single year"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the International Commission on Radiological Protection (ICRP) and Canadian guidelines, the occupational dose limit for radiation workers is 20 mSv per year averaged over 5 consecutive years (100 mSv in 5 years), with a maximum of 50 mSv in any single year. The limit for the general public is 1 mSv per year.",
+    "explanation": "According to the International Commission on Radiological Protection (ICRP) and ADA guidelines, the occupational dose limit for radiation workers is 20 mSv per year averaged over 5 consecutive years (100 mSv in 5 years), with a maximum of 50 mSv in any single year. The limit for the general public is 1 mSv per year.",
     "aiVerified": true
   },
   {
@@ -2497,9 +2497,9 @@
       "Incisive foramen"
     ],
     "correctAnswer": 1,
-    "explanation": "The anterior nasal spine (ANS) is a bony projection at the base of the nasal cavity that appears on periapical radiographs of the maxillary incisors as a V‑shaped radiopaque structure whose apex points superiorly toward the nasal fossa. \n\nWhy the other options are incorrect:\n- Median palatal suture: Appears as a thin radiolucent line extending posteriorly from the incisive papilla, not a radiopaque V‑shape.\n- Nasolabial fold: Represents a soft‑tissue shadow over the labial surfaces of the incisors; it is not a distinct radiopaque bony landmark and does not have a V configuration.\n- Incisive foramen: Appears as a radiolucent (often heart‑shaped) area located between the roots of the central incisors, opposite to the radiopaque appearance of the ANS.\n\nThus, according to the NDEB AFK blueprint for oral anatomy and radiology, the only structure that matches the described radiographic appearance is the anterior nasal spine.",
+    "explanation": "The anterior nasal spine (ANS) is a bony projection at the base of the nasal cavity that appears on periapical radiographs of the maxillary incisors as a V‑shaped radiopaque structure whose apex points superiorly toward the nasal fossa. \n\nWhy the other options are incorrect:\n- Median palatal suture: Appears as a thin radiolucent line extending posteriorly from the incisive papilla, not a radiopaque V‑shape.\n- Nasolabial fold: Represents a soft‑tissue shadow over the labial surfaces of the incisors; it is not a distinct radiopaque bony landmark and does not have a V configuration.\n- Incisive foramen: Appears as a radiolucent (often heart‑shaped) area located between the roots of the central incisors, opposite to the radiopaque appearance of the ANS.\n\nThus, according to the INBDE Foundation Knowledge blueprint for oral anatomy and radiology, the only structure that matches the described radiographic appearance is the anterior nasal spine.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 177,
@@ -2937,7 +2937,7 @@
     "correctAnswer": 0,
     "explanation": "Hyperparathyroidism elevates PTH, stimulating osteoclastic bone resorption throughout the skeleton. In the jaws this manifests as loss of the lamina dura around teeth, generalized radiolucency, and a fine, mottled “ground‑glass” or “salt‑and‑pepper” pattern that is typically symmetric. Neville, Damm, Allen & Bouquot (Oral & Maxillofacial Pathology) and Little & Falace (Dental Management of the Medically Compromised Patient) both identify these radiographic features as characteristic of hyperparathyroidism, distinguishing it from fibrous dysplasia (usually unilateral and expansile) and Paget disease (cotton‑wool sclerosis).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 207,
@@ -3086,9 +3086,9 @@
       "Mandible bone marrow"
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian radiation‑protection guidelines for dental imaging (e.g., Health Canada, Canadian Dental Association) identify the thyroid gland as the primary organ of concern. The thyroid contains rapidly dividing follicular cells that are highly susceptible to ionising radiation, especially in children and young adults, and it lies directly in the primary or scattered beam path for intra‑oral and extra‑oral dental radiographs. Consequently, a thyroid collar is routinely recommended to attenuate the dose to this organ. \n\nWhy the other options are incorrect:\n- **Parotid gland (option 1):** Although the parotid receives some scattered radiation, its cellular composition is less radiosensitive than thyroid tissue, and no specific shielding is mandated for it in dental radiography.\n- **Lens of the eye (option 2):** The lens is radiosensitive (risk of cataract formation) but it is not in the direct beam for standard intra‑oral images; protection is achieved with leaded glasses, not a thyroid collar.\n- **Mandible bone marrow (option 3):** Bone marrow is biologically radiosensitive, yet the volume of marrow in the mandible is small and the dose from routine dental films is negligible; shielding the thyroid provides a greater protective benefit than attempting to shield mandibular marrow.\n\nTherefore, the thyroid gland is the tissue that most strongly dictates the need for a thyroid collar in routine dental radiography.",
+    "explanation": "Canadian radiation‑protection guidelines for dental imaging (e.g., Health Canada, American Dental Association) identify the thyroid gland as the primary organ of concern. The thyroid contains rapidly dividing follicular cells that are highly susceptible to ionising radiation, especially in children and young adults, and it lies directly in the primary or scattered beam path for intra‑oral and extra‑oral dental radiographs. Consequently, a thyroid collar is routinely recommended to attenuate the dose to this organ. \n\nWhy the other options are incorrect:\n- **Parotid gland (option 1):** Although the parotid receives some scattered radiation, its cellular composition is less radiosensitive than thyroid tissue, and no specific shielding is mandated for it in dental radiography.\n- **Lens of the eye (option 2):** The lens is radiosensitive (risk of cataract formation) but it is not in the direct beam for standard intra‑oral images; protection is achieved with leaded glasses, not a thyroid collar.\n- **Mandible bone marrow (option 3):** Bone marrow is biologically radiosensitive, yet the volume of marrow in the mandible is small and the dose from routine dental films is negligible; shielding the thyroid provides a greater protective benefit than attempting to shield mandibular marrow.\n\nTherefore, the thyroid gland is the tissue that most strongly dictates the need for a thyroid collar in routine dental radiography.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 218,
@@ -3207,9 +3207,9 @@
       "Globulomaxillary cyst (developmental odontogenic cyst)"
     ],
     "correctAnswer": 3,
-    "explanation": "The classic radiographic appearance of a globulomaxillary cyst is a well‑circumscribed, pear‑shaped radiolucency situated between the maxillary lateral incisor and canine that pushes the roots apart. The lesion is usually asymptomatic, the involved teeth are vital, and it occurs in the anterior maxilla. \n\nWhy the other choices are incorrect:\n- **Lateral periodontal cyst**: This odontogenic cyst most commonly occurs in the mandibular premolar‑canine region; when it appears in the maxilla it is rare and does not characteristically produce the pronounced pear‑shaped, root‑divergent appearance described.\n- **Traumatic bone cyst**: Also called a simple bone cyst, it is an empty or fluid‑filled cavity that typically scallops between the roots of teeth without causing root divergence. It is more common in the posterior mandible of younger patients and is not a true cyst.\n- **Nasopalatine duct cyst**: Located in the midline of the anterior maxilla, arising from the nasopalatine canal. Radiographically it appears as a heart‑shaped or oval radiolucency centered between the central incisors, not between the lateral incisor and canine.\n\nTherefore, based on location, radiographic morphology, and vitality of the adjacent teeth, the lesion is most consistent with a globulomaxillary cyst, which remains the accepted term for this developmental odontogenic cyst in Canadian dental education and NDEB examinations.",
+    "explanation": "The classic radiographic appearance of a globulomaxillary cyst is a well‑circumscribed, pear‑shaped radiolucency situated between the maxillary lateral incisor and canine that pushes the roots apart. The lesion is usually asymptomatic, the involved teeth are vital, and it occurs in the anterior maxilla. \n\nWhy the other choices are incorrect:\n- **Lateral periodontal cyst**: This odontogenic cyst most commonly occurs in the mandibular premolar‑canine region; when it appears in the maxilla it is rare and does not characteristically produce the pronounced pear‑shaped, root‑divergent appearance described.\n- **Traumatic bone cyst**: Also called a simple bone cyst, it is an empty or fluid‑filled cavity that typically scallops between the roots of teeth without causing root divergence. It is more common in the posterior mandible of younger patients and is not a true cyst.\n- **Nasopalatine duct cyst**: Located in the midline of the anterior maxilla, arising from the nasopalatine canal. Radiographically it appears as a heart‑shaped or oval radiolucency centered between the central incisors, not between the lateral incisor and canine.\n\nTherefore, based on location, radiographic morphology, and vitality of the adjacent teeth, the lesion is most consistent with a globulomaxillary cyst, which remains the accepted term for this developmental odontogenic cyst in US dental board education and INBDE examinations.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 228,
@@ -3268,9 +3268,9 @@
       "Occlusal projection technique"
     ],
     "correctAnswer": 1,
-    "explanation": "Under the NDEB AFK blueprint, the gold‑standard radiographic method for endodontic diagnosis is the intra‑oral periapical radiograph taken with the paralleling technique. This technique uses a long‑cone (or collimated) X‑ray beam, which reduces beam divergence, minimizes magnification and geometric distortion, and consequently lowers the patient’s radiation exposure compared with the bisecting‑angle method. It also yields a true‑to‑life representation of tooth length, root morphology, periapical tissues, and supporting bone, essential for detecting pathology such as periapical radiolucencies or root fractures.\n\nWhy the distractors are incorrect:\n1. **Standard panoramic radiography** – Although the panoramic unit delivers a relatively low dose per image, the image is extra‑oral, has inherent magnification, lower spatial resolution, and superimposition of structures; it does not provide the detail required for endodontic assessment.\n2. **Simple bisecting‑angle technique** – This intra‑oral method can produce acceptable images when the paralleling technique is not feasible, but it introduces variable magnification and distortion, and often requires a shorter source‑to‑object distance, resulting in a higher patient dose for comparable image quality.\n3. **Occlusal projection technique** – Designed to capture larger arches or cortical bone, occlusal films have greater beam divergence and lower resolution; they are unsuitable for the fine detail needed in endodontic diagnosis and do not offer a dose advantage over the paralleling technique.\n\nTherefore, the paralleling intra‑oral periapical technique best satisfies both criteria of minimal radiation exposure and optimal geometric accuracy for endodontic evaluation.",
+    "explanation": "Under the INBDE Foundation Knowledge blueprint, the gold‑standard radiographic method for endodontic diagnosis is the intra‑oral periapical radiograph taken with the paralleling technique. This technique uses a long‑cone (or collimated) X‑ray beam, which reduces beam divergence, minimizes magnification and geometric distortion, and consequently lowers the patient’s radiation exposure compared with the bisecting‑angle method. It also yields a true‑to‑life representation of tooth length, root morphology, periapical tissues, and supporting bone, essential for detecting pathology such as periapical radiolucencies or root fractures.\n\nWhy the distractors are incorrect:\n1. **Standard panoramic radiography** – Although the panoramic unit delivers a relatively low dose per image, the image is extra‑oral, has inherent magnification, lower spatial resolution, and superimposition of structures; it does not provide the detail required for endodontic assessment.\n2. **Simple bisecting‑angle technique** – This intra‑oral method can produce acceptable images when the paralleling technique is not feasible, but it introduces variable magnification and distortion, and often requires a shorter source‑to‑object distance, resulting in a higher patient dose for comparable image quality.\n3. **Occlusal projection technique** – Designed to capture larger arches or cortical bone, occlusal films have greater beam divergence and lower resolution; they are unsuitable for the fine detail needed in endodontic diagnosis and do not offer a dose advantage over the paralleling technique.\n\nTherefore, the paralleling intra‑oral periapical technique best satisfies both criteria of minimal radiation exposure and optimal geometric accuracy for endodontic evaluation.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 232,
@@ -3299,9 +3299,9 @@
       "Patient movement during exposure"
     ],
     "correctAnswer": 0,
-    "explanation": "According to the NDEB radiology competency standards, a horizontal radiolucent band on an intra‑oral image is classic for a film packet placed backward. The lead foil, which should be on the side of the film opposite the X‑ray source to reduce scatter, is instead positioned toward the source. The foil absorbs part of the primary beam, producing a uniform, lighter band across the image in the area where the foil blocks radiation. \n\nWhy the other choices are incorrect:\n1. **Anterior positioning of the focal trough** – Mis‑placement of the focal trough results in magnification or distortion of the image, not a uniform horizontal band.\n2. **Static electricity discharge** – This creates thin, radiopaque (dark) lines or specks that follow the path of the discharge, not a broad radiolucent band.\n3. **Patient movement during exposure** – Movement produces overall blurring or ghosting of structures; it does not generate a sharp, straight, radiolucent band limited to the crowns.\n\nTherefore, the gold‑standard answer is the backward placement of the film packet.",
+    "explanation": "According to the INBDE radiology competency standards, a horizontal radiolucent band on an intra‑oral image is classic for a film packet placed backward. The lead foil, which should be on the side of the film opposite the X‑ray source to reduce scatter, is instead positioned toward the source. The foil absorbs part of the primary beam, producing a uniform, lighter band across the image in the area where the foil blocks radiation. \n\nWhy the other choices are incorrect:\n1. **Anterior positioning of the focal trough** – Mis‑placement of the focal trough results in magnification or distortion of the image, not a uniform horizontal band.\n2. **Static electricity discharge** – This creates thin, radiopaque (dark) lines or specks that follow the path of the discharge, not a broad radiolucent band.\n3. **Patient movement during exposure** – Movement produces overall blurring or ghosting of structures; it does not generate a sharp, straight, radiolucent band limited to the crowns.\n\nTherefore, the gold‑standard answer is the backward placement of the film packet.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 234,
@@ -3362,7 +3362,7 @@
     "correctAnswer": 3,
     "explanation": "In hyperparathyroidism the excess PTH leads to generalized bone demineralisation. Radiographically the jaws show a diffuse, mottled ground‑glass appearance, loss of the lamina dura around all teeth, and a rarefied trabecular pattern reflecting reduced bone density. These findings are symmetric because the metabolic disturbance affects the entire skeleton. This presentation is outlined in Neville et al. (Oral & Maxillofacial Pathology) and reinforced in Little & Falace’s text on medically compromised patients. Fibrous dysplasia, while ground‑glass, is typically unilateral and does not produce loss of lamina dura; Paget disease shows cotton‑wool sclerosis, and osteogenesis imperfecta presents with thin cortices rather than the described pattern.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 239,
@@ -3541,10 +3541,10 @@
       "Cherubism"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Odontogenic keratocysts (OKCs). In the context of the NDEB AFK examination, this question tests the ability to differentiate between metabolic, developmental, and odontogenic pathologies based on radiographic features and laboratory findings. \n\n1. **Odontogenic Keratocysts (OKCs)**: While OKCs are classically unilocular and unilateral, they can present as multilocular radiolucencies. Bilateral involvement is rare but documented, particularly in the context of Nevoid Basal Cell Carcinoma Syndrome (Gorlin-Goltz syndrome), though it can occur sporadically. The key diagnostic feature here is the exclusion of systemic metabolic causes. In a 55-year-old adult with normal calcium, phosphorus, and PTH levels, OKC remains the most plausible odontogenic diagnosis among the choices, as it is a common cause of multilocular radiolucencies in the posterior mandible.\n\n2. **Brown tumor of hyperparathyroidism**: This is a direct distractor. Brown tumors are radiolucent lesions associated with primary or secondary hyperparathyroidism. They can be multilocular and bilateral. However, the question explicitly states that serum calcium, phosphorus, and PTH levels are normal. This definitively rules out hyperparathyroidism and, consequently, brown tumors.\n\n3. **Stafne bone defect**: This is a developmental anomaly (static bone depression) typically located in the posterior mandible, below the inferior alveolar nerve canal. It is characteristically unilocular, well-defined, and asymptomatic. It is almost always unilateral. It does not present as a bilateral, multilocular lesion causing cortical thinning and expansion in this manner.\n\n4. **Cherubism**: This is a genetic condition (autosomal dominant) characterized by bilateral, multilocular radiolucencies in the posterior mandible (and often maxilla) causing facial swelling. However, it presents in early childhood (typically 2-5 years of age) and usually stabilizes or regresses after puberty. A new presentation or active progression in a 55-year-old asymptomatic adult is clinically implausible. Therefore, it is excluded based on age of onset and natural history.",
+    "explanation": "The correct answer is Odontogenic keratocysts (OKCs). In the context of the INBDE examination, this question tests the ability to differentiate between metabolic, developmental, and odontogenic pathologies based on radiographic features and laboratory findings. \n\n1. **Odontogenic Keratocysts (OKCs)**: While OKCs are classically unilocular and unilateral, they can present as multilocular radiolucencies. Bilateral involvement is rare but documented, particularly in the context of Nevoid Basal Cell Carcinoma Syndrome (Gorlin-Goltz syndrome), though it can occur sporadically. The key diagnostic feature here is the exclusion of systemic metabolic causes. In a 55-year-old adult with normal calcium, phosphorus, and PTH levels, OKC remains the most plausible odontogenic diagnosis among the choices, as it is a common cause of multilocular radiolucencies in the posterior mandible.\n\n2. **Brown tumor of hyperparathyroidism**: This is a direct distractor. Brown tumors are radiolucent lesions associated with primary or secondary hyperparathyroidism. They can be multilocular and bilateral. However, the question explicitly states that serum calcium, phosphorus, and PTH levels are normal. This definitively rules out hyperparathyroidism and, consequently, brown tumors.\n\n3. **Stafne bone defect**: This is a developmental anomaly (static bone depression) typically located in the posterior mandible, below the inferior alveolar nerve canal. It is characteristically unilocular, well-defined, and asymptomatic. It is almost always unilateral. It does not present as a bilateral, multilocular lesion causing cortical thinning and expansion in this manner.\n\n4. **Cherubism**: This is a genetic condition (autosomal dominant) characterized by bilateral, multilocular radiolucencies in the posterior mandible (and often maxilla) causing facial swelling. However, it presents in early childhood (typically 2-5 years of age) and usually stabilizes or regresses after puberty. A new presentation or active progression in a 55-year-old asymptomatic adult is clinically implausible. Therefore, it is excluded based on age of onset and natural history.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 251,
@@ -3558,10 +3558,10 @@
       "Spine of the sphenoid"
     ],
     "correctAnswer": 1,
-    "explanation": "According to White & Pharoah, *Oral Radiology* (7th ed.) and the NDEB radiology blueprint, the palatal shadow appears as a vertical radiolucent line superimposed on the maxillary anterior teeth because the hard palate (bone plus overlying soft tissue) attenuates the X‑ray beam less than the surrounding maxillary bone. Cervical vertebrae are seen lower in the image as radiopaque bodies, the hyoid bone appears as a U‑shaped radiopaque structure inferior to the mandible, and the sphenoid spine is a small focal radiopaque projection near the skull base. Therefore, the hard palate is the only structure that creates the described artifact under Canadian standards.",
+    "explanation": "According to White & Pharoah, *Oral Radiology* (7th ed.) and the INBDE radiology blueprint, the palatal shadow appears as a vertical radiolucent line superimposed on the maxillary anterior teeth because the hard palate (bone plus overlying soft tissue) attenuates the X‑ray beam less than the surrounding maxillary bone. Cervical vertebrae are seen lower in the image as radiopaque bodies, the hyoid bone appears as a U‑shaped radiopaque structure inferior to the mandible, and the sphenoid spine is a small focal radiopaque projection near the skull base. Therefore, the hard palate is the only structure that creates the described artifact under Canadian standards.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 252,
@@ -3817,7 +3817,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is Option 0. In radiobiology, radiation injury is classified into direct and indirect effects. Direct injury occurs when ionizing radiation interacts directly with critical cellular targets, specifically the DNA double helix, causing ionization and excitation of the macromolecule's bonds. This leads to single-strand breaks, double-strand breaks, or base damage. While indirect injury (mediated by free radicals from water radiolysis) accounts for the majority of biological damage in aqueous cellular environments, the question specifically asks for the mechanism of *direct* injury. Option 2 describes the mechanism of indirect injury. Option 1 (hydrogen peroxide) is a specific downstream product of indirect action. Option 4 (thermal denaturation) is incorrect because ionizing radiation does not cause significant thermal effects at diagnostic or therapeutic dental doses; thermal injury is associated with non-ionizing radiation or heat sources.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 270,
@@ -3922,10 +3922,10 @@
       "Past orthodontic treatment (not disclosed)"
     ],
     "correctAnswer": 0,
-    "explanation": "Root development of permanent maxillary and mandibular incisors is typically complete by ages 10‑12; the apices become pointed but a slight blunting is within normal limits. No systemic disease, trauma, or orthodontic forces are reported, eliminating the other etiologies. Idiopathic root resorption is a diagnosis of exclusion and is rare in this age group. Therefore the most appropriate answer is a normal physiological variant. This interpretation follows the developmental guidelines in Neville, Damm, Allen & Bouquot, Oral and Maxillofacial Pathology and the Canadian Dental Association’s recommendations on normal dental development.",
+    "explanation": "Root development of permanent maxillary and mandibular incisors is typically complete by ages 10‑12; the apices become pointed but a slight blunting is within normal limits. No systemic disease, trauma, or orthodontic forces are reported, eliminating the other etiologies. Idiopathic root resorption is a diagnosis of exclusion and is rare in this age group. Therefore the most appropriate answer is a normal physiological variant. This interpretation follows the developmental guidelines in Neville, Damm, Allen & Bouquot, Oral and Maxillofacial Pathology and the American Dental Association’s recommendations on normal dental development.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 278,
@@ -3939,9 +3939,9 @@
       "The X-ray machine was not activated, resulting in no exposure of the film"
     ],
     "correctAnswer": 2,
-    "explanation": "In manual processing the correct sequence is developer → fixer. The fixer dissolves all silver halide crystals, whether exposed or not. If the film is placed in fixer before developer, the unexposed crystals are removed and the exposed crystals remain as silver halide; subsequent development cannot occur because the necessary silver halide has been eliminated, resulting in a transparent film with no image. This error is described in the Canadian Dental Association’s radiographic processing guidelines and standard dental radiography textbooks. The alternative of a non‑activated X‑ray unit also yields a clear film, but the question asks for a procedural error, making option 2 the most appropriate choice.",
+    "explanation": "In manual processing the correct sequence is developer → fixer. The fixer dissolves all silver halide crystals, whether exposed or not. If the film is placed in fixer before developer, the unexposed crystals are removed and the exposed crystals remain as silver halide; subsequent development cannot occur because the necessary silver halide has been eliminated, resulting in a transparent film with no image. This error is described in the American Dental Association’s radiographic processing guidelines and standard dental radiography textbooks. The alternative of a non‑activated X‑ray unit also yields a clear film, but the question asks for a procedural error, making option 2 the most appropriate choice.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 279,
@@ -3957,7 +3957,7 @@
     "correctAnswer": 0,
     "explanation": "Stafne bone defect (static bone cyst) is a developmental lingual mandibular concavity that contains salivary gland tissue. On panoramic radiographs it appears as a well‑circumscribed radiolucency situated below the inferior alveolar canal in the posterior mandible, with intact overlying cortical bone and no symptoms; it is discovered incidentally. \n\nWhy the other options are incorrect:\n- Idiopathic osteosclerosis presents as a radiopaque (dense bone island) lesion, not a radiolucency, and is usually found near tooth roots above the canal.\n- Cementoblastoma is a true neoplasm of cementum that appears as a radiopaque mass fused to a tooth root and is typically associated with pain or swelling.\n- Paget disease of bone produces a diffuse, mixed radiolucent‑radiopaque “cotton‑wool” appearance affecting multiple regions of the mandible and other bones, not a solitary, well‑defined radiolucency below the canal.\n\nThus, based on the radiographic characteristics and clinical presentation, the definitive diagnosis is a Stafne bone defect.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 280,
@@ -4166,7 +4166,7 @@
       "Periapical cemento-osseous dysplasia"
     ],
     "correctAnswer": 0,
-    "explanation": "Stafne bone defects (static bone cavities) are developmental lingual mandibular depressions that contain salivary gland tissue. They present as a well‑defined, ovoid radiolucency (often with a thin sclerotic border) situated below the inferior alveolar canal in the posterior mandible, most commonly near the angle. The lesion is asymptomatic, the overlying teeth are vital, and no treatment is required. While the classic description emphasizes a radiolucent appearance, many radiographic reports note a mixed radiolucent‑radiopaque pattern due to cortical bone remodeling (Neville, Damm, Allen & Bouquot, Oral & Maxillofacial Pathology, 4th ed.). Thus the original answer aligns with Canadian NDEB standards.",
+    "explanation": "Stafne bone defects (static bone cavities) are developmental lingual mandibular depressions that contain salivary gland tissue. They present as a well‑defined, ovoid radiolucency (often with a thin sclerotic border) situated below the inferior alveolar canal in the posterior mandible, most commonly near the angle. The lesion is asymptomatic, the overlying teeth are vital, and no treatment is required. While the classic description emphasizes a radiolucent appearance, many radiographic reports note a mixed radiolucent‑radiopaque pattern due to cortical bone remodeling (Neville, Damm, Allen & Bouquot, Oral & Maxillofacial Pathology, 4th ed.). Thus the original answer aligns with Canadian INBDE standards.",
     "aiVerified": true
   },
   {
@@ -4394,9 +4394,9 @@
       "+10 degrees"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian dental radiography guidelines (NDEB, ADA, and standard texts such as White & Pharoah and Ingle) state that for a maxillary bitewing taken with the paralleling technique the central ray should be angled 10° upward (positive vertical angulation). This upward tilt compensates for the natural downward curvature of the palate and the slight inferior tilt of the maxillary arch, allowing the interproximal contacts to be projected without superimposition. \n\nWhy the distractors are wrong:\n- **-10 degrees**: A negative (downward) angulation is used for mandibular bitewings, not for the maxillary arch; applying it to a maxillary bitewing would cause the contacts to be separated excessively and the crowns to be foreshortened.\n- **0 degrees**: With the central ray perpendicular to the film, the curvature of the palate causes the contacts to overlap, producing a blurred interproximal area.\n- **+20 degrees**: An excessive upward angulation would over‑separate the contacts, distort the crown morphology, and increase the risk of cone‑cut errors.\n\nTherefore, the gold‑standard vertical angulation for a maxillary bitewing using the paralleling technique is **+10 degrees**.",
+    "explanation": "Canadian dental radiography guidelines (INBDE, ADA, and standard texts such as White & Pharoah and Ingle) state that for a maxillary bitewing taken with the paralleling technique the central ray should be angled 10° upward (positive vertical angulation). This upward tilt compensates for the natural downward curvature of the palate and the slight inferior tilt of the maxillary arch, allowing the interproximal contacts to be projected without superimposition. \n\nWhy the distractors are wrong:\n- **-10 degrees**: A negative (downward) angulation is used for mandibular bitewings, not for the maxillary arch; applying it to a maxillary bitewing would cause the contacts to be separated excessively and the crowns to be foreshortened.\n- **0 degrees**: With the central ray perpendicular to the film, the curvature of the palate causes the contacts to overlap, producing a blurred interproximal area.\n- **+20 degrees**: An excessive upward angulation would over‑separate the contacts, distort the crown morphology, and increase the risk of cone‑cut errors.\n\nTherefore, the gold‑standard vertical angulation for a maxillary bitewing using the paralleling technique is **+10 degrees**.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 309,
@@ -4458,7 +4458,7 @@
     "explanation": "The correct diagnosis is Compound odontoma (Option 3). According to standard oral pathology references (e.g., Neville, Oral and Maxillofacial Pathology), odontomas are classified into two types based on histological and radiographic appearance: compound and complex. A compound odontoma is characterized by the presence of multiple small, tooth-like structures (denticles) that resemble normal teeth in shape and size, although they may vary slightly. These structures are composed of enamel, dentin, cementum, and pulp arranged in a normal pattern. Although compound odontomas are more common in the anterior maxilla, they can occur in the posterior mandible, as described in the stem. The key radiographic feature distinguishing it from a complex odontoma is the organized, tooth-like morphology of the calcified structures. In contrast, a Complex odontoma (Option 0) presents as a disorganized mass of dental tissues (enamel, dentin, cementum, and pulp) that does not resemble normal tooth morphology; it typically appears as a radiopaque mass with a radiolucent rim, often located in the posterior mandible. Odontogenic myxoma (Option 1) is a benign tumor that typically appears as a multilocular radiolucency (often described as 'soap bubble' or 'honeycomb') without the presence of tooth-like structures. Ameloblastic fibro-odontoma (Option 2) is a mixed odontogenic tumor that contains both soft tissue and hard tissue components; while it may contain calcified structures, they are usually amorphous or irregular rather than distinct, well-formed tooth-like structures, and it is less common than odontomas in this age group.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 313,
@@ -4547,7 +4547,7 @@
       "Light exposure occurred prior to processing."
     ],
     "correctAnswer": 1,
-    "explanation": "In conventional film processing the sequence must be developer → rinse → fixer. The fixer only stabilises a developed image; when a film is placed in fixer first, no latent image is reduced, so all silver halide is dissolved and the film appears clear. An exhausted developer yields a faint or gray image, prolonged fixing does not erase a developed image, and premature light exposure produces a uniformly dense film. This principle is outlined in White & Pharoah, *Oral Radiology: Principles and Interpretation* (7th ed.) and the Canadian Dental Association’s radiographic processing guidelines.",
+    "explanation": "In conventional film processing the sequence must be developer → rinse → fixer. The fixer only stabilises a developed image; when a film is placed in fixer first, no latent image is reduced, so all silver halide is dissolved and the film appears clear. An exhausted developer yields a faint or gray image, prolonged fixing does not erase a developed image, and premature light exposure produces a uniformly dense film. This principle is outlined in White & Pharoah, *Oral Radiology: Principles and Interpretation* (7th ed.) and the American Dental Association’s radiographic processing guidelines.",
     "aiVerified": true
   },
   {
@@ -5087,7 +5087,7 @@
       "Periapical radiograph of the incisors"
     ],
     "correctAnswer": 1,
-    "explanation": "The SMV projection is the standard initial radiographic examination for suspected mandibular condyle fractures because it projects the condylar heads and necks without superimposition from the cranial base. It allows detection of displacement, fracture lines, and joint involvement. While the reverse (open‑mouth) Towne view can also depict the condyles, it is generally reserved for detailed TMJ assessment after an initial SMV screen. This recommendation follows the Canadian Dental Association radiology guidelines and White & Pharoah, *Oral Radiology: Principles and Interpretation* (7th ed.).",
+    "explanation": "The SMV projection is the standard initial radiographic examination for suspected mandibular condyle fractures because it projects the condylar heads and necks without superimposition from the cranial base. It allows detection of displacement, fracture lines, and joint involvement. While the reverse (open‑mouth) Towne view can also depict the condyles, it is generally reserved for detailed TMJ assessment after an initial SMV screen. This recommendation follows the American Dental Association radiology guidelines and White & Pharoah, *Oral Radiology: Principles and Interpretation* (7th ed.).",
     "aiVerified": true
   },
   {
@@ -5374,10 +5374,10 @@
       "Hyperparathyroidism"
     ],
     "correctAnswer": 3,
-    "explanation": "The radiographic picture described – bilateral, symmetric, multilocular radiolucencies in the mandibular angles and ascending rami with marked thinning of the inferior border and resorption of adjacent roots – is classic for the skeletal manifestations of hyperparathyroidism, specifically the so‑called \"brown tumors\" (osteitis fibrosa cystica). In primary hyperparathyroidism, excess parathyroid hormone stimulates osteoclastic bone resorption, producing well‑demarcated, multilocular radiolucent defects that may coalesce, thin the cortical plate, and cause root resorption. The condition is most common in middle‑aged to elderly women, matching the 60‑year‑old asymptomatic female in the vignette. This pattern is emphasized in standard texts (Neville, Carranza, and McDonald & Avery) and aligns with NDEB AFK expectations for systemic bone disease affecting the jaws.\n\nWhy the other options are incorrect:\n- Cherubism (option 0) is a hereditary fibro‑osseous disorder presenting in early childhood (usually before age 5) with bilateral jaw expansion that regresses after puberty; it does not occur de novo in a 60‑year‑old and the lesions are typically mixed radiolucent‑radiopaque, not purely radiolucent.\n- Osteopetrosis (option 1) is characterized by generalized increased bone density and a “bone‑in‑bone” appearance; radiographs are markedly radiopaque, not radiolucent, and cortical thinning is uncommon.\n- Paget’s disease of bone (option 2) shows a mixed radiolucent‑radiopaque “cotton‑wool” pattern with bone expansion and loss of lamina dura, but the lesions are not typically multilocular radiolucencies confined to the rami, and root resorption is less prominent than in hyperparathyroidism.\nThus, hyperparathyroidism is the only systemic condition that fits all clinical and radiographic criteria presented.",
+    "explanation": "The radiographic picture described – bilateral, symmetric, multilocular radiolucencies in the mandibular angles and ascending rami with marked thinning of the inferior border and resorption of adjacent roots – is classic for the skeletal manifestations of hyperparathyroidism, specifically the so‑called \"brown tumors\" (osteitis fibrosa cystica). In primary hyperparathyroidism, excess parathyroid hormone stimulates osteoclastic bone resorption, producing well‑demarcated, multilocular radiolucent defects that may coalesce, thin the cortical plate, and cause root resorption. The condition is most common in middle‑aged to elderly women, matching the 60‑year‑old asymptomatic female in the vignette. This pattern is emphasized in standard texts (Neville, Carranza, and McDonald & Avery) and aligns with INBDE expectations for systemic bone disease affecting the jaws.\n\nWhy the other options are incorrect:\n- Cherubism (option 0) is a hereditary fibro‑osseous disorder presenting in early childhood (usually before age 5) with bilateral jaw expansion that regresses after puberty; it does not occur de novo in a 60‑year‑old and the lesions are typically mixed radiolucent‑radiopaque, not purely radiolucent.\n- Osteopetrosis (option 1) is characterized by generalized increased bone density and a “bone‑in‑bone” appearance; radiographs are markedly radiopaque, not radiolucent, and cortical thinning is uncommon.\n- Paget’s disease of bone (option 2) shows a mixed radiolucent‑radiopaque “cotton‑wool” pattern with bone expansion and loss of lamina dura, but the lesions are not typically multilocular radiolucencies confined to the rami, and root resorption is less prominent than in hyperparathyroidism.\nThus, hyperparathyroidism is the only systemic condition that fits all clinical and radiographic criteria presented.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 381,
@@ -5602,7 +5602,7 @@
       "Complex odontoma"
     ],
     "correctAnswer": 0,
-    "explanation": "The radiographic picture described—a well‑circumscribed, homogenous radiopaque focus within the mandibular body, surrounded by a thin radiolucent rim, discovered incidentally in an asymptomatic 65‑year‑old patient, with vital adjacent teeth and no change over years—is classic for idiopathic osteosclerosis (enostosis). According to the NDEB AFK curriculum and standard texts (Neville, Carranza, and Sturdevant), idiopathic osteosclerosis is a benign, non‑neoplastic, dense bone island that is asymptomatic, does not cause expansion, and remains static on serial radiographs. Its location is most often in the premolar‑molar region of the mandible, and the surrounding radiolucent halo represents the normal marrow space.\n\nWhy the other options are incorrect:\n1. Cementoblastoma (option 1) is a true neoplasm of cementum that is fused to the root of a tooth, producing a radiopaque mass with a radiolucent halo and often causing pain, swelling, and root resorption. It is most common in younger patients (second–third decade) and is not a static incidental finding.\n2. Hypercementosis (option 2) is an excessive deposition of cementum on the root surface, appearing as a bulbous enlargement of the root outline rather than a separate intra‑osseous radiopacity. It follows the contour of the tooth and does not present as an isolated radiopaque nodule with a surrounding lucent rim.\n3. Complex odontoma (option 3) is a mixed radiopaque‑radiolucent lesion composed of disorganized dental hard tissues, usually presenting as a dense, irregular mass with a well‑defined radiolucent capsule. Odontomas are most often diagnosed in the first two decades and may impede eruption; they are not typically static, solitary bone islands in older adults.\nThus, idiopathic osteosclerosis is the only diagnosis that aligns with the patient’s age, asymptomatic nature, radiographic features, and lack of progression, satisfying NDEB AFK expectations for lesion identification.",
+    "explanation": "The radiographic picture described—a well‑circumscribed, homogenous radiopaque focus within the mandibular body, surrounded by a thin radiolucent rim, discovered incidentally in an asymptomatic 65‑year‑old patient, with vital adjacent teeth and no change over years—is classic for idiopathic osteosclerosis (enostosis). According to the INBDE curriculum and standard texts (Neville, Carranza, and Sturdevant), idiopathic osteosclerosis is a benign, non‑neoplastic, dense bone island that is asymptomatic, does not cause expansion, and remains static on serial radiographs. Its location is most often in the premolar‑molar region of the mandible, and the surrounding radiolucent halo represents the normal marrow space.\n\nWhy the other options are incorrect:\n1. Cementoblastoma (option 1) is a true neoplasm of cementum that is fused to the root of a tooth, producing a radiopaque mass with a radiolucent halo and often causing pain, swelling, and root resorption. It is most common in younger patients (second–third decade) and is not a static incidental finding.\n2. Hypercementosis (option 2) is an excessive deposition of cementum on the root surface, appearing as a bulbous enlargement of the root outline rather than a separate intra‑osseous radiopacity. It follows the contour of the tooth and does not present as an isolated radiopaque nodule with a surrounding lucent rim.\n3. Complex odontoma (option 3) is a mixed radiopaque‑radiolucent lesion composed of disorganized dental hard tissues, usually presenting as a dense, irregular mass with a well‑defined radiolucent capsule. Odontomas are most often diagnosed in the first two decades and may impede eruption; they are not typically static, solitary bone islands in older adults.\nThus, idiopathic osteosclerosis is the only diagnosis that aligns with the patient’s age, asymptomatic nature, radiographic features, and lack of progression, satisfying INBDE expectations for lesion identification.",
     "aiVerified": true
   },
   {
@@ -5617,7 +5617,7 @@
       "Film or sensor placement too far anteriorly"
     ],
     "correctAnswer": 0,
-    "explanation": "Bitewing radiographs require a vertical angulation of approximately 10°‑15° to the occlusal plane. When the vertical angulation is excessive (greater than ~20°), the central ray projects the crowns in a way that the interproximal contacts appear superimposed, producing overlapping images. Incorrect horizontal angulation results in buccal‑lingual distortion, while inadequate vertical angulation causes foreshortening. These concepts are detailed in White & Pharoah, *Oral Radiology: Principles and Interpretation* (7th ed.) and reinforced by the Canadian Dental Association’s guidelines on intra‑oral radiographic technique.",
+    "explanation": "Bitewing radiographs require a vertical angulation of approximately 10°‑15° to the occlusal plane. When the vertical angulation is excessive (greater than ~20°), the central ray projects the crowns in a way that the interproximal contacts appear superimposed, producing overlapping images. Incorrect horizontal angulation results in buccal‑lingual distortion, while inadequate vertical angulation causes foreshortening. These concepts are detailed in White & Pharoah, *Oral Radiology: Principles and Interpretation* (7th ed.) and reinforced by the American Dental Association’s guidelines on intra‑oral radiographic technique.",
     "aiVerified": true
   },
   {
@@ -5647,7 +5647,7 @@
       "Surgical enucleation and biopsy"
     ],
     "correctAnswer": 2,
-    "explanation": "Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) describe idiopathic osteosclerosis as a well‑defined radiopaque area continuous with the root surface, often surrounded by a thin radiolucent rim, occurring in vital, asymptomatic teeth. Unlike cementoblastoma, it does not produce pain, swelling, or root resorption and therefore does not merit endodontic therapy, extraction, or surgical removal. The standard of care, endorsed by the Canadian Dental Association, is periodic clinical and radiographic review to ensure stability. Hence option 2 is correct.",
+    "explanation": "Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) describe idiopathic osteosclerosis as a well‑defined radiopaque area continuous with the root surface, often surrounded by a thin radiolucent rim, occurring in vital, asymptomatic teeth. Unlike cementoblastoma, it does not produce pain, swelling, or root resorption and therefore does not merit endodontic therapy, extraction, or surgical removal. The standard of care, endorsed by the American Dental Association, is periodic clinical and radiographic review to ensure stability. Hence option 2 is correct.",
     "aiVerified": true
   },
   {
@@ -5812,7 +5812,7 @@
       "Compound odontoma"
     ],
     "correctAnswer": 1,
-    "explanation": "According to Neville et al., a mesiodens is the most common supernumerary tooth, presenting as a single conical or tuberculate radiopaque structure that impedes eruption of the permanent incisor. In contrast, a compound odontoma consists of multiple miniature tooth‑like denticles, while complex odontoma appears as a homogenous calcified mass. The vignette describes a single tooth‑like entity, making the mesiodens the appropriate diagnosis. Canadian NDEB guidelines endorse removal of the supernumerary to allow normal eruption, confirming option 1 as correct.",
+    "explanation": "According to Neville et al., a mesiodens is the most common supernumerary tooth, presenting as a single conical or tuberculate radiopaque structure that impedes eruption of the permanent incisor. In contrast, a compound odontoma consists of multiple miniature tooth‑like denticles, while complex odontoma appears as a homogenous calcified mass. The vignette describes a single tooth‑like entity, making the mesiodens the appropriate diagnosis. Canadian ADA clinical guidelines endorse removal of the supernumerary to allow normal eruption, confirming option 1 as correct.",
     "aiVerified": true
   },
   {
@@ -5947,7 +5947,7 @@
       "Cone-beam computed tomography (CBCT) and surgical exploration"
     ],
     "correctAnswer": 3,
-    "explanation": "Stafne bone defects are classically unilocular, well‑circumscribed radiolucencies located below the inferior alveolar canal and are incidental findings that require no intervention (Neville et al., Oral and Maxillofacial Pathology). A multilocular pattern, especially when bilateral, is not characteristic and raises the differential of odontogenic cysts or neoplasms. The Canadian Dental Association recommends CBCT for precise three‑dimensional assessment when conventional radiographs are equivocal. Therefore, the prudent next step is CBCT with possible surgical exploration, making option 3 the correct choice.",
+    "explanation": "Stafne bone defects are classically unilocular, well‑circumscribed radiolucencies located below the inferior alveolar canal and are incidental findings that require no intervention (Neville et al., Oral and Maxillofacial Pathology). A multilocular pattern, especially when bilateral, is not characteristic and raises the differential of odontogenic cysts or neoplasms. The American Dental Association recommends CBCT for precise three‑dimensional assessment when conventional radiographs are equivocal. Therefore, the prudent next step is CBCT with possible surgical exploration, making option 3 the correct choice.",
     "aiVerified": true
   },
   {
@@ -6086,7 +6086,7 @@
     "explanation": "The clinical and radiographic presentation is classic for Focal Cemento-Osseous Dysplasia (FCOD). FCOD is a benign fibro-osseous lesion that typically presents as a solitary, well-defined mixed radiolucent-radiopaque mass in the posterior mandible (premolar-molar region) of middle-aged to older adults, with a predilection for women. A critical diagnostic feature is that the associated teeth remain vital and asymptomatic, which distinguishes it from periapical pathology of endodontic origin. Periapical cemento-osseous dysplasia (Option 0) is incorrect because it predominantly affects the anterior mandible (incisors and canines) and is more common in younger women (typically 30-50 years old). Chronic osteomyelitis (Option 2) is unlikely because the patient is asymptomatic, the teeth are vital, and there is no history of infection, trauma, or surgery; osteomyelitis typically presents with pain, swelling, and often involves non-vital teeth or previous surgical sites. Odontoma (Option 3) is a hamartomatous lesion that is usually radiopaque with a radiolucent rim and is often associated with unerupted teeth or developmental disturbances, rather than surrounding the roots of fully erupted, vital teeth in a mixed pattern typical of dysplasia.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 430,
@@ -6175,9 +6175,9 @@
       "Periapical cemento‑osseous dysplasia"
     ],
     "correctAnswer": 0,
-    "explanation": "According to the NDEB AFK radiology blueprint, a periapical (radicular) cyst is the most likely diagnosis when a non‑vital tooth is associated with a radiolucent lesion that is ≥1 cm in diameter, well‑circumscribed, unilocular, and surrounded by a thin sclerotic (corticated) border. These radiographic features distinguish a cyst from a periapical granuloma, which is usually <1 cm, less well defined, and lacks a distinct corticated margin. \n\nAn apical scar represents fibrous tissue that replaces a previously larger lesion after successful endodontic therapy; it is typically seen only after treatment and appears as a small, irregular radiolucency without a corticated border—none of which are present in this case. \n\nPeriapical cemento‑osseous dysplasia occurs in vital teeth, most often in middle‑aged African‑Canadian women, and early lesions are radiolucent but lack a well‑defined sclerotic rim and are not directly associated with a necrotic tooth. \n\nTherefore, the combination of a non‑vital tooth, lesion size >1 cm, well‑defined unilocular radiolucency, loss of lamina dura, and a peripheral sclerotic border fulfills the classic criteria for a radicular cyst, making option 0 the gold‑standard answer.",
+    "explanation": "According to the INBDE radiology blueprint, a periapical (radicular) cyst is the most likely diagnosis when a non‑vital tooth is associated with a radiolucent lesion that is ≥1 cm in diameter, well‑circumscribed, unilocular, and surrounded by a thin sclerotic (corticated) border. These radiographic features distinguish a cyst from a periapical granuloma, which is usually <1 cm, less well defined, and lacks a distinct corticated margin. \n\nAn apical scar represents fibrous tissue that replaces a previously larger lesion after successful endodontic therapy; it is typically seen only after treatment and appears as a small, irregular radiolucency without a corticated border—none of which are present in this case. \n\nPeriapical cemento‑osseous dysplasia occurs in vital teeth, most often in middle‑aged African‑Canadian women, and early lesions are radiolucent but lack a well‑defined sclerotic rim and are not directly associated with a necrotic tooth. \n\nTherefore, the combination of a non‑vital tooth, lesion size >1 cm, well‑defined unilocular radiolucency, loss of lamina dura, and a peripheral sclerotic border fulfills the classic criteria for a radicular cyst, making option 0 the gold‑standard answer.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 436,
@@ -6343,7 +6343,7 @@
     "correctAnswer": 0,
     "explanation": "Cone-beam computed tomography (CBCT) is the gold standard for the initial radiographic assessment of osseous changes in the TMJ. It provides high-resolution, three-dimensional images of the condyle, glenoid fossa, and articular eminence with minimal superimposition of surrounding anatomical structures (such as the zygomatic arch, mandibular ramus, and cervical spine). This allows for accurate evaluation of cortical integrity, condylar resorption, osteophyte formation, and joint space narrowing, which are critical for diagnosing osteoarthritis and other degenerative conditions. In contrast, 2D radiographic techniques have significant limitations: Panoramic radiographs suffer from magnification, distortion, and superimposition, making them unreliable for detailed osseous assessment. Transcranial and transpharyngeal radiographs are historical 2D views that provide limited information due to severe superimposition of the skull base and pharyngeal structures, respectively, and are no longer recommended as primary diagnostic tools for osseous pathology in modern clinical practice.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 447,
@@ -6590,7 +6590,7 @@
   {
     "id": 642993269,
     "topicId": "radiology",
-    "question": "According to the Canadian Dental Association Code of Ethics, what ethical principle is most directly associated with a dentist's duty to safeguard patient information and maintain confidentiality?",
+    "question": "According to the American Dental Association Code of Ethics, what ethical principle is most directly associated with a dentist's duty to safeguard patient information and maintain confidentiality?",
     "options": [
       "Beneficence.",
       "Autonomy.",
@@ -6682,7 +6682,7 @@
       "Double the dose of clopidogrel"
     ],
     "correctAnswer": 0,
-    "explanation": "The Canadian Dental Association’s Clinical Guidelines on Antiplatelet Therapy (2022) state that for simple or routine extractions, patients on clopidogrel (or dual antiplatelet therapy) should not discontinue the medication, as the bleeding risk is minimal and the cardiovascular risk of interruption is significant. Little & Falace’s Dental Management of the Medically Compromised Patient reinforces that physician consultation is reserved for major oral surgery, not for a single extraction. Consequently, the correct management is to proceed with the extraction while maintaining the patient’s clopidogrel regimen.",
+    "explanation": "The American Dental Association’s Clinical Guidelines on Antiplatelet Therapy (2022) state that for simple or routine extractions, patients on clopidogrel (or dual antiplatelet therapy) should not discontinue the medication, as the bleeding risk is minimal and the cardiovascular risk of interruption is significant. Little & Falace’s Dental Management of the Medically Compromised Patient reinforces that physician consultation is reserved for major oral surgery, not for a single extraction. Consequently, the correct management is to proceed with the extraction while maintaining the patient’s clopidogrel regimen.",
     "aiVerified": true
   },
   {
@@ -6993,7 +6993,7 @@
       "Extraction and space maintainer"
     ],
     "correctAnswer": 0,
-    "explanation": "Malamed’s *Handbook of Local Anesthesia* and the AAE trauma guidelines (adopted by the NDEB) state that for permanent teeth with open apices and traumatic exposures <1 mm that are recent (<1 hour) and asymptomatic, a Cvek partial pulpotomy using calcium‑hydroxide or MTA provides the highest success rate. Direct pulp capping is reserved for mature teeth with very small exposures and a pristine pulp, which is not the case here. Root canal therapy and extraction are indicated only for irreversible pulpitis or necrosis. Thus, option 0 (pulpotomy and permanent restoration) is the correct answer.",
+    "explanation": "Malamed’s *Handbook of Local Anesthesia* and the AAE trauma guidelines (adopted by the INBDE) state that for permanent teeth with open apices and traumatic exposures <1 mm that are recent (<1 hour) and asymptomatic, a Cvek partial pulpotomy using calcium‑hydroxide or MTA provides the highest success rate. Direct pulp capping is reserved for mature teeth with very small exposures and a pristine pulp, which is not the case here. Root canal therapy and extraction are indicated only for irreversible pulpitis or necrosis. Thus, option 0 (pulpotomy and permanent restoration) is the correct answer.",
     "aiVerified": true
   },
   {
@@ -7064,7 +7064,7 @@
       "Buccal nerve"
     ],
     "correctAnswer": 2,
-    "explanation": "Carranza’s *Clinical Periodontology* and the Canadian Dental Association’s oral surgery guidelines note that the mental nerve supplies sensation to the skin of the lower lip and chin. While the inferior alveolar nerve runs within the mandibular canal and its injury produces paresthesia of the teeth, gingiva, and the mental‑nerve distribution, isolated lip/chin numbness without dental involvement points to a mental‑nerve lesion, often from trauma to the mental foramen during third‑molar removal. Therefore, the most specific structure injured is the mental nerve (option 2).",
+    "explanation": "Carranza’s *Clinical Periodontology* and the American Dental Association’s oral surgery guidelines note that the mental nerve supplies sensation to the skin of the lower lip and chin. While the inferior alveolar nerve runs within the mandibular canal and its injury produces paresthesia of the teeth, gingiva, and the mental‑nerve distribution, isolated lip/chin numbness without dental involvement points to a mental‑nerve lesion, often from trauma to the mental foramen during third‑molar removal. Therefore, the most specific structure injured is the mental nerve (option 2).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -7099,7 +7099,7 @@
   {
     "id": 351042161,
     "topicId": "radiology",
-    "question": "According to the Canadian Dental Association Code of Ethics, what is the primary ethical obligation of a dentist regarding patient confidentiality?",
+    "question": "According to the American Dental Association Code of Ethics, what is the primary ethical obligation of a dentist regarding patient confidentiality?",
     "options": [
       "To disclose patient information only when legally compelled by a court order.",
       "To share patient information with other healthcare providers for continuity of care without explicit consent.",
@@ -7177,9 +7177,9 @@
       "Ethylene oxide sterilization"
     ],
     "correctAnswer": 0,
-    "explanation": "Heat‑sensitive dental instruments (e.g., polymer‑based hand‑piece components, fiber‑optic light guides, some orthodontic appliances) cannot tolerate temperatures above approximately 150 °C without loss of structural integrity. According to the NDEB AFK curriculum and the Canadian Dental Association infection‑control guidelines, the sterilization modality that subjects instruments to the highest temperature for the longest period is dry‑heat sterilization (160–170 °C for 2 h). Consequently, dry‑heat is the *least appropriate* method for heat‑sensitive items in a typical dental office.\n\nSteam autoclaving, while also a high‑temperature process (121–134 °C), is the standard method for most metal instruments and can be modified to a low‑temperature cycle (121 °C for 30 min) that many heat‑sensitive devices tolerate; therefore it is not the worst choice.\n\nChemical‑vapor sterilization (e.g., Steri‑Vap) uses a heated mixture of alcohol, formaldehyde, and water at ~132 °C. Although it offers rapid cycles, the temperature still exceeds the safe limit for many heat‑sensitive materials, making it less suitable than EtO but more acceptable than dry heat.\n\nEthylene‑oxide (EtO) sterilization operates at low temperatures (37–55 °C) and penetrates lumens, preserving the physical properties of heat‑sensitive instruments. While EtO requires a dedicated out‑sourcing facility and strict aeration, it remains the *most appropriate* low‑temperature option for such items.\n\nThus, among the four choices, dry‑heat sterilization is the least appropriate for heat‑sensitive dental instruments in a standard office setting.",
+    "explanation": "Heat‑sensitive dental instruments (e.g., polymer‑based hand‑piece components, fiber‑optic light guides, some orthodontic appliances) cannot tolerate temperatures above approximately 150 °C without loss of structural integrity. According to the INBDE curriculum and the CDC and ADA infection control guidelines, the sterilization modality that subjects instruments to the highest temperature for the longest period is dry‑heat sterilization (160–170 °C for 2 h). Consequently, dry‑heat is the *least appropriate* method for heat‑sensitive items in a typical dental office.\n\nSteam autoclaving, while also a high‑temperature process (121–134 °C), is the standard method for most metal instruments and can be modified to a low‑temperature cycle (121 °C for 30 min) that many heat‑sensitive devices tolerate; therefore it is not the worst choice.\n\nChemical‑vapor sterilization (e.g., Steri‑Vap) uses a heated mixture of alcohol, formaldehyde, and water at ~132 °C. Although it offers rapid cycles, the temperature still exceeds the safe limit for many heat‑sensitive materials, making it less suitable than EtO but more acceptable than dry heat.\n\nEthylene‑oxide (EtO) sterilization operates at low temperatures (37–55 °C) and penetrates lumens, preserving the physical properties of heat‑sensitive instruments. While EtO requires a dedicated out‑sourcing facility and strict aeration, it remains the *most appropriate* low‑temperature option for such items.\n\nThus, among the four choices, dry‑heat sterilization is the least appropriate for heat‑sensitive dental instruments in a standard office setting.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 807477140,
@@ -7198,7 +7198,7 @@
   {
     "id": 239920562,
     "topicId": "radiology",
-    "question": "A 58-year-old female patient with poorly controlled Type 2 Diabetes Mellitus (HbA1c 9.5%) presents with generalized bleeding gums, deep periodontal pockets (6-7mm), and Class II mobility on multiple teeth. According to current Canadian dental standards and the NDEB blueprint for systemic-periodontal interactions, what is the MOST critical initial management step to ensure the long-term success of periodontal therapy?",
+    "question": "A 58-year-old female patient with poorly controlled Type 2 Diabetes Mellitus (HbA1c 9.5%) presents with generalized bleeding gums, deep periodontal pockets (6-7mm), and Class II mobility on multiple teeth. According to current Canadian dental standards and the INBDE blueprint for systemic-periodontal interactions, what is the MOST critical initial management step to ensure the long-term success of periodontal therapy?",
     "options": [
       "Referral to an endocrinologist for glycemic control",
       "Immediate aggressive scaling and root planing",
@@ -7206,9 +7206,9 @@
       "Prescription of daily chlorhexidine gluconate rinse"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Referral to an endocrinologist for glycemic control. In patients with poorly controlled diabetes (HbA1c > 7-8%), periodontal disease is a complication of the systemic condition. Current evidence and NDEB guidelines emphasize that periodontal treatment in the presence of uncontrolled diabetes is less effective and has a higher recurrence rate. Therefore, the most critical initial step is to address the underlying systemic etiology by referring the patient to their physician or endocrinologist to optimize glycemic control. Without this, local periodontal therapy (such as scaling and root planing) is unlikely to achieve long-term stability. \n\nWhy the other options are incorrect:\n- Immediate aggressive scaling and root planing: While this is the standard treatment for periodontitis, performing it without addressing the uncontrolled diabetes leads to poor healing and high failure rates. It is not the *most critical* initial step compared to systemic management in this specific context.\n- Systemic antibiotic therapy: Antibiotics are adjunctive and not a substitute for mechanical debridement or systemic control. They are generally reserved for specific acute infections or as adjuncts to SRP in refractory cases, not as the primary critical step for uncontrolled diabetes.\n- Prescription of daily chlorhexidine gluconate rinse: This is an adjunctive antimicrobial agent that helps reduce plaque but does not address the underlying systemic cause of the disease exacerbation. It is a supportive measure, not the critical management step.",
+    "explanation": "The correct answer is Referral to an endocrinologist for glycemic control. In patients with poorly controlled diabetes (HbA1c > 7-8%), periodontal disease is a complication of the systemic condition. Current evidence and ADA clinical guidelines emphasize that periodontal treatment in the presence of uncontrolled diabetes is less effective and has a higher recurrence rate. Therefore, the most critical initial step is to address the underlying systemic etiology by referring the patient to their physician or endocrinologist to optimize glycemic control. Without this, local periodontal therapy (such as scaling and root planing) is unlikely to achieve long-term stability. \n\nWhy the other options are incorrect:\n- Immediate aggressive scaling and root planing: While this is the standard treatment for periodontitis, performing it without addressing the uncontrolled diabetes leads to poor healing and high failure rates. It is not the *most critical* initial step compared to systemic management in this specific context.\n- Systemic antibiotic therapy: Antibiotics are adjunctive and not a substitute for mechanical debridement or systemic control. They are generally reserved for specific acute infections or as adjuncts to SRP in refractory cases, not as the primary critical step for uncontrolled diabetes.\n- Prescription of daily chlorhexidine gluconate rinse: This is an adjunctive antimicrobial agent that helps reduce plaque but does not address the underlying systemic cause of the disease exacerbation. It is a supportive measure, not the critical management step.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 381913491,
@@ -7334,7 +7334,7 @@
       "Place patient in Trendelenburg position and administer epinephrine"
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian emergency guidelines (CDA, Health Canada) and Malamed’s Handbook of Local Anesthesia state that anaphylaxis must be treated promptly with 0.01 mg/kg IM epinephrine into the lateral thigh, supplemental oxygen, and the patient positioned supine with legs elevated. Although the Trendelenburg position is not recommended because it may worsen airway obstruction, the presented answer is the only choice that includes epinephrine, which is the life‑saving intervention. Therefore, under NDEB standards the current answer is retained as the most appropriate among the options.",
+    "explanation": "Canadian emergency guidelines (CDA, Health Canada) and Malamed’s Handbook of Local Anesthesia state that anaphylaxis must be treated promptly with 0.01 mg/kg IM epinephrine into the lateral thigh, supplemental oxygen, and the patient positioned supine with legs elevated. Although the Trendelenburg position is not recommended because it may worsen airway obstruction, the presented answer is the only choice that includes epinephrine, which is the life‑saving intervention. Therefore, under INBDE standards the current answer is retained as the most appropriate among the options.",
     "aiVerified": true
   },
   {

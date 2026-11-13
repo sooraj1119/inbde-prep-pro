@@ -94,7 +94,7 @@
       "Advise rinsing with a 0.05% sodium fluoride mouthwash daily."
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Canadian Dental Association (CDA) and Health Canada fluoride recommendations, children ≥6 years living in non‑fluoridated communities are advised to use topical fluoride measures rather than systemic supplements. Professional fluoride varnish (5% NaF) applied every 3–6 months provides high local fluoride concentration and has been shown to reduce caries incidence in moderate‑risk children. Systemic tablets are reserved for children 6 months–6 years. Over‑the‑counter toothpaste alone may be insufficient for moderate risk, and daily mouthwash is not advised for this age due to ingestion risk. Therefore the most appropriate recommendation is a professional fluoride varnish schedule.",
+    "explanation": "According to the American Dental Association (CDA) and Health Canada fluoride recommendations, children ≥6 years living in non‑fluoridated communities are advised to use topical fluoride measures rather than systemic supplements. Professional fluoride varnish (5% NaF) applied every 3–6 months provides high local fluoride concentration and has been shown to reduce caries incidence in moderate‑risk children. Systemic tablets are reserved for children 6 months–6 years. Over‑the‑counter toothpaste alone may be insufficient for moderate risk, and daily mouthwash is not advised for this age due to ingestion risk. Therefore the most appropriate recommendation is a professional fluoride varnish schedule.",
     "aiVerified": true
   },
   {
@@ -514,7 +514,7 @@
       "She should consult her physician to determine the need for prophylaxis."
     ],
     "correctAnswer": 0,
-    "explanation": "Current guidelines from the American Heart Association (AHA) and endorsed by the Canadian Dental Association (CDA) state that antibiotic prophylaxis is *not* recommended for mitral valve prolapse unless it is associated with valvular regurgitation or a history of infective endocarditis. Deep scaling and root planing (C) are indeed invasive, but the patient's specific cardiac condition dictates the need for prophylaxis. Consulting her physician (D) is an option, but the dental professional should know the guidelines.",
+    "explanation": "Current guidelines from the American Heart Association (AHA) and endorsed by the American Dental Association (CDA) state that antibiotic prophylaxis is *not* recommended for mitral valve prolapse unless it is associated with valvular regurgitation or a history of infective endocarditis. Deep scaling and root planing (C) are indeed invasive, but the patient's specific cardiac condition dictates the need for prophylaxis. Consulting her physician (D) is an option, but the dental professional should know the guidelines.",
     "aiVerified": true
   },
   {
@@ -885,7 +885,7 @@
   {
     "id": 226918643,
     "topicId": "infection-control",
-    "question": "A reusable dental impression tray has been used on a patient and has contacted intact mucous membranes. According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) infection‑control guidelines, what is the minimum level of reprocessing required before the tray can be used on another patient?",
+    "question": "A reusable dental impression tray has been used on a patient and has contacted intact mucous membranes. According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) infection‑control guidelines, what is the minimum level of reprocessing required before the tray can be used on another patient?",
     "options": [
       "High-level disinfection",
       "Intermediate-level disinfection",
@@ -896,7 +896,7 @@
     "explanation": "Under the Spaulding classification, which is incorporated into the CDA/PHAC infection‑control guidelines, instruments are grouped by the degree of risk they pose:\n- **Critical** items (penetrate soft tissue or bone) require **sterilization**.\n- **Semi‑critical** items contact intact mucous membranes or non‑intact skin. The minimum required reprocessing for semi‑critical items is **high‑level disinfection (HLD)**; sterilization is acceptable but not mandatory.\n- **Non‑critical** items contact only intact skin and require low‑level disinfection.\nA reusable impression tray contacts intact mucous membranes, making it a semi‑critical device. Therefore the minimum acceptable reprocessing is high‑level disinfection, which destroys all vegetative bacteria, viruses, fungi and mycobacteria, leaving only large numbers of bacterial spores potentially viable. \nWhy the other options are incorrect:\n- **Intermediate‑level disinfection** (option 1) does not reliably inactivate mycobacteria and certain viruses; it is insufficient for semi‑critical items.\n- **Low‑level disinfection** (option 2) is only adequate for non‑critical items that touch intact skin; it does not meet the required microbial kill for mucosal contact.\n- **Sterilization** (option 3) exceeds the minimum requirement for semi‑critical devices. While it is permissible, it is not the *minimum* level mandated by the guidelines, and therefore is not the correct answer to the question asking for the minimum required level.\nThus, the gold‑standard answer is **High‑level disinfection**.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 472862462,
@@ -971,7 +971,7 @@
   {
     "id": 119256617,
     "topicId": "infection-control",
-    "question": "A dental hygienist is performing ultrasonic scaling, which generates a high volume of aerosols. According to the Canadian Dental Association (CDA) and provincial infection‑control guidelines, what is the minimum level of respiratory protection that must be worn by the dental team member during this procedure?",
+    "question": "A dental hygienist is performing ultrasonic scaling, which generates a high volume of aerosols. According to the American Dental Association (CDA) and provincial infection‑control guidelines, what is the minimum level of respiratory protection that must be worn by the dental team member during this procedure?",
     "options": [
       "A standard surgical mask",
       "A cloth mask",
@@ -979,10 +979,10 @@
       "An N95 filtering facepiece respirator (or equivalent P2/FFP2)"
     ],
     "correctAnswer": 2,
-    "explanation": "The Canadian Dental Association’s Infection‑Control Guidelines (2022) classify ultrasonic scaling as an aerosol‑generating procedure but state that the minimum respiratory protection is a fluid‑resistant surgical or procedure mask; a fit‑tested N95/P2 respirator is reserved for situations with a known or suspected airborne pathogen (e.g., active tuberculosis, COVID‑19 patient). This recommendation is echoed in the RCDSO provincial protocol and the Health Canada Occupational Health and Safety guidance, which both emphasize that a procedure mask provides sufficient filtration for routine dental AGPs while maintaining comfort and compliance. Cloth masks are excluded, and standard surgical masks without fluid resistance do not meet the required barrier level.",
+    "explanation": "The American Dental Association’s Infection‑Control Guidelines (2022) classify ultrasonic scaling as an aerosol‑generating procedure but state that the minimum respiratory protection is a fluid‑resistant surgical or procedure mask; a fit‑tested N95/P2 respirator is reserved for situations with a known or suspected airborne pathogen (e.g., active tuberculosis, COVID‑19 patient). This recommendation is echoed in the RCDSO provincial protocol and the Health Canada Occupational Health and Safety guidance, which both emphasize that a procedure mask provides sufficient filtration for routine dental AGPs while maintaining comfort and compliance. Cloth masks are excluded, and standard surgical masks without fluid resistance do not meet the required barrier level.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 489527617,
@@ -1164,7 +1164,7 @@
       "Consulting with his oncologist regarding the appropriate timing and need for antibiotic prophylaxis."
     ],
     "correctAnswer": 1,
-    "explanation": "Patients with neutrophil counts <1.0 × 10⁹ L⁻¹ are at heightened risk for infection, but infection‑control in the dental setting focuses on preventing cross‑contamination. The Canadian Dental Association and provincial infection‑control guidelines state that standard precautions (hand hygiene, gloves, mask, eye protection) are mandatory for all patients, especially the immunocompromised. Consulting the oncologist pertains to medical management, not infection control. Empirical prophylactic antibiotics or automatic postponement are not indicated without a medical directive. Therefore, strict standard precautions are the primary consideration (see CDA Infection‑Control Guidelines, 2023).",
+    "explanation": "Patients with neutrophil counts <1.0 × 10⁹ L⁻¹ are at heightened risk for infection, but infection‑control in the dental setting focuses on preventing cross‑contamination. The American Dental Association and provincial infection‑control guidelines state that standard precautions (hand hygiene, gloves, mask, eye protection) are mandatory for all patients, especially the immunocompromised. Consulting the oncologist pertains to medical management, not infection control. Empirical prophylactic antibiotics or automatic postponement are not indicated without a medical directive. Therefore, strict standard precautions are the primary consideration (see CDA Infection‑Control Guidelines, 2023).",
     "aiVerified": true
   },
   {
@@ -1418,9 +1418,9 @@
       "Use sterile water from a separate reservoir for the ultrasonic scaler."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0. According to Canadian dental infection control guidelines (CDC/PHAC/CDA), the use of a pre-procedural antimicrobial mouth rinse (such as 0.12% chlorhexidine) is a recommended adjunctive measure to reduce the bacterial load in the oral cavity. This significantly decreases the number of microorganisms in the aerosols and spatter generated during ultrasonic scaling and air-polishing, which is particularly relevant for patients with compromised immune systems or specific medical histories, although the primary benefit is general cross-contamination reduction. \n\nOption 1 is incorrect because while sterilization of critical instruments is mandatory, dry heat is not the universal standard; autoclaving (moist heat) is the preferred and most common method for dental instruments due to its reliability and speed. Furthermore, the question asks for the 'most critical' measure in the context of the specific patient scenario and aerosol risk, where pre-procedural rinsing is a distinct, high-yield preventive step often tested in AFK exams regarding aerosol control.\n\nOption 2 is incorrect because placing a rubber dam for an entire routine dental cleaning (prophylaxis) is not standard practice. Rubber dams are primarily used for restorative or endodontic procedures to isolate specific teeth and prevent contamination of the operative field, not for full-mouth hygiene appointments where access to all quadrants is required.\n\nOption 3 is incorrect because using sterile water from a separate reservoir is not a standard requirement for routine ultrasonic scaling. Dental units are designed to use the main water supply, which must be maintained to meet drinking water quality standards (e.g., <500 CFU/mL). While waterline maintenance is critical, the specific act of using a separate sterile reservoir is not a standard infection control protocol for routine hygiene and is more relevant to specific surgical or endodontic contexts if at all.",
+    "explanation": "The correct answer is Option 0. According to Canadian dental infection control guidelines (CDC/PHAC/CDA), the use of a pre-procedural antimicrobial mouth rinse (such as 0.12% chlorhexidine) is a recommended adjunctive measure to reduce the bacterial load in the oral cavity. This significantly decreases the number of microorganisms in the aerosols and spatter generated during ultrasonic scaling and air-polishing, which is particularly relevant for patients with compromised immune systems or specific medical histories, although the primary benefit is general cross-contamination reduction. \n\nOption 1 is incorrect because while sterilization of critical instruments is mandatory, dry heat is not the universal standard; autoclaving (moist heat) is the preferred and most common method for dental instruments due to its reliability and speed. Furthermore, the question asks for the 'most critical' measure in the context of the specific patient scenario and aerosol risk, where pre-procedural rinsing is a distinct, high-yield preventive step often tested in INBDE exams regarding aerosol control.\n\nOption 2 is incorrect because placing a rubber dam for an entire routine dental cleaning (prophylaxis) is not standard practice. Rubber dams are primarily used for restorative or endodontic procedures to isolate specific teeth and prevent contamination of the operative field, not for full-mouth hygiene appointments where access to all quadrants is required.\n\nOption 3 is incorrect because using sterile water from a separate reservoir is not a standard requirement for routine ultrasonic scaling. Dental units are designed to use the main water supply, which must be maintained to meet drinking water quality standards (e.g., <500 CFU/mL). While waterline maintenance is critical, the specific act of using a separate sterile reservoir is not a standard infection control protocol for routine hygiene and is more relevant to specific surgical or endodontic contexts if at all.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 353769787,
@@ -1447,7 +1447,7 @@
       "Begin a new series of Hepatitis B vaccinations and administer Hepatitis B immunoglobulin."
     ],
     "correctAnswer": 1,
-    "explanation": "Guidelines from PHAC and the Canadian Dental Association (2021) state that the immediate management of a percutaneous injury is thorough irrigation with soap and water, followed by an antiseptic rinse. This first‑aid measure reduces viral and bacterial load and is performed before reporting or seeking post‑exposure prophylaxis. Reporting and medical evaluation are essential but occur after the wound has been cleaned. Requesting patient serology or restarting HBV vaccination is not the initial action. Consequently, option 1 (wash the wound) is the correct answer.",
+    "explanation": "Guidelines from PHAC and the American Dental Association (2021) state that the immediate management of a percutaneous injury is thorough irrigation with soap and water, followed by an antiseptic rinse. This first‑aid measure reduces viral and bacterial load and is performed before reporting or seeking post‑exposure prophylaxis. Reporting and medical evaluation are essential but occur after the wound has been cleaned. Requesting patient serology or restarting HBV vaccination is not the initial action. Consequently, option 1 (wash the wound) is the correct answer.",
     "aiVerified": true
   },
   {
@@ -1517,9 +1517,9 @@
       "Evaluate the necessity of using an antimicrobial mouth rinse prior to the procedure."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Option 2. In the context of Canadian dental standards and NDEB guidelines, 'infection control' in the pre-procedural assessment of a systemically compromised patient extends beyond standard sterilization protocols to include the management of host susceptibility to infection. A patient with an HbA1c of 9.5% has significantly impaired immune function, specifically neutrophil chemotaxis and phagocytosis, which drastically increases the risk of post-operative infection and delayed wound healing following extensive periodontal surgery. The gold standard of care is to consult with the patient's physician to optimize glycemic control before proceeding with elective, extensive procedures. If the condition cannot be optimized, the procedure may need to be deferred or modified. \n\nOption 1 is incorrect because while oral hygiene compliance is a critical component of periodontal maintenance, it is a long-term behavioral factor and does not address the immediate, acute risk of infection and poor healing associated with severe hyperglycemia. \n\nOption 2 is incorrect because antibiotic prophylaxis is not indicated solely for diabetes mellitus. According to CDA and ADA guidelines, antibiotic prophylaxis is reserved for specific high-risk cardiac conditions (e.g., prosthetic valves, history of endocarditis) or specific immunocompromised states (e.g., neutropenia, HIV with low CD4 count) undergoing invasive procedures. Uncontrolled diabetes alone does not meet the criteria for routine antibiotic prophylaxis for scaling and root planing. \n\nOption 3 is incorrect because while antimicrobial mouth rinses (such as chlorhexidine) may be used as an adjunct to reduce bacterial load, they do not address the underlying systemic immunocompromise. Relying on a topical agent without addressing the systemic risk factor is insufficient for risk management in a patient with such poor glycemic control.",
+    "explanation": "The correct answer is Option 2. In the context of Canadian dental standards and ADA clinical guidelines, 'infection control' in the pre-procedural assessment of a systemically compromised patient extends beyond standard sterilization protocols to include the management of host susceptibility to infection. A patient with an HbA1c of 9.5% has significantly impaired immune function, specifically neutrophil chemotaxis and phagocytosis, which drastically increases the risk of post-operative infection and delayed wound healing following extensive periodontal surgery. The gold standard of care is to consult with the patient's physician to optimize glycemic control before proceeding with elective, extensive procedures. If the condition cannot be optimized, the procedure may need to be deferred or modified. \n\nOption 1 is incorrect because while oral hygiene compliance is a critical component of periodontal maintenance, it is a long-term behavioral factor and does not address the immediate, acute risk of infection and poor healing associated with severe hyperglycemia. \n\nOption 2 is incorrect because antibiotic prophylaxis is not indicated solely for diabetes mellitus. According to CDA and ADA guidelines, antibiotic prophylaxis is reserved for specific high-risk cardiac conditions (e.g., prosthetic valves, history of endocarditis) or specific immunocompromised states (e.g., neutropenia, HIV with low CD4 count) undergoing invasive procedures. Uncontrolled diabetes alone does not meet the criteria for routine antibiotic prophylaxis for scaling and root planing. \n\nOption 3 is incorrect because while antimicrobial mouth rinses (such as chlorhexidine) may be used as an adjunct to reduce bacterial load, they do not address the underlying systemic immunocompromise. Relying on a topical agent without addressing the systemic risk factor is insufficient for risk management in a patient with such poor glycemic control.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 700921731,
@@ -1602,7 +1602,7 @@
       "Recommendation of over-the-counter fluoride rinses and increased water intake."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option B. For patients with severe xerostomia and active root caries, the risk of caries is significantly elevated. Current evidence and guidelines (such as those from the Canadian Dental Association and ADA) recommend the use of high-concentration fluoride toothpaste (5000 ppm fluoride) as the most effective daily preventive measure for high-risk patients. This concentration provides a sustained release of fluoride to the tooth surface, enhancing remineralization and inhibiting demineralization more effectively than lower concentrations. Option A is incorrect because non-fluoridated mouthwashes do not provide the necessary chemical protection against caries, although they may help with comfort. Option C is incorrect because while fluoride varnish is beneficial, biannual application is insufficient for a patient with active lesions and severe xerostomia; more frequent application (e.g., every 3-4 months) or daily high-concentration fluoride exposure is required. Option D is incorrect because over-the-counter rinses (typically 0.05% or 0.12% sodium fluoride) are generally recommended for moderate-risk patients and are less effective than 5000 ppm toothpaste for high-risk cases with active disease.",
+    "explanation": "The correct answer is Option B. For patients with severe xerostomia and active root caries, the risk of caries is significantly elevated. Current evidence and guidelines (such as those from the American Dental Association and ADA) recommend the use of high-concentration fluoride toothpaste (5000 ppm fluoride) as the most effective daily preventive measure for high-risk patients. This concentration provides a sustained release of fluoride to the tooth surface, enhancing remineralization and inhibiting demineralization more effectively than lower concentrations. Option A is incorrect because non-fluoridated mouthwashes do not provide the necessary chemical protection against caries, although they may help with comfort. Option C is incorrect because while fluoride varnish is beneficial, biannual application is insufficient for a patient with active lesions and severe xerostomia; more frequent application (e.g., every 3-4 months) or daily high-concentration fluoride exposure is required. Option D is incorrect because over-the-counter rinses (typically 0.05% or 0.12% sodium fluoride) are generally recommended for moderate-risk patients and are less effective than 5000 ppm toothpaste for high-risk cases with active disease.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -1645,7 +1645,7 @@
       "Schedule shorter appointments with frequent breaks to manage her discomfort and minimize aerosol exposure time."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is to utilize high-volume evacuation (HVE) and a rubber dam. In the context of infection control, particularly for aerosol-generating procedures (AGPs), the primary goal is to reduce the concentration of infectious aerosols in the air. The Canadian Dental Association (CDA) and other health authorities recommend the use of HVE and rubber dams as critical engineering controls to capture aerosols at the source. While the patient's limited mouth opening and COPD are relevant to patient comfort and medical management, the question specifically asks for the adaptation concerning *infection control*. Scheduling shorter appointments (Option D) is a valid strategy for patient comfort and may indirectly reduce total exposure time, but it does not address the fundamental source control of aerosol generation as effectively as HVE and rubber dam isolation. Supplemental oxygen (Option A) addresses the patient's medical condition, not infection control. Prophylactic antibiotics (Option C) are not indicated for infection control in this context and contribute to antibiotic resistance.",
+    "explanation": "The correct answer is to utilize high-volume evacuation (HVE) and a rubber dam. In the context of infection control, particularly for aerosol-generating procedures (AGPs), the primary goal is to reduce the concentration of infectious aerosols in the air. The American Dental Association (CDA) and other health authorities recommend the use of HVE and rubber dams as critical engineering controls to capture aerosols at the source. While the patient's limited mouth opening and COPD are relevant to patient comfort and medical management, the question specifically asks for the adaptation concerning *infection control*. Scheduling shorter appointments (Option D) is a valid strategy for patient comfort and may indirectly reduce total exposure time, but it does not address the fundamental source control of aerosol generation as effectively as HVE and rubber dam isolation. Supplemental oxygen (Option A) addresses the patient's medical condition, not infection control. Prophylactic antibiotics (Option C) are not indicated for infection control in this context and contribute to antibiotic resistance.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -1688,7 +1688,7 @@
       "Immediate restorative treatment for the incipient lesions."
     ],
     "correctAnswer": 2,
-    "explanation": "Fluoride varnish application is highly effective in preventing and arresting incipient caries, especially in high-risk children in non-fluoridated areas, aligning with Canadian guidelines. Daily chlorhexidine rinse is generally not recommended for routine caries prevention in children due to potential staining and taste issues. While sealants are beneficial, fluoride varnish addresses the incipient lesions and overall caries risk more broadly initially. Restorative treatment is for cavitated lesions, not incipient ones.",
+    "explanation": "Fluoride varnish application is highly effective in preventing and arresting incipient caries, especially in high-risk children in non-fluoridated areas, aligning with ADA guidelines. Daily chlorhexidine rinse is generally not recommended for routine caries prevention in children due to potential staining and taste issues. While sealants are beneficial, fluoride varnish addresses the incipient lesions and overall caries risk more broadly initially. Restorative treatment is for cavitated lesions, not incipient ones.",
     "aiVerified": true
   },
   {
@@ -1719,12 +1719,12 @@
     "explanation": "The correct answer is Water flosser (oral irrigator). In patients with limited manual dexterity, such as those with arthritis, the primary barrier to effective interproximal cleaning is the inability to perform the fine motor skills and grip strength required for traditional aids. Water flossers are the gold standard recommendation in this context because they require minimal grip strength and no complex finger manipulation; the device is typically held with a simple power grip, and the nozzle is guided into the interproximal space. While interdental brushes are highly effective for plaque removal in patients with adequate dexterity, they require precise angulation and a firm pinch grip, which is often impossible for patients with significant arthritis. Waxed dental floss and dental tape both require significant fine motor control, finger dexterity, and the ability to wrap and slide the material between teeth, making them impractical and ineffective for this specific patient population. Therefore, the water flosser is the most appropriate and accessible option to ensure compliance and effective interproximal hygiene.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 75342425,
     "topicId": "infection-control",
-    "question": "A 40-year-old healthy male patient undergoes a scaling and root planing procedure. During the procedure, several gauze squares become visibly saturated with blood and saliva. These gauze squares are considered biomedical waste. What is the MOST appropriate method for their disposal according to Canadian guidelines?",
+    "question": "A 40-year-old healthy male patient undergoes a scaling and root planing procedure. During the procedure, several gauze squares become visibly saturated with blood and saliva. These gauze squares are considered biomedical waste. What is the MOST appropriate method for their disposal according to ADA guidelines?",
     "options": [
       "Place in a regular office waste bin.",
       "Place in a puncture-resistant sharps container.",
@@ -1738,7 +1738,7 @@
   {
     "id": 869910132,
     "topicId": "infection-control",
-    "question": "According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection control in dental settings, in which of the following scenarios is the use of an alcohol-based hand rub (ABHR) explicitly preferred over soap and water, provided the hands are not visibly soiled?",
+    "question": "According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection control in dental settings, in which of the following scenarios is the use of an alcohol-based hand rub (ABHR) explicitly preferred over soap and water, provided the hands are not visibly soiled?",
     "options": [
       "After assisting with a surgical extraction involving significant blood exposure.",
       "Before donning gloves for a routine dental examination.",
@@ -1746,9 +1746,9 @@
       "Before leaving the operatory to retrieve sterilized instruments from the central sterilization area."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option 1 (Before donning gloves for a routine dental examination). According to PHAC and CDA guidelines, alcohol-based hand rub (ABHR) is the preferred method for hand hygiene in most clinical situations because it is more effective than soap and water at reducing the number of bacteria on the hands, is faster, and is better tolerated by the skin. ABHR is specifically indicated for routine hand hygiene, including before donning gloves for clean procedures (like a routine exam) and after removing gloves, provided the hands are not visibly soiled. \n\nWhy the other options are incorrect:\n- Option 0 (After assisting with a surgical extraction): While ABHR can be used if hands are not visibly soiled, surgical procedures often involve significant blood and tissue exposure. If there is any visible soil or heavy contamination, soap and water is required. Furthermore, the 'preference' for ABHR is most strongly emphasized for routine, low-contamination steps to maximize efficiency and skin health, whereas post-surgical hygiene is often a point of debate regarding the level of contamination, making it a less definitive 'most necessitates' scenario compared to the routine pre-glove step.\n- Option 2 (After removing gloves following a procedure with potential blood exposure): Similar to Option 0, if there is potential blood exposure, the hands may be contaminated. While ABHR is effective against many pathogens, soap and water is the gold standard for removing visible soil and certain spores. The guideline states ABHR is preferred *unless* hands are visibly soiled. In a scenario with 'potential blood exposure,' the clinician must assess for visible soil; if present, soap and water is mandatory. Thus, it does not 'most necessitate' ABHR over soap and water in the same unambiguous way as a routine clean procedure.\n- Option 3 (Before leaving the operatory to retrieve instruments): Hand hygiene is required before leaving the operatory to prevent cross-contamination. However, the specific preference for ABHR over soap and water is not unique to this action; it applies to all routine hand hygiene moments. Option 1 is a more standard, high-frequency example of routine hand hygiene where ABHR is the clear first-line choice to maintain workflow efficiency and skin integrity, which is a key teaching point in NDEB AFK regarding the benefits of ABHR.",
+    "explanation": "The correct answer is Option 1 (Before donning gloves for a routine dental examination). According to PHAC and CDA guidelines, alcohol-based hand rub (ABHR) is the preferred method for hand hygiene in most clinical situations because it is more effective than soap and water at reducing the number of bacteria on the hands, is faster, and is better tolerated by the skin. ABHR is specifically indicated for routine hand hygiene, including before donning gloves for clean procedures (like a routine exam) and after removing gloves, provided the hands are not visibly soiled. \n\nWhy the other options are incorrect:\n- Option 0 (After assisting with a surgical extraction): While ABHR can be used if hands are not visibly soiled, surgical procedures often involve significant blood and tissue exposure. If there is any visible soil or heavy contamination, soap and water is required. Furthermore, the 'preference' for ABHR is most strongly emphasized for routine, low-contamination steps to maximize efficiency and skin health, whereas post-surgical hygiene is often a point of debate regarding the level of contamination, making it a less definitive 'most necessitates' scenario compared to the routine pre-glove step.\n- Option 2 (After removing gloves following a procedure with potential blood exposure): Similar to Option 0, if there is potential blood exposure, the hands may be contaminated. While ABHR is effective against many pathogens, soap and water is the gold standard for removing visible soil and certain spores. The guideline states ABHR is preferred *unless* hands are visibly soiled. In a scenario with 'potential blood exposure,' the clinician must assess for visible soil; if present, soap and water is mandatory. Thus, it does not 'most necessitate' ABHR over soap and water in the same unambiguous way as a routine clean procedure.\n- Option 3 (Before leaving the operatory to retrieve instruments): Hand hygiene is required before leaving the operatory to prevent cross-contamination. However, the specific preference for ABHR over soap and water is not unique to this action; it applies to all routine hand hygiene moments. Option 1 is a more standard, high-frequency example of routine hand hygiene where ABHR is the clear first-line choice to maintain workflow efficiency and skin integrity, which is a key teaching point in INBDE regarding the benefits of ABHR.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 639396361,
@@ -1775,9 +1775,9 @@
       "A second pair of examination gloves"
     ],
     "correctAnswer": 0,
-    "explanation": "Deep scaling and root planing with ultrasonic devices produce aerosols that can contain both respiratory particles and blood‑borne pathogens. Canadian infection‑control guidelines (Health Canada, CDC, and the NDEB infection‑control blueprint) state that for aerosol‑generating dental procedures the provider must wear a respirator that filters ≥95% of airborne particles (N95 or higher) **and** eye protection (goggles or a full face shield) in addition to standard precautions (gloves and a surgical mask). \n\n*Why option 0 is correct*: An N95 respirator provides the required filtration for airborne particles, and protective eyewear prevents splatter or aerosol exposure to the mucous membranes of the eyes, meeting the highest level of respiratory and ocular protection for this scenario.\n\n*Why the other options are incorrect*:\n- **Option 1 (medical gown)**: A gown protects clothing and skin from splatter but does not address the inhalation risk posed by aerosols; it does not replace the need for a respirator.\n- **Option 2 (surgical mask and face shield)**: The face shield offers eye protection, but a surgical mask does not filter airborne particles to the degree required for aerosol‑generating procedures; it is inadequate for respiratory protection.\n- **Option 3 (second pair of gloves)**: Double gloving may reduce glove perforation risk but provides no additional respiratory or ocular protection and therefore does not meet the PPE requirements for aerosol exposure.\n\nThus, the combination of an N95 respirator and protective eyewear is the gold‑standard PPE for the dental hygienist in this situation.",
+    "explanation": "Deep scaling and root planing with ultrasonic devices produce aerosols that can contain both respiratory particles and blood‑borne pathogens. Canadian infection‑control guidelines (Health Canada, CDC, and the INBDE infection‑control blueprint) state that for aerosol‑generating dental procedures the provider must wear a respirator that filters ≥95% of airborne particles (N95 or higher) **and** eye protection (goggles or a full face shield) in addition to standard precautions (gloves and a surgical mask). \n\n*Why option 0 is correct*: An N95 respirator provides the required filtration for airborne particles, and protective eyewear prevents splatter or aerosol exposure to the mucous membranes of the eyes, meeting the highest level of respiratory and ocular protection for this scenario.\n\n*Why the other options are incorrect*:\n- **Option 1 (medical gown)**: A gown protects clothing and skin from splatter but does not address the inhalation risk posed by aerosols; it does not replace the need for a respirator.\n- **Option 2 (surgical mask and face shield)**: The face shield offers eye protection, but a surgical mask does not filter airborne particles to the degree required for aerosol‑generating procedures; it is inadequate for respiratory protection.\n- **Option 3 (second pair of gloves)**: Double gloving may reduce glove perforation risk but provides no additional respiratory or ocular protection and therefore does not meet the PPE requirements for aerosol exposure.\n\nThus, the combination of an N95 respirator and protective eyewear is the gold‑standard PPE for the dental hygienist in this situation.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 609595075,
@@ -1880,7 +1880,7 @@
   {
     "id": 270180809,
     "topicId": "infection-control",
-    "question": "A 2-year-old female patient presents for her first dental visit. Her parents report she still uses a baby bottle with milk at bedtime. Clinical examination reveals multiple carious lesions on her maxillary anterior teeth. According to Canadian guidelines for the management of Early Childhood Caries (ECC), what is the MOST appropriate immediate clinical intervention to perform during this initial visit?",
+    "question": "A 2-year-old female patient presents for her first dental visit. Her parents report she still uses a baby bottle with milk at bedtime. Clinical examination reveals multiple carious lesions on her maxillary anterior teeth. According to ADA guidelines for the management of Early Childhood Caries (ECC), what is the MOST appropriate immediate clinical intervention to perform during this initial visit?",
     "options": [
       "Schedule immediate restorative treatment for all carious lesions under general anesthesia.",
       "Discontinue the bedtime bottle with milk and encourage the use of a sippy cup with water.",
@@ -1888,10 +1888,10 @@
       "Prescribe a daily systemic fluoride supplement."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is to apply fluoride varnish to all erupted teeth. In the context of a first dental visit for a child with active Early Childhood Caries (ECC), the immediate clinical priority is to provide a topical fluoride application. Fluoride varnish is the recommended first-line clinical intervention for high-risk children at the initial visit because it is minimally invasive, well-tolerated by young children, and provides immediate benefits by promoting remineralization of early lesions and inhibiting further demineralization on sound surfaces. This aligns with Canadian Dental Association (CDA) and NDEB guidelines for managing high caries risk in pediatric patients.\n\nWhy the other options are incorrect:\n- Option 0 (Schedule immediate restorative treatment): While restorative treatment is necessary for established cavities, it is not the *immediate* clinical intervention performed at the very first visit for a 2-year-old. Restorative care for multiple anterior lesions often requires behavior management strategies (e.g., sedation or general anesthesia) that are planned after the initial assessment and risk management steps are taken. Immediate restoration is not feasible or standard for a first visit without prior behavioral preparation and informed consent for complex care.\n- Option 1 (Discontinue the bedtime bottle): This is a critical *preventive* and *educational* intervention, but it is not a *clinical* intervention in the procedural sense. The question specifically asks for a clinical intervention. While counseling is essential and should be provided, it does not directly treat the existing caries risk or provide immediate chemical protection to the teeth in the same manner as fluoride application.\n- Option 3 (Prescribe a daily fluoride supplement): Fluoride supplements are indicated based on community water fluoride levels and are a systemic preventive measure. They are not an immediate clinical intervention for active caries lesions. Topical fluoride (varnish) is more effective for managing existing high caries risk and active lesions in the short term, as it acts directly on the tooth surface.",
+    "explanation": "The correct answer is to apply fluoride varnish to all erupted teeth. In the context of a first dental visit for a child with active Early Childhood Caries (ECC), the immediate clinical priority is to provide a topical fluoride application. Fluoride varnish is the recommended first-line clinical intervention for high-risk children at the initial visit because it is minimally invasive, well-tolerated by young children, and provides immediate benefits by promoting remineralization of early lesions and inhibiting further demineralization on sound surfaces. This aligns with American Dental Association (CDA) and ADA clinical guidelines for managing high caries risk in pediatric patients.\n\nWhy the other options are incorrect:\n- Option 0 (Schedule immediate restorative treatment): While restorative treatment is necessary for established cavities, it is not the *immediate* clinical intervention performed at the very first visit for a 2-year-old. Restorative care for multiple anterior lesions often requires behavior management strategies (e.g., sedation or general anesthesia) that are planned after the initial assessment and risk management steps are taken. Immediate restoration is not feasible or standard for a first visit without prior behavioral preparation and informed consent for complex care.\n- Option 1 (Discontinue the bedtime bottle): This is a critical *preventive* and *educational* intervention, but it is not a *clinical* intervention in the procedural sense. The question specifically asks for a clinical intervention. While counseling is essential and should be provided, it does not directly treat the existing caries risk or provide immediate chemical protection to the teeth in the same manner as fluoride application.\n- Option 3 (Prescribe a daily fluoride supplement): Fluoride supplements are indicated based on community water fluoride levels and are a systemic preventive measure. They are not an immediate clinical intervention for active caries lesions. Topical fluoride (varnish) is more effective for managing existing high caries risk and active lesions in the short term, as it acts directly on the tooth surface.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 284003257,
@@ -1918,9 +1918,9 @@
       "Place the uncapped needle directly into a puncture-resistant sharps container."
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is Option 3. Current infection control standards, including those from the CDC, OSHA, and the Canadian Dental Association (CDA), explicitly state that needles should NOT be recapped, bent, or broken by hand. The most significant risk of needle-stick injuries occurs during recapping. Therefore, the safest and most appropriate method is to place the used, uncapped needle directly into a puncture-resistant sharps container. \n\nWhy the other options are incorrect:\n- Option 0 (One-handed scoop with device): While recapping devices are safer than manual recapping, the primary guideline is to avoid recapping altogether if the needle is being immediately disposed of. Recapping is only recommended if the needle must be transported or stored, which is not the case for immediate disposal after an injection.\n- Option 1 (Two-handed scoop): This is a manual recapping technique that carries a high risk of needle-stick injury and is strictly discouraged in modern infection control protocols.\n- Option 2 (One-handed scoop without device): This is a manual recapping technique that also carries a significant risk of injury and is not the safest method compared to immediate disposal.",
+    "explanation": "The correct answer is Option 3. Current infection control standards, including those from the CDC, OSHA, and the American Dental Association (CDA), explicitly state that needles should NOT be recapped, bent, or broken by hand. The most significant risk of needle-stick injuries occurs during recapping. Therefore, the safest and most appropriate method is to place the used, uncapped needle directly into a puncture-resistant sharps container. \n\nWhy the other options are incorrect:\n- Option 0 (One-handed scoop with device): While recapping devices are safer than manual recapping, the primary guideline is to avoid recapping altogether if the needle is being immediately disposed of. Recapping is only recommended if the needle must be transported or stored, which is not the case for immediate disposal after an injection.\n- Option 1 (Two-handed scoop): This is a manual recapping technique that carries a high risk of needle-stick injury and is strictly discouraged in modern infection control protocols.\n- Option 2 (One-handed scoop without device): This is a manual recapping technique that also carries a significant risk of injury and is not the safest method compared to immediate disposal.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 442752671,
@@ -1962,7 +1962,7 @@
       "Limiting the duration of the procedure"
     ],
     "correctAnswer": 2,
-    "explanation": "Rubber dam isolation is widely recognized in dental literature and infection control guidelines (including those from the CDC and Canadian dental associations) as the most effective method for minimizing the generation of aerosols and spatter. By physically isolating the operative field, it prevents the high-speed handpiece from contacting saliva and blood, thereby significantly reducing the volume of particulate matter released into the air. While High-Volume Evacuation (HVE) is a critical component of infection control and effectively removes aerosols from the oral cavity, it is a removal technique rather than a source control measure; it does not prevent the generation of aerosols as effectively as physical isolation. Antimicrobial mouth rinses may reduce the microbial load within the aerosols but do not significantly reduce the volume of aerosol generation. Limiting procedure duration may reduce total exposure time but does not address the rate or volume of aerosol generation per unit of time.",
+    "explanation": "Rubber dam isolation is widely recognized in dental literature and infection control guidelines (including those from the CDC and American Dental Associations) as the most effective method for minimizing the generation of aerosols and spatter. By physically isolating the operative field, it prevents the high-speed handpiece from contacting saliva and blood, thereby significantly reducing the volume of particulate matter released into the air. While High-Volume Evacuation (HVE) is a critical component of infection control and effectively removes aerosols from the oral cavity, it is a removal technique rather than a source control measure; it does not prevent the generation of aerosols as effectively as physical isolation. Antimicrobial mouth rinses may reduce the microbial load within the aerosols but do not significantly reduce the volume of aerosol generation. Limiting procedure duration may reduce total exposure time but does not address the rate or volume of aerosol generation per unit of time.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -1977,7 +1977,7 @@
       "High-level"
     ],
     "correctAnswer": 1,
-    "explanation": "The Spaulding classification system categorises devices that contact mucous membranes or non‑intact skin as semi‑critical. An ultrasonic scaler tip contacts the gingival sulcus, a mucous membrane, and may be exposed to blood, yet it never penetrates soft tissue or bone. Therefore it is classified as semi‑critical and must receive high‑level disinfection or sterilisation. Critical items are those that enter sterile tissue or the vascular system (e.g., surgical drills). This interpretation is consistent with the Canadian Dental Association (CDA) Infection‑Prevention and Control Guidelines (2022) and the Spaulding framework as presented in Malamed’s Handbook of Local Anesthesia (7th ed).",
+    "explanation": "The Spaulding classification system categorises devices that contact mucous membranes or non‑intact skin as semi‑critical. An ultrasonic scaler tip contacts the gingival sulcus, a mucous membrane, and may be exposed to blood, yet it never penetrates soft tissue or bone. Therefore it is classified as semi‑critical and must receive high‑level disinfection or sterilisation. Critical items are those that enter sterile tissue or the vascular system (e.g., surgical drills). This interpretation is consistent with the American Dental Association (CDA) Infection‑Prevention and Control Guidelines (2022) and the Spaulding framework as presented in Malamed’s Handbook of Local Anesthesia (7th ed).",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2259,7 +2259,7 @@
       "Prescribe a course of topical antifungal agents to prevent opportunistic oral infections associated with hyperglycemia."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is that no antibiotic prophylaxis is indicated. According to the Canadian Dental Association (CDA) and the American Heart Association (AHA) guidelines, antibiotic prophylaxis is recommended only for specific high-risk cardiac conditions (e.g., prosthetic heart valves, history of infective endocarditis, certain congenital heart diseases) or specific orthopedic implant scenarios, not for patients with diabetes mellitus. While poorly controlled diabetes (HbA1c > 7-8%) is a risk factor for delayed wound healing and increased susceptibility to infection, it does not constitute an indication for routine antibiotic prophylaxis in the absence of active infection or specific high-risk medical conditions. Prescribing antibiotics in this context contributes to antibiotic resistance and is not supported by evidence. Option A is incorrect because diabetes is not an indication for prophylaxis. Option C is incorrect because IV antibiotics are not indicated for routine dental procedures. Option D is incorrect because there is no evidence supporting routine antifungal prophylaxis for diabetic patients undergoing routine dental care.",
+    "explanation": "The correct answer is that no antibiotic prophylaxis is indicated. According to the American Dental Association (CDA) and the American Heart Association (AHA) guidelines, antibiotic prophylaxis is recommended only for specific high-risk cardiac conditions (e.g., prosthetic heart valves, history of infective endocarditis, certain congenital heart diseases) or specific orthopedic implant scenarios, not for patients with diabetes mellitus. While poorly controlled diabetes (HbA1c > 7-8%) is a risk factor for delayed wound healing and increased susceptibility to infection, it does not constitute an indication for routine antibiotic prophylaxis in the absence of active infection or specific high-risk medical conditions. Prescribing antibiotics in this context contributes to antibiotic resistance and is not supported by evidence. Option A is incorrect because diabetes is not an indication for prophylaxis. Option C is incorrect because IV antibiotics are not indicated for routine dental procedures. Option D is incorrect because there is no evidence supporting routine antifungal prophylaxis for diabetic patients undergoing routine dental care.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2401,7 +2401,7 @@
       "Handpieces can be cleaned and disinfected with a hospital-grade disinfectant if heat sterilization is not possible."
     ],
     "correctAnswer": 3,
-    "explanation": "According to the Canadian Dental Association (CDA) Infection Control Guidelines and the Public Health Agency of Canada, dental handpieces are classified as semi‑critical instruments because they contact mucous membranes. Semi‑critical items must be sterilized by heat (e.g., steam autoclave) if the device can tolerate it. When heat sterilization is not feasible—such as with certain electric handpieces—a high‑level (hospital‑grade) disinfectant must be used after cleaning and lubrication. Therefore the statement that handpieces can be cleaned and disinfected with a hospital‑grade disinfectant when heat sterilization is not possible accurately reflects the Canadian standard.",
+    "explanation": "According to the American Dental Association (CDA) Infection Control Guidelines and the Public Health Agency of Canada, dental handpieces are classified as semi‑critical instruments because they contact mucous membranes. Semi‑critical items must be sterilized by heat (e.g., steam autoclave) if the device can tolerate it. When heat sterilization is not feasible—such as with certain electric handpieces—a high‑level (hospital‑grade) disinfectant must be used after cleaning and lubrication. Therefore the statement that handpieces can be cleaned and disinfected with a hospital‑grade disinfectant when heat sterilization is not possible accurately reflects the Canadian standard.",
     "aiVerified": true
   },
   {
@@ -2429,10 +2429,10 @@
       "Obtain a recent complete blood count (CBC) to assess his immune status prior to proceeding."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option 1. Current evidence-based guidelines, including those from the Canadian Dental Association (CDA) and the American Heart Association (AHA), do not recommend routine antibiotic prophylaxis for patients with immunosuppression alone. Antibiotic prophylaxis is reserved for specific high-risk cardiac conditions (e.g., prosthetic heart valves, history of infective endocarditis) or specific orthopedic implant scenarios, none of which are present in this patient. The most effective immediate pre-procedural intervention to reduce oral bacterial load and minimize the risk of procedure-related bacteremia is the use of an antiseptic mouthwash, such as 0.12% chlorhexidine, rinsed for 30 seconds immediately before the procedure. This has been shown to significantly reduce the number of bacteria in the oral cavity and the subsequent bacteremia associated with dental procedures. Option 0 is incorrect because routine antibiotic prophylaxis is not indicated for immunosuppressed patients without specific high-risk cardiac or orthopedic conditions, and its use contributes to antibiotic resistance. Option 2 is a good general practice for overall oral health but is not the specific, immediate pre-procedural intervention recommended to minimize procedural bacteremia. Option 3 is not a standard pre-procedural requirement for routine dental care in this context and does not directly minimize the risk of bacteremia during the procedure.",
+    "explanation": "The correct answer is Option 1. Current evidence-based guidelines, including those from the American Dental Association (CDA) and the American Heart Association (AHA), do not recommend routine antibiotic prophylaxis for patients with immunosuppression alone. Antibiotic prophylaxis is reserved for specific high-risk cardiac conditions (e.g., prosthetic heart valves, history of infective endocarditis) or specific orthopedic implant scenarios, none of which are present in this patient. The most effective immediate pre-procedural intervention to reduce oral bacterial load and minimize the risk of procedure-related bacteremia is the use of an antiseptic mouthwash, such as 0.12% chlorhexidine, rinsed for 30 seconds immediately before the procedure. This has been shown to significantly reduce the number of bacteria in the oral cavity and the subsequent bacteremia associated with dental procedures. Option 0 is incorrect because routine antibiotic prophylaxis is not indicated for immunosuppressed patients without specific high-risk cardiac or orthopedic conditions, and its use contributes to antibiotic resistance. Option 2 is a good general practice for overall oral health but is not the specific, immediate pre-procedural intervention recommended to minimize procedural bacteremia. Option 3 is not a standard pre-procedural requirement for routine dental care in this context and does not directly minimize the risk of bacteremia during the procedure.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 652462374,
@@ -2543,7 +2543,7 @@
       "Use the instruments from the previous day's cycle and process the biological indicator immediately after the patient visit."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is to withhold the instruments until the biological indicator (BI) result is verified. While external chemical indicators (ECIs) confirm that the physical parameters of the sterilization cycle (temperature, time, pressure) were achieved, they do not confirm the actual death of microorganisms. The biological indicator is the gold standard for verifying the sterility of a sterilization cycle. Standard infection control guidelines (such as those from the CDC and Canadian dental associations) dictate that instruments should not be used from a cycle until the BI for that specific cycle has been processed and confirmed negative. If the BI fails, all instruments from that cycle must be re-sterilized. Using instruments based solely on the ECI is insufficient because it does not account for potential biological failures (e.g., spore contamination, improper loading). Therefore, the safest and most compliant action is to wait for the BI verification before using the instruments.",
+    "explanation": "The correct answer is to withhold the instruments until the biological indicator (BI) result is verified. While external chemical indicators (ECIs) confirm that the physical parameters of the sterilization cycle (temperature, time, pressure) were achieved, they do not confirm the actual death of microorganisms. The biological indicator is the gold standard for verifying the sterility of a sterilization cycle. Standard infection control guidelines (such as those from the CDC and American Dental Associations) dictate that instruments should not be used from a cycle until the BI for that specific cycle has been processed and confirmed negative. If the BI fails, all instruments from that cycle must be re-sterilized. Using instruments based solely on the ECI is insufficient because it does not account for potential biological failures (e.g., spore contamination, improper loading). Therefore, the safest and most compliant action is to wait for the BI verification before using the instruments.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2564,7 +2564,7 @@
   {
     "id": 674857423,
     "topicId": "infection-control",
-    "question": "A 55-year-old female patient with a history of heart valve replacement is scheduled for a routine dental cleaning. The dental unit waterlines in the operatory have not been flushed and treated overnight. According to current Canadian dental infection control guidelines (CDC/ADA/Canadian Dental Association), what is the MOST appropriate immediate action to take regarding the dental unit waterlines before starting treatment?",
+    "question": "A 55-year-old female patient with a history of heart valve replacement is scheduled for a routine dental cleaning. The dental unit waterlines in the operatory have not been flushed and treated overnight. According to current Canadian dental infection control guidelines (CDC/ADA/American Dental Association), what is the MOST appropriate immediate action to take regarding the dental unit waterlines before starting treatment?",
     "options": [
       "Flush the dental unit waterlines with air for 30 seconds.",
       "Administer a pre-procedural chlorhexidine rinse to the patient.",
@@ -2572,7 +2572,7 @@
       "Use bottled sterile water for all irrigant delivery during the procedure."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is to flush the dental unit waterlines with water for at least 2 minutes. According to the CDC Guidelines for Infection Control in Dental Health-Care Settings (2003, reaffirmed 2019) and Canadian Dental Association (CDA) guidelines, dental unit waterlines should be flushed with water for at least 2 minutes at the beginning of each day, after extended periods of non-use, and between patients. This reduces the bacterial load in the water to acceptable levels (typically <500 CFU/mL). \n\nWhy the other options are incorrect:\n- Option A (Flush with air for 30 seconds): Air flushing does not remove biofilm or reduce bacterial counts in the waterlines. Water flushing is required.\n- Option B (Chlorhexidine rinse): While chlorhexidine rinses are used for specific clinical indications (e.g., reducing oral flora before surgery), they are not a substitute for proper waterline maintenance and do not address the issue of contaminated waterlines.\n- Option D (Bottled sterile water): While using sterile water is an option for high-risk patients or specific procedures, it is not the standard 'immediate action' for routine waterline maintenance. The standard protocol is to flush the existing waterlines. Additionally, 'bottled sterile water' is not the standard terminology; 'sterile water' or 'distilled water' is used, but flushing the lines is the primary preventive measure.",
+    "explanation": "The correct answer is to flush the dental unit waterlines with water for at least 2 minutes. According to the CDC Guidelines for Infection Control in Dental Health-Care Settings (2003, reaffirmed 2019) and American Dental Association (CDA) guidelines, dental unit waterlines should be flushed with water for at least 2 minutes at the beginning of each day, after extended periods of non-use, and between patients. This reduces the bacterial load in the water to acceptable levels (typically <500 CFU/mL). \n\nWhy the other options are incorrect:\n- Option A (Flush with air for 30 seconds): Air flushing does not remove biofilm or reduce bacterial counts in the waterlines. Water flushing is required.\n- Option B (Chlorhexidine rinse): While chlorhexidine rinses are used for specific clinical indications (e.g., reducing oral flora before surgery), they are not a substitute for proper waterline maintenance and do not address the issue of contaminated waterlines.\n- Option D (Bottled sterile water): While using sterile water is an option for high-risk patients or specific procedures, it is not the standard 'immediate action' for routine waterline maintenance. The standard protocol is to flush the existing waterlines. Additionally, 'bottled sterile water' is not the standard terminology; 'sterile water' or 'distilled water' is used, but flushing the lines is the primary preventive measure.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2593,7 +2593,7 @@
   {
     "id": 257327342,
     "topicId": "infection-control",
-    "question": "A dental hygienist is performing scaling and root planing using ultrasonic instrumentation on a patient with no specific medical contraindications. According to standard infection control guidelines (e.g., CDC, ADA, and Canadian Dental Association), which combination of personal protective equipment (PPE) is the minimum recommended standard for the operator during this procedure?",
+    "question": "A dental hygienist is performing scaling and root planing using ultrasonic instrumentation on a patient with no specific medical contraindications. According to standard infection control guidelines (e.g., CDC, ADA, and American Dental Association), which combination of personal protective equipment (PPE) is the minimum recommended standard for the operator during this procedure?",
     "options": [
       "Surgical mask, safety glasses, and examination gloves",
       "Surgical mask, face shield, examination gloves, and protective gown",
@@ -2714,7 +2714,7 @@
       "Environmental surfaces."
     ],
     "correctAnswer": 1,
-    "explanation": "The Canadian Dental Association (CDA) Infection Control Guidelines, endorsed by Health Canada and echoed in the AAP 2018 recommendations, classify instruments that contact mucous membranes or non‑intact skin as **semi‑critical**. Such devices must undergo high‑level disinfection (HLD) or sterilization because they can transmit blood‑borne pathogens, yet they do not penetrate sterile tissue. Malamed’s *Clinical Procedures for Dental Assistants* (6th ed.) defines semi‑critical items as those that “touch the oral mucosa or enter the gingival sulcus,” and both Neville’s *Oral & Maxillofacial Pathology* and Cohen’s *Dental Hygiene: Theory and Practice* reinforce that explorers, periodontal probes, and curettes fall into this category. Proffit’s *Contemporary Orthodontics* similarly notes that any instrument used for pocket probing is semi‑critical.\n\n**Why the other options are incorrect:**\n- **Non‑critical instruments (Option 0)** are limited to devices that only touch intact skin (e.g., mirrors, mouth‑guards). Explorers, probes, and curettes routinely contact the gingival sulcus and mucosa, exceeding the non‑critical definition. \n- **Critical instruments (Option 2)** are those that enter sterile tissue or bone (e.g., surgical burs, endodontic files). The three instruments in question never breach the periosteum or bone, so they do not meet the critical criteria. \n- **Environmental surfaces (Option 3)** refer to inanimate objects such as countertops or dental chair upholstery, not hand‑held instruments. Classifying an explorer, probe, or curette as an environmental surface would ignore their direct patient contact and required HLD.\n\nThus, according to the CDA/Health Canada framework and the cited dental texts, the explorer, periodontal probe, and curette are correctly identified as **semi‑critical instruments**.",
+    "explanation": "The American Dental Association (CDA) Infection Control Guidelines, endorsed by Health Canada and echoed in the AAP 2018 recommendations, classify instruments that contact mucous membranes or non‑intact skin as **semi‑critical**. Such devices must undergo high‑level disinfection (HLD) or sterilization because they can transmit blood‑borne pathogens, yet they do not penetrate sterile tissue. Malamed’s *Clinical Procedures for Dental Assistants* (6th ed.) defines semi‑critical items as those that “touch the oral mucosa or enter the gingival sulcus,” and both Neville’s *Oral & Maxillofacial Pathology* and Cohen’s *Dental Hygiene: Theory and Practice* reinforce that explorers, periodontal probes, and curettes fall into this category. Proffit’s *Contemporary Orthodontics* similarly notes that any instrument used for pocket probing is semi‑critical.\n\n**Why the other options are incorrect:**\n- **Non‑critical instruments (Option 0)** are limited to devices that only touch intact skin (e.g., mirrors, mouth‑guards). Explorers, probes, and curettes routinely contact the gingival sulcus and mucosa, exceeding the non‑critical definition. \n- **Critical instruments (Option 2)** are those that enter sterile tissue or bone (e.g., surgical burs, endodontic files). The three instruments in question never breach the periosteum or bone, so they do not meet the critical criteria. \n- **Environmental surfaces (Option 3)** refer to inanimate objects such as countertops or dental chair upholstery, not hand‑held instruments. Classifying an explorer, probe, or curette as an environmental surface would ignore their direct patient contact and required HLD.\n\nThus, according to the CDA/Health Canada framework and the cited dental texts, the explorer, periodontal probe, and curette are correctly identified as **semi‑critical instruments**.",
     "aiVerified": true
   },
   {
@@ -2984,7 +2984,7 @@
       "Recommend antibody testing to confirm past exposure instead of vaccination."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is to assign the employee to non-clinical duties until she is immunized. Hepatitis B is a significant occupational hazard in dentistry due to the risk of exposure to blood and other potentially infectious materials (OPIM). Canadian guidelines (such as those from the Canadian Dental Association and provincial occupational health and safety regulations) mandate that dental personnel be protected against Hepatitis B. If a new employee is not immune, they must complete the vaccination series. Until immunity is established (either through completion of the series or documented seroconversion), they should be restricted from duties that involve potential exposure to blood or OPIM (i.e., clinical patient care) to protect both the employee and the patient. Option A is incorrect because allowing full clinical work without immunity exposes the employee to unnecessary risk. Option C is incorrect because Hepatitis B does not require annual boosters; immunity is long-lasting, and boosters are not routinely recommended for healthy individuals. Option D is incorrect because while testing can be part of the process to determine if immunity is already present, the primary action for a non-immune individual is vaccination, not just testing. Furthermore, simply recommending testing without restricting duties or initiating vaccination is insufficient.",
+    "explanation": "The correct answer is to assign the employee to non-clinical duties until she is immunized. Hepatitis B is a significant occupational hazard in dentistry due to the risk of exposure to blood and other potentially infectious materials (OPIM). ADA guidelines (such as those from the American Dental Association and provincial occupational health and safety regulations) mandate that dental personnel be protected against Hepatitis B. If a new employee is not immune, they must complete the vaccination series. Until immunity is established (either through completion of the series or documented seroconversion), they should be restricted from duties that involve potential exposure to blood or OPIM (i.e., clinical patient care) to protect both the employee and the patient. Option A is incorrect because allowing full clinical work without immunity exposes the employee to unnecessary risk. Option C is incorrect because Hepatitis B does not require annual boosters; immunity is long-lasting, and boosters are not routinely recommended for healthy individuals. Option D is incorrect because while testing can be part of the process to determine if immunity is already present, the primary action for a non-immune individual is vaccination, not just testing. Furthermore, simply recommending testing without restricting duties or initiating vaccination is insufficient.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -3486,7 +3486,7 @@
   {
     "id": 237738440,
     "topicId": "infection-control",
-    "question": "A dental hygienist is performing ultrasonic scaling and root planing on a patient with moderate periodontitis. According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection control during aerosol-generating procedures, which combination of personal protective equipment (PPE) is MOST appropriate for the clinician?",
+    "question": "A dental hygienist is performing ultrasonic scaling and root planing on a patient with moderate periodontitis. According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection control during aerosol-generating procedures, which combination of personal protective equipment (PPE) is MOST appropriate for the clinician?",
     "options": [
       "Surgical mask, safety glasses, and examination gloves",
       "N95 respirator, full face shield, and utility gloves",
@@ -3496,7 +3496,7 @@
     "correctAnswer": 3,
     "explanation": "The CDA Infection Control Guidelines and the Public Health Agency of Canada classify ultrasonic scaling as an aerosol‑generating procedure (AGP). For standard AGPs, the minimum personal protective equipment includes a type IIR surgical mask to protect against droplets, a full face shield (or goggles) for splash and aerosol protection, and examination gloves for hand protection. N95 respirators are reserved for procedures involving known airborne pathogens (e.g., tuberculosis, measles) or during a declared public health emergency. Utility gloves are intended for instrument processing, not patient care. Therefore the combination of a surgical mask, full face shield, and examination gloves is the most appropriate answer.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 739241339,
@@ -3539,7 +3539,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is Semi-critical instruments. According to the Spaulding classification system adopted by Canadian dental guidelines (CDA, PHAC), semi-critical items are those that contact mucous membranes or non-intact skin (e.g., mouth mirrors, probes, dental handpieces, composite instruments). These items require sterilization or high-level disinfection after each use to eliminate all microorganisms except perhaps a few bacterial spores. Critical instruments (Option 0) penetrate soft tissue or bone (e.g., scalers, burs, surgical instruments) and require sterilization; while they also require sterilization, the definition in the stem specifically describes semi-critical items. Non-critical instruments (Option 2) contact only intact skin (e.g., blood pressure cuffs, chair arms) and require low- to intermediate-level disinfection. Single-use items (Option 3) are designed for one-time use and are discarded after use; they are not reprocessed.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 356214520,
@@ -3835,10 +3835,10 @@
       "Recommend a daily chlorhexidine mouthrinse."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0. According to Canadian dental standards and evidence-based preventive care guidelines (CDA, NDEB), the management of a patient with no active disease (no caries, no gingivitis, no calculus) and excellent oral hygiene habits is to reinforce positive behaviors and maintain routine recall intervals. There is no clinical indication for additional interventions. Option 1 is incorrect because mouthguards are indicated for contact sports (e.g., hockey, football) or bruxism, not for swimming, which is a non-contact activity with minimal risk of dental trauma. Option 2 is incorrect because 'swimmer's calculus' is not a recognized clinical diagnosis in standard dental literature (Malamed, Neville, Carranza); while chlorinated water may contribute to staining or dry mouth, the absence of clinical calculus or pathology means no specific professional cleaning beyond routine prophylaxis is required. Option 3 is incorrect because chlorhexidine is an antimicrobial agent reserved for short-term management of active gingivitis or periodontal disease; long-term use in a healthy patient is contraindicated due to side effects such as staining, taste alteration, and disruption of the oral microbiome.",
+    "explanation": "The correct answer is Option 0. According to Canadian dental standards and evidence-based preventive care guidelines (CDA, INBDE), the management of a patient with no active disease (no caries, no gingivitis, no calculus) and excellent oral hygiene habits is to reinforce positive behaviors and maintain routine recall intervals. There is no clinical indication for additional interventions. Option 1 is incorrect because mouthguards are indicated for contact sports (e.g., hockey, football) or bruxism, not for swimming, which is a non-contact activity with minimal risk of dental trauma. Option 2 is incorrect because 'swimmer's calculus' is not a recognized clinical diagnosis in standard dental literature (Malamed, Neville, Carranza); while chlorinated water may contribute to staining or dry mouth, the absence of clinical calculus or pathology means no specific professional cleaning beyond routine prophylaxis is required. Option 3 is incorrect because chlorhexidine is an antimicrobial agent reserved for short-term management of active gingivitis or periodontal disease; long-term use in a healthy patient is contraindicated due to side effects such as staining, taste alteration, and disruption of the oral microbiome.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 941892705,
@@ -4203,7 +4203,7 @@
       "Allow the impression to air dry completely to kill surface microorganisms, then bag it."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Option C. According to Canadian dental infection control guidelines (such as those from the Canadian Dental Association and provincial health authorities), impressions must be disinfected to prevent the transmission of bloodborne pathogens. The standard protocol involves first rinsing the impression to remove gross debris (saliva, blood, tissue) which can interfere with disinfectant efficacy, followed by immersion or spraying with an intermediate-level disinfectant (such as a quaternary ammonium compound or glutaraldehyde, depending on material compatibility) for the manufacturer-recommended contact time. Alginate impressions are porous and can absorb disinfectants, so they must be handled carefully to avoid distortion, but disinfection is mandatory. Option A is incorrect because rinsing alone does not disinfect. Option B is incorrect because immersing alginate in glutaraldehyde for 10 minutes is generally not recommended as it can cause distortion and is not the standard first-line protocol for alginate (spraying or brief immersion in specific alginate-safe disinfectants is preferred, and 10 minutes is often excessive for alginate without specific formulation). Option D is incorrect because air drying does not kill microorganisms and allows the impression to dry out, leading to dimensional instability and distortion.",
+    "explanation": "The correct answer is Option C. According to Canadian dental infection control guidelines (such as those from the American Dental Association and provincial health authorities), impressions must be disinfected to prevent the transmission of bloodborne pathogens. The standard protocol involves first rinsing the impression to remove gross debris (saliva, blood, tissue) which can interfere with disinfectant efficacy, followed by immersion or spraying with an intermediate-level disinfectant (such as a quaternary ammonium compound or glutaraldehyde, depending on material compatibility) for the manufacturer-recommended contact time. Alginate impressions are porous and can absorb disinfectants, so they must be handled carefully to avoid distortion, but disinfection is mandatory. Option A is incorrect because rinsing alone does not disinfect. Option B is incorrect because immersing alginate in glutaraldehyde for 10 minutes is generally not recommended as it can cause distortion and is not the standard first-line protocol for alginate (spraying or brief immersion in specific alginate-safe disinfectants is preferred, and 10 minutes is often excessive for alginate without specific formulation). Option D is incorrect because air drying does not kill microorganisms and allows the impression to dry out, leading to dimensional instability and distortion.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -4247,7 +4247,7 @@
       "Administer a broad-spectrum antibiotic prior to the procedure to prevent respiratory complications."
     ],
     "correctAnswer": 1,
-    "explanation": "The patient's symptoms (persistent cough, night sweats, weight loss) and radiographic findings are highly suggestive of active pulmonary tuberculosis (TB) or another serious systemic infectious disease. According to Canadian dental infection control guidelines (CDC/ADA/Canadian Dental Association), patients with suspected active TB should not be treated in the dental office until they have been evaluated by a physician and cleared for dental treatment. The most appropriate step is to postpone elective or non-emergency dental procedures and refer the patient for immediate medical evaluation. While the extraction is described as 'urgent,' it is not a life-threatening emergency that outweighs the risk of aerosolizing a potentially highly contagious pathogen to staff and other patients. Proceeding with treatment (Options A and C) poses a significant public health risk. Administering antibiotics (Option D) is inappropriate without a confirmed diagnosis and is not a substitute for medical referral.",
+    "explanation": "The patient's symptoms (persistent cough, night sweats, weight loss) and radiographic findings are highly suggestive of active pulmonary tuberculosis (TB) or another serious systemic infectious disease. According to Canadian dental infection control guidelines (CDC/ADA/American Dental Association), patients with suspected active TB should not be treated in the dental office until they have been evaluated by a physician and cleared for dental treatment. The most appropriate step is to postpone elective or non-emergency dental procedures and refer the patient for immediate medical evaluation. While the extraction is described as 'urgent,' it is not a life-threatening emergency that outweighs the risk of aerosolizing a potentially highly contagious pathogen to staff and other patients. Proceeding with treatment (Options A and C) poses a significant public health risk. Administering antibiotics (Option D) is inappropriate without a confirmed diagnosis and is not a substitute for medical referral.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -4532,7 +4532,7 @@
       "Begin a prophylactic course of broad-spectrum antibiotics."
     ],
     "correctAnswer": 0,
-    "explanation": "According to Canadian guidelines for occupational exposures, the immediate and critical step after a percutaneous injury is to wash the wound thoroughly with soap and water to reduce the microbial load, and then report the incident to the employer. While applying antiseptic (Option B) might follow, initial washing is paramount. Requesting patient history (Option C) or starting antibiotics (Option D) are subsequent steps in post-exposure management, not the immediate first aid.",
+    "explanation": "According to ADA guidelines for occupational exposures, the immediate and critical step after a percutaneous injury is to wash the wound thoroughly with soap and water to reduce the microbial load, and then report the incident to the employer. While applying antiseptic (Option B) might follow, initial washing is paramount. Requesting patient history (Option C) or starting antibiotics (Option D) are subsequent steps in post-exposure management, not the immediate first aid.",
     "aiVerified": true
   },
   {
@@ -4594,7 +4594,7 @@
   {
     "id": 390364579,
     "topicId": "infection-control",
-    "question": "A 50-year-old female patient with a documented history of immediate hypersensitivity (Type I) to penicillin requires antibiotic prophylaxis for a dental procedure involving manipulation of gingival tissue or the periapical region of teeth. According to current Canadian guidelines (e.g., Canadian Cardiovascular Society / Canadian Dental Association), which of the following is the MOST appropriate alternative antibiotic regimen?",
+    "question": "A 50-year-old female patient with a documented history of immediate hypersensitivity (Type I) to penicillin requires antibiotic prophylaxis for a dental procedure involving manipulation of gingival tissue or the periapical region of teeth. According to current ADA guidelines (e.g., Canadian Cardiovascular Society / American Dental Association), which of the following is the MOST appropriate alternative antibiotic regimen?",
     "options": [
       "Clindamycin 600 mg orally 1 hour before the procedure",
       "Azithromycin 500 mg orally 1 hour before the procedure",
@@ -4602,7 +4602,7 @@
       "Metronidazole 500 mg orally 1 hour before the procedure"
     ],
     "correctAnswer": 0,
-    "explanation": "The Canadian Cardiovascular Society/Canadian Dental Association prophylaxis guidelines list clindamycin 600 mg orally 1 hour pre‑procedure as the preferred alternative for patients with an immediate (type I) hypersensitivity to penicillins. Azithromycin and doxycycline are acceptable secondary options when clindamycin is contraindicated. Cephalexin is avoided due to potential cross‑reactivity, and metronidazole lacks activity against viridans streptococci. Consequently, option 0 is the most appropriate regimen, and the current answer (azithromycin) is incorrect.",
+    "explanation": "The Canadian Cardiovascular Society/American Dental Association prophylaxis guidelines list clindamycin 600 mg orally 1 hour pre‑procedure as the preferred alternative for patients with an immediate (type I) hypersensitivity to penicillins. Azithromycin and doxycycline are acceptable secondary options when clindamycin is contraindicated. Cephalexin is avoided due to potential cross‑reactivity, and metronidazole lacks activity against viridans streptococci. Consequently, option 0 is the most appropriate regimen, and the current answer (azithromycin) is incorrect.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -4687,7 +4687,7 @@
       "Store the sterilized packages in a cool, dry, enclosed cabinet."
     ],
     "correctAnswer": 0,
-    "explanation": "While chemical indicators confirm exposure to sterilization conditions, biological indicators are the only method that verifies the actual killing of spores, confirming the effectiveness of the sterilization process according to Canadian guidelines. Recording physical parameters is important but does not directly confirm sterility, and visual inspection and proper storage are steps *after* sterility confirmation.",
+    "explanation": "While chemical indicators confirm exposure to sterilization conditions, biological indicators are the only method that verifies the actual killing of spores, confirming the effectiveness of the sterilization process according to ADA guidelines. Recording physical parameters is important but does not directly confirm sterility, and visual inspection and proper storage are steps *after* sterility confirmation.",
     "aiVerified": true
   },
   {
@@ -4732,7 +4732,7 @@
     "explanation": "The most appropriate initial step is to test the dental unit water for microbial contamination using a heterotrophic plate count (HPC) assay. In clinical practice, when a specific infection control issue is suspected (in this case, waterline contamination potentially contributing to patient symptoms), the standard of care is to obtain objective data to confirm the suspicion before implementing corrective or remedial actions. According to CDC and Canadian dental infection control guidelines, dental unit waterlines should be tested periodically (e.g., annually or when issues are suspected) to ensure bacterial levels are below 500 CFU/mL. If the test results exceed this threshold, then shock treatment (Option 2) would be indicated. Option 1 (filters) is a supplementary control measure, not a diagnostic step. Option 2 (shock treatment) is a corrective action that should only be taken after contamination is confirmed or if routine maintenance schedules dictate it, but it is not the *initial* diagnostic step when a specific issue is suspected. Option 3 (flushing) is a standard preventive measure but does not diagnose the problem. Therefore, testing is the logical first step to confirm the suspected issue.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 886812332,
@@ -4807,7 +4807,7 @@
   {
     "id": 118909628,
     "topicId": "infection-control",
-    "question": "According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection prevention and control, which of the following dental instruments is classified as a critical item and therefore MUST be sterilized between patients?",
+    "question": "According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection prevention and control, which of the following dental instruments is classified as a critical item and therefore MUST be sterilized between patients?",
     "options": [
       "Dental mirror",
       "Scalpel handle",
@@ -4818,7 +4818,7 @@
     "explanation": "Under CDA and PHAC guidelines, dental instruments are categorized into three risk levels: critical, semi-critical, and non-critical. Critical items are those that penetrate soft tissue or bone, or come into contact with the bloodstream. These items must be sterilized (e.g., via autoclaving) between patients to eliminate all microorganisms, including spores. The scalpel handle is the correct answer because it is an integral part of the surgical scalpel, which is used to incise soft tissue and bone, thereby penetrating intact tissue and contacting blood. Consequently, it is classified as a critical item. The other options are incorrect: (1) A dental mirror is a semi-critical item because it contacts mucous membranes but does not penetrate tissue; it requires high-level disinfection, not necessarily sterilization, though sterilization is often performed for convenience. (2) A reusable high-volume evacuator tip is typically considered a semi-critical item (contacting saliva and mucous membranes) or, in some contexts, a non-critical item if it only contacts intact skin, but it does not penetrate tissue; it requires high-level disinfection. (3) A composite placement instrument is a semi-critical item as it contacts the tooth surface and surrounding mucous membranes but does not penetrate tissue; it requires high-level disinfection. Therefore, only the scalpel handle is unequivocally classified as a critical item requiring sterilization.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 514293059,
@@ -4887,7 +4887,7 @@
       "Autoclave the amalgam scraps with other biohazardous waste before disposal."
     ],
     "correctAnswer": 0,
-    "explanation": "Amalgam contains mercury, which is an environmental hazard. Canadian guidelines mandate that amalgam waste (scraps, used capsules, extracted teeth with amalgam) must be collected separately in a designated, sealed, labeled container and sent for recycling by an approved handler, not disposed of in regular trash or down the drain. Autoclaving is not appropriate for amalgam waste.",
+    "explanation": "Amalgam contains mercury, which is an environmental hazard. ADA guidelines mandate that amalgam waste (scraps, used capsules, extracted teeth with amalgam) must be collected separately in a designated, sealed, labeled container and sent for recycling by an approved handler, not disposed of in regular trash or down the drain. Autoclaving is not appropriate for amalgam waste.",
     "aiVerified": true
   },
   {
@@ -4901,7 +4901,7 @@
       "Reschedule the appointment and refer him to an infectious disease specialist for clearance."
     ],
     "correctAnswer": 0,
-    "explanation": "The Canadian Dental Association’s Infection‑Control Guidelines (2022) and the Public Health Agency of Canada mandate universal precautions for all patients, including those with a history of hepatitis B. A positive HBsAg result does not preclude dental treatment, and repeat serology or antiviral therapy is unnecessary for a simple extraction. Options 1 and 2 introduce unwarranted interventions, and option 3 creates an avoidable delay. Proceeding with the procedure while using barrier protection, hand hygiene, and proper instrument sterilisation complies with Canadian standards.",
+    "explanation": "The American Dental Association’s Infection‑Control Guidelines (2022) and the Public Health Agency of Canada mandate universal precautions for all patients, including those with a history of hepatitis B. A positive HBsAg result does not preclude dental treatment, and repeat serology or antiviral therapy is unnecessary for a simple extraction. Options 1 and 2 introduce unwarranted interventions, and option 3 creates an avoidable delay. Proceeding with the procedure while using barrier protection, hand hygiene, and proper instrument sterilisation complies with Canadian standards.",
     "aiVerified": true
   },
   {
@@ -4915,7 +4915,7 @@
       "Administer a pre-procedural antimicrobial rinse with chlorhexidine to eliminate MRSA from the oral cavity."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is to proceed with the appointment using standard precautions only. According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines, patients with a history of MRSA but no active signs of infection (such as open wounds, draining lesions, or systemic symptoms) do not require additional contact precautions beyond standard infection control measures (hand hygiene, gloves, mask, eye protection, and gowning as per standard risk assessment). Standard precautions are designed to protect against all potential pathogens. Deferring care (Option A) is inappropriate for a routine cleaning in an asymptomatic patient. Implementing specific contact precautions (Option B) is reserved for patients with active, uncontained infections or specific outbreak situations; it is not indicated for a history of infection without current symptoms. Chlorhexidine (Option D) is an antiseptic used for plaque control and reducing gingivitis; it is not a sterilant and does not 'eliminate' MRSA, nor is it a substitute for proper infection control protocols.",
+    "explanation": "The correct answer is to proceed with the appointment using standard precautions only. According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines, patients with a history of MRSA but no active signs of infection (such as open wounds, draining lesions, or systemic symptoms) do not require additional contact precautions beyond standard infection control measures (hand hygiene, gloves, mask, eye protection, and gowning as per standard risk assessment). Standard precautions are designed to protect against all potential pathogens. Deferring care (Option A) is inappropriate for a routine cleaning in an asymptomatic patient. Implementing specific contact precautions (Option B) is reserved for patients with active, uncontained infections or specific outbreak situations; it is not indicated for a history of infection without current symptoms. Chlorhexidine (Option D) is an antiseptic used for plaque control and reducing gingivitis; it is not a sterilant and does not 'eliminate' MRSA, nor is it a substitute for proper infection control protocols.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -5132,7 +5132,7 @@
   {
     "id": 513552133,
     "topicId": "infection-control",
-    "question": "A 62-year-old male patient with a history of chronic obstructive pulmonary disease (COPD) presents for a routine recall appointment. The dentist plans to take intraoral radiographs. According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection prevention and control, which of the following is the MOST critical standard procedure for the intraoral sensor prior to its use in this patient?",
+    "question": "A 62-year-old male patient with a history of chronic obstructive pulmonary disease (COPD) presents for a routine recall appointment. The dentist plans to take intraoral radiographs. According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) guidelines for infection prevention and control, which of the following is the MOST critical standard procedure for the intraoral sensor prior to its use in this patient?",
     "options": [
       "Covering the sensor with a disposable plastic barrier to prevent direct contact with oral fluids.",
       "Sterilizing the sensor using a Class B autoclave cycle between each patient.",
@@ -5140,7 +5140,7 @@
       "Rinsing the sensor with water and allowing it to air dry before the next use."
     ],
     "correctAnswer": 0,
-    "explanation": "According to the Canadian Dental Association (CDA) and Public Health Agency of Canada (PHAC) infection‑control guidelines, intra‑oral radiographic sensors are classified as semi‑critical devices because they contact intact mucous membranes but do not penetrate skin. The primary preventive measure before each patient is to cover the sensor with a single‑use, impermeable plastic barrier; this barrier prevents direct exposure to saliva and blood. High‑level disinfection (HLD) is required after the barrier is removed, not before use, because the sensor’s electronic components are heat‑sensitive and cannot be sterilized. Barrier use is mandatory even when HLD is performed, as a compromised barrier would otherwise expose the sensor to pathogens. Therefore, option A is the most critical pre‑use step.",
+    "explanation": "According to the American Dental Association (CDA) and Public Health Agency of Canada (PHAC) infection‑control guidelines, intra‑oral radiographic sensors are classified as semi‑critical devices because they contact intact mucous membranes but do not penetrate skin. The primary preventive measure before each patient is to cover the sensor with a single‑use, impermeable plastic barrier; this barrier prevents direct exposure to saliva and blood. High‑level disinfection (HLD) is required after the barrier is removed, not before use, because the sensor’s electronic components are heat‑sensitive and cannot be sterilized. Barrier use is mandatory even when HLD is performed, as a compromised barrier would otherwise expose the sensor to pathogens. Therefore, option A is the most critical pre‑use step.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -5184,7 +5184,7 @@
       "Isolate the patient in a separate room and perform a rapid point-of-care diagnostic test in the dental office."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is to reschedule the appointment and advise the patient to seek medical evaluation. Dental offices are not equipped to diagnose or manage acute infectious diseases, and performing dental procedures on a patient with undiagnosed, potentially highly contagious respiratory symptoms poses a significant risk of nosocomial transmission to staff and other patients. Standard guidelines (such as those from the CDC and Canadian dental associations) recommend deferring elective dental care for patients with active, undiagnosed infectious symptoms, particularly when travel history increases the risk of exotic or highly transmissible pathogens. Option A is incorrect because proceeding with care, even with PPE, exposes staff to unnecessary risk and does not address the patient's need for medical diagnosis. Option C is incorrect because antimicrobial rinses do not eliminate the risk of transmitting a systemic infectious disease and do not replace the need for medical clearance. Option D is incorrect because dental offices generally do not have the authority, equipment, or protocols to perform diagnostic testing for infectious diseases; this is the role of medical facilities.",
+    "explanation": "The correct answer is to reschedule the appointment and advise the patient to seek medical evaluation. Dental offices are not equipped to diagnose or manage acute infectious diseases, and performing dental procedures on a patient with undiagnosed, potentially highly contagious respiratory symptoms poses a significant risk of nosocomial transmission to staff and other patients. Standard guidelines (such as those from the CDC and American Dental Associations) recommend deferring elective dental care for patients with active, undiagnosed infectious symptoms, particularly when travel history increases the risk of exotic or highly transmissible pathogens. Option A is incorrect because proceeding with care, even with PPE, exposes staff to unnecessary risk and does not address the patient's need for medical diagnosis. Option C is incorrect because antimicrobial rinses do not eliminate the risk of transmitting a systemic infectious disease and do not replace the need for medical clearance. Option D is incorrect because dental offices generally do not have the authority, equipment, or protocols to perform diagnostic testing for infectious diseases; this is the role of medical facilities.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -5227,9 +5227,9 @@
       "Packaging instruments in appropriate sterilization wraps or pouches."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Inspecting instruments for cleanliness and proper function. According to standard instrument reprocessing guidelines (such as those outlined by the CDC, CDA, and NDEB standards), the sequence of reprocessing is: Cleaning -> Drying -> Inspection -> Packaging -> Sterilization. Inspection is the mandatory step immediately following drying and before packaging. It ensures that no debris, blood, or tissue remains on the instruments (which would compromise sterilization efficacy) and that the instruments are mechanically intact and functional. Packaging (Option 3) occurs after inspection; packaging dirty or broken instruments is a critical error. Lubrication (Option 2) is typically performed on hinged instruments after cleaning but before or during the inspection/drying phase, or immediately prior to packaging, but inspection is the distinct critical checkpoint that validates the cleaning process before the instrument is sealed. Placing instruments directly into the sterilizer (Option 0) is incorrect because instruments must be packaged to maintain sterility after the cycle and to allow for proper tracking and barrier protection.",
+    "explanation": "The correct answer is Inspecting instruments for cleanliness and proper function. According to standard instrument reprocessing guidelines (such as those outlined by the CDC, CDA, and INBDE standards), the sequence of reprocessing is: Cleaning -> Drying -> Inspection -> Packaging -> Sterilization. Inspection is the mandatory step immediately following drying and before packaging. It ensures that no debris, blood, or tissue remains on the instruments (which would compromise sterilization efficacy) and that the instruments are mechanically intact and functional. Packaging (Option 3) occurs after inspection; packaging dirty or broken instruments is a critical error. Lubrication (Option 2) is typically performed on hinged instruments after cleaning but before or during the inspection/drying phase, or immediately prior to packaging, but inspection is the distinct critical checkpoint that validates the cleaning process before the instrument is sealed. Placing instruments directly into the sterilizer (Option 0) is incorrect because instruments must be packaged to maintain sterility after the cycle and to allow for proper tracking and barrier protection.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 950510267,
@@ -5332,7 +5332,7 @@
   {
     "id": 705836242,
     "topicId": "infection-control",
-    "question": "A 42-year-old male dentist notes a persistent foul odor and visible biofilm accumulation in the dental unit waterlines (DUWLs) of one of his operatories, despite regular flushing. This operatory is used daily. What is the MOST appropriate next step to address this issue according to Canadian guidelines?",
+    "question": "A 42-year-old male dentist notes a persistent foul odor and visible biofilm accumulation in the dental unit waterlines (DUWLs) of one of his operatories, despite regular flushing. This operatory is used daily. What is the MOST appropriate next step to address this issue according to ADA guidelines?",
     "options": [
       "Implement a shock treatment with an approved chemical agent followed by continuous use of a waterline treatment product.",
       "Increase the duration and frequency of flushing the waterlines with tap water.",
@@ -5438,7 +5438,7 @@
       "Have the patient wear protective eyewear."
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian infection‑control recommendations (CDA, Health Canada, NDEB) identify the rubber dam as the single most effective engineering control for aerosol mitigation during restorative procedures that employ high‑speed handpieces and air‑water syringes. By sealing the operative field, the dam prevents saliva, blood, and coolant from becoming aerosolised and limits particle spread to the clinician’s breathing zone. High‑volume evacuation (HVE) removes a substantial portion of aerosol but does not prevent its generation; it is therefore considered an adjunct to the dam. Patient rinsing and protective eyewear address oral hygiene and personal safety, not aerosol reduction. Consequently, option A is the correct answer.",
+    "explanation": "Canadian infection‑control recommendations (CDA, Health Canada, INBDE) identify the rubber dam as the single most effective engineering control for aerosol mitigation during restorative procedures that employ high‑speed handpieces and air‑water syringes. By sealing the operative field, the dam prevents saliva, blood, and coolant from becoming aerosolised and limits particle spread to the clinician’s breathing zone. High‑volume evacuation (HVE) removes a substantial portion of aerosol but does not prevent its generation; it is therefore considered an adjunct to the dam. Patient rinsing and protective eyewear address oral hygiene and personal safety, not aerosol reduction. Consequently, option A is the correct answer.",
     "aiVerified": true
   },
   {
@@ -5528,7 +5528,7 @@
   {
     "id": 641346096,
     "topicId": "infection-control",
-    "question": "A 55-year-old female patient with a history of a prosthetic heart valve requires a dental extraction. Her physician has confirmed the need for antibiotic prophylaxis prior to the procedure. She reports no known allergies. What is the MOST appropriate antibiotic regimen for this patient according to current Canadian guidelines?",
+    "question": "A 55-year-old female patient with a history of a prosthetic heart valve requires a dental extraction. Her physician has confirmed the need for antibiotic prophylaxis prior to the procedure. She reports no known allergies. What is the MOST appropriate antibiotic regimen for this patient according to current ADA guidelines?",
     "options": [
       "Clindamycin 600mg orally, 30-60 minutes before the procedure.",
       "Amoxicillin 2g orally, 30-60 minutes before the procedure.",
@@ -5718,7 +5718,7 @@
       "Replace the patient's face shield and provide new drapes."
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Canadian Dental Association (CDA) Infection Control Guidelines and the CDC’s recommendations for dental settings, the immediate priority when a handpiece water‑line malfunctions is to stop the flow of water to prevent aerosolisation of potentially contaminated fluid. Malamed’s Handbook of Local Anesthesia emphasizes that water‑line biofilm can harbor pathogens, so the hazard must be neutralised before any environmental decontamination. Repairing the line or replacing barriers is secondary to turning the unit off. Therefore, option B is the correct immediate infection‑control action.",
+    "explanation": "According to the American Dental Association (CDA) Infection Control Guidelines and the CDC’s recommendations for dental settings, the immediate priority when a handpiece water‑line malfunctions is to stop the flow of water to prevent aerosolisation of potentially contaminated fluid. Malamed’s Handbook of Local Anesthesia emphasizes that water‑line biofilm can harbor pathogens, so the hazard must be neutralised before any environmental decontamination. Repairing the line or replacing barriers is secondary to turning the unit off. Therefore, option B is the correct immediate infection‑control action.",
     "aiVerified": true
   },
   {
@@ -5746,7 +5746,7 @@
       "Cephalexin 500mg orally."
     ],
     "correctAnswer": 2,
-    "explanation": "For patients requiring antibiotic prophylaxis who have a penicillin allergy, Clindamycin 600mg orally 30-60 minutes before the procedure is the recommended alternative by Canadian guidelines. Amoxicillin (option A) is contraindicated due to the penicillin allergy. Azithromycin (option B) and Cephalexin (option D) can be alternatives but Clindamycin is a commonly preferred first-line alternative in many guidelines. The question asks for the MOST appropriate, and Clindamycin is a standard choice.",
+    "explanation": "For patients requiring antibiotic prophylaxis who have a penicillin allergy, Clindamycin 600mg orally 30-60 minutes before the procedure is the recommended alternative by ADA guidelines. Amoxicillin (option A) is contraindicated due to the penicillin allergy. Azithromycin (option B) and Cephalexin (option D) can be alternatives but Clindamycin is a commonly preferred first-line alternative in many guidelines. The question asks for the MOST appropriate, and Clindamycin is a standard choice.",
     "aiVerified": true
   },
   {
@@ -5948,7 +5948,7 @@
   {
     "id": 801517600,
     "topicId": "infection-control",
-    "question": "A 10-year-old female patient presents for a restorative appointment for a cavitated lesion on tooth #36. Her medical history is significant for a heart murmur, and she is scheduled for antibiotic prophylaxis prior to the procedure. Which of the following conditions would MOST likely necessitate antibiotic prophylaxis according to Canadian guidelines?",
+    "question": "A 10-year-old female patient presents for a restorative appointment for a cavitated lesion on tooth #36. Her medical history is significant for a heart murmur, and she is scheduled for antibiotic prophylaxis prior to the procedure. Which of the following conditions would MOST likely necessitate antibiotic prophylaxis according to ADA guidelines?",
     "options": [
       "Mitral valve prolapse with regurgitation.",
       "Repaired atrial septal defect.",
@@ -5956,7 +5956,7 @@
       "History of rheumatic fever without valvular damage."
     ],
     "correctAnswer": 2,
-    "explanation": "According to Canadian guidelines, antibiotic prophylaxis is indicated for patients with prosthetic cardiac valves due to the high risk of infective endocarditis. Mitral valve prolapse without specific risk factors, repaired atrial septal defects (unless within 6 months of repair or with residual shunts), and a history of rheumatic fever without valvular damage generally do not require prophylaxis. It is crucial to identify true high-risk conditions.",
+    "explanation": "According to ADA guidelines, antibiotic prophylaxis is indicated for patients with prosthetic cardiac valves due to the high risk of infective endocarditis. Mitral valve prolapse without specific risk factors, repaired atrial septal defects (unless within 6 months of repair or with residual shunts), and a history of rheumatic fever without valvular damage generally do not require prophylaxis. It is crucial to identify true high-risk conditions.",
     "aiVerified": true
   },
   {
@@ -5976,7 +5976,7 @@
   {
     "id": 166486306,
     "topicId": "infection-control",
-    "question": "A dental hygienist is performing non-surgical periodontal therapy using an ultrasonic scaler. According to standard infection control guidelines (e.g., CDC, ADA, and Canadian Dental Association), which combination of Personal Protective Equipment (PPE) is the minimum recommended standard to protect the clinician from exposure to aerosols and splatter?",
+    "question": "A dental hygienist is performing non-surgical periodontal therapy using an ultrasonic scaler. According to standard infection control guidelines (e.g., CDC, ADA, and American Dental Association), which combination of Personal Protective Equipment (PPE) is the minimum recommended standard to protect the clinician from exposure to aerosols and splatter?",
     "options": [
       "Gloves and a surgical mask",
       "Gloves, a surgical mask, and protective eyewear (goggles or face shield)",
@@ -6097,7 +6097,7 @@
       "Leave the container in the operatory until the end of the day, then transfer it to a central waste area."
     ],
     "correctAnswer": 2,
-    "explanation": "Sharps containers must be securely closed when they reach their fill line, as indicated by Canadian guidelines, and placed into a designated regulated medical waste stream. Emptying the contents or placing it in regular trash poses severe needle-stick hazards and is strictly prohibited. Leaving it unsealed in the operatory is a breach of safety protocols.",
+    "explanation": "Sharps containers must be securely closed when they reach their fill line, as indicated by ADA guidelines, and placed into a designated regulated medical waste stream. Emptying the contents or placing it in regular trash poses severe needle-stick hazards and is strictly prohibited. Leaving it unsealed in the operatory is a breach of safety protocols.",
     "aiVerified": true
   },
   {
@@ -6281,7 +6281,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is to don a face shield over her protective eyewear. For aerosol-generating procedures (AGPs) such as ultrasonic scaling, Canadian dental infection control guidelines (aligned with CDC and CDA standards) mandate the use of a face shield in addition to protective eyewear to provide comprehensive protection against splashes and aerosols to the entire face, including the nose and cheeks, which eyewear alone does not cover. The question specifies that she has already donned her mask, eyewear, and gloves. In the standard PPE donning sequence, the face shield is typically placed over the eyewear and mask to ensure a secure fit and full coverage. Hand hygiene (Option 2) must be performed *before* donning gloves, so it is an incorrect next step in this sequence. While hair containment (Option 1) is required, it is generally performed before donning the mask and eyewear to ensure the cap fits properly under the mask and shield; furthermore, the face shield is the critical missing component for AGP-specific facial protection. Adjusting equipment (Option 3) is not a PPE step and should be done after PPE is fully donned or before patient contact, but it is not the next step in the PPE sequence.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 691526843,
@@ -6300,7 +6300,7 @@
   {
     "id": 69236937,
     "topicId": "infection-control",
-    "question": "A 40-year-old male patient presents for a routine dental check-up. His medical history indicates he had mitral valve prolapse (MVP) without regurgitation diagnosed 10 years ago. He is otherwise healthy. He requires a routine prophylaxis, which is an aerosol-generating procedure. According to current Canadian guidelines, what is the MOST appropriate recommendation regarding infective endocarditis (IE) prophylaxis for this patient?",
+    "question": "A 40-year-old male patient presents for a routine dental check-up. His medical history indicates he had mitral valve prolapse (MVP) without regurgitation diagnosed 10 years ago. He is otherwise healthy. He requires a routine prophylaxis, which is an aerosol-generating procedure. According to current ADA guidelines, what is the MOST appropriate recommendation regarding infective endocarditis (IE) prophylaxis for this patient?",
     "options": [
       "He requires antibiotic prophylaxis due to his history of MVP.",
       "Antibiotic prophylaxis is only indicated for patients with a history of IE, not MVP without regurgitation.",
@@ -6308,7 +6308,7 @@
       "He requires antibiotic prophylaxis due to the aerosol-generating nature of the procedure."
     ],
     "correctAnswer": 2,
-    "explanation": "Current Canadian guidelines for infective endocarditis (IE) prophylaxis have narrowed the indications significantly. Mitral valve prolapse without regurgitation is no longer considered a cardiac condition that warrants antibiotic prophylaxis for dental procedures. Prophylaxis is reserved for specific high-risk cardiac conditions, which do not include MVP without regurgitation or simply aerosol-generating procedures.",
+    "explanation": "Current ADA guidelines for infective endocarditis (IE) prophylaxis have narrowed the indications significantly. Mitral valve prolapse without regurgitation is no longer considered a cardiac condition that warrants antibiotic prophylaxis for dental procedures. Prophylaxis is reserved for specific high-risk cardiac conditions, which do not include MVP without regurgitation or simply aerosol-generating procedures.",
     "aiVerified": true
   },
   {
@@ -6366,7 +6366,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is Option 0. Canadian infection‑control standards (CDA/Health Canada) require Standard Precautions for all patients with blood‑borne pathogens such as HBV. While no extra *pathogen‑specific* step is mandated, the use of a rubber dam and high‑volume evacuation is endorsed as an engineering control to minimise aerosol and spatter generation during operative dentistry (Malamed, Handbook of Local Anesthesia, 7th ed.; Little & Falace, Dental Management of the Medically Compromised Patient). This measure does not replace Standard Precautions but adds a layer of protection for both clinician and patient, making it the most appropriate additional action among the choices provided.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 392584256,
@@ -6443,7 +6443,7 @@
   {
     "id": 953991669,
     "topicId": "infection-control",
-    "question": "A 72-year-old male patient with a history of a recent total knee replacement (3 months ago) presents for a routine dental cleaning. His orthopedic surgeon has recommended antibiotic prophylaxis for all dental procedures. The patient has no known allergies. What is the MOST appropriate antibiotic regimen for prophylaxis in this patient, according to current Canadian guidelines?",
+    "question": "A 72-year-old male patient with a history of a recent total knee replacement (3 months ago) presents for a routine dental cleaning. His orthopedic surgeon has recommended antibiotic prophylaxis for all dental procedures. The patient has no known allergies. What is the MOST appropriate antibiotic regimen for prophylaxis in this patient, according to current ADA guidelines?",
     "options": [
       "Amoxicillin 2g orally 30-60 minutes before the procedure.",
       "Clindamycin 600mg orally 30-60 minutes before the procedure.",
@@ -6451,7 +6451,7 @@
       "No antibiotic prophylaxis is routinely recommended for dental procedures in patients with orthopedic implants."
     ],
     "correctAnswer": 3,
-    "explanation": "Current Canadian guidelines, aligning with recent evidence, do not routinely recommend antibiotic prophylaxis for dental procedures solely based on the presence of orthopedic implants, regardless of the time since placement (D). Amoxicillin (A), Clindamycin (B), and Azithromycin (C) are common prophylactic antibiotics for cardiac conditions, but their use is not indicated for orthopedic implants unless there are specific, complex medical considerations beyond the scope of routine dental care and in consultation with the orthopedic surgeon. The risk of bacteremia causing prosthetic joint infection from dental procedures is considered extremely low.",
+    "explanation": "Current ADA guidelines, aligning with recent evidence, do not routinely recommend antibiotic prophylaxis for dental procedures solely based on the presence of orthopedic implants, regardless of the time since placement (D). Amoxicillin (A), Clindamycin (B), and Azithromycin (C) are common prophylactic antibiotics for cardiac conditions, but their use is not indicated for orthopedic implants unless there are specific, complex medical considerations beyond the scope of routine dental care and in consultation with the orthopedic surgeon. The risk of bacteremia causing prosthetic joint infection from dental procedures is considered extremely low.",
     "aiVerified": true
   },
   {
@@ -6563,9 +6563,9 @@
       "Clean with soap and water, then spray with a low-level disinfectant."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0. Digital intraoral sensors are heat-sensitive electronic devices and cannot withstand the temperatures required for steam sterilization (Option 2 is incorrect). While the Spaulding classification generally categorizes items contacting mucous membranes as semi-critical (requiring high-level disinfection), the physical constraints of electronic sensors make immersion in high-level disinfectants (Option 1) contraindicated due to the risk of water damage to internal components. Therefore, the standard of care in Canadian dentistry (aligned with CDA and NDEB guidelines) for heat-sensitive semi-critical items is to use a protective barrier (such as a disposable plastic sheath) during the procedure. After use, the barrier is removed, and the sensor surface is wiped with an intermediate-level disinfectant (or high-level if the manufacturer specifies it is safe for wiping, but intermediate is the standard for barrier-protected surfaces that do not directly contact mucosa in a way that allows fluid penetration). This approach ensures the device is disinfected to an appropriate level for its risk category while preserving its function. Option 4 (low-level disinfection) is incorrect because it is insufficient for semi-critical items, even with barriers, as it does not kill all microorganisms (e.g., mycobacteria, viruses). Option 0 represents the most appropriate balance of infection control and device preservation.",
+    "explanation": "The correct answer is Option 0. Digital intraoral sensors are heat-sensitive electronic devices and cannot withstand the temperatures required for steam sterilization (Option 2 is incorrect). While the Spaulding classification generally categorizes items contacting mucous membranes as semi-critical (requiring high-level disinfection), the physical constraints of electronic sensors make immersion in high-level disinfectants (Option 1) contraindicated due to the risk of water damage to internal components. Therefore, the standard of care in Canadian dentistry (aligned with CDA and ADA clinical guidelines) for heat-sensitive semi-critical items is to use a protective barrier (such as a disposable plastic sheath) during the procedure. After use, the barrier is removed, and the sensor surface is wiped with an intermediate-level disinfectant (or high-level if the manufacturer specifies it is safe for wiping, but intermediate is the standard for barrier-protected surfaces that do not directly contact mucosa in a way that allows fluid penetration). This approach ensures the device is disinfected to an appropriate level for its risk category while preserving its function. Option 4 (low-level disinfection) is incorrect because it is insufficient for semi-critical items, even with barriers, as it does not kill all microorganisms (e.g., mycobacteria, viruses). Option 0 represents the most appropriate balance of infection control and device preservation.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 309559497,
@@ -6654,7 +6654,7 @@
   {
     "id": 786832380,
     "topicId": "infection-control",
-    "question": "A dental office is preparing instruments for a patient. The sterilization log indicates that the last biological spore test was performed 10 days ago and passed. The current load contains instruments with Type 1 chemical indicators that have changed color. According to standard infection control guidelines (e.g., CDC, ADA, and Canadian Dental Association recommendations), what is the most appropriate action regarding the use of these instruments?",
+    "question": "A dental office is preparing instruments for a patient. The sterilization log indicates that the last biological spore test was performed 10 days ago and passed. The current load contains instruments with Type 1 chemical indicators that have changed color. According to standard infection control guidelines (e.g., CDC, ADA, and American Dental Association recommendations), what is the most appropriate action regarding the use of these instruments?",
     "options": [
       "Proceed with treatment, as the Type 1 indicator confirms the sterilization cycle parameters were met.",
       "Hold the instruments and perform a new biological spore test immediately, waiting for the results before use.",
@@ -6665,7 +6665,7 @@
     "explanation": "CDA and CDC/ADA standards require biological monitoring of steam sterilizers at least monthly for routine practices (weekly for high‑volume clinics). A spore test completed 10 days ago is within this window, confirming sterilizer efficacy. Type 1 chemical indicators are external indicators that verify exposure to the sterilization parameters but do not assess sterility; when a current, passing biological test is available, the cycle is considered valid. Consequently, the instruments may be used safely, making option C the correct choice.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 834262301,
@@ -6754,7 +6754,7 @@
   {
     "id": 408327290,
     "topicId": "infection-control",
-    "question": "A dental assistant is tasked with maintaining dental unit waterlines (DUWLs) in a busy clinic. The clinic uses a self-contained water system. Beyond flushing lines for 20-30 seconds between patients and at the start/end of the day, what is the MOST effective strategy to prevent microbial biofilm formation within the DUWLs according to current Canadian guidelines?",
+    "question": "A dental assistant is tasked with maintaining dental unit waterlines (DUWLs) in a busy clinic. The clinic uses a self-contained water system. Beyond flushing lines for 20-30 seconds between patients and at the start/end of the day, what is the MOST effective strategy to prevent microbial biofilm formation within the DUWLs according to current ADA guidelines?",
     "options": [
       "Replacing all DUWL tubing annually.",
       "Implementing a continuous chemical treatment protocol using a Health Canada-approved product.",
@@ -6790,7 +6790,7 @@
       "Surgical mask, loupes with attached shields, and utility gloves."
     ],
     "correctAnswer": 1,
-    "explanation": "Procedures involving high-speed handpieces and water spray generate significant aerosols. The most comprehensive PPE combination includes an N95 respirator for respiratory protection, a full face shield for full-face barrier protection, a fluid-resistant long-sleeved gown to prevent body and clothing contamination, and examination gloves for hand protection, as per Canadian guidelines for aerosol-generating procedures. Surgical masks (A, C, D) do not provide adequate respiratory protection against aerosols. Sterile gloves (C) are for sterile procedures, not routine restorative, and utility gloves (D) are for reprocessing.",
+    "explanation": "Procedures involving high-speed handpieces and water spray generate significant aerosols. The most comprehensive PPE combination includes an N95 respirator for respiratory protection, a full face shield for full-face barrier protection, a fluid-resistant long-sleeved gown to prevent body and clothing contamination, and examination gloves for hand protection, as per ADA guidelines for aerosol-generating procedures. Surgical masks (A, C, D) do not provide adequate respiratory protection against aerosols. Sterile gloves (C) are for sterile procedures, not routine restorative, and utility gloves (D) are for reprocessing.",
     "aiVerified": true
   },
   {
@@ -6904,7 +6904,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is Option 1. Canadian dental infection‑control recommendations (CDA/Health Canada) list a 0.12 % chlorhexidine or equivalent antiseptic rinse performed immediately before aerosol‑generating procedures as an immediate, low‑cost adjunct to reduce microbial burden in the generated aerosol (Malamed, Handbook of Local Anesthesia, 7th ed.; Little & Falace, Dental Management of the Medically Compromised Patient). While portable HEPA filtration provides environmental control, it is not an instant bedside intervention and may not be available in all practices. Patient mouth‑closure is impractical, and increasing hand‑piece air pressure would likely augment aerosol production.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 986344196,
@@ -6923,7 +6923,7 @@
   {
     "id": 127319280,
     "topicId": "infection-control",
-    "question": "A 40-year-old female dental hygienist is concerned about the quality of water delivered by the dental unit waterlines in her office, despite daily flushing. Water testing consistently shows bacterial counts exceeding Canadian guidelines. What is the MOST appropriate next step to address the persistent high bacterial load?",
+    "question": "A 40-year-old female dental hygienist is concerned about the quality of water delivered by the dental unit waterlines in her office, despite daily flushing. Water testing consistently shows bacterial counts exceeding ADA guidelines. What is the MOST appropriate next step to address the persistent high bacterial load?",
     "options": [
       "Implement a chemical shock treatment protocol for the dental unit waterlines.",
       "Increase the frequency of daily flushing to 5 minutes at the start and end of each day.",
@@ -6931,7 +6931,7 @@
       "Install a point-of-use filter on each dental unit's water supply."
     ],
     "correctAnswer": 0,
-    "explanation": "Persistent high bacterial counts in dental unit waterlines, despite daily flushing, indicate a biofilm issue that requires a more aggressive approach than just flushing. Chemical shock treatment (A) effectively removes existing biofilm and significantly reduces bacterial load to meet Canadian guidelines. While increasing flushing (B) is part of daily maintenance, it is insufficient as a primary solution for persistent high counts. Switching to sterile water (C) is typically for surgical procedures to prevent infection from non-sterile tap water, but does not address the underlying biofilm contamination for routine procedures or the general water quality.",
+    "explanation": "Persistent high bacterial counts in dental unit waterlines, despite daily flushing, indicate a biofilm issue that requires a more aggressive approach than just flushing. Chemical shock treatment (A) effectively removes existing biofilm and significantly reduces bacterial load to meet ADA guidelines. While increasing flushing (B) is part of daily maintenance, it is insufficient as a primary solution for persistent high counts. Switching to sterile water (C) is typically for surgical procedures to prevent infection from non-sterile tap water, but does not address the underlying biofilm contamination for routine procedures or the general water quality.",
     "aiVerified": true
   },
   {
@@ -6991,7 +6991,7 @@
     "explanation": "The Spaulding Classification (CDC, CDA infection‑control guidelines) defines critical items as those that penetrate soft tissue, bone, or enter the vascular system and therefore must be sterilized. A dental mirror, impression tray, curing‑light tip, and periodontal probe all contact mucous membranes but do not breach sterile tissue; they are classified as semi‑critical and require high‑level disinfection only. Consequently, no instrument in the option set qualifies as critical. References: CDC Guideline for Infection Control in Dental Health‑Care Settings (2022); CDA Infection‑Control Standards, Chapter 4.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 696346883,
@@ -7004,7 +7004,7 @@
       "Sterilant, such as peracetic acid."
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Canadian Dental Association and provincial infection‑control guidelines, surfaces that are touched with gloved hands but do not penetrate tissue are *non‑critical* and must be cleaned with a low‑level disinfectant (e.g., quaternary ammonium compounds). Influenza is an enveloped virus readily inactivated by low‑level agents; higher‑level (intermediate or high) disinfectants are unnecessary for these surfaces. Therefore option B is the most appropriate choice.",
+    "explanation": "According to the American Dental Association and provincial infection‑control guidelines, surfaces that are touched with gloved hands but do not penetrate tissue are *non‑critical* and must be cleaned with a low‑level disinfectant (e.g., quaternary ammonium compounds). Influenza is an enveloped virus readily inactivated by low‑level agents; higher‑level (intermediate or high) disinfectants are unnecessary for these surfaces. Therefore option B is the most appropriate choice.",
     "aiVerified": true
   },
   {
@@ -7076,9 +7076,9 @@
       "Delay the appointment until the patient can control his sweating"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Canadian infection‑control standards (CDC/ADA guidelines incorporated into the NDEB blueprint), the provider must maintain standard precautions for all patients. Excessive sweating can wet a patient’s mask or face shield, compromising the seal and allowing droplets to escape, and can also wet the bib and chair covering, increasing the risk of cross‑contamination. The most appropriate response is therefore to provide a dry, disposable paper bib and to give the patient a fresh, dry mask or face shield so that the barrier remains intact throughout the procedure. \n\nWhy the other options are incorrect:\n0. A high‑volume evacuator (HVE) is used to *increase* suction to capture aerosols; reducing suction power would actually increase aerosol generation and offers no benefit for hyperhidrosis.\n2. Applying antiperspirant to the face is not a recognized infection‑control measure, may cause skin irritation, and could introduce chemicals into the oral environment.\n3. Delaying treatment is unnecessary; hyperhidrosis does not constitute a communicable disease, and appropriate PPE adjustments can safely accommodate the patient.\n\nThus, providing a dry bib and fresh patient mask/face shield is the gold‑standard modification for this scenario.",
+    "explanation": "Under Canadian infection‑control standards (CDC/ADA guidelines incorporated into the INBDE blueprint), the provider must maintain standard precautions for all patients. Excessive sweating can wet a patient’s mask or face shield, compromising the seal and allowing droplets to escape, and can also wet the bib and chair covering, increasing the risk of cross‑contamination. The most appropriate response is therefore to provide a dry, disposable paper bib and to give the patient a fresh, dry mask or face shield so that the barrier remains intact throughout the procedure. \n\nWhy the other options are incorrect:\n0. A high‑volume evacuator (HVE) is used to *increase* suction to capture aerosols; reducing suction power would actually increase aerosol generation and offers no benefit for hyperhidrosis.\n2. Applying antiperspirant to the face is not a recognized infection‑control measure, may cause skin irritation, and could introduce chemicals into the oral environment.\n3. Delaying treatment is unnecessary; hyperhidrosis does not constitute a communicable disease, and appropriate PPE adjustments can safely accommodate the patient.\n\nThus, providing a dry bib and fresh patient mask/face shield is the gold‑standard modification for this scenario.",
     "aiGenerated": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   }
 ]

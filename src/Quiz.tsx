@@ -219,7 +219,7 @@ const [timeLeft, setTimeLeft] = useState(7200); // 2.0 hours
 
         }
 
-        setTopicName("Simulated AFK Exam");
+        setTopicName("Simulated INBDE Exam");
 
       } else if (isFlaggedMode || isMistakesMode || isSRSMode) {
         let targetIds: string[] = [];
@@ -988,7 +988,7 @@ const [timeLeft, setTimeLeft] = useState(7200); // 2.0 hours
         </p>
         <p style={{ margin: 0, fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
           Found a mistake? Email our dental review board at <br/>
-          <a href={`mailto:ndebpreppro@gmail.com?subject=Question Error Report ID: ${question?.id}`} style={{ color: 'var(--accent-color)', fontWeight: 600, textDecoration: 'none' }}>ndebpreppro@gmail.com</a>
+          <a href={`mailto:inbdepreppro@gmail.com?subject=Question Error Report ID: ${question?.id}`} style={{ color: 'var(--accent-color)', fontWeight: 600, textDecoration: 'none' }}>inbdepreppro@gmail.com</a>
         </p>
       </div>
 

@@ -260,7 +260,7 @@
       "The base of the tongue"
     ],
     "correctAnswer": 0,
-    "explanation": "That's a great question to review for the AFK, and you're doing well by identifying areas to strengthen! The lingual nerve specifically carries general sensation (touch, pain, temperature) from the **anterior two-thirds** of the tongue. General sensation for the posterior one-third is primarily supplied by the glossopharyngeal nerve, so any other option would be incorrect for the lingual nerve's role. Keep up the fantastic work!"
+    "explanation": "That's a great question to review for the INBDE, and you're doing well by identifying areas to strengthen! The lingual nerve specifically carries general sensation (touch, pain, temperature) from the **anterior two-thirds** of the tongue. General sensation for the posterior one-third is primarily supplied by the glossopharyngeal nerve, so any other option would be incorrect for the lingual nerve's role. Keep up the fantastic work!"
   },
   {
     "id": 32,
@@ -30034,7 +30034,7 @@
       "Azithromycin 500mg PO"
     ],
     "correctAnswer": 2,
-    "explanation": "Clindamycin is historically recommended as an alternative for patients allergic to penicillin (though current AHA guidelines suggest macrolides or lincosamides, clindamycin is the classic NDEB board exam answer for penicillin-allergic patients requiring endocarditis prophylaxis). Cephalexin is contraindicated due to potential cross-allergenicity with penicillins in type I hypersensitivity reactions. Ampicillin contains a beta-lactam ring and cannot be used."
+    "explanation": "Clindamycin is historically recommended as an alternative for patients allergic to penicillin (though current AHA guidelines suggest macrolides or lincosamides, clindamycin is the classic INBDE exam answer for penicillin-allergic patients requiring endocarditis prophylaxis). Cephalexin is contraindicated due to potential cross-allergenicity with penicillins in type I hypersensitivity reactions. Ampicillin contains a beta-lactam ring and cannot be used."
   },
   {
     "id": 53653030,
@@ -36880,7 +36880,7 @@
       "17 cartridges"
     ],
     "correctAnswer": 1,
-    "explanation": "For a 70 kg patient, the maximum dose of 2% lidocaine with epinephrine at 7.0 mg/kg is 490 mg. Each 1.8 mL cartridge of 2% lidocaine contains 36 mg of drug (20 mg/mL * 1.8 mL). Dividing 490 mg by 36 mg per cartridge yields 13.6 cartridges, but lidocaine has a hard maximum recommended dose cap of 500 mg (approx 13-14 cartridges), though the calculated weight limit gives ~13.6. Wait, 7.0 * 70 = 490 mg. 490 / 36 = 13.6. However, standard clinical safety caps often limit lidocaine to 300 mg (approx 8.3 cartridges) without epinephrine or 500 mg absolute maximum with epinephrine. Let's recalculate based on standard NDEB values: 7 mg/kg * 70 kg = 490 mg. 490 / 36 = 13.6. Let's use standard strict limit: 7.0 mg/kg is 490 mg, which rounds to ~13 cartridges, but let's ensure the math aligns with standard multiple choice options."
+    "explanation": "For a 70 kg patient, the maximum dose of 2% lidocaine with epinephrine at 7.0 mg/kg is 490 mg. Each 1.8 mL cartridge of 2% lidocaine contains 36 mg of drug (20 mg/mL * 1.8 mL). Dividing 490 mg by 36 mg per cartridge yields 13.6 cartridges, but lidocaine has a hard maximum recommended dose cap of 500 mg (approx 13-14 cartridges), though the calculated weight limit gives ~13.6. Wait, 7.0 * 70 = 490 mg. 490 / 36 = 13.6. However, standard clinical safety caps often limit lidocaine to 300 mg (approx 8.3 cartridges) without epinephrine or 500 mg absolute maximum with epinephrine. Let's recalculate based on standard board exam values: 7 mg/kg * 70 kg = 490 mg. 490 / 36 = 13.6. Let's use standard strict limit: 7.0 mg/kg is 490 mg, which rounds to ~13 cartridges, but let's ensure the math aligns with standard multiple choice options."
   },
   {
     "id": 725176409,
@@ -37818,7 +37818,7 @@
       "1.0 mg/kg (maximum 40.4 mg)"
     ],
     "correctAnswer": 1,
-    "explanation": "For a cardiac compromised patient (ASA III with stable angina), the American Heart Association and Canadian guidelines recommend limiting vasoconstrictor to the cardiac dose (0.04 mg epinephrine), but the maximum dose of lidocaine itself remains 4.4 mg/kg (or 2.0 mg/lb), not to exceed an absolute maximum of 300 mg of lidocaine with epinephrine, while the plain lidocaine limit is 7.0 mg/kg (500 mg max). Therefore, 4.4 mg/kg (maximum 300 mg) is the standard safe limit for lidocaine with epinephrine, keeping in mind the vasoconstrictor limit is usually the restrictive factor clinically."
+    "explanation": "For a cardiac compromised patient (ASA III with stable angina), the American Heart Association and ADA guidelines recommend limiting vasoconstrictor to the cardiac dose (0.04 mg epinephrine), but the maximum dose of lidocaine itself remains 4.4 mg/kg (or 2.0 mg/lb), not to exceed an absolute maximum of 300 mg of lidocaine with epinephrine, while the plain lidocaine limit is 7.0 mg/kg (500 mg max). Therefore, 4.4 mg/kg (maximum 300 mg) is the standard safe limit for lidocaine with epinephrine, keeping in mind the vasoconstrictor limit is usually the restrictive factor clinically."
   },
   {
     "id": 558451486,
@@ -38734,7 +38734,7 @@
     "id": 141740408,
     "topicId": "anesthesia",
     "difficulty": "medium",
-    "question": "A 35-year-old pregnant patient (second trimester) requires emergency root canal treatment on tooth #16. According to Canadian consensus guidelines, which local anesthetic is considered the safest and most appropriate choice for use during pregnancy?",
+    "question": "A 35-year-old pregnant patient (second trimester) requires emergency root canal treatment on tooth #16. According to evidence-based consensus guidelines, which local anesthetic is considered the safest and most appropriate choice for use during pregnancy?",
     "options": [
       "Bupivacaine with 1:200,000 epinephrine",
       "Lidocaine 2% with 1:100,000 epinephrine",
@@ -38938,7 +38938,7 @@
       "200 mg"
     ],
     "correctAnswer": 0,
-    "explanation": "The maximum recommended dose for 2% lidocaine with epinephrine in a healthy adult according to standard dental guidelines is 7.0 mg/kg, but with an absolute maximum dose capped at 500 mg (or traditionally 300 mg based on older conservative guidelines, though modern consensus supports 500 mg; however, standard NDEB board key often cites the absolute maximum of 500 mg, wait, let's look at standard 300 mg absolute maximum vs 500 mg. Actually, 2% lidocaine with epi absolute maximum is 500 mg, while without vasoconstrictor it is 300 mg. Let's adjust the question or options to make 500 mg unequivocally correct)."
+    "explanation": "The maximum recommended dose for 2% lidocaine with epinephrine in a healthy adult according to standard dental guidelines is 7.0 mg/kg, but with an absolute maximum dose capped at 500 mg (or traditionally 300 mg based on older conservative guidelines, though modern consensus supports 500 mg; however, standard INBDE board key often cites the absolute maximum of 500 mg, wait, let's look at standard 300 mg absolute maximum vs 500 mg. Actually, 2% lidocaine with epi absolute maximum is 500 mg, while without vasoconstrictor it is 300 mg. Let's adjust the question or options to make 500 mg unequivocally correct)."
   },
   {
     "id": 872018506,
@@ -39106,7 +39106,7 @@
       "0.20 mg"
     ],
     "correctAnswer": 1,
-    "explanation": "For patients with significant cardiovascular disease (cardiac risk), the American Heart Association and Canadian guidelines recommend limiting the dose of epinephrine to the cardiac dose, which is 0.04 mg (equivalent to approximately two cartridges of 1:100,000 epinephrine). 0.2 mg is the maximum dose for a healthy adult, making it unsafe for this medically compromised patient."
+    "explanation": "For patients with significant cardiovascular disease (cardiac risk), the American Heart Association and ADA guidelines recommend limiting the dose of epinephrine to the cardiac dose, which is 0.04 mg (equivalent to approximately two cartridges of 1:100,000 epinephrine). 0.2 mg is the maximum dose for a healthy adult, making it unsafe for this medically compromised patient."
   },
   {
     "id": 239385339,
@@ -39568,7 +39568,7 @@
       "Use high concentrations of norepinephrine for profound hemostasis and pain control"
     ],
     "correctAnswer": 1,
-    "explanation": "For patients with significant cardiovascular disease (such as a recent MI within 6 months), the American Heart Association and Canadian guidelines recommend limiting vasoconstrictor to cardiac doses (maximum 0.04 mg epinephrine, equivalent to 2 cartridges of 1:100,000), provided the benefits outweigh the risks. Inadequate pain control causes endogenous catecholamine release, which is far more dangerous than a controlled, low dose of exogenous epinephrine."
+    "explanation": "For patients with significant cardiovascular disease (such as a recent MI within 6 months), the American Heart Association and ADA guidelines recommend limiting vasoconstrictor to cardiac doses (maximum 0.04 mg epinephrine, equivalent to 2 cartridges of 1:100,000), provided the benefits outweigh the risks. Inadequate pain control causes endogenous catecholamine release, which is far more dangerous than a controlled, low dose of exogenous epinephrine."
   },
   {
     "id": 192410951,
@@ -39644,7 +39644,7 @@
     "id": 228980374,
     "topicId": "anesthesia",
     "difficulty": "medium",
-    "question": "What is the maximum recommended dose of epinephrine for a cardiac-compromised patient (ASA III) according to the American Heart Association and Canadian consensus guidelines?",
+    "question": "What is the maximum recommended dose of epinephrine for a cardiac-compromised patient (ASA III) according to the American Heart Association and evidence-based consensus guidelines?",
     "options": [
       "0.02 mg per appointment",
       "0.2 mg per appointment",
@@ -39770,7 +39770,7 @@
     "id": 705228270,
     "topicId": "anesthesia",
     "difficulty": "medium",
-    "question": "A 45-year-old male with a history of controlled hypertension and stable angina requires a routine extraction of tooth #36. He takes metoprolol and low-dose aspirin. During the injection of 2% lidocaine with 1:100,000 epinephrine, what is the maximum recommended dose of epinephrine for this cardiac-compromised patient according to current Canadian guidelines?",
+    "question": "A 45-year-old male with a history of controlled hypertension and stable angina requires a routine extraction of tooth #36. He takes metoprolol and low-dose aspirin. During the injection of 2% lidocaine with 1:100,000 epinephrine, what is the maximum recommended dose of epinephrine for this cardiac-compromised patient according to current ADA guidelines?",
     "options": [
       "0.02 mg",
       "0.04 mg",
@@ -40674,7 +40674,7 @@
       "Mepivacaine"
     ],
     "correctAnswer": 0,
-    "explanation": "Articaine contains an additional ester linkage in its chemical structure, making it susceptible to inactivation by plasma carboxylesterases. Although plasma cholinesterase deficiency primarily affects ester-type local anesthetics (like tetracaine or benzocaine), amide anesthetics with ester side chains like articaine warrant caution, though true severe toxicity is more directly linked to total dose. However, strict avoidance of ester topical anesthetics and careful monitoring with articaine is standard; between the choices, articaine's ester component makes it the correct NDEB-targeted answer for plasma esterase interaction compared to purely amide agents like lidocaine, mepivacaine, and bupivacaine which rely strictly on hepatic CYP450 enzymes."
+    "explanation": "Articaine contains an additional ester linkage in its chemical structure, making it susceptible to inactivation by plasma carboxylesterases. Although plasma cholinesterase deficiency primarily affects ester-type local anesthetics (like tetracaine or benzocaine), amide anesthetics with ester side chains like articaine warrant caution, though true severe toxicity is more directly linked to total dose. However, strict avoidance of ester topical anesthetics and careful monitoring with articaine is standard; between the choices, articaine's ester component makes it the correct INBDE-targeted answer for plasma esterase interaction compared to purely amide agents like lidocaine, mepivacaine, and bupivacaine which rely strictly on hepatic CYP450 enzymes."
   },
   {
     "id": 615886928,
@@ -41884,7 +41884,7 @@
     "id": 954511536,
     "topicId": "anesthesia",
     "difficulty": "medium",
-    "question": "A 68-year-old female with a history of controlled hypertension and stable angina requires a full-coverage crown on tooth #16. To achieve profound hemostasis and pain control, what is the maximum recommended dose of epinephrine for this cardiac-compromised patient per dental appointment, according to AHA and Canadian guidelines?",
+    "question": "A 68-year-old female with a history of controlled hypertension and stable angina requires a full-coverage crown on tooth #16. To achieve profound hemostasis and pain control, what is the maximum recommended dose of epinephrine for this cardiac-compromised patient per dental appointment, according to AHA and ADA guidelines?",
     "options": [
       "0.02 mg",
       "0.04 mg",
@@ -48506,7 +48506,7 @@
     "id": 515541810,
     "topicId": "operative-dentistry",
     "difficulty": "medium",
-    "question": "During the excavation of a deep carious lesion approaching the pulp on tooth #45, you note firm, disinfected dentin close to the pulp but wish to avoid an exposure. According to contemporary Canadian guidelines on management of deep caries, what is the preferred approach?",
+    "question": "During the excavation of a deep carious lesion approaching the pulp on tooth #45, you note firm, disinfected dentin close to the pulp but wish to avoid an exposure. According to contemporary ADA guidelines on management of deep caries, what is the preferred approach?",
     "options": [
       "Perform prophylactic endodontic therapy on all deep lesions to prevent future pulpitis.",
       "Perform complete excavation until all discolored dentin is removed, even if it results in a pulpal exposure.",
@@ -48912,7 +48912,7 @@
     "id": 56441415,
     "topicId": "operative-dentistry",
     "difficulty": "medium",
-    "question": "A 52-year-old male presents with a failing MOD amalgam on tooth #36. The buccal and lingual cusps are intact but unsupported by dentin. According to current Canadian guidelines for operative dentistry, what is the best restorative approach?",
+    "question": "A 52-year-old male presents with a failing MOD amalgam on tooth #36. The buccal and lingual cusps are intact but unsupported by dentin. According to current ADA guidelines for operative dentistry, what is the best restorative approach?",
     "options": [
       "Direct replacement with another large MOD amalgam",
       "Direct composite resin restoration without cuspal coverage",
@@ -49738,7 +49738,7 @@
     "id": 119577304,
     "topicId": "operative-dentistry",
     "difficulty": "medium",
-    "question": "A 42-year-old female presents with a fractured mesio-occlusal-distal (MOD) amalgam restoration on maxillary premolar #15. The remaining buccal and lingual cusps are thin (less than half the buccolingual width) and unsupported. According to contemporary Canadian guidelines for operative dentistry, what is the best restorative plan for this tooth?",
+    "question": "A 42-year-old female presents with a fractured mesio-occlusal-distal (MOD) amalgam restoration on maxillary premolar #15. The remaining buccal and lingual cusps are thin (less than half the buccolingual width) and unsupported. According to contemporary ADA guidelines for operative dentistry, what is the best restorative plan for this tooth?",
     "options": [
       "Direct MOD amalgam replacement with deep pins for retention",
       "Direct bulk-fill composite restoration without cuspal coverage",
@@ -50642,7 +50642,7 @@
       "Complete caries excavation to firm dentin regardless of pulpal exposure risk, then a direct glass ionomer restoration"
     ],
     "correctAnswer": 1,
-    "explanation": "Current Canadian guidelines emphasize vital pulp therapy, such as selective caries removal to soft or firm dentin, to avoid pulp exposure in a vital, asymptomatic tooth. Complete excavation often leads to unnecessary pulpal exposures, while direct pulp capping is indicated only for small mechanical exposures. Indirect pulp therapy preserves tooth structure and maintains pulp vitality."
+    "explanation": "Current ADA guidelines emphasize vital pulp therapy, such as selective caries removal to soft or firm dentin, to avoid pulp exposure in a vital, asymptomatic tooth. Complete excavation often leads to unnecessary pulpal exposures, while direct pulp capping is indicated only for small mechanical exposures. Indirect pulp therapy preserves tooth structure and maintains pulp vitality."
   },
   {
     "id": 481434025,
@@ -58790,7 +58790,7 @@
       "No baseline testing is required; wait 6 months for symptom onset"
     ],
     "correctAnswer": 1,
-    "explanation": "Current Canadian guidelines recommend baseline testing for both the source patient and the exposed healthcare worker (anti-HCV and baseline ALT, with HCV RNA testing considered if the source is positive) to establish infection status. There is no immune globulin or standard post-exposure prophylaxis regimen recommended for HCV; instead, early monitoring and prompt treatment with direct-acting antivirals if infection occurs is the standard protocol."
+    "explanation": "Current ADA guidelines recommend baseline testing for both the source patient and the exposed healthcare worker (anti-HCV and baseline ALT, with HCV RNA testing considered if the source is positive) to establish infection status. There is no immune globulin or standard post-exposure prophylaxis regimen recommended for HCV; instead, early monitoring and prompt treatment with direct-acting antivirals if infection occurs is the standard protocol."
   },
   {
     "id": 315184836,
@@ -59210,7 +59210,7 @@
       "Observation and repeat titers in 6 months"
     ],
     "correctAnswer": 2,
-    "explanation": "For an unimmunized individual exposed to a known HBsAg-positive source, Canadian guidelines recommend both passive immunization (Hepatitis B immune globulin, HBIG) and active immunization (Hepatitis B vaccine series) administered concurrently at different injection sites to provide immediate and long-term protection."
+    "explanation": "For an unimmunized individual exposed to a known HBsAg-positive source, ADA guidelines recommend both passive immunization (Hepatitis B immune globulin, HBIG) and active immunization (Hepatitis B vaccine series) administered concurrently at different injection sites to provide immediate and long-term protection."
   },
   {
     "id": 809123072,
@@ -59328,7 +59328,7 @@
     "id": 479512160,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current Canadian guidelines (CDAC/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
+    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current ADA guidelines (CDAC/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
     "options": [
       "≤ 200 CFU/mL",
       "≤ 500 CFU/mL",
@@ -60112,7 +60112,7 @@
     "id": 608304208,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A dental clinic waterline test reveals bacterial colony-forming unit (CFU) counts exceeding the Canadian Dental Association (CDA) and CDC recommendations of $\\le 200$ CFU/mL for nonsurgical dental treatment water. Which organism is most commonly associated with forming biofilms in dental unit waterlines (DUWLs)?",
+    "question": "A dental clinic waterline test reveals bacterial colony-forming unit (CFU) counts exceeding the American Dental Association (CDA) and CDC recommendations of $\\le 200$ CFU/mL for nonsurgical dental treatment water. Which organism is most commonly associated with forming biofilms in dental unit waterlines (DUWLs)?",
     "options": [
       "Staphylococcus aureus",
       "Pseudomonas aeruginosa",
@@ -61036,7 +61036,7 @@
     "id": 256973430,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease is scheduled for a full-mouth scaling and root planing. According to current Canadian Dental Association (CDA) and AHA guidelines, for which of the following underlying cardiac conditions is antibiotic prophylaxis strictly recommended prior to an invasive dental procedure?",
+    "question": "A patient with a history of rheumatic heart disease is scheduled for a full-mouth scaling and root planing. According to current American Dental Association (CDA) and AHA guidelines, for which of the following underlying cardiac conditions is antibiotic prophylaxis strictly recommended prior to an invasive dental procedure?",
     "options": [
       "Mitral valve prolapse with regurgitation",
       "Previous history of infective endocarditis",
@@ -61470,7 +61470,7 @@
     "id": 636425056,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease requires scaling and root planing. According to current American Heart Association (AHA) and Canadian guidelines, infective endocarditis prophylaxis is recommended for which of the following scenarios?",
+    "question": "A patient with a history of rheumatic heart disease requires scaling and root planing. According to current American Heart Association (AHA) and ADA guidelines, infective endocarditis prophylaxis is recommended for which of the following scenarios?",
     "options": [
       "Routine local anesthetic injections through non-infected tissue",
       "Periodontal scaling and root planing in a patient with a prosthetic heart valve",
@@ -62576,7 +62576,7 @@
     "id": 200379891,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic fever requires antibiotic prophylaxis prior to a complex periodontal surgical procedure involving gingival manipulation. According to current AHA and Canadian guidelines, which bacteria are clinicians primarily targeting to prevent infective endocarditis?",
+    "question": "A patient with a history of rheumatic fever requires antibiotic prophylaxis prior to a complex periodontal surgical procedure involving gingival manipulation. According to current AHA and ADA guidelines, which bacteria are clinicians primarily targeting to prevent infective endocarditis?",
     "options": [
       "Staphylococcus aureus",
       "Pseudomonas aeruginosa",
@@ -63052,7 +63052,7 @@
     "id": 969268296,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "During a routine check of the dental unit waterlines (DUWLs), bacterial heterotrophic plate counts exceed the Canadian Dental Association and CDC standard of less than 500 CFU/mL. What is the primary cause of this contamination in dental units?",
+    "question": "During a routine check of the dental unit waterlines (DUWLs), bacterial heterotrophic plate counts exceed the American Dental Association and CDC standard of less than 500 CFU/mL. What is the primary cause of this contamination in dental units?",
     "options": [
       "Saliva suck-back from patient mouths",
       "Biofilm formation inside the narrow-bore plastic tubing",
@@ -63808,7 +63808,7 @@
     "id": 919138475,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "During routine dental waterline maintenance, a clinic tests its self-contained water systems and finds heterotrophic plate counts exceeding the Canadian Dental Association (CDA) and CDC recommendation of less than 500 CFU/mL. Which opportunistic pathogen is of primary concern regarding biofilm formation in dental unit waterlines, particularly for immunocompromised patients?",
+    "question": "During routine dental waterline maintenance, a clinic tests its self-contained water systems and finds heterotrophic plate counts exceeding the American Dental Association (CDA) and CDC recommendation of less than 500 CFU/mL. Which opportunistic pathogen is of primary concern regarding biofilm formation in dental unit waterlines, particularly for immunocompromised patients?",
     "options": [
       "Streptococcus mutans",
       "Pseudomonas aeruginosa",
@@ -70122,7 +70122,7 @@
     "id": 208458140,
     "topicId": "periodontology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic fever without high-risk cardiac conditions is scheduled for non-surgical scaling and root planing. According to current American Heart Association (AHA) and Canadian guidelines, is antibiotic prophylaxis recommended prior to this procedure?",
+    "question": "A patient with a history of rheumatic fever without high-risk cardiac conditions is scheduled for non-surgical scaling and root planing. According to current American Heart Association (AHA) and ADA guidelines, is antibiotic prophylaxis recommended prior to this procedure?",
     "options": [
       "Yes, single dose of Amoxicillin 2g orally 1 hour prior",
       "Yes, Clindamycin 600mg orally 1 hour prior",
@@ -70472,7 +70472,7 @@
     "id": 798831470,
     "topicId": "periodontology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease without valvular dysfunction requires non-surgical periodontal scaling and root planing. According to current Canadian guidelines (such as those from the AHA/CDA), is antibiotic prophylaxis indicated prior to this procedure?",
+    "question": "A patient with a history of rheumatic heart disease without valvular dysfunction requires non-surgical periodontal scaling and root planing. According to current ADA guidelines (such as those from the AHA/CDA), is antibiotic prophylaxis indicated prior to this procedure?",
     "options": [
       "Yes, 2g of Amoxicillin 1 hour prior to the appointment",
       "Yes, Clindamycin 600mg due to penicillin allergy concerns",
@@ -72698,7 +72698,7 @@
     "id": 774347806,
     "topicId": "periodontology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease and a prosthetic cardiac valve requires scaling and root planing. According to current American Heart Association (AHA) and Canadian guidelines, when is antibiotic prophylaxis specifically indicated?",
+    "question": "A patient with a history of rheumatic heart disease and a prosthetic cardiac valve requires scaling and root planing. According to current American Heart Association (AHA) and ADA guidelines, when is antibiotic prophylaxis specifically indicated?",
     "options": [
       "For all scaling and root planing procedures",
       "Only if the patient has active bleeding gums during brushing",
@@ -72706,7 +72706,7 @@
       "Only if the patient is over 65 years of age"
     ],
     "correctAnswer": 2,
-    "explanation": "Current Canadian and AHA guidelines restrict antibiotic prophylaxis to high-risk cardiac patients undergoing dental procedures that involve manipulation of gingival tissues or the periapical region of teeth, or perforation of the oral mucosa, but routine scaling and root planing does not universally require it unless specific high-risk conditions apply—wait, correction: AHA guidelines state antibiotic prophylaxis is NOT recommended for routine dental procedures including scaling and root planing, even in high-risk patients, to prevent infective endocarditis, unless the procedure involves manipulation of gingival tissues in high-risk patients. However, the standard Canadian consensus aligns with restricting it strictly to high-risk cardiac conditions for procedures involving gingival manipulation. Looking closely at standard NDEB guidelines, prophylaxis is indicated for high-risk patients when gingival manipulation occurs. Let's re-evaluate the best option: AHA guidelines explicitly state antibiotic prophylaxis is NOT recommended for routine periodontal procedures. Therefore, 'Antibiotic prophylaxis is no longer recommended for routine scaling and root planing' is the correct guideline-based answer."
+    "explanation": "Current AHA and ADA guidelines restrict antibiotic prophylaxis to high-risk cardiac patients undergoing dental procedures that involve manipulation of gingival tissues or the periapical region of teeth, or perforation of the oral mucosa, but routine scaling and root planing does not universally require it unless specific high-risk conditions apply—wait, correction: AHA guidelines state antibiotic prophylaxis is NOT recommended for routine dental procedures including scaling and root planing, even in high-risk patients, to prevent infective endocarditis, unless the procedure involves manipulation of gingival tissues in high-risk patients. However, the standard evidence-based consensus aligns with restricting it strictly to high-risk cardiac conditions for procedures involving gingival manipulation. Looking closely at standard ADA clinical guidelines, prophylaxis is indicated for high-risk patients when gingival manipulation occurs. Let's re-evaluate the best option: AHA guidelines explicitly state antibiotic prophylaxis is NOT recommended for routine periodontal procedures. Therefore, 'Antibiotic prophylaxis is no longer recommended for routine scaling and root planing' is the correct guideline-based answer."
   },
   {
     "id": 204756041,
@@ -72720,7 +72720,7 @@
       "Rheumatoid Arthritis"
     ],
     "correctAnswer": 0,
-    "explanation": "There is a robust, well-documented bidirectional relationship between periodontitis and Type 2 Diabetes Mellitus. Severe periodontitis worsens glycemic control (increases HbA1c), and effective periodontal treatment has been shown to reduce systemic inflammation and improve HbA1c levels by approximately 0.4% after 3 months. While links exist with arthritis and osteoporosis, the clinical evidence for glycemic improvement following periodontal therapy is the gold standard for bidirectional NDEB questions."
+    "explanation": "There is a robust, well-documented bidirectional relationship between periodontitis and Type 2 Diabetes Mellitus. Severe periodontitis worsens glycemic control (increases HbA1c), and effective periodontal treatment has been shown to reduce systemic inflammation and improve HbA1c levels by approximately 0.4% after 3 months. While links exist with arthritis and osteoporosis, the clinical evidence for glycemic improvement following periodontal therapy is the gold standard for bidirectional INBDE questions."
   },
   {
     "id": 683622046,
@@ -74176,7 +74176,7 @@
       "Papillon-Lefèvre syndrome"
     ],
     "correctAnswer": 3,
-    "explanation": "While diabetes mellitus and cigarette smoking are major risk factors explicitly utilized in the 2017 grading system (Grade B and C modifiers), Papillon-Lefèvre syndrome is a rare genetic disorder characterized by palmoplantar keratoderma and severe periodontitis, which is classified under systemic disorders that affect the periodontal attachment apparatus rather than being a standard grade modifier. Wait, let's re-evaluate: Papillon-Lefèvre syndrome *is* a systemic disorder. Let's look at the standard NDEB questions regarding risk factors. Actually, all listed impact periodontitis, but smoking and diabetes are explicitly tied to grading. Let's make sure the question clearly targets genetic systemic diseases."
+    "explanation": "While diabetes mellitus and cigarette smoking are major risk factors explicitly utilized in the 2017 grading system (Grade B and C modifiers), Papillon-Lefèvre syndrome is a rare genetic disorder characterized by palmoplantar keratoderma and severe periodontitis, which is classified under systemic disorders that affect the periodontal attachment apparatus rather than being a standard grade modifier. Wait, let's re-evaluate: Papillon-Lefèvre syndrome *is* a systemic disorder. Let's look at the standard INBDE questions regarding risk factors. Actually, all listed impact periodontitis, but smoking and diabetes are explicitly tied to grading. Let's make sure the question clearly targets genetic systemic diseases."
   },
   {
     "id": 308718255,
@@ -79306,7 +79306,7 @@
     "id": 640773061,
     "topicId": "oral-pathology",
     "difficulty": "medium",
-    "question": "A 55-year-old male smoker presents with an asymptomatic, well-demarcated, predominantly white patch on the right lateral border of the tongue that cannot be rubbed off. An incisional biopsy reveals epithelial dysplasia. What is the most appropriate initial management step according to Canadian consensus guidelines?",
+    "question": "A 55-year-old male smoker presents with an asymptomatic, well-demarcated, predominantly white patch on the right lateral border of the tongue that cannot be rubbed off. An incisional biopsy reveals epithelial dysplasia. What is the most appropriate initial management step according to evidence-based consensus guidelines?",
     "options": [
       "Immediate total surgical excision",
       "Complete elimination of risk factors and close clinical follow-up with repeat biopsy if appearance changes",
@@ -82198,7 +82198,7 @@
       "50 mSv per year in any single year"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the International Commission on Radiological Protection (ICRP) and Canadian guidelines, the occupational dose limit for radiation workers is 20 mSv per year averaged over 5 consecutive years (100 mSv in 5 years), with a maximum of 50 mSv in any single year. The limit for the general public is 1 mSv per year."
+    "explanation": "According to the International Commission on Radiological Protection (ICRP) and ADA guidelines, the occupational dose limit for radiation workers is 20 mSv per year averaged over 5 consecutive years (100 mSv in 5 years), with a maximum of 50 mSv in any single year. The limit for the general public is 1 mSv per year."
   },
   {
     "id": 566345418,

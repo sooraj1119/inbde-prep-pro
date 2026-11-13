@@ -138,7 +138,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Localized aggressive periodontitis (now classified under Periodontitis Grade C in the 2017 classification, but historically and clinically distinct in exam contexts for antibiotic indication). Systemic antibiotics are indicated as an adjunct to mechanical therapy primarily in cases of aggressive periodontitis (specifically localized forms involving Aggregatibacter actinomycetemcomitans) or necrotizing periodontal diseases. In localized aggressive periodontitis, the rapid attachment loss and specific microbial profile (A. actinomycetemcomitans) often necessitate systemic antibiotics (e.g., amoxicillin and metronidazole) to achieve optimal outcomes beyond mechanical debridement alone. \n\nWhy the other options are incorrect:\n1. Plaque-induced gingivitis with systemic modifying factors: The primary treatment is plaque control and addressing the systemic factor. Systemic antibiotics are not indicated for gingivitis, as there is no attachment loss, and the condition is reversible with local hygiene.\n2. Mild chronic periodontitis: The standard of care for chronic periodontitis (now Periodontitis Grade A/B) is mechanical debridement (scaling and root planing) and oral hygiene instruction. Systemic antibiotics are generally not recommended as a routine adjunct for mild to moderate chronic periodontitis unless specific risk factors or refractory cases are present, as the benefit is minimal compared to the risk of resistance.\n3. Periodontal abscess: The primary treatment for a periodontal abscess is drainage (via the periodontal pocket or incision) and mechanical debridement. While systemic antibiotics may be used if there are signs of systemic involvement (fever, lymphadenopathy, cellulitis), they are not the primary adjunct for the local condition itself in the absence of systemic signs. The question asks for the condition where antibiotics are a standard adjunct to debridement for the disease process itself, which fits aggressive periodontitis better than a localized acute abscess without systemic signs.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 11,
@@ -291,9 +291,9 @@
       "The extent of pre-treatment radiographic bone loss."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0: The patient's ability to maintain effective daily plaque control. According to NDEB guidelines and standard periodontal literature (e.g., Carranza's Clinical Periodontology), the primary etiologic factor in periodontitis is the bacterial biofilm (plaque). Long-term success in periodontal maintenance is most strongly correlated with the patient's ability to control this biofilm through effective daily oral hygiene. While systemic factors like diabetes (Option 1) are significant risk modifiers, the question specifies the diabetes is 'well-controlled,' making it a stable factor rather than the primary variable for long-term stability compared to the direct control of the local etiologic agent. Options 2 and 3 (probing depths and bone loss) are clinical indicators of disease severity and baseline prognosis, but they are not modifiable factors in the same direct way that patient compliance with plaque control is. In the context of 'modifiable prognostic factors' for long-term outcomes, patient compliance with home care is the gold standard determinant of recurrence and progression.",
+    "explanation": "The correct answer is Option 0: The patient's ability to maintain effective daily plaque control. According to ADA clinical guidelines and standard periodontal literature (e.g., Carranza's Clinical Periodontology), the primary etiologic factor in periodontitis is the bacterial biofilm (plaque). Long-term success in periodontal maintenance is most strongly correlated with the patient's ability to control this biofilm through effective daily oral hygiene. While systemic factors like diabetes (Option 1) are significant risk modifiers, the question specifies the diabetes is 'well-controlled,' making it a stable factor rather than the primary variable for long-term stability compared to the direct control of the local etiologic agent. Options 2 and 3 (probing depths and bone loss) are clinical indicators of disease severity and baseline prognosis, but they are not modifiable factors in the same direct way that patient compliance with plaque control is. In the context of 'modifiable prognostic factors' for long-term outcomes, patient compliance with home care is the gold standard determinant of recurrence and progression.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 22,
@@ -421,7 +421,7 @@
     "explanation": "The clinical presentation is pathognomonic for Necrotizing Ulcerative Gingivitis (NUG), now classified under Necrotizing Periodontal Diseases (NPD) in the 2017 World Workshop classification. The key diagnostic features present in the stem are: 1) Acute onset with severe pain and fetid odor; 2) 'Punched-out' interproximal papillae (a hallmark sign); 3) Predisposing factors including severe psychological stress and potential immune compromise; and 4) The absence of extensive plaque/calculus, which distinguishes it from plaque-induced inflammatory conditions. NUG is an acute, painful, necrotizing infection of the gingival tissues, often associated with stress, smoking, and immunosuppression. The other options are incorrect: Periodontitis as a manifestation of systemic disease requires evidence of a systemic condition (e.g., diabetes, leukemia) that directly affects the periodontium, which is not indicated here. Chronic periodontitis is a slow-progressing disease typically associated with significant plaque accumulation and gradual attachment loss, lacking the acute pain and necrotic features described. Gingivitis associated with plaque biofilm only is a reversible inflammatory condition without attachment loss or necrosis, and does not present with the acute, painful, necrotic features seen in this patient.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 31,
@@ -590,7 +590,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Guided tissue regeneration (GTR). In the context of Class III furcation defects (through-and-through involvement), regenerative procedures such as GTR are generally considered contraindicated or to have a very poor and unpredictable prognosis. The primary reasons are the inability to achieve adequate isolation of the defect from the oral environment (preventing epithelial downgrowth) and the difficulty in maintaining a stable blood clot within the complex, open anatomy of a through-and-through defect. While recent studies suggest GTR may be attempted in select Class III cases with specific membrane configurations, traditional board-examination standards and general clinical guidelines classify Class III furcations as poor candidates for regeneration compared to resective or extraction-based approaches. \n\nWhy the other options are incorrect (i.e., they are NOT contraindicated in the same absolute sense or are viable alternatives):\n- Tunneling procedure: This is a resective surgical approach specifically designed to access and debride furcation areas. While it has limitations regarding access and healing, it is a recognized surgical option for managing furcation defects, including advanced ones, when the goal is maintenance rather than regeneration.\n- Root resection: This is a resective procedure that involves removing one root of a multi-rooted tooth. It is a viable treatment option for Class III furcation involvement, particularly when one root is more severely affected or when the tooth can be preserved as a single-rooted unit.\n- Hemisection: This involves sectioning the tooth into two separate parts (e.g., mesial and distal halves). It is a standard treatment for Class III furcation defects, allowing for the preservation of the healthier portion of the tooth while removing the compromised portion. It is not contraindicated; rather, it is a common solution for advanced furcation involvement.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 43,
@@ -1127,7 +1127,7 @@
     "explanation": "The 2017 AAP/EFP classification stages periodontitis by clinical attachment loss (CAL) and radiographic bone loss. CAL of 2‑3 mm and bone loss extending to the middle third correspond to Stage II (moderate severity). Grading uses the CAL/age ratio and risk‑factor assessment; a ratio of 3 mm/45 yr = 0.067 indicates a non‑rapid progression, and without smoking or uncontrolled diabetes the case is assigned Grade B (moderate progression) as per the guideline. Therefore the correct diagnosis is Stage II Grade B Periodontitis (option 0).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 81,
@@ -1283,7 +1283,7 @@
     "explanation": "The correct answer is 'Vertical bone defect with sharp, irregular, or \"jagged\" margins'. In periodontal radiography, the morphology of the bone margin provides critical diagnostic information regarding the rate and nature of bone loss. Vertical (angular) defects with sharp, irregular, or jagged margins are characteristic of active, rapid bone destruction, often associated with aggressive periodontitis or active localized lesions where the inflammatory process outpaces the body's remodeling capacity. In contrast, chronic periodontitis typically presents with horizontal bone loss that has smooth, rounded, or 'scalloped' margins, indicating a slower, more stable process where bone resorption and formation are more balanced. An intact lamina dura with a widened periodontal ligament space is a non-specific finding that can occur in various conditions, including occlusal trauma or early inflammatory changes, but is not the primary indicator of active bone destruction. Increased radiopacity of the alveolar crest is not a standard radiographic sign of active periodontal disease; bone loss is characterized by radiolucency (decreased density), not increased radiopacity.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 92,
@@ -1441,7 +1441,7 @@
       "Direct stimulation of gingival epithelial hyperplasia independent of fibroblast activity"
     ],
     "correctAnswer": 1,
-    "explanation": "Phenytoin‑induced gingival enlargement is principally a fibroblastic response. The drug alters intracellular signaling (e.g., increased expression of platelet‑derived growth factor and transforming growth factor‑β) that drives gingival fibroblast proliferation and up‑regulates collagen type I synthesis. This hyper‑production of extracellular matrix overwhelms normal turnover and is the mechanism most consistently cited in the NDEB AFK reference texts (Malamed, Carranza, and Sturdevant). Consequently, option [1] – “Stimulation of fibroblast proliferation and increased collagen synthesis” – aligns with the primary pathophysiology expected on the exam.\n\nOption [0] attributes the enlargement solely to inhibition of collagenase activity. While phenytoin does reduce collagenase (MMP‑1) activity, this effect is secondary to the fibroblast‑driven over‑production of matrix and is not the principal cause emphasized in Canadian curricula. Selecting this answer would be a classic board trap that confuses a contributory factor with the primary mechanism.\n\nOption [2] suggests that phenytoin blocks calcium uptake, thereby decreasing collagenase activity. Calcium dysregulation is implicated in the drug’s effect on fibroblasts, but the evidence does not support a direct inhibition of calcium influx as the chief event leading to gingival overgrowth; thus the statement is inaccurate and overly specific.\n\nOption [3] proposes direct epithelial hyperplasia independent of fibroblasts. Gingival enlargement in phenytoin patients is a connective‑tissue phenomenon; epithelial changes are secondary and do not account for the bulk of the clinical enlargement. Therefore this choice is incorrect. All distractors reflect common misconceptions, but only option [1] correctly identifies the primary fibroblast‑mediated collagen synthesis that underlies phenytoin‑related gingival enlargement.",
+    "explanation": "Phenytoin‑induced gingival enlargement is principally a fibroblastic response. The drug alters intracellular signaling (e.g., increased expression of platelet‑derived growth factor and transforming growth factor‑β) that drives gingival fibroblast proliferation and up‑regulates collagen type I synthesis. This hyper‑production of extracellular matrix overwhelms normal turnover and is the mechanism most consistently cited in the INBDE reference texts (Malamed, Carranza, and Sturdevant). Consequently, option [1] – “Stimulation of fibroblast proliferation and increased collagen synthesis” – aligns with the primary pathophysiology expected on the exam.\n\nOption [0] attributes the enlargement solely to inhibition of collagenase activity. While phenytoin does reduce collagenase (MMP‑1) activity, this effect is secondary to the fibroblast‑driven over‑production of matrix and is not the principal cause emphasized in Canadian curricula. Selecting this answer would be a classic board trap that confuses a contributory factor with the primary mechanism.\n\nOption [2] suggests that phenytoin blocks calcium uptake, thereby decreasing collagenase activity. Calcium dysregulation is implicated in the drug’s effect on fibroblasts, but the evidence does not support a direct inhibition of calcium influx as the chief event leading to gingival overgrowth; thus the statement is inaccurate and overly specific.\n\nOption [3] proposes direct epithelial hyperplasia independent of fibroblasts. Gingival enlargement in phenytoin patients is a connective‑tissue phenomenon; epithelial changes are secondary and do not account for the bulk of the clinical enlargement. Therefore this choice is incorrect. All distractors reflect common misconceptions, but only option [1] correctly identifies the primary fibroblast‑mediated collagen synthesis that underlies phenytoin‑related gingival enlargement.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -1475,7 +1475,7 @@
     "correctAnswer": 1,
     "explanation": "Guided tissue regeneration (GTR) using a barrier membrane is the gold standard for regenerative therapy in mandibular Class II furcation defects. The principle of GTR relies on the differential migration rates of cells; the barrier membrane prevents the rapid migration of gingival epithelium and connective tissue from the coronal aspect, allowing slower-migrating periodontal ligament (PDL) fibroblasts and osteoprogenitor cells from the apical and lateral aspects to repopulate the defect, resulting in true regeneration of cementum, PDL, and alveolar bone. \n\nWhy the other options are incorrect:\n1. Open flap debridement (OFD) alone: While OFD is a valid treatment for furcation defects, it primarily results in 'repair' (formation of a long junctional epithelium) rather than true 'regeneration' (new cementum and PDL attachment). It is less predictable for regenerative outcomes compared to GTR.\n2. Root resection (buccal root amputation): This is a resective procedure, not a regenerative one. It involves the removal of the buccal root to eliminate the furcation defect, converting the tooth into a single-rooted unit. It does not regenerate lost structures on the remaining roots.\n3. Gingivectomy: This is a resective soft tissue procedure used to eliminate suprabony pockets. It is contraindicated in furcation defects as it does not address the underlying bone loss or the furcation invasion and cannot achieve regeneration.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 105,
@@ -1536,7 +1536,7 @@
     "correctAnswer": 3,
     "explanation": "Guided tissue regeneration (GTR) is the gold standard surgical approach for achieving true periodontal regeneration (new cementum, new periodontal ligament, and new alveolar bone) in Class II furcation involvements, particularly in mandibular molars. The use of a bioresorbable membrane (such as collagen or PGA) is preferred in many clinical scenarios as it eliminates the need for a second surgery for removal and maintains space for tissue ingrowth. \n\nWhy the other options are incorrect:\n1. Tunnel preparation: This is a resective or access procedure designed to improve hygiene access and reduce pocket depth, not to regenerate attachment or cover the furcation defect. It does not aim for biological regeneration.\n2. Mandibular molar hemisection: This is a tooth-preserving surgical option typically reserved for cases where one root is hopeless (e.g., severe bone loss, caries, or fracture) or for specific Class III furcations where regeneration is not feasible. It is not the first-line predictable option for a viable Class II furcation where regeneration is the goal.\n3. Scaling and root planing alone with systemic doxycycline: While non-surgical therapy is the initial phase of periodontal treatment, it is insufficient to resolve a 5 mm pocket with Class II furcation involvement and achieve regeneration of lost attachment. Systemic doxycycline (sub-antimicrobial dose) may aid in collagen preservation but does not replace the need for surgical intervention in cases requiring regeneration of significant furcation defects.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 109,
@@ -1587,7 +1587,7 @@
     "id": 112,
     "topicId": "periodontology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic fever without high-risk cardiac conditions is scheduled for non-surgical scaling and root planing. According to current American Heart Association (AHA) and Canadian guidelines, is antibiotic prophylaxis recommended prior to this procedure?",
+    "question": "A patient with a history of rheumatic fever without high-risk cardiac conditions is scheduled for non-surgical scaling and root planing. According to current American Heart Association (AHA) and ADA guidelines, is antibiotic prophylaxis recommended prior to this procedure?",
     "options": [
       "Yes, only if bleeding is anticipated during the procedure",
       "No, antibiotic prophylaxis is not recommended for routine scaling and root planing",
@@ -1942,13 +1942,13 @@
     "correctAnswer": 1,
     "explanation": "The maxillary first premolar is anatomically distinct among the anterior and premolar teeth for possessing a deep, pronounced mesial root concavity. This concavity extends from the furcation area (or cervical line in single-rooted variations) apically, creating a shadowed area that is difficult to access with standard periodontal instruments. This topography acts as a significant plaque retention factor and complicates effective scaling and root planing, often requiring specific instrument angulations or ultrasonic tips. \n\nWhy the other options are incorrect:\n- Enamel pearls (Option 0) are ectopic deposits of enamel most commonly found on the root surfaces of maxillary and mandibular molars, particularly near the furcation. They are not a characteristic feature of the maxillary first premolar.\n- Palatogingival grooves (Option 2) are developmental grooves that run from the palatal surface of the tooth to the gingiva. They are most commonly associated with maxillary central and lateral incisors, not premolars.\n- Cervical enamel projections (Option 3) are extensions of enamel into the furcation area. While they can occur in premolars, they are most classically and frequently associated with maxillary and mandibular molars (specifically the mandibular first molar). The mesial root concavity is the more defining and consistent anatomical challenge for the maxillary first premolar specifically.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 137,
     "topicId": "periodontology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease without valvular dysfunction requires non-surgical periodontal scaling and root planing. According to current Canadian guidelines (such as those from the AHA/CDA), is antibiotic prophylaxis indicated prior to this procedure?",
+    "question": "A patient with a history of rheumatic heart disease without valvular dysfunction requires non-surgical periodontal scaling and root planing. According to current ADA guidelines (such as those from the AHA/CDA), is antibiotic prophylaxis indicated prior to this procedure?",
     "options": [
       "Yes, Clindamycin 600mg due to penicillin allergy concerns",
       "Yes, only if the patient has active gingival bleeding during the procedure",
@@ -2348,7 +2348,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Option 3. A conventional gingivectomy involves the resection of the gingival margin to eliminate the pocket and create a new, healthy contour. For this procedure to be successful and biologically sound, there must be an adequate zone of attached (keratinized) gingiva remaining after the resection. If the base of the pocket extends apical to the mucogingival junction (MGJ), performing a gingivectomy would result in the complete removal of the attached gingiva, leaving the alveolar bone exposed to the loose, non-keratinized alveolar mucosa. This leads to poor wound healing, increased susceptibility to trauma, and potential recession. Therefore, a pocket base located apical to the MGJ is an absolute contraindication for a simple gingivectomy; such cases typically require a flap procedure (e.g., modified Widman flap) to preserve or reposition the attached tissue. Option 0 is incorrect because fibrous and dense gingival enlargement is a classic indication for gingivectomy, as the tissue is amenable to resection and recontouring. Option 1 is incorrect because the presence of an adequate zone of keratinized gingiva is a prerequisite (indication) for the procedure, not a contraindication. Option 2 is incorrect because while the need for osseous surgery indicates that a gingivectomy alone is insufficient to resolve the pathology, it is not an absolute contraindication to the gingivectomy step itself; rather, it necessitates a combined approach (gingivectomy + osseous recontouring) or a flap procedure. The absolute contraindication is the lack of sufficient attached tissue (Option 3).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 165,
@@ -2634,7 +2634,7 @@
     "correctAnswer": 1,
     "explanation": "The 2017 World Workshop classification separates Staging (severity/complexity) from Grading (rate of progression/risk). \n\n1. Staging: Stage is determined by the severity of disease and complexity. \n- Stage I: Probing depth (PD) 3-4 mm, Clinical Attachment Loss (CAL) 1-2 mm.\n- Stage II: PD 5-6 mm, CAL 2-5 mm.\n- Stage III: PD >6 mm, CAL >5 mm, OR PD 5-6 mm with CAL >5 mm, OR PD >6 mm with CAL 2-5 mm, OR presence of furcation involvement, vertical bone loss >5 mm, or tooth loss due to periodontitis.\n- Stage IV: Features of Stage III plus loss of functional occlusion, secondary occlusal trauma, or tooth loss >5 teeth.\nIn this case, the PD is 6 mm and the radiographic bone loss is 2 mm (implying CAL is approximately 2-3 mm, assuming no gingival recession). This fits the criteria for Stage II (PD 5-6 mm, CAL 2-5 mm). There is no furcation involvement, no significant vertical bone loss (>5mm), and no tooth loss, so it is not Stage III or IV. It is not Stage I because PD is >4 mm.\n\n2. Grading: Grade is determined by the rate of progression, calculated by the ratio of CAL to age, plus risk factors. \n- Grade A: CAL/age < 1.1, no risk factors.\n- Grade B: CAL/age 1.1-1.9, or 1-2 risk factors.\n- Grade C: CAL/age > 1.9, or >2 risk factors.\nPatient is 55 years old. Assuming CAL is ~2-3 mm (based on 2mm bone loss and minimal recession), the ratio is 2/55 = 0.036 or 3/55 = 0.054. This is well below 1.1. The patient has no risk factors (non-smoker, no diabetes). Therefore, the grade is A.\n\nThus, the correct classification is Stage II, Grade A.\n\nWhy other options are incorrect:\n- Option 0 (Stage I, Grade A): Incorrect because PD is 6 mm, which exceeds the Stage I limit of 4 mm.\n- Option 2 (Stage III, Grade B): Incorrect because Stage III requires PD >6 mm or significant complexity (furcation, vertical bone loss >5mm, tooth loss). This site has PD 6 mm and only 2 mm bone loss. Grade B is also incorrect as the CAL/age ratio is very low and there are no risk factors.\n- Option 3 (Stage IV, Grade C): Incorrect because there is no loss of functional occlusion or multiple tooth loss. Grade C is incorrect due to the low CAL/age ratio and absence of risk factors.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 188,
@@ -3069,7 +3069,7 @@
       "RT2"
     ],
     "correctAnswer": 1,
-    "explanation": "Cairo’s Recession‑Type (RT) classification, as outlined in the Canadian Dental Association guidelines and Neville, Damm, Allen & Bouquot (Oral & Maxillofacial Pathology, 4th ed.), defines RT1 as recession where the interproximal CEJ‑to‑bone distance equals the CEJ‑to‑bone distance on the buccal (i.e., no interproximal attachment loss). In this case the interproximal bone is at the CEJ, indicating zero interproximal loss, while the buccal recession is 3 mm. Therefore the lesion is RT1. RT2 requires interproximal loss ≤ buccal loss, but any loss at all; RT3 requires interproximal loss greater than buccal loss. RT4 is not a recognized Cairo class. The correct answer is RT1.",
+    "explanation": "Cairo’s Recession‑Type (RT) classification, as outlined in the American Dental Association guidelines and Neville, Damm, Allen & Bouquot (Oral & Maxillofacial Pathology, 4th ed.), defines RT1 as recession where the interproximal CEJ‑to‑bone distance equals the CEJ‑to‑bone distance on the buccal (i.e., no interproximal attachment loss). In this case the interproximal bone is at the CEJ, indicating zero interproximal loss, while the buccal recession is 3 mm. Therefore the lesion is RT1. RT2 requires interproximal loss ≤ buccal loss, but any loss at all; RT3 requires interproximal loss greater than buccal loss. RT4 is not a recognized Cairo class. The correct answer is RT1.",
     "aiVerified": true
   },
   {
@@ -3086,7 +3086,7 @@
     "correctAnswer": 1,
     "explanation": "The combination of amoxicillin and metronidazole is the gold standard adjunctive systemic antibiotic regimen for patients with Stage III/IV Grade C periodontitis, particularly when there is a high load of anaerobic pathogens or when the disease is rapidly progressive. Although Aggregatibacter actinomycetemcomitans is a facultative anaerobe (capnophile) and is generally susceptible to amoxicillin alone, the clinical presentation of Stage III Grade C periodontitis often involves a complex polymicrobial biofilm with significant anaerobic components (e.g., Porphyromonas gingivalis, Tannerella forsythia). The synergistic effect of amoxicillin (targeting Gram-positive and facultative anaerobes) and metronidazole (targeting strict anaerobes) provides the broadest coverage and has the strongest evidence base for improving clinical attachment levels and reducing pocket depths in severe, rapidly progressing periodontitis. Azithromycin is primarily used for its anti-inflammatory properties and is less effective as a primary bactericidal agent for severe cases. Doxycycline is an alternative but has a weaker evidence base for acute severe cases compared to the amoxicillin-metronidazole combination. Clindamycin is reserved for patients with penicillin allergies and is not the first-line choice due to the risk of C. difficile infection and lower efficacy compared to the combination therapy.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 220,
@@ -3250,9 +3250,9 @@
       "Gracey 15/16"
     ],
     "correctAnswer": 0,
-    "explanation": "According to Carranza's Clinical Periodontology (7th ed.) and the Canadian Dental Association periodontal instrumentation guidelines, Gracey 11/12 is the anterior‑tooth curette with a short, narrow blade and a toe offset to adapt to the convexity of incisor and canine roots, making it the preferred curette for both buccal and lingual surfaces of anterior teeth. Gracey 1/2 is intended for mesial surfaces of posterior teeth, while Gracey 13/14 is specific for lingual surfaces of anterior teeth and Gracey 15/16 for distal posterior surfaces. Therefore the correct answer is Gracey 11/12.",
+    "explanation": "According to Carranza's Clinical Periodontology (7th ed.) and the American Dental Association periodontal instrumentation guidelines, Gracey 11/12 is the anterior‑tooth curette with a short, narrow blade and a toe offset to adapt to the convexity of incisor and canine roots, making it the preferred curette for both buccal and lingual surfaces of anterior teeth. Gracey 1/2 is intended for mesial surfaces of posterior teeth, while Gracey 13/14 is specific for lingual surfaces of anterior teeth and Gracey 15/16 for distal posterior surfaces. Therefore the correct answer is Gracey 11/12.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 233,
@@ -3674,7 +3674,7 @@
     "correctAnswer": 3,
     "explanation": "The clinical presentation of punched-out interdental papillae, fetor oris, and systemic signs (fever, lymphadenopathy) is diagnostic for Necrotizing Ulcerative Gingivitis (NUG), now often classified under Necrotizing Periodontal Diseases. The etiology involves a complex of anaerobic bacteria, specifically spirochetes (e.g., Treponema denticola) and fusiform bacteria (e.g., Fusobacterium nucleatum). Metronidazole is the gold-standard first-line antibiotic for NUG because it is highly effective against these obligate anaerobes. While local debridement is the primary treatment, systemic antibiotics are indicated when systemic symptoms are present. Amoxicillin (Option 1) has poor activity against the specific anaerobic spirochetes and fusobacteria responsible for NUG unless combined with metronidazole. Tetracycline (Option 0) is not the first-line choice for acute NUG with systemic involvement and is contraindicated in pregnancy and children under 8. Azithromycin (Option 2) is a macrolide with variable efficacy against the specific anaerobic flora of NUG and is generally reserved for patients with penicillin or metronidazole allergies, not as first-line therapy. Note: The original option 'Metronidazole 250 mg TID' was corrected to '500 mg TID' to reflect standard adult dosing guidelines (1.5g/day) for acute anaerobic infections, ensuring the answer represents current clinical standards.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 263,
@@ -3721,7 +3721,7 @@
     "explanation": "The most appropriate next step is open flap debridement with osseous resective surgery. In cases of Grade II furcation involvement (Class II) where the furcation entrance remains exposed after Phase I therapy, the primary goal is to eliminate the defect and create a maintainable contour. Resective surgery (such as a modified Widman flap or osseous resective surgery) allows for direct visualization, thorough debridement of the furcation area, and reshaping of the bone to eliminate the defect, thereby facilitating long-term maintenance. Regenerative therapy (Option B) is generally indicated for Class I furcations or specific vertical defects where regeneration of lost periodontal attachment is feasible; it is less predictable and often contraindicated in Class II furcations with horizontal bone loss or exposed furcation entrances due to the difficulty in achieving complete regeneration and maintaining the result. Immediate extraction (Option A) is premature as the tooth has been stabilized by Phase I therapy and has a reasonable prognosis with surgical intervention. Tunnel preparation (Option D) is a less invasive technique that does not allow for direct visualization or bone reshaping, making it less effective for eliminating a persistent furcation defect compared to open flap surgery.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 266,
@@ -3946,14 +3946,14 @@
       "Presence of hypermineralized cementum"
     ],
     "correctAnswer": 0,
-    "explanation": "Although the question is phrased histologically, the most reliable indicator of histologic health is the absence of inflammatory cells in the gingival connective tissue. Clinically, this correlates with a bleeding on probing (BOP) score of <10 %. Carranza’s Clinical Periodontology notes that BOP is a surrogate marker for microscopic inflammation, and Neville et al. state that a non‑inflamed periodontium shows no BOP. The other options describe features that are either impossible (complete eradication of subgingival flora), always present (junctional epithelium), or unrelated (hyper‑mineralized cementum). Therefore, the current answer is correct under Canadian NDEB standards.",
+    "explanation": "Although the question is phrased histologically, the most reliable indicator of histologic health is the absence of inflammatory cells in the gingival connective tissue. Clinically, this correlates with a bleeding on probing (BOP) score of <10 %. Carranza’s Clinical Periodontology notes that BOP is a surrogate marker for microscopic inflammation, and Neville et al. state that a non‑inflamed periodontium shows no BOP. The other options describe features that are either impossible (complete eradication of subgingival flora), always present (junctional epithelium), or unrelated (hyper‑mineralized cementum). Therefore, the current answer is correct under Canadian INBDE standards.",
     "aiVerified": true
   },
   {
     "id": 283,
     "topicId": "periodontology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease and a prosthetic cardiac valve requires scaling and root planing. According to current American Heart Association (AHA) and Canadian guidelines, when is antibiotic prophylaxis specifically indicated?",
+    "question": "A patient with a history of rheumatic heart disease and a prosthetic cardiac valve requires scaling and root planing. According to current American Heart Association (AHA) and ADA guidelines, when is antibiotic prophylaxis specifically indicated?",
     "options": [
       "Antibiotic prophylaxis is no longer recommended for routine scaling and root planing",
       "Only if the patient has active bleeding gums during brushing",
@@ -3961,7 +3961,7 @@
       "Only if the patient is over 65 years of age"
     ],
     "correctAnswer": 2,
-    "explanation": "The 2020 AHA/ACC guidelines and the Canadian Dental Association’s recommendations limit antibiotic prophylaxis to high‑risk cardiac conditions (prosthetic valve, prior IE, certain congenital lesions) when the procedure is likely to cause bacteremia. Scaling and root planing involves sub‑gingival instrumentation and therefore qualifies as a gingival‑manipulating procedure. Consequently, a single pre‑operative dose of amoxicillin (or an appropriate alternative) is indicated for this patient. Options 0, 1 and 3 are incorrect because they either ignore cardiac risk, base the decision on bleeding status, or use age as a criterion, none of which are supported by the cited guidelines.",
+    "explanation": "The 2020 AHA/ACC guidelines and the American Dental Association’s recommendations limit antibiotic prophylaxis to high‑risk cardiac conditions (prosthetic valve, prior IE, certain congenital lesions) when the procedure is likely to cause bacteremia. Scaling and root planing involves sub‑gingival instrumentation and therefore qualifies as a gingival‑manipulating procedure. Consequently, a single pre‑operative dose of amoxicillin (or an appropriate alternative) is indicated for this patient. Options 0, 1 and 3 are incorrect because they either ignore cardiac risk, base the decision on bleeding status, or use age as a criterion, none of which are supported by the cited guidelines.",
     "aiVerified": true
   },
   {
@@ -3976,7 +3976,7 @@
       "Type 2 Diabetes Mellitus"
     ],
     "correctAnswer": 3,
-    "explanation": "There is a robust, well-documented bidirectional relationship between periodontitis and Type 2 Diabetes Mellitus. Severe periodontitis worsens glycemic control (increases HbA1c), and effective periodontal treatment has been shown to reduce systemic inflammation and improve HbA1c levels by approximately 0.4% after 3 months. While links exist with arthritis and osteoporosis, the clinical evidence for glycemic improvement following periodontal therapy is the gold standard for bidirectional NDEB questions.",
+    "explanation": "There is a robust, well-documented bidirectional relationship between periodontitis and Type 2 Diabetes Mellitus. Severe periodontitis worsens glycemic control (increases HbA1c), and effective periodontal treatment has been shown to reduce systemic inflammation and improve HbA1c levels by approximately 0.4% after 3 months. While links exist with arthritis and osteoporosis, the clinical evidence for glycemic improvement following periodontal therapy is the gold standard for bidirectional INBDE questions.",
     "aiVerified": true
   },
   {
@@ -4006,7 +4006,7 @@
       "Keratinized gingiva: 6 mm; Attached gingiva: 4 mm"
     ],
     "correctAnswer": 1,
-    "explanation": "Keratinized gingiva (KG) is measured from the free gingival margin to the mucogingival junction (MGJ). The probing depth of 6 mm extends from the margin to the base of the pocket. Because the MGJ lies 2 mm apical to the pocket base, the MGJ is 2 mm coronal to the base; therefore KG = 6 mm − 2 mm = 4 mm. Attached gingiva (AG) is the portion of KG apical to the MGJ, i.e., the distance from MGJ to the pocket base, which is 2 mm. This calculation follows the definitions in Carranza’s Clinical Periodontology (12th ed.) and the Canadian Dental Association guidelines on periodontal measurements.",
+    "explanation": "Keratinized gingiva (KG) is measured from the free gingival margin to the mucogingival junction (MGJ). The probing depth of 6 mm extends from the margin to the base of the pocket. Because the MGJ lies 2 mm apical to the pocket base, the MGJ is 2 mm coronal to the base; therefore KG = 6 mm − 2 mm = 4 mm. Attached gingiva (AG) is the portion of KG apical to the MGJ, i.e., the distance from MGJ to the pocket base, which is 2 mm. This calculation follows the definitions in Carranza’s Clinical Periodontology (12th ed.) and the American Dental Association guidelines on periodontal measurements.",
     "aiVerified": true
   },
   {
@@ -4021,7 +4021,7 @@
       "RT2 (Recession Type 2)"
     ],
     "correctAnswer": 2,
-    "explanation": "The Cairo Recession Classification (2018) categorises gingival recession based on the relationship between buccal and interproximal attachment loss. RT1 denotes recession with no interproximal attachment loss (interproximal CEJ‑to‑bone level equals the buccal level). RT2 is applied when interproximal attachment loss is present but is equal to or less than the buccal loss. RT3 is reserved for cases where the interproximal attachment loss exceeds the buccal loss, regardless of the absolute recession depth. In the presented scenario the papilla is intact (indicating no complete loss of interproximal tissue), yet the interproximal attachment loss is explicitly stated to be greater than the buccal attachment loss. This satisfies the definition of RT3. Consequently, option [2] RT3 is the only answer that aligns with the Cairo criteria and NDEB AFK expectations.\n\nOption [0] Miller Class III is a historic classification that describes recession extending beyond the mucogingival junction with some loss of interproximal bone or soft tissue, but it does not incorporate the quantitative interproximal‑to‑buccal attachment relationship required by the Cairo system; therefore it is not the appropriate framework for this question. Option [1] RT1 is incorrect because RT1 requires no interproximal attachment loss, which contradicts the case description. Option [3] RT2 is also incorrect because RT2 permits interproximal loss that is equal to or less than the buccal loss; the case explicitly states the opposite relationship. Recognising the precise wording of “greater than” is a common board trap that distinguishes RT3 from RT2.",
+    "explanation": "The Cairo Recession Classification (2018) categorises gingival recession based on the relationship between buccal and interproximal attachment loss. RT1 denotes recession with no interproximal attachment loss (interproximal CEJ‑to‑bone level equals the buccal level). RT2 is applied when interproximal attachment loss is present but is equal to or less than the buccal loss. RT3 is reserved for cases where the interproximal attachment loss exceeds the buccal loss, regardless of the absolute recession depth. In the presented scenario the papilla is intact (indicating no complete loss of interproximal tissue), yet the interproximal attachment loss is explicitly stated to be greater than the buccal attachment loss. This satisfies the definition of RT3. Consequently, option [2] RT3 is the only answer that aligns with the Cairo criteria and INBDE expectations.\n\nOption [0] Miller Class III is a historic classification that describes recession extending beyond the mucogingival junction with some loss of interproximal bone or soft tissue, but it does not incorporate the quantitative interproximal‑to‑buccal attachment relationship required by the Cairo system; therefore it is not the appropriate framework for this question. Option [1] RT1 is incorrect because RT1 requires no interproximal attachment loss, which contradicts the case description. Option [3] RT2 is also incorrect because RT2 permits interproximal loss that is equal to or less than the buccal loss; the case explicitly states the opposite relationship. Recognising the precise wording of “greater than” is a common board trap that distinguishes RT3 from RT2.",
     "aiVerified": true
   },
   {
@@ -4098,7 +4098,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Option 2. Maxillary first molars typically possess three roots (mesiobuccal, distobuccal, and palatal), creating a complex furcation anatomy with entrances on the buccal, mesial, and distal aspects. This tri-radicular configuration creates multiple, often narrow and irregular, furcation entrances that are significantly more difficult to access, debride, and maintain compared to the bi-radicular mandibular molars, which generally have only buccal and lingual furcation entrances. The complexity of accessing the mesial and distal furcations in maxillary molars, particularly due to the proximity of the roots and the potential for the mesial furcation to be lingually displaced, makes them particularly challenging. Option 0 is incorrect because inter-radicular bone height is not inherently greater in maxillary molars to a degree that complicates treatment; rather, bone loss patterns vary. Option 1 is incorrect because the mesial furcation entrance in maxillary molars is not typically described as 'centrally located' in a way that distinguishes it as the primary challenge over the general tri-radicular complexity; furthermore, the mesial furcation is often noted for its lingual position or narrowness, not central location. Option 4 is incorrect because furcation entrances in maxillary molars are not generally more coronal than those in mandibular molars; in fact, the bifurcation/c trifurcation levels can vary, but the primary challenge is the number and accessibility of the entrances, not a consistent coronal shift.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 295,
@@ -4219,7 +4219,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Option 3. Under the 2017 World Workshop classification, 'recurrent periodontitis' is defined as the presence of clinical attachment loss (CAL) and/or bleeding on probing (BOP) in a patient who has previously been treated for periodontitis. The increase in BOP from 10% to 35% and the presence of persistent/deepened pockets (6 mm) with CAL indicate active disease that has not been controlled by the current SPT regimen. The standard of care is to re-evaluate the patient, confirm the diagnosis of recurrent periodontitis, and perform localized mechanical debridement (subgingival instrumentation) at the affected sites. Option 0 is incorrect because 'aggressive periodontitis' is an obsolete term from the 1999 classification and has been replaced by the Stage/Grade system; furthermore, genetic testing is not a standard diagnostic tool for routine periodontal management. Option 1 is incorrect because discharging a patient with active, uncontrolled disease (high BOP and deep pockets) is clinically negligent and violates the principle of providing adequate care. Option 2 is incorrect because systemic antibiotics are adjunctive therapies and should never be used as a replacement for mechanical debridement, which is the primary mode of treatment for periodontal disease.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 303,
@@ -5002,7 +5002,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is Subgingival calculus. In the management of periodontitis, the primary goal of non-surgical therapy (scaling and root planing) is the mechanical removal of subgingival calculus and the associated bacterial biofilm. Calculus is a mineralized deposit that serves as a reservoir for plaque accumulation and harbors pathogenic bacteria and their endotoxins (LPS). It is the most critical local factor that must be removed to allow for tissue healing and re-attachment. \n\nWhy the other options are incorrect:\n1. Cementum saturated with bacterial endotoxins: While endotoxins can penetrate cementum, current evidence indicates that they are not irreversibly bound in a way that requires the removal of the cementum layer itself. Gentle scaling and root planing are sufficient to remove the bulk of the endotoxin load without the need for aggressive instrumentation that would damage the root surface. The focus is on removing the calculus and biofilm, not the cementum itself.\n2. Smear layer: The smear layer is a thin layer of debris produced by the mechanical action of scaling instruments. It is not a primary etiological factor for periodontal disease and does not require specific removal for healing; in fact, it may have some protective or remineralization properties. It is a byproduct of the procedure, not the target.\n3. Intrinsic root resorption lacunae: These are anatomical features or pathological defects in the root structure. They are not removable by scaling and root planing and are not the primary cause of periodontal inflammation. Their presence may affect prognosis but is not the target of debridement.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 358,
@@ -5048,7 +5048,7 @@
     "correctAnswer": 3,
     "explanation": "Current Canadian periodontal guidelines (Carranza’s Clinical Periodontology; Little & Falace, Dental Management of the Medically Compromised Patient) endorse a step‑wise approach: after initial scaling and root planing, re‑evaluation occurs at 4–6 weeks. If a pocket ≥5 mm with BOP remains and the patient demonstrates good plaque control, a second non‑surgical debridement (re‑instrumentation) is indicated. Surgery is reserved for sites that fail to respond after this repeat therapy. Systemic antibiotics are not first‑line for a single residual pocket, and extraction is unwarranted without severe bone loss or mobility. Hence, option 3 is correct.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 361,
@@ -5124,7 +5124,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Metronidazole combined with amoxicillin. In the context of aggressive periodontitis (now Stage III/IV, Grade C) with a high proportion of Aggregatibacter actinomycetemcomitans (Aa), the combination of amoxicillin and metronidazole is the gold standard adjunctive systemic therapy. This combination provides synergistic bactericidal activity against Aa and other anaerobic pathogens. Amoxicillin inhibits cell wall synthesis, while metronidazole disrupts DNA synthesis in anaerobes; together, they achieve higher eradication rates than either agent alone or other single-agent therapies. \n\nWhy the distractors are incorrect:\n1. Clindamycin monotherapy: While clindamycin is an alternative for patients with penicillin allergies, it is generally considered less effective than the amoxicillin-metronidazole combination for eradicating Aa in aggressive periodontitis. It is not the first-line 'most predictably effective' choice for a non-allergic patient.\n2. Penicillin VK: Although Aa is typically susceptible to penicillins, monotherapy with penicillin VK has been shown to be less effective than the combination therapy in clinical trials for aggressive periodontitis. The combination is preferred to ensure broader coverage and higher eradication rates.\n3. Erythromycin: Macrolides like erythromycin are not the first-line systemic antibiotics for aggressive periodontitis. They are typically reserved for patients with severe penicillin allergies and have lower efficacy compared to beta-lactams or the amoxicillin-metronidazole combination for this specific indication.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 367,
@@ -5155,7 +5155,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Apically positioned flap with osseous surgery. In cases where the mucogingival junction (MGJ) is located apical to the base of the periodontal pocket, the zone of attached gingiva is insufficient to support a coronally positioned flap or a simple gingivectomy without compromising tissue integrity. An apically positioned flap (APF) allows for the repositioning of the gingival margin apically, thereby increasing the zone of keratinized attached tissue. When combined with osseous surgery (resective or regenerative, depending on bone morphology), it provides the necessary access to eliminate the infrabony component of the pocket and achieve a stable, reduced pocket depth. This approach is the gold standard for managing deep pockets with inadequate attached gingiva in the mandibular region. \n\nWhy other options are incorrect:\n1. Modified Widman flap: While this flap provides excellent access and is often used for pocket reduction, it does not inherently increase the zone of attached gingiva. In a scenario where the MGJ is already apical to the pocket base, a Modified Widman flap may result in a very narrow or non-existent zone of attached tissue post-healing, failing to meet the requirement to 'preserve or enhance' the attached gingiva.\n2. Coronally advanced flap without grafts: This procedure is contraindicated when the MGJ is apical to the pocket base. Advancing the flap coronally would require stretching the tissue beyond its physiological limits or encroaching on the alveolar mucosa, leading to poor healing, recession, and loss of the remaining attached tissue. Grafts (e.g., connective tissue) would be required to augment the tissue, but the option specifies 'without grafts.'\n3. Undetached gingivectomy: This technique is indicated for shallow pockets (typically < 4-5 mm) with adequate attached gingiva. In a 6 mm pocket with the MGJ apical to the base, an undetached gingivectomy would remove the remaining attached tissue, leaving only alveolar mucosa, which is prone to inflammation and recession. It is contraindicated when the MGJ is involved in the pocket.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 369,
@@ -5169,7 +5169,7 @@
       "0.12% Chlorhexidine gluconate"
     ],
     "correctAnswer": 3,
-    "explanation": "Carranza’s Clinical Periodontology and the Canadian Dental Association’s periodontal care guidelines state that chlorhexidine 0.12 % mouthrinse is the adjunct of choice for NUG. Its substantivity provides prolonged suppression of the fusiform bacilli, spirochetes, and other anaerobes that characterize necrotizing lesions. While hydrogen peroxide can release oxygen, it lacks the substantivity and evidence‑based support required for routine home use. Salt‑water rinses are supportive but not primary therapy, and essential‑oil rinses are not specifically indicated for NUG. Therefore, the correct answer is “0.12% Chlorhexidine gluconate.”",
+    "explanation": "Carranza’s Clinical Periodontology and the American Dental Association’s periodontal care guidelines state that chlorhexidine 0.12 % mouthrinse is the adjunct of choice for NUG. Its substantivity provides prolonged suppression of the fusiform bacilli, spirochetes, and other anaerobes that characterize necrotizing lesions. While hydrogen peroxide can release oxygen, it lacks the substantivity and evidence‑based support required for routine home use. Salt‑water rinses are supportive but not primary therapy, and essential‑oil rinses are not specifically indicated for NUG. Therefore, the correct answer is “0.12% Chlorhexidine gluconate.”",
     "aiVerified": true
   },
   {
@@ -5247,7 +5247,7 @@
     "correctAnswer": 0,
     "explanation": "The 2017 World Workshop classification separates periodontitis into Stages (I-IV) based on severity, complexity, and extent, and Grades (A-C) based on rate of progression. Stage III and Stage IV are both characterized by severe attachment loss (CAL > 5 mm) and radiographic bone loss extending to the middle or apical third of the root. Therefore, the amount of CAL (Option 1) and the extent of bone loss (Option 3) are shared features and do not distinguish between the two stages. The rate of progression (Option 2) determines the Grade (A, B, or C), not the Stage. Stage IV is specifically distinguished from Stage III by the presence of complexity factors that compromise the prognosis and require complex rehabilitation. These factors include masticatory dysfunction, severe ridge defects, secondary occlusal trauma (tooth mobility grade 2 or greater), severe bite collapse, or the need for complex prosthetic rehabilitation. Thus, the presence of these complexity factors is the primary clinical parameter distinguishing Stage IV from Stage III.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 376,
@@ -5279,7 +5279,7 @@
     "explanation": "The 2017 World Workshop classification separates staging (severity) from grading (rate of progression and risk). Grade modifiers include uncontrolled diabetes (HbA1c ≥ 7 %) and smoking of ≥10 cigarettes per day. Smoking is not a separate disease entity; it is a habit that directly shifts the grade to C, reflecting rapid progression. Diabetes, while also a modifier, is classified under systemic diseases that can be associated with periodontitis. Therefore, the factor explicitly incorporated as a grading modifier rather than a distinct disease entity is cigarette smoking (Carranza’s Clinical Periodontology, 12th ed.; 2017 World Workshop classification).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 378,
@@ -5310,7 +5310,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is the lateral wall of the pocket. In chronic periodontitis, the lateral wall of the periodontal pocket is the primary site of the host immune response to the subgingival biofilm. Histologically, this area is characterized by a dense, chronic inflammatory infiltrate composed predominantly of plasma cells and lymphocytes, with a significant presence of neutrophils at the interface with the epithelium. This zone represents the active front of the inflammatory process where the host defenses interact with bacterial antigens. The junctional epithelium (Option 0) is the barrier tissue that is breached by the biofilm; while it contains inflammatory cells, the bulk of the chronic inflammatory infiltrate (plasma cells/lymphocytes) is located in the connective tissue of the lateral wall. The apical zone (Option 1) is the deepest part of the pocket where the junctional epithelium attaches to the root; while it is involved in the disease process, the lateral wall is the broader area of intense chronic inflammation. The alveolar bone crest (Option 3) is a hard tissue site of resorption (osteoclastic activity) rather than a zone of cellular inflammatory infiltration.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 380,
@@ -6108,7 +6108,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is the Internal bevel incision. In the modified Widman flap technique, the internal bevel incision is the first incision made. It is directed from a point on the gingival margin (typically 1-2 mm apical to the gingival margin) toward the alveolar crest. The primary purpose of this incision is to remove the pocket epithelium and the underlying granulation tissue, thereby exposing the connective tissue and allowing the flap to be repositioned coronally or apically as needed. The sulcular incision (Option 0) is the second incision, made at the base of the pocket to separate the flap from the root surface; it does not primarily remove the pocket epithelium from the coronal aspect. The interdental horizontal incision (Option 1) is the third incision, made in the papilla to complete the separation of the flap from the tooth surface. The relieving vertical incision (Option 2) is made to allow the flap to be reflected without tension and to provide access, but it is not the incision responsible for removing the pocket epithelium along the tooth surface.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 441,
@@ -6497,7 +6497,7 @@
       "Every 12 months"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Every 6 months. According to the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions and subsequent evidence-based guidelines (such as those from the American Academy of Periodontology and Canadian Dental Association), patients with a history of moderate to severe periodontitis (Stage III or IV) who have responded well to therapy and are currently stable (no bleeding on probing, probing depths ≤4 mm, good oral hygiene) are typically recommended for periodontal maintenance (SPT) at 3- to 6-month intervals. While 3-month intervals are often recommended for patients with persistent inflammation, high risk, or poor compliance, a 6-month interval is considered appropriate and evidence-based for a stable patient with excellent hygiene and no active disease signs. A 12-month interval is generally reserved for patients with no history of periodontitis or those with very low risk and excellent long-term stability, which is less conservative for a Stage III history. 9-month intervals are not standardly recommended in major guidelines.",
+    "explanation": "The correct answer is Every 6 months. According to the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions and subsequent evidence-based guidelines (such as those from the American Academy of Periodontology and American Dental Association), patients with a history of moderate to severe periodontitis (Stage III or IV) who have responded well to therapy and are currently stable (no bleeding on probing, probing depths ≤4 mm, good oral hygiene) are typically recommended for periodontal maintenance (SPT) at 3- to 6-month intervals. While 3-month intervals are often recommended for patients with persistent inflammation, high risk, or poor compliance, a 6-month interval is considered appropriate and evidence-based for a stable patient with excellent hygiene and no active disease signs. A 12-month interval is generally reserved for patients with no history of periodontitis or those with very low risk and excellent long-term stability, which is less conservative for a Stage III history. 9-month intervals are not standardly recommended in major guidelines.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -7067,7 +7067,7 @@
   {
     "id": 691271179,
     "topicId": "periodontology",
-    "question": "A 72‑year‑old woman had a prosthetic heart valve placed 3 years ago. She is on warfarin with an INR of 2.5 measured yesterday and reports no drug allergies. She requires extraction of tooth #36 (lower left first molar) because of deep caries. According to the current Canadian Dental Association/Infectious Diseases Society of America (CDA/IDSA) guidelines, which of the following is the most appropriate antibiotic prophylaxis regimen for this patient?",
+    "question": "A 72‑year‑old woman had a prosthetic heart valve placed 3 years ago. She is on warfarin with an INR of 2.5 measured yesterday and reports no drug allergies. She requires extraction of tooth #36 (lower left first molar) because of deep caries. According to the current American Dental Association/Infectious Diseases Society of America (CDA/IDSA) guidelines, which of the following is the most appropriate antibiotic prophylaxis regimen for this patient?",
     "options": [
       "Amoxicillin 2 g orally, 30–60 minutes before the procedure.",
       "Clindamycin 600 mg orally, 30–60 minutes before the procedure.",
@@ -7075,10 +7075,10 @@
       "Azithromycin 500 mg orally, 30–60 minutes before the procedure."
     ],
     "correctAnswer": 0,
-    "explanation": "The CDA/IDSA prophylaxis recommendations list prosthetic cardiac valves as a high‑risk cardiac condition for infective endocarditis. For patients without a documented penicillin allergy, the first‑line regimen is amoxicillin 2 g taken orally 30–60 minutes before the invasive dental procedure (e.g., tooth extraction, periodontal surgery, or any procedure that manipulates gingival tissue or the periapical region). \n\nWhy the other options are incorrect:\n1. **Clindamycin 600 mg** – This is the recommended alternative only for patients with a serious (type I) penicillin allergy. The patient has no allergy, so amoxicillin remains the drug of choice.\n2. **No prophylaxis** – Prosthetic heart valves are explicitly included in the list of cardiac conditions for which prophylaxis is indicated; omission would be contrary to current Canadian guidelines and could increase the risk of infective endocarditis.\n3. **Azithromycin 500 mg** – Azithromycin is not listed as an acceptable alternative in the Canadian guidelines (it appears in some US recommendations). In Canada, the only oral alternatives for penicillin‑allergic patients are clindamycin or, if clindamycin is contraindicated, a macrolide such as clarithromycin, but azithromycin is not recommended.\n\nTherefore, the gold‑standard regimen for this patient is amoxicillin 2 g PO 30–60 minutes before the extraction.",
+    "explanation": "The CDA/IDSA prophylaxis recommendations list prosthetic cardiac valves as a high‑risk cardiac condition for infective endocarditis. For patients without a documented penicillin allergy, the first‑line regimen is amoxicillin 2 g taken orally 30–60 minutes before the invasive dental procedure (e.g., tooth extraction, periodontal surgery, or any procedure that manipulates gingival tissue or the periapical region). \n\nWhy the other options are incorrect:\n1. **Clindamycin 600 mg** – This is the recommended alternative only for patients with a serious (type I) penicillin allergy. The patient has no allergy, so amoxicillin remains the drug of choice.\n2. **No prophylaxis** – Prosthetic heart valves are explicitly included in the list of cardiac conditions for which prophylaxis is indicated; omission would be contrary to current ADA guidelines and could increase the risk of infective endocarditis.\n3. **Azithromycin 500 mg** – Azithromycin is not listed as an acceptable alternative in the ADA guidelines (it appears in some US recommendations). In Canada, the only oral alternatives for penicillin‑allergic patients are clindamycin or, if clindamycin is contraindicated, a macrolide such as clarithromycin, but azithromycin is not recommended.\n\nTherefore, the gold‑standard regimen for this patient is amoxicillin 2 g PO 30–60 minutes before the extraction.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 200516554,

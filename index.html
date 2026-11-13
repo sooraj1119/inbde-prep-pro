@@ -10,10 +10,10 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <title>Dental Prep Pro: for INBDE</title>
 
-    <!-- Dark mode BEFORE first paint (uses same key as App.tsx: ndeb_theme) -->
+    <!-- Dark mode BEFORE first paint (uses same key as App.tsx: inbde_theme) -->
     <script>
       (function() {
-        var stored = localStorage.getItem('ndeb_theme');
+        var stored = localStorage.getItem('inbde_theme') || localStorage.getItem('ndeb_theme');
         var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
         if (stored === 'dark' || (!stored && prefersDark)) {
           document.documentElement.classList.add('dark');

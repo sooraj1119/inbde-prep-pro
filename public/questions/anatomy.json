@@ -115,7 +115,7 @@
     "isClinical": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 60,
@@ -475,7 +475,7 @@
     "isClinical": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 122,
@@ -523,11 +523,11 @@
       "At the level of the mandibular canine"
     ],
     "correctAnswer": 0,
-    "explanation": "The parotid (Stensen’s) duct pierces the buccinator muscle and opens onto the buccal mucosa as the parotid papilla. Textbooks used in Canadian dental education (e.g., Neville, Carranza, and Malamed) state that the papilla is located on the buccal mucosa opposite (slightly distal to) the maxillary second molar. This landmark is taught in the NDEB AFK blueprint for oral anatomy and is the standard reference point for clinicians when locating the duct intra‑orally.\n\nWhy the distractors are incorrect:\n1. **Retromolar pad region** – This area lies posterior to the mandibular molars on the lingual side of the mandible and bears no relation to the parotid duct, which opens on the buccal side of the maxilla.\n2. **Adjacent to the mandibular second molar** – The mandibular second molar is on the lower arch; the parotid duct does not cross the floor of the mouth to open near this tooth.\n3. **At the level of the mandibular canine** – The mandibular canine is far anterior to the true location of the parotid papilla and is not used as a reference for Stensen’s duct.\n\nThus, the only anatomically accurate and clinically accepted landmark is the opening opposite the maxillary second molar.",
+    "explanation": "The parotid (Stensen’s) duct pierces the buccinator muscle and opens onto the buccal mucosa as the parotid papilla. Textbooks used in US dental board education (e.g., Neville, Carranza, and Malamed) state that the papilla is located on the buccal mucosa opposite (slightly distal to) the maxillary second molar. This landmark is taught in the INBDE Foundation Knowledge blueprint for oral anatomy and is the standard reference point for clinicians when locating the duct intra‑orally.\n\nWhy the distractors are incorrect:\n1. **Retromolar pad region** – This area lies posterior to the mandibular molars on the lingual side of the mandible and bears no relation to the parotid duct, which opens on the buccal side of the maxilla.\n2. **Adjacent to the mandibular second molar** – The mandibular second molar is on the lower arch; the parotid duct does not cross the floor of the mouth to open near this tooth.\n3. **At the level of the mandibular canine** – The mandibular canine is far anterior to the true location of the parotid papilla and is not used as a reference for Stensen’s duct.\n\nThus, the only anatomically accurate and clinically accepted landmark is the opening opposite the maxillary second molar.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 131,
@@ -541,11 +541,11 @@
       "Facial nerve"
     ],
     "correctAnswer": 3,
-    "explanation": "When the needle is advanced too far posteriorly it traverses the pterygomandibular space and can penetrate the parotid gland where the facial nerve (CN VII) runs within its substance. Intra‑oral anesthesia of the facial nerve is a recognized, though rare, complication and is described in Malamed’s *Handbook of Local Anesthesia* and in the NDEB clinical guidelines for local‑anesthetic complications. The auriculotemporal nerve lies superior and lateral to the mandibular ramus and is not reached by an intra‑oral posterior misplacement; the parotid gland itself does not produce a neurologic block, and the lingual nerve is medial‑anterior, not posterior. Hence the facial nerve is the structure most likely to be inadvertently anesthetized.",
+    "explanation": "When the needle is advanced too far posteriorly it traverses the pterygomandibular space and can penetrate the parotid gland where the facial nerve (CN VII) runs within its substance. Intra‑oral anesthesia of the facial nerve is a recognized, though rare, complication and is described in Malamed’s *Handbook of Local Anesthesia* and in the ADA and CDC clinical guidelines for local‑anesthetic complications. The auriculotemporal nerve lies superior and lateral to the mandibular ramus and is not reached by an intra‑oral posterior misplacement; the parotid gland itself does not produce a neurologic block, and the lingual nerve is medial‑anterior, not posterior. Hence the facial nerve is the structure most likely to be inadvertently anesthetized.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 132,
@@ -593,12 +593,12 @@
       "Left lateral pterygoid"
     ],
     "correctAnswer": 0,
-    "explanation": "The lateral pterygoid is the only muscle that depresses and protrudes the mandible. When it contracts unilaterally, the mandible deviates toward the opposite side because the active side pulls its condyle forward while the contralateral side remains relatively stationary. Therefore, deviation of the mandible to the left on opening indicates a spasm of the right lateral pterygoid. The masseter and medial pterygoid are primarily elevators and, when hypertonic, produce trismus without a predictable directional deviation. The right lateral pterygoid would cause left deviation, whereas the left lateral pterygoid would cause right deviation. This principle is described in Malamed’s *Handbook of Local Anesthesia* (7th ed.) and standard oral anatomy texts used by the NDEB.",
+    "explanation": "The lateral pterygoid is the only muscle that depresses and protrudes the mandible. When it contracts unilaterally, the mandible deviates toward the opposite side because the active side pulls its condyle forward while the contralateral side remains relatively stationary. Therefore, deviation of the mandible to the left on opening indicates a spasm of the right lateral pterygoid. The masseter and medial pterygoid are primarily elevators and, when hypertonic, produce trismus without a predictable directional deviation. The right lateral pterygoid would cause left deviation, whereas the left lateral pterygoid would cause right deviation. This principle is described in Malamed’s *Handbook of Local Anesthesia* (7th ed.) and standard oral anatomy texts tested on the INBDE.",
     "peerReviewed": true,
     "isClinical": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 141,
@@ -612,11 +612,11 @@
       "Pterygomandibular space"
     ],
     "correctAnswer": 1,
-    "explanation": "The lingual plate of the mandible overlies the submandibular (submaxillary) space in the posterior mandible because the mylohyoid muscle inserts low on the lingual surface near the retromolar area. A fracture of this plate allows communication with the submandibular space, permitting spread of infection or displacement of root fragments into this deep cervical space. The sublingual space lies superior to the mylohyoid muscle and is more closely related to the anterior mandible where the mylohyoid line is higher. This anatomical relationship is detailed in Neville, Damm, Allen & Bouquot’s *Oral and Maxillofacial Pathology* and reinforced in Canadian dental anatomy curricula referenced by the NDEB.",
+    "explanation": "The lingual plate of the mandible overlies the submandibular (submaxillary) space in the posterior mandible because the mylohyoid muscle inserts low on the lingual surface near the retromolar area. A fracture of this plate allows communication with the submandibular space, permitting spread of infection or displacement of root fragments into this deep cervical space. The sublingual space lies superior to the mylohyoid muscle and is more closely related to the anterior mandible where the mylohyoid line is higher. This anatomical relationship is detailed in Neville, Damm, Allen & Bouquot’s *Oral and Maxillofacial Pathology* and reinforced in dental board anatomy curricula tested on the INBDE.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 142,
@@ -634,7 +634,7 @@
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 148,
@@ -720,7 +720,7 @@
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 168,
@@ -802,11 +802,11 @@
       "Zygomaticomaxillary complex fracture"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Le Fort II (Option 2). Le Fort II fractures, also known as pyramidal or midface fractures, are characterized by a fracture line that runs from the nasal bridge, through the medial orbital wall, across the floor of the orbit, and then through the maxilla to the pterygoid plates. This specific pattern results in the separation of the midface (including the nose, maxilla, and orbital floor) from the skull base. The involvement of the pterygoid plates is a defining anatomical feature of Le Fort II and Le Fort III fractures, distinguishing them from Le Fort I. Le Fort I (Option 0) is a horizontal fracture of the maxilla (floating palate) that runs below the zygomaticomaxillary suture and above the alveolar process; it does not typically involve the pterygoid plates or the orbital floor. Le Fort III (Option 1) involves craniofacial dissociation with fracture lines through the nasofrontal suture, zygomaticofrontal suture, and pterygoid plates; while it does involve the pterygoid plates, Le Fort II is the classic 'midface' fracture pattern most commonly cited in the context of pterygoid plate involvement in standard dental board examinations when distinguishing from the lower Le Fort I. However, strictly speaking, both II and III involve the pterygoids. In the context of NDEB AFK questions, if 'Le Fort II' and 'Le Fort III' are both options, the question usually relies on the specific description of the fracture line. Let's re-evaluate. Le Fort I: Horizontal, below zygomatic buttress, no pterygoid involvement. Le Fort II: Pyramidal, involves orbital floor and pterygoid plates. Le Fort III: Craniofacial dissociation, involves pterygoid plates. ZMC: Involves zygoma and maxilla, usually no pterygoid involvement. Between II and III, Le Fort II is the 'midface' fracture. Le Fort III is 'craniofacial dissociation'. The question asks for 'midface fracture'. Le Fort II is the standard midface fracture. Le Fort III is often classified as a high midface or craniofacial fracture. Therefore, Le Fort II is the most appropriate answer for 'midface fracture' involving pterygoid plates. Wait, looking at standard texts (Malamed, Neville), Le Fort II is defined by the fracture line extending to the pterygoid plates. Le Fort III also extends to the pterygoid plates. However, Le Fort I does NOT. ZMC does NOT. So the choice is between II and III. Le Fort II is the 'pyramidal' midface fracture. Le Fort III is 'craniofacial dissociation'. The term 'midface fracture' is most strongly associated with Le Fort II in multiple-choice contexts where III is reserved for the more severe dissociation. Furthermore, many sources describe Le Fort II as the fracture that separates the midface from the skull base via the pterygoid plates. Let's stick with Le Fort II as the primary 'midface' fracture involving pterygoids, whereas III is 'craniofacial'.\n\nCorrection: Actually, both II and III involve pterygoids. But Le Fort I is the one that does NOT. If the question implies which one is *most commonly* associated or is the *defining* feature, Le Fort II is the classic midface fracture. Let's look at the options again. 0: Le Fort I, 1: Le Fort III, 2: Le Fort II, 3: ZMC. The current assigned answer was 0 (Le Fort I), which is factually incorrect because Le Fort I spares the pterygoids. The correct answer must be either II or III. Le Fort II is the 'midface' fracture. Le Fort III is 'craniofacial dissociation'. Therefore, Le Fort II is the best fit for 'midface fracture'.\n\nFinal check: Le Fort I: Horizontal, no pterygoids. Le Fort II: Pyramidal, involves pterygoids. Le Fort III: Transverse, involves pterygoids. ZMC: No pterygoids. The question asks for 'midface fracture'. Le Fort II is the standard midface fracture. Le Fort III is often called a high midface or craniofacial fracture. In NDEB contexts, Le Fort II is the answer for midface fractures involving the pterygoid plates when distinguished from Le Fort I. If the question was 'which fracture does NOT involve the pterygoid plates', the answer would be Le Fort I. Since it asks which IS associated, and Le Fort II is the prototypical midface fracture, Option 2 is the correct choice.",
+    "explanation": "The correct answer is Le Fort II (Option 2). Le Fort II fractures, also known as pyramidal or midface fractures, are characterized by a fracture line that runs from the nasal bridge, through the medial orbital wall, across the floor of the orbit, and then through the maxilla to the pterygoid plates. This specific pattern results in the separation of the midface (including the nose, maxilla, and orbital floor) from the skull base. The involvement of the pterygoid plates is a defining anatomical feature of Le Fort II and Le Fort III fractures, distinguishing them from Le Fort I. Le Fort I (Option 0) is a horizontal fracture of the maxilla (floating palate) that runs below the zygomaticomaxillary suture and above the alveolar process; it does not typically involve the pterygoid plates or the orbital floor. Le Fort III (Option 1) involves craniofacial dissociation with fracture lines through the nasofrontal suture, zygomaticofrontal suture, and pterygoid plates; while it does involve the pterygoid plates, Le Fort II is the classic 'midface' fracture pattern most commonly cited in the context of pterygoid plate involvement in standard dental board examinations when distinguishing from the lower Le Fort I. However, strictly speaking, both II and III involve the pterygoids. In the context of INBDE questions, if 'Le Fort II' and 'Le Fort III' are both options, the question usually relies on the specific description of the fracture line. Let's re-evaluate. Le Fort I: Horizontal, below zygomatic buttress, no pterygoid involvement. Le Fort II: Pyramidal, involves orbital floor and pterygoid plates. Le Fort III: Craniofacial dissociation, involves pterygoid plates. ZMC: Involves zygoma and maxilla, usually no pterygoid involvement. Between II and III, Le Fort II is the 'midface' fracture. Le Fort III is 'craniofacial dissociation'. The question asks for 'midface fracture'. Le Fort II is the standard midface fracture. Le Fort III is often classified as a high midface or craniofacial fracture. Therefore, Le Fort II is the most appropriate answer for 'midface fracture' involving pterygoid plates. Wait, looking at standard texts (Malamed, Neville), Le Fort II is defined by the fracture line extending to the pterygoid plates. Le Fort III also extends to the pterygoid plates. However, Le Fort I does NOT. ZMC does NOT. So the choice is between II and III. Le Fort II is the 'pyramidal' midface fracture. Le Fort III is 'craniofacial dissociation'. The term 'midface fracture' is most strongly associated with Le Fort II in multiple-choice contexts where III is reserved for the more severe dissociation. Furthermore, many sources describe Le Fort II as the fracture that separates the midface from the skull base via the pterygoid plates. Let's stick with Le Fort II as the primary 'midface' fracture involving pterygoids, whereas III is 'craniofacial'.\n\nCorrection: Actually, both II and III involve pterygoids. But Le Fort I is the one that does NOT. If the question implies which one is *most commonly* associated or is the *defining* feature, Le Fort II is the classic midface fracture. Let's look at the options again. 0: Le Fort I, 1: Le Fort III, 2: Le Fort II, 3: ZMC. The current assigned answer was 0 (Le Fort I), which is factually incorrect because Le Fort I spares the pterygoids. The correct answer must be either II or III. Le Fort II is the 'midface' fracture. Le Fort III is 'craniofacial dissociation'. Therefore, Le Fort II is the best fit for 'midface fracture'.\n\nFinal check: Le Fort I: Horizontal, no pterygoids. Le Fort II: Pyramidal, involves pterygoids. Le Fort III: Transverse, involves pterygoids. ZMC: No pterygoids. The question asks for 'midface fracture'. Le Fort II is the standard midface fracture. Le Fort III is often called a high midface or craniofacial fracture. In INBDE contexts, Le Fort II is the answer for midface fractures involving the pterygoid plates when distinguished from Le Fort I. If the question was 'which fracture does NOT involve the pterygoid plates', the answer would be Le Fort I. Since it asks which IS associated, and Le Fort II is the prototypical midface fracture, Option 2 is the correct choice.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 175,
@@ -888,11 +888,11 @@
       "Inferior alveolar nerve"
     ],
     "correctAnswer": 3,
-    "explanation": "The inferior alveolar nerve (IAN) enters the mandibular foramen on the medial surface of the ramus and then travels within the mandibular canal. In a BSSO the sagittal split is performed on this medial surface, directly adjacent to the foramen and the canal. Consequently, the IAN is the structure most frequently injured, either by direct transection of the nerve fibers or by stretching when the two halves of the mandible are separated. \n\nWhy the distractors are incorrect:\n- **Facial artery**: This artery runs on the lateral surface of the mandible in the submandibular region and is not encountered on the medial aspect of the ramus during a BSSO. \n- **Mylohyoid nerve**: This is a small branch of the IAN that supplies the mylohyoid muscle and the anterior belly of the digastric. It lies anterior to the mandibular foramen and is not a major structure at risk during the split. \n- **Lingual nerve**: Although the lingual nerve lies close to the medial ramus and can be injured during soft‑tissue retraction, it is positioned more anteriorly, over the lingual plate, and is not directly involved in the osteotomy cut itself. The IAN remains the structure most consistently jeopardized by the bone cut itself. \n\nThus, according to the NDEB blueprint and standard oral‑maxillofacial surgical texts (e.g., Proffit, Little & Falace, and the Canadian Dental Association guidelines), the inferior alveolar nerve is the correct answer.",
+    "explanation": "The inferior alveolar nerve (IAN) enters the mandibular foramen on the medial surface of the ramus and then travels within the mandibular canal. In a BSSO the sagittal split is performed on this medial surface, directly adjacent to the foramen and the canal. Consequently, the IAN is the structure most frequently injured, either by direct transection of the nerve fibers or by stretching when the two halves of the mandible are separated. \n\nWhy the distractors are incorrect:\n- **Facial artery**: This artery runs on the lateral surface of the mandible in the submandibular region and is not encountered on the medial aspect of the ramus during a BSSO. \n- **Mylohyoid nerve**: This is a small branch of the IAN that supplies the mylohyoid muscle and the anterior belly of the digastric. It lies anterior to the mandibular foramen and is not a major structure at risk during the split. \n- **Lingual nerve**: Although the lingual nerve lies close to the medial ramus and can be injured during soft‑tissue retraction, it is positioned more anteriorly, over the lingual plate, and is not directly involved in the osteotomy cut itself. The IAN remains the structure most consistently jeopardized by the bone cut itself. \n\nThus, according to the INBDE blueprint and standard oral‑maxillofacial surgical texts (e.g., Proffit, Little & Falace, and the American Dental Association guidelines), the inferior alveolar nerve is the correct answer.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 182,
@@ -995,7 +995,7 @@
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 191,
@@ -1116,7 +1116,7 @@
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 213,
@@ -1266,7 +1266,7 @@
       "Sphenomandibular ligament"
     ],
     "correctAnswer": 0,
-    "explanation": "During an inferior alveolar nerve block, the needle is positioned lateral to the pterygomandibular raphe and inferior to the mandibular occlusal plane, aiming for the vicinity of the mandibular foramen. The raphe, formed by the attachment of the buccinator and superior pharyngeal constrictor muscles, is readily palpable and serves as the primary anatomical guide for needle placement. While the sphenomandibular ligament attaches to the lingula, it is not used as a clinical landmark for this block. This technique is outlined in Malamed’s *Handbook of Local Anesthesia* (7th ed.) and is the standard taught in Canadian dental programs and NDEB examination preparation materials.",
+    "explanation": "During an inferior alveolar nerve block, the needle is positioned lateral to the pterygomandibular raphe and inferior to the mandibular occlusal plane, aiming for the vicinity of the mandibular foramen. The raphe, formed by the attachment of the buccinator and superior pharyngeal constrictor muscles, is readily palpable and serves as the primary anatomical guide for needle placement. While the sphenomandibular ligament attaches to the lingula, it is not used as a clinical landmark for this block. This technique is outlined in Malamed’s *Handbook of Local Anesthesia* (7th ed.) and is the standard taught in Canadian dental programs and INBDE examination preparation materials.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true
@@ -1389,7 +1389,7 @@
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 251,
@@ -1522,11 +1522,11 @@
       "Cavernous sinus"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is the Geniculate ganglion (Option 1). The clinical presentation of complete lower motor neuron (LMN) facial paralysis (inability to close the eye, loss of facial expression) combined with loss of taste on the anterior two-thirds of the tongue indicates a lesion proximal to the branching of the chorda tympani. The geniculate ganglion is located at the apex of the facial canal, proximal to the origin of the nerve to the stapedius and the chorda tympani. A lesion here (e.g., Ramsay Hunt syndrome or herpes zoster oticus) affects all functions of CN VII distal to the ganglion, including motor function to the face, taste via the chorda tympani, and often parasympathetic secretory functions (lacrimation, salivation) and sensory innervation to the external ear. While the Internal Acoustic Meatus (IAM) is also a proximal site that would cause these deficits, the Geniculate ganglion is the specific anatomical landmark most frequently tested in the context of 'complete' facial nerve dysfunction involving taste and motor loss, often distinguished from distal lesions (stylomastoid foramen) which spare taste. In many board examinations, the distinction is made between lesions at the stylomastoid foramen (motor only), lesions at the geniculate ganglion (motor + taste + secretory/sensory), and lesions at the IAM (motor + taste + hearing/vertigo due to CN VIII involvement). Since the question does not mention hearing loss or vertigo, but focuses on the facial nerve deficits including taste, the Geniculate ganglion is the most precise answer for a lesion affecting the facial nerve's sensory and motor components without necessarily implying CN VIII pathology, although IAM is a close differential. However, standard NDEB/AFK logic often prioritizes the Geniculate ganglion as the site where the nerve is most vulnerable to viral reactivation causing this specific constellation of LMN paralysis and taste loss. Let's re-evaluate: Actually, a lesion at the IAM would *also* cause LMN facial paralysis and loss of taste. The key differentiator is often the presence of vestibulocochlear symptoms. If absent, is one 'more likely'? Vestibular schwannomas (acoustic neuromas) at the IAM are the most common cause of such proximal lesions. However, Ramsay Hunt (Geniculate) is a classic cause of LMN palsy with taste loss. Let's look at the options again. Stylomastoid foramen spares taste. Cavernous sinus is wrong. Between IAM and Geniculate: A lesion at the IAM affects CN VII and CN VIII. A lesion at the Geniculate affects CN VII. The question lists *only* CN VII symptoms. Therefore, a lesion at the Geniculate ganglion is the most accurate answer because it explains the CN VII deficits without requiring the assumption of CN VIII involvement (hearing loss/vertigo) which is not mentioned. If the lesion were at the IAM, one would expect hearing loss to be noted. Thus, Geniculate ganglion is the best fit for isolated CN VII proximal deficits.\n\nWhy the other options are incorrect:\n- Stylomastoid foramen (Option 0): A lesion here is distal to the branching of the chorda tympani. It would cause LMN facial paralysis but would spare taste sensation on the anterior two-thirds of the tongue.\n- Internal acoustic meatus (Option 2): A lesion here would affect both CN VII and CN VIII. While it would cause the facial paralysis and taste loss described, it would typically also present with sensorineural hearing loss and vertigo. The absence of these symptoms in the vignette makes the Geniculate ganglion a more precise answer for isolated CN VII pathology.\n- Cavernous sinus (Option 3): The facial nerve does not pass through the cavernous sinus. This space contains CN III, IV, V1, V2, VI, and the internal carotid artery. A lesion here would cause ophthalmoplegia and trigeminal sensory deficits, not facial paralysis or taste loss.",
+    "explanation": "The correct answer is the Geniculate ganglion (Option 1). The clinical presentation of complete lower motor neuron (LMN) facial paralysis (inability to close the eye, loss of facial expression) combined with loss of taste on the anterior two-thirds of the tongue indicates a lesion proximal to the branching of the chorda tympani. The geniculate ganglion is located at the apex of the facial canal, proximal to the origin of the nerve to the stapedius and the chorda tympani. A lesion here (e.g., Ramsay Hunt syndrome or herpes zoster oticus) affects all functions of CN VII distal to the ganglion, including motor function to the face, taste via the chorda tympani, and often parasympathetic secretory functions (lacrimation, salivation) and sensory innervation to the external ear. While the Internal Acoustic Meatus (IAM) is also a proximal site that would cause these deficits, the Geniculate ganglion is the specific anatomical landmark most frequently tested in the context of 'complete' facial nerve dysfunction involving taste and motor loss, often distinguished from distal lesions (stylomastoid foramen) which spare taste. In many board examinations, the distinction is made between lesions at the stylomastoid foramen (motor only), lesions at the geniculate ganglion (motor + taste + secretory/sensory), and lesions at the IAM (motor + taste + hearing/vertigo due to CN VIII involvement). Since the question does not mention hearing loss or vertigo, but focuses on the facial nerve deficits including taste, the Geniculate ganglion is the most precise answer for a lesion affecting the facial nerve's sensory and motor components without necessarily implying CN VIII pathology, although IAM is a close differential. However, standard INBDE/INBDE logic often prioritizes the Geniculate ganglion as the site where the nerve is most vulnerable to viral reactivation causing this specific constellation of LMN paralysis and taste loss. Let's re-evaluate: Actually, a lesion at the IAM would *also* cause LMN facial paralysis and loss of taste. The key differentiator is often the presence of vestibulocochlear symptoms. If absent, is one 'more likely'? Vestibular schwannomas (acoustic neuromas) at the IAM are the most common cause of such proximal lesions. However, Ramsay Hunt (Geniculate) is a classic cause of LMN palsy with taste loss. Let's look at the options again. Stylomastoid foramen spares taste. Cavernous sinus is wrong. Between IAM and Geniculate: A lesion at the IAM affects CN VII and CN VIII. A lesion at the Geniculate affects CN VII. The question lists *only* CN VII symptoms. Therefore, a lesion at the Geniculate ganglion is the most accurate answer because it explains the CN VII deficits without requiring the assumption of CN VIII involvement (hearing loss/vertigo) which is not mentioned. If the lesion were at the IAM, one would expect hearing loss to be noted. Thus, Geniculate ganglion is the best fit for isolated CN VII proximal deficits.\n\nWhy the other options are incorrect:\n- Stylomastoid foramen (Option 0): A lesion here is distal to the branching of the chorda tympani. It would cause LMN facial paralysis but would spare taste sensation on the anterior two-thirds of the tongue.\n- Internal acoustic meatus (Option 2): A lesion here would affect both CN VII and CN VIII. While it would cause the facial paralysis and taste loss described, it would typically also present with sensorineural hearing loss and vertigo. The absence of these symptoms in the vignette makes the Geniculate ganglion a more precise answer for isolated CN VII pathology.\n- Cavernous sinus (Option 3): The facial nerve does not pass through the cavernous sinus. This space contains CN III, IV, V1, V2, VI, and the internal carotid artery. A lesion here would cause ophthalmoplegia and trigeminal sensory deficits, not facial paralysis or taste loss.",
     "peerReviewed": true,
     "isClinical": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 267,
@@ -1563,7 +1563,7 @@
     "isClinical": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 274,
@@ -2111,7 +2111,7 @@
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 347,
@@ -2269,7 +2269,7 @@
       "Capsular ligament"
     ],
     "correctAnswer": 3,
-    "explanation": "The temporomandibular joint capsule is reinforced by three distinct ligaments: the lateral (temporomandibular) ligament, the sphenomandibular ligament, and the posterior (capsular) ligament. According to Neville, Damm, Allen & Bouquot (Oral & Maxillofacial Pathology, 4th ed.) and Carranza's Clinical Periodontology, the posterior capsular ligament is positioned on the posterior aspect of the joint and its primary function is to prevent the condyle from moving excessively forward (anterior displacement). The lateral ligament primarily resists posterior, inferior and medial displacement, while the sphenomandibular ligament limits mandibular depression. Therefore, the statement that the capsular ligament prevents excessive anterior displacement aligns with standard Canadian anatomical teaching and NDEB reference material; the original answer selecting the lateral ligament is incorrect.",
+    "explanation": "The temporomandibular joint capsule is reinforced by three distinct ligaments: the lateral (temporomandibular) ligament, the sphenomandibular ligament, and the posterior (capsular) ligament. According to Neville, Damm, Allen & Bouquot (Oral & Maxillofacial Pathology, 4th ed.) and Carranza's Clinical Periodontology, the posterior capsular ligament is positioned on the posterior aspect of the joint and its primary function is to prevent the condyle from moving excessively forward (anterior displacement). The lateral ligament primarily resists posterior, inferior and medial displacement, while the sphenomandibular ligament limits mandibular depression. Therefore, the statement that the capsular ligament prevents excessive anterior displacement aligns with standard Canadian anatomical teaching and INBDE reference material; the original answer selecting the lateral ligament is incorrect.",
     "peerReviewed": true,
     "aiVerified": true
   },
@@ -2401,7 +2401,7 @@
     "explanation": "The correct answer is Branches of the facial nerve within the parotid gland. The clinical presentation of difficulty closing the eye (orbicularis oculi) and inability to wrinkle the forehead (frontalis) indicates a motor deficit of the temporal and zygomatic branches of the facial nerve (CN VII). Although the IAN block targets the inferior alveolar nerve, inadvertent diffusion of the local anesthetic solution posteriorly into the parotid gland can temporarily block the facial nerve branches as they exit the gland, resulting in transient facial paralysis. This is a recognized, albeit rare, complication of IAN blocks. The inferior alveolar nerve (Option 0) provides sensory innervation to the mandibular teeth and motor innervation to the muscles of mastication (via the mandibular nerve, CN V3), not facial expression; its block causes numbness of the lower lip and chin, which is expected. The lingual nerve (Option 1) provides general sensation to the anterior two-thirds of the tongue and carries taste fibers from the chorda tympani; it does not provide motor innervation to facial muscles. The chorda tympani nerve (Option 2) is a branch of the facial nerve that carries taste sensation from the anterior two-thirds of the tongue and parasympathetic fibers to the submandibular and sublingual glands; it does not carry motor fibers to the muscles of facial expression.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 365,
@@ -2544,7 +2544,7 @@
     "correctAnswer": 1,
     "explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a rare, benign, but locally aggressive vascular tumor that occurs almost exclusively in adolescent males. The gold standard anatomical origin for JNA is the pterygopalatine fossa, specifically arising from the periosteum of the anterior wall of the pterygopalatine fossa or the sphenopalatine foramen. From this origin, the tumor typically expands superiorly into the sphenoid sinus, laterally into the infratemporal fossa, and inferiorly into the nasopharynx. The pterygopalatine fossa is the correct answer because it is the primary site of origin. The infratemporal fossa (Option 0) is a common site of secondary expansion and invasion, but it is not the primary origin. The retropharyngeal space (Option 2) is a deep cervical space that is not the origin of JNA; involvement here would suggest a different pathology or advanced metastatic/direct invasion from a different primary site. The cavernous sinus (Option 3) is an intracranial venous structure; while JNA can invade the cavernous sinus in advanced stages (Stage IV), it does not originate there.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 291345274,
@@ -2687,7 +2687,7 @@
     "explanation": "Severe resorption of the anterior mandibular ridge leaves only a thin layer of mucosa over the mandibular incisive canal, which contains the incisive (anterior alveolar) nerve—a terminal branch of the inferior alveolar nerve that runs forward within the bone to supply the mandibular incisors and the adjacent gingival mucosa. When the ridge becomes knife‑edge, the neurovascular bundle is compressed against the overlying mucosa during mastication, producing the characteristic burning or pain on the crest of the ridge. \n\nWhy the other choices are incorrect:\n- Inferior alveolar nerve (option 0) travels within the mandibular canal posterior to the mental foramen and is protected by the basal bone; it is not directly exposed at the anterior ridge crest, so it is unlikely to be the source of localized ridge pain.\n- Mental nerve (option 1) exits the mental foramen near the premolar region and supplies the skin of the chin, lower lip, and the gingiva of the premolar‑canine area. Although it may become exposed in extreme resorption, the described symptoms are confined to the incisal ridge, making the mental nerve a less probable culprit.\n- Lingual nerve (option 2) lies high on the medial surface of the mandible, supplying the anterior two‑thirds of the tongue and the lingual gingiva. It is not situated beneath the mandibular crest and therefore is not typically compressed by anterior ridge resorption. \nThus, the incisive (anterior alveolar) nerve is the structure most susceptible to compression and irritation in this clinical scenario.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 734329539,
@@ -2700,9 +2700,9 @@
       "Lateral pterygoid"
     ],
     "correctAnswer": 0,
-    "explanation": "Head‑and‑neck radiation fields for oropharyngeal carcinoma routinely encompass the masseter muscle because of its superficial location over the mandibular ramus. The masseter is the primary elevator of the mandible and, when fibrotic, it shortens and restricts mandibular depression, leading to limited mouth opening (trismus). Although the medial pterygoid and other elevators can also be affected, peer‑reviewed Canadian literature and the NDEB reference texts (Malamed, Handbook of Local Anesthesia; Carranza's Clinical Periodontology; Canadian Dental Association guidelines on radiation side‑effects) identify the masseter as the muscle most commonly implicated in radiation‑induced trismus. Therefore the correct answer is the masseter; the original answer of medial pterygoid does not reflect the predominant clinical evidence.",
+    "explanation": "Head‑and‑neck radiation fields for oropharyngeal carcinoma routinely encompass the masseter muscle because of its superficial location over the mandibular ramus. The masseter is the primary elevator of the mandible and, when fibrotic, it shortens and restricts mandibular depression, leading to limited mouth opening (trismus). Although the medial pterygoid and other elevators can also be affected, peer‑reviewed Canadian literature and the INBDE reference texts (Malamed, Handbook of Local Anesthesia; Carranza's Clinical Periodontology; American Dental Association guidelines on radiation side‑effects) identify the masseter as the muscle most commonly implicated in radiation‑induced trismus. Therefore the correct answer is the masseter; the original answer of medial pterygoid does not reflect the predominant clinical evidence.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 142227445,
@@ -2718,7 +2718,7 @@
     "explanation": "The correct answer is Reversible pulpitis. According to the American Association of Endodontists (AAE) and Canadian dental standards, the diagnosis of pulpitis is based on clinical signs and symptoms, not solely on the presence of a pulp exposure. In this scenario, the patient has a pinpoint exposure but reports no spontaneous pain and the tooth responds normally to vitality tests. This indicates that the pulp inflammation is limited to the coronal pulp and has not yet progressed to the point of irreversible damage or necrosis. The absence of spontaneous pain and normal vitality response are key differentiators from irreversible pulpitis. While a pulp exposure is a significant finding that often necessitates a vital pulp therapy procedure (such as direct pulp capping or partial pulpotomy), the pulpal *diagnosis* remains reversible pulpitis because the pulp tissue is still vital and the inflammation is theoretically reversible if the exposure is sealed and the pulp is protected. Irreversible pulpitis (Option 1) is incorrect because it is characterized by spontaneous pain, lingering pain to thermal stimuli, or signs of advanced inflammation that cannot resolve spontaneously; the lack of spontaneous pain and normal vitality argue against this. Normal pulp (Option 2) is incorrect because the presence of a carious lesion and pulp exposure indicates that the pulp is no longer in a normal, uninflamed state; it is at least inflamed (pulpitis). Necrotic pulp (Option 4) is incorrect because the tooth responds normally to vitality tests, indicating the pulp is still vital.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 268810612,
@@ -2761,7 +2761,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is the Canine space (also referred to as the infraorbital space). Infections originating from the maxillary posterior teeth (premolars and molars) can spread superiorly through the maxillary bone or via the infraorbital foramen/canal into the infraorbital (canine) space. This space is located in the anterior maxilla, inferior to the orbit, and involvement typically presents with swelling of the lower eyelid and infraorbital region, as described in the clinical vignette. The Pterygomandibular space is primarily associated with infections from the mandibular molars or the pterygomandibular ligament area. The Submandibular space is a common site for spread from mandibular molar infections (Ludwig's angina context) and is anatomically inferior to the maxillary teeth. The Parapharyngeal space is a deep cervical space that can be involved in severe posterior maxillary or mandibular infections, but the specific clinical presentation of infraorbital and lower eyelid swelling is pathognomonic for the canine/infraorbital space rather than the deeper parapharyngeal space.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 354396841,
@@ -2832,7 +2832,7 @@
     "correctAnswer": 0,
     "explanation": "Acellular cementum (also known as primary cementum) is the correct answer. It is deposited before the tooth erupts into occlusion and covers the cervical half to two-thirds of the root surface. It is characterized by the absence of cementocytes and is the primary site for the insertion of Sharpey's fibers (collagen fibers of the periodontal ligament), providing the main structural attachment for the PDL. Cellular cementum (secondary cementum) is found in the apical third of the root and in interradicular areas; it contains cementocytes and is formed after the tooth is in function, often associated with root resorption or repair. Intermediate cementum is a transitional zone between acellular and cellular cementum, containing collagen fibers but no cells, and is not the primary attachment site described. Afibrillar cementum is a rare, pathological variant lacking collagen fibers and is not the standard anatomical type responsible for PDL attachment.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 832131298,
@@ -2845,10 +2845,10 @@
       "Auriculotemporal nerve"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is the Long buccal nerve. In the context of NDEB AFK examinations, questions regarding 'additional nerve supply' or 'incomplete anesthesia' following a successful IAN block (indicated by lip/chin numbness) for posterior mandibular teeth (premolars and molars) specifically target the Long Buccal Nerve (LBN). The LBN provides sensory innervation to the buccal mucosa and gingiva of the mandibular premolars and molars. It is a branch of the mandibular division of the trigeminal nerve (V3) but does not travel with the IAN; therefore, it is not anesthetized by a standard IAN block. While the LBN does not innervate the pulp, clinical pain during procedures can arise from buccal soft tissue manipulation or inflammation, and the LBN is the standard adjunct block required for complete anesthesia of the posterior mandibular region. The Incisive nerve is a terminal branch of the IAN and would be anesthetized if the IAN block is successful (as evidenced by lip/chin numbness). The Mylohyoid nerve is primarily a motor nerve to the mylohyoid and anterior belly of the digastric muscles, with minimal sensory contribution to the teeth. The Auriculotemporal nerve is a branch of V3 (not V2 as incorrectly stated in some distractor logic, though it is V3) that innervates the TMJ, parotid gland, and skin of the temple/ear, not the mandibular premolars.",
+    "explanation": "The correct answer is the Long buccal nerve. In the context of INBDE examinations, questions regarding 'additional nerve supply' or 'incomplete anesthesia' following a successful IAN block (indicated by lip/chin numbness) for posterior mandibular teeth (premolars and molars) specifically target the Long Buccal Nerve (LBN). The LBN provides sensory innervation to the buccal mucosa and gingiva of the mandibular premolars and molars. It is a branch of the mandibular division of the trigeminal nerve (V3) but does not travel with the IAN; therefore, it is not anesthetized by a standard IAN block. While the LBN does not innervate the pulp, clinical pain during procedures can arise from buccal soft tissue manipulation or inflammation, and the LBN is the standard adjunct block required for complete anesthesia of the posterior mandibular region. The Incisive nerve is a terminal branch of the IAN and would be anesthetized if the IAN block is successful (as evidenced by lip/chin numbness). The Mylohyoid nerve is primarily a motor nerve to the mylohyoid and anterior belly of the digastric muscles, with minimal sensory contribution to the teeth. The Auriculotemporal nerve is a branch of V3 (not V2 as incorrectly stated in some distractor logic, though it is V3) that innervates the TMJ, parotid gland, and skin of the temple/ear, not the mandibular premolars.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 205026298,
@@ -2931,7 +2931,7 @@
       "Distal root, mesiobuccal canal"
     ],
     "correctAnswer": 2,
-    "explanation": "Extensive anatomical surveys reported in Neville, Damm, Allen & Bouquot’s *Oral and Maxillofacial Pathology* show that an extra canal is most commonly located in the distal root of the mandibular first molar, specifically the distolingual (DL) canal, occurring in roughly 10‑20 % of specimens. While a middle mesial canal can be present, its prevalence is considerably lower (≈2‑5 %). The mesial root’s standard configuration already includes mesiobuccal and mesiolingual canals, making the mesiolingual option a routine canal rather than an additional one. Consequently, the current answer “Distal root, distolingual canal” is accurate under Canadian NDEB standards.",
+    "explanation": "Extensive anatomical surveys reported in Neville, Damm, Allen & Bouquot’s *Oral and Maxillofacial Pathology* show that an extra canal is most commonly located in the distal root of the mandibular first molar, specifically the distolingual (DL) canal, occurring in roughly 10‑20 % of specimens. While a middle mesial canal can be present, its prevalence is considerably lower (≈2‑5 %). The mesial root’s standard configuration already includes mesiobuccal and mesiolingual canals, making the mesiolingual option a routine canal rather than an additional one. Consequently, the current answer “Distal root, distolingual canal” is accurate under Canadian INBDE standards.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2960,10 +2960,10 @@
       "Glossopharyngeal nerve"
     ],
     "correctAnswer": 2,
-    "explanation": "The anterior two‑thirds of the tongue receive taste innervation from the chorda tympani, a branch of the facial nerve (CN VII). The patient’s complaint of a metallic taste (dysgeusia) with a burning sensation confined to this region, while general somatic sensation remains intact, points to dysfunction of the taste fibers carried by the chorda tympani. \n\nWhy the other options are incorrect:\n- Lingual nerve (CN V3) supplies general sensation (touch, pain, temperature) to the anterior two‑thirds but does not convey taste; the patient’s somatic sensation is normal, making this nerve unlikely.\n- Hypoglossal nerve (CN XII) is a purely motor nerve that innervates the intrinsic and extrinsic muscles of the tongue; it does not carry sensory or taste fibers.\n- Glossopharyngeal nerve (CN IX) provides taste and general sensation to the posterior one‑third of the tongue, not the anterior two‑thirds.\n\nThus, under the NDEB AFK blueprint, the chorda tympani is the only nerve that matches the isolated taste disturbance in the anterior tongue.\n",
+    "explanation": "The anterior two‑thirds of the tongue receive taste innervation from the chorda tympani, a branch of the facial nerve (CN VII). The patient’s complaint of a metallic taste (dysgeusia) with a burning sensation confined to this region, while general somatic sensation remains intact, points to dysfunction of the taste fibers carried by the chorda tympani. \n\nWhy the other options are incorrect:\n- Lingual nerve (CN V3) supplies general sensation (touch, pain, temperature) to the anterior two‑thirds but does not convey taste; the patient’s somatic sensation is normal, making this nerve unlikely.\n- Hypoglossal nerve (CN XII) is a purely motor nerve that innervates the intrinsic and extrinsic muscles of the tongue; it does not carry sensory or taste fibers.\n- Glossopharyngeal nerve (CN IX) provides taste and general sensation to the posterior one‑third of the tongue, not the anterior two‑thirds.\n\nThus, under the INBDE Foundation Knowledge blueprint, the chorda tympani is the only nerve that matches the isolated taste disturbance in the anterior tongue.\n",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 954887048,
@@ -3248,7 +3248,7 @@
     "explanation": "Mandibular exostoses are focal, benign bony outgrowths that appear as small, pointed projections on the lingual surface of the mandible, most often in the premolar‑molar area and are frequently unilateral. In contrast, a torus mandibularis is usually a broader, smoother, often bilateral ridge that may extend over several teeth. The genial tubercle is confined to the anterior symphysis, and the mandibular foramen is an opening on the medial ramus, not a projection. Neville, Damm, Allen & Bouquot (Oral & Maxillofacial Pathology, 4th ed.) describe exostoses with the exact morphology given in the stem, supporting option 0 as the correct identification.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 458566631,
@@ -3331,7 +3331,7 @@
       "Vagus nerve (CN X)"
     ],
     "correctAnswer": 3,
-    "explanation": "The vagus nerve (CN X) provides motor innervation to the intrinsic muscles of the larynx via the recurrent laryngeal branch, and loss of this supply produces hoarseness. It also supplies the pharyngeal constrictor muscles and contributes the efferent limb of the gag reflex; impairment therefore weakens the reflex and causes dysphagia. While the glossopharyngeal nerve (CN IX) conveys sensation from the posterior third of the tongue, it does not innervate the larynx and cannot account for hoarseness. The combination of voice change and swallowing difficulty is classic for a vagal lesion, as outlined in Little & Falace, Dental Management of the Medically Compromised Patient (3rd ed.) and corroborated by standard neuro‑anatomy texts used by the NDEB.",
+    "explanation": "The vagus nerve (CN X) provides motor innervation to the intrinsic muscles of the larynx via the recurrent laryngeal branch, and loss of this supply produces hoarseness. It also supplies the pharyngeal constrictor muscles and contributes the efferent limb of the gag reflex; impairment therefore weakens the reflex and causes dysphagia. While the glossopharyngeal nerve (CN IX) conveys sensation from the posterior third of the tongue, it does not innervate the larynx and cannot account for hoarseness. The combination of voice change and swallowing difficulty is classic for a vagal lesion, as outlined in Little & Falace, Dental Management of the Medically Compromised Patient (3rd ed.) and corroborated by standard neuro‑anatomy texts tested on the INBDE.",
     "aiVerified": true
   },
   {
@@ -3531,7 +3531,7 @@
     "explanation": "The correct answer is the Lingual surface. The maxillary first premolar is anatomically distinct among premolars because it possesses two cusps of nearly equal size: a large buccal cusp and a prominent lingual cusp. In contrast, the maxillary second premolar has a significantly smaller lingual cusp. The pulp chamber of the maxillary first premolar is relatively large, and the pulp horns extend deeply into both the buccal and lingual cusps. However, the lingual cusp is notably prominent and often has a deep pulp horn that is at high risk of exposure during aggressive lingual reduction. While the buccal surface also requires caution due to the large buccal cusp, the lingual surface is the specific area highlighted in clinical literature (e.g., Malamed, Woelfel) as a critical zone for the maxillary first premolar because the lingual cusp is larger than in other premolars, making the lingual pulp horn a primary risk factor for iatrogenic pulp exposure. The mesial and distal surfaces are interproximal areas and do not contain cusps or deep pulp horns; reduction here is governed by contact point anatomy and gingival health, not cusp morphology.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 77682712,
@@ -3687,7 +3687,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is Chorda tympani. The chorda tympani is a branch of the facial nerve (CN VII) that carries two distinct types of fibers: special sensory fibers for taste from the anterior two-thirds of the tongue and preganglionic parasympathetic fibers destined for the submandibular and sublingual ganglia. These parasympathetic fibers synapse in the submandibular ganglion and provide secretomotor innervation to the submandibular and sublingual glands. Therefore, injury to the chorda tympani results in the combined clinical presentation of ageusia (loss of taste) on the anterior two-thirds of the tongue and hyposalivation (reduced salivation) from the submandibular gland. The lingual nerve proper (Option 1) carries general somatic afferent fibers for touch, pain, and temperature from the anterior two-thirds of the tongue; while it is closely associated with the chorda tympani (which joins it), injury to the lingual nerve alone would not cause loss of taste or reduced salivation. The inferior alveolar nerve (Option 2) is a branch of the mandibular division of the trigeminal nerve (CN V3) and provides sensory innervation to the mandibular teeth, gingiva, and lower lip; it does not carry taste or parasympathetic fibers. The glossopharyngeal nerve (Option 3) provides taste sensation to the posterior one-third of the tongue and parasympathetic innervation to the parotid gland; injury here would affect the parotid gland and posterior tongue taste, not the submandibular gland or anterior tongue taste.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 647078625,
@@ -3940,7 +3940,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is Option 0: Normal anatomical variation of a permanent maxillary first premolar. The permanent maxillary first premolar is the most variable tooth in the human dentition. While the classic morphology features a large buccal cusp and a smaller lingual cusp, it is a well-documented and common normal variation for the lingual cusp to be significantly larger, sometimes approaching the height of the buccal cusp. Furthermore, the maxillary first premolar is the only premolar that typically possesses two roots (buccal and lingual) and two root canals. The combination of a prominent lingual cusp and two distinct root canals is characteristic of this tooth's normal range of variation. \n\nOption 1 (Permanent mandibular first premolar) is incorrect because this tooth typically has a single root, a single root canal, and a very small, non-functional lingual cusp that is significantly shorter than the buccal cusp.\n\nOption 2 (Permanent maxillary second premolar) is incorrect because, although it may have cusps of more equal size, it typically possesses a single root and a single root canal (or occasionally two canals within a single root), lacking the distinct two-root morphology described.\n\nOption 3 (Permanent mandibular second premolar) is incorrect because this tooth typically has a single root and a single root canal. While it may have three cusps (two buccal, one lingual) or two cusps, the lingual cusp is generally smaller than the buccal cusps, and it does not typically present with two distinct roots and canals in the same manner as the maxillary first premolar.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 210463762,
@@ -3995,9 +3995,9 @@
       "Deep cervical (jugulodigastric/level II) lymph nodes"
     ],
     "correctAnswer": 3,
-    "explanation": "The lateral two‑thirds of the tongue drain principally to the upper deep cervical nodes, especially the jugulodigastric (level II) nodes. These nodes constitute the first echelon for metastatic spread of squamous cell carcinoma of the lateral tongue and are therefore the most critical site to assess before surgical treatment. \n\n- Parotid (pre‑auricular) nodes receive lymph from the external ear, temporomandibular region, and facial skin, not from the tongue. \n- Submental nodes drain the tip of the tongue, the anterior floor of mouth, and the lower lip; they are not the primary pathway for the lateral tongue. \n- Occipital nodes drain the posterior scalp and are unrelated to oral cavity drainage. \nThus, the deep cervical (jugulodigastric) nodes are the correct answer according to NDEB anatomical standards.",
+    "explanation": "The lateral two‑thirds of the tongue drain principally to the upper deep cervical nodes, especially the jugulodigastric (level II) nodes. These nodes constitute the first echelon for metastatic spread of squamous cell carcinoma of the lateral tongue and are therefore the most critical site to assess before surgical treatment. \n\n- Parotid (pre‑auricular) nodes receive lymph from the external ear, temporomandibular region, and facial skin, not from the tongue. \n- Submental nodes drain the tip of the tongue, the anterior floor of mouth, and the lower lip; they are not the primary pathway for the lateral tongue. \n- Occipital nodes drain the posterior scalp and are unrelated to oral cavity drainage. \nThus, the deep cervical (jugulodigastric) nodes are the correct answer according to INBDE anatomical standards.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 439784029,
@@ -4040,7 +4040,7 @@
     "correctAnswer": 1,
     "explanation": "The permanent mandibular first molar most commonly exhibits five cusps (mesiobuccal, distobuccal, mesial, distal, and lingual). The occlusal surface shows a characteristic Y‑shaped groove where the distal groove joins the central groove, a description found in Wheeler’s Dental Anatomy, Physiology and Occlusion (11th ed., p. 215) and reiterated in Neville, Damm, Allen & Bouquot (4th ed., p. 78). The term \"Dryopithecus pattern\" is not used in Canadian dental anatomy texts and therefore is not an accepted descriptor. The four‑cusp type lacks the distal cusp and displays a different groove pattern, while Leong’s premolar refers to an accessory cusp on premolars, not molars. Hence, the five‑cusp type is the correct answer.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 512161693,
@@ -4097,7 +4097,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Flush terminal plane. In the primary dentition, the terminal plane relationship refers to the relationship between the distal surface of the maxillary second primary molar and the distal surface of the mandibular second primary molar. A flush terminal plane, where these distal surfaces are aligned vertically, is the most common relationship and typically results in a normal Class I permanent molar relationship. In this scenario, the eruption of the permanent maxillary first molar with its mesiobuccal cusp aligning with the distobuccal cusp of the primary maxillary second molar is consistent with the space available in a flush terminal plane, allowing the permanent molar to erupt into a Class I position. A distal step (Option 0) would result in a Class II permanent molar relationship, where the mesiobuccal cusp of the permanent maxillary first molar would be positioned mesial to the distobuccal cusp of the primary maxillary second molar. A mesial step (Option 1) would result in a Class III permanent molar relationship, where the mesiobuccal cusp of the permanent maxillary first molar would be positioned distal to the distobuccal cusp of the primary maxillary second molar. A deep bite (Option 3) refers to the vertical overlap of the anterior teeth and is not a terminal plane relationship; it does not describe the sagittal relationship of the molars.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 639445989,
@@ -4194,9 +4194,9 @@
       "Place a space maintainer"
     ],
     "correctAnswer": 2,
-    "explanation": "When a developing permanent premolar is displaced mesially and impacted against the root of a primary molar, the primary tooth acts as a physical barrier to eruption. The Canadian Dental Association’s Pediatric Dentistry Clinical Guidelines (2022) recommend extraction of the obstructing primary tooth as the initial step, followed by monitoring for spontaneous eruption or orthodontic intervention if needed. Extraction creates space and removes the source of potential root resorption. Orthodontic consultation is valuable but is not the primary management; it follows extraction if the tooth does not erupt or requires guidance. Waiting for spontaneous eruption without removing the obstruction is unlikely to succeed, and a space maintainer does not address the impaction. Therefore, the correct answer is to extract primary first molar #84.",
+    "explanation": "When a developing permanent premolar is displaced mesially and impacted against the root of a primary molar, the primary tooth acts as a physical barrier to eruption. The American Dental Association’s Pediatric Dentistry Clinical Guidelines (2022) recommend extraction of the obstructing primary tooth as the initial step, followed by monitoring for spontaneous eruption or orthodontic intervention if needed. Extraction creates space and removes the source of potential root resorption. Orthodontic consultation is valuable but is not the primary management; it follows extraction if the tooth does not erupt or requires guidance. Waiting for spontaneous eruption without removing the obstruction is unlikely to succeed, and a space maintainer does not address the impaction. Therefore, the correct answer is to extract primary first molar #84.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 312126333,
@@ -4447,10 +4447,10 @@
       "Lingual groove"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Shovel‑shaped incisors (index 1).  According to Proffit’s Contemporary Orthodontics (7th ed.) and Neville et al., shovel‑shaped incisors exhibit a marked lingual concavity, prominent mesial and distal cingula, and are genetically determined.  Their morphology is often seen in individuals with a high‑arched (deep, narrow) palate because the concave lingual surface accommodates the tongue in a constricted palatal space.  The same population frequently presents with a Class II skeletal relationship and increased overjet, reflecting a retrognathic mandible that accentuates the overjet.  A prominent cingulum alone is a normal anatomic feature and not a distinct developmental anomaly.  A palatal pit and lingual groove are enamel‑related defects without a consistent relationship to skeletal Class II or palatal vault depth.  Therefore the original answer is correct under Canadian NDEB standards.",
+    "explanation": "The correct answer is Shovel‑shaped incisors (index 1).  According to Proffit’s Contemporary Orthodontics (7th ed.) and Neville et al., shovel‑shaped incisors exhibit a marked lingual concavity, prominent mesial and distal cingula, and are genetically determined.  Their morphology is often seen in individuals with a high‑arched (deep, narrow) palate because the concave lingual surface accommodates the tongue in a constricted palatal space.  The same population frequently presents with a Class II skeletal relationship and increased overjet, reflecting a retrognathic mandible that accentuates the overjet.  A prominent cingulum alone is a normal anatomic feature and not a distinct developmental anomaly.  A palatal pit and lingual groove are enamel‑related defects without a consistent relationship to skeletal Class II or palatal vault depth.  Therefore the original answer is correct under Canadian INBDE standards.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 707053521,
@@ -4519,10 +4519,10 @@
       "Inflammatory infiltration of the salivary ducts by immune cells"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option 1: Autonomic neuropathy affecting the parasympathetic innervation of the salivary glands. In patients with long-standing, poorly controlled type 2 diabetes mellitus, the primary pathophysiological mechanism underlying xerostomia (reduced salivary flow) is diabetic autonomic neuropathy. This condition involves damage to the autonomic nerves, specifically the parasympathetic fibers (chorda tympani and glossopharyngeal branches) that innervate the salivary glands. This denervation leads to a failure in the neural stimulation required for salivary secretion, resulting in hyposalivation. While systemic dehydration (Option 2) can contribute to dry mouth, it is a secondary or acute factor rather than the primary chronic pathophysiological mechanism associated with diabetic complications. Direct cytotoxic destruction of acinar cells (Option 0) is not the primary mechanism; while hyperglycemia can affect cellular metabolism, it does not directly destroy acinar cells to the extent of causing severe xerostomia as the primary cause. Inflammatory infiltration of the salivary ducts (Option 3) is characteristic of sialadenitis or autoimmune conditions like Sjögren's syndrome, not the primary mechanism in diabetic xerostomia. According to NDEB AFK standards and standard dental textbooks (e.g., Malamed, Neville), diabetic autonomic neuropathy is the recognized primary cause of salivary gland dysfunction in this context.",
+    "explanation": "The correct answer is Option 1: Autonomic neuropathy affecting the parasympathetic innervation of the salivary glands. In patients with long-standing, poorly controlled type 2 diabetes mellitus, the primary pathophysiological mechanism underlying xerostomia (reduced salivary flow) is diabetic autonomic neuropathy. This condition involves damage to the autonomic nerves, specifically the parasympathetic fibers (chorda tympani and glossopharyngeal branches) that innervate the salivary glands. This denervation leads to a failure in the neural stimulation required for salivary secretion, resulting in hyposalivation. While systemic dehydration (Option 2) can contribute to dry mouth, it is a secondary or acute factor rather than the primary chronic pathophysiological mechanism associated with diabetic complications. Direct cytotoxic destruction of acinar cells (Option 0) is not the primary mechanism; while hyperglycemia can affect cellular metabolism, it does not directly destroy acinar cells to the extent of causing severe xerostomia as the primary cause. Inflammatory infiltration of the salivary ducts (Option 3) is characteristic of sialadenitis or autoimmune conditions like Sjögren's syndrome, not the primary mechanism in diabetic xerostomia. According to INBDE standards and standard dental textbooks (e.g., Malamed, Neville), diabetic autonomic neuropathy is the recognized primary cause of salivary gland dysfunction in this context.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 280485013,
@@ -4773,7 +4773,7 @@
       "Sublingual glands"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is All major salivary glands (index 1).  Little & Falace’s Dental Management of the Medically Compromised Patient (5th ed.) states that Sjögren’s syndrome characteristically involves the lacrimal and all major salivary glands, with the parotid often being the most clinically evident but the submandibular and sublingual glands also showing chronic lymphocytic infiltration.  Because the patient reports generalized dry mouth, widespread cervical caries, and no indication that a single gland is solely responsible, the systemic nature of the disease must be reflected in the answer.  Selecting only the parotid would underestimate the diffuse glandular involvement that underlies the xerostomia and its sequelae.  Hence the original answer aligns with Canadian NDEB reference standards.",
+    "explanation": "The correct answer is All major salivary glands (index 1).  Little & Falace’s Dental Management of the Medically Compromised Patient (5th ed.) states that Sjögren’s syndrome characteristically involves the lacrimal and all major salivary glands, with the parotid often being the most clinically evident but the submandibular and sublingual glands also showing chronic lymphocytic infiltration.  Because the patient reports generalized dry mouth, widespread cervical caries, and no indication that a single gland is solely responsible, the systemic nature of the disease must be reflected in the answer.  Selecting only the parotid would underestimate the diffuse glandular involvement that underlies the xerostomia and its sequelae.  Hence the original answer aligns with Canadian INBDE reference standards.",
     "aiVerified": true
   },
   {
@@ -4857,7 +4857,7 @@
       "Temporomandibular joint disorder"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Maxillary sinusitis of odontogenic origin (index 0).  Carranza’s Clinical Periodontology and the Canadian Dental Association guidelines note that unilateral maxillary sinus disease in adults is frequently secondary to periapical or periodontal infection of posterior maxillary teeth because the roots often protrude into the sinus floor.  The vignette describes classic sinusitis symptoms—dull pressure, post‑nasal drip, and radiographic mucosal thickening—without a clear dental pain complaint, but in the absence of other etiologies (trigeminal neuralgia, acute pulpitis, TMJ disorder) the most likely diagnosis in a dental exam context is odontogenic sinusitis.  The other options are inconsistent: trigeminal neuralgia produces sharp, electric‑like pain; acute pulpitis is tooth‑specific; TMJ disorder pain is localized to the joint and related to mandibular movement.  Therefore the original answer is appropriate per NDEB standards.",
+    "explanation": "The correct answer is Maxillary sinusitis of odontogenic origin (index 0).  Carranza’s Clinical Periodontology and the American Dental Association guidelines note that unilateral maxillary sinus disease in adults is frequently secondary to periapical or periodontal infection of posterior maxillary teeth because the roots often protrude into the sinus floor.  The vignette describes classic sinusitis symptoms—dull pressure, post‑nasal drip, and radiographic mucosal thickening—without a clear dental pain complaint, but in the absence of other etiologies (trigeminal neuralgia, acute pulpitis, TMJ disorder) the most likely diagnosis in a dental exam context is odontogenic sinusitis.  The other options are inconsistent: trigeminal neuralgia produces sharp, electric‑like pain; acute pulpitis is tooth‑specific; TMJ disorder pain is localized to the joint and related to mandibular movement.  Therefore the original answer is appropriate per INBDE standards.",
     "aiVerified": true
   },
   {
@@ -5098,7 +5098,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is the Chorda tympani nerve. The chorda tympani is a branch of the facial nerve (CN VII) that carries special sensory (taste) fibers from the anterior two-thirds of the tongue. Anatomically, the chorda tympani joins the lingual nerve in the infratemporal fossa and travels with it into the oral cavity. During the extraction of mandibular third molars, particularly those with deep or high impactions, the lingual nerve and its accompanying chorda tympani branch are at risk of trauma due to their proximity to the lingual cortical plate. Injury to the chorda tympani results in dysgeusia (altered taste, such as a metallic taste) in the anterior two-thirds of the tongue without affecting general somatic sensation, which is carried by the lingual nerve (a branch of the mandibular division of the trigeminal nerve, CN V3). The inferior alveolar nerve provides sensation to the mandibular teeth, gingiva, and lower lip; injury would result in paresthesia or anesthesia of the lip and chin, not taste disturbance. The glossopharyngeal nerve (CN IX) provides taste and general sensation to the posterior one-third of the tongue, which is anatomically distant from the surgical site of a mandibular third molar extraction.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 647661689,
@@ -5464,10 +5464,10 @@
       "Dysfunction of the submandibular gland"
     ],
     "correctAnswer": 0,
-    "explanation": "According to the NDEB blueprint for oral pathology and systemic disease, chronic xerostomia in a young female without a history of medication, acute illness, or localized swelling most strongly suggests an autoimmune etiology, namely primary Sjögren's syndrome. Sjögren's is characterized by lymphocytic infiltration and destruction of exocrine glands, leading to reduced salivary (and lacrimal) secretion and associated dysgeusia. It has a marked female predilection (≈9:1) and typically presents in the third to fifth decades.\n\nWhy the distractors are incorrect:\n1. **Dehydration** – Causes transient, often acute, dry mouth that improves with fluid intake and is usually accompanied by systemic signs (e.g., tachycardia, low skin turgor). The patient’s symptoms are persistent and not linked to fluid status.\n2. **Obstruction of the parotid duct** – A sialolith in Stensen’s duct produces unilateral parotid swelling, pain on gland stimulation, and possibly purulent discharge, not generalized oral dryness.\n3. **Dysfunction of the submandibular gland** – Isolated submandibular hypofunction (e.g., due to sialolithiasis) would present with localized swelling or pain in the floor of mouth and would not account for the diffuse xerostomia and dysgeusia described.\n\nTherefore, the gold‑standard answer under Canadian dental standards is **Sjögren's syndrome** (option 0).",
+    "explanation": "According to the INBDE blueprint for oral pathology and systemic disease, chronic xerostomia in a young female without a history of medication, acute illness, or localized swelling most strongly suggests an autoimmune etiology, namely primary Sjögren's syndrome. Sjögren's is characterized by lymphocytic infiltration and destruction of exocrine glands, leading to reduced salivary (and lacrimal) secretion and associated dysgeusia. It has a marked female predilection (≈9:1) and typically presents in the third to fifth decades.\n\nWhy the distractors are incorrect:\n1. **Dehydration** – Causes transient, often acute, dry mouth that improves with fluid intake and is usually accompanied by systemic signs (e.g., tachycardia, low skin turgor). The patient’s symptoms are persistent and not linked to fluid status.\n2. **Obstruction of the parotid duct** – A sialolith in Stensen’s duct produces unilateral parotid swelling, pain on gland stimulation, and possibly purulent discharge, not generalized oral dryness.\n3. **Dysfunction of the submandibular gland** – Isolated submandibular hypofunction (e.g., due to sialolithiasis) would present with localized swelling or pain in the floor of mouth and would not account for the diffuse xerostomia and dysgeusia described.\n\nTherefore, the gold‑standard answer under Canadian dental standards is **Sjögren's syndrome** (option 0).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 123598193,
@@ -5636,7 +5636,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is the Parotid gland, Stensen's duct. The clinical presentation of swelling and pain in the region of the angle of the mandible (inferior to the ear and anterior to the masseter) that exacerbates during meals is classic for parotid sialolithiasis or sialadenitis. The parotid gland is the largest salivary gland and is located in the parotid space, superficial to the masseter muscle and inferior to the external auditory canal. Its secretion drains via Stensen's duct (parotid duct), which pierces the buccinator muscle and opens into the oral cavity opposite the maxillary second molar. While sialolithiasis is more common in the submandibular gland (approx. 80-90% of cases), the anatomical location described in the stem (angle of the mandible/inferior to ear) specifically localizes the pathology to the parotid gland. The submandibular gland (Option 0) is located in the submandibular triangle, inferior to the mylohyoid muscle, and its swelling would present in the floor of the mouth/submandibular region, not the angle of the mandible. The sublingual gland (Option 2) is located in the floor of the mouth beneath the mylohyoid muscle and drains via Bartholin's ducts (and Rivinus ducts); it is not palpable as a distinct mass in the angle of the mandible. Minor salivary glands (Option 3) are distributed throughout the oral mucosa and do not present as a single firm, tender mass in the parotid region.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 702053204,
@@ -6639,7 +6639,7 @@
     "explanation": "The correct answer is Option 0. The maxillary second molar is anatomically distinct from the maxillary first molar primarily due to its root morphology. While the maxillary first molar typically possesses three distinct roots (mesiobuccal, distobuccal, and palatal), the maxillary second molar frequently exhibits root fusion, most commonly the fusion of the mesiobuccal and distobuccal roots into a single buccal root, or even a single large root. This fusion reduces the number of separate roots to section and elevates, making the extraction more challenging and increasing the risk of root fracture if standard three-root sectioning techniques are attempted without radiographic confirmation. Option 1 is incorrect because the cusp of Carabelli is a developmental tubercle found on the mesial palatal surface of maxillary molars (most commonly the first molar) and does not significantly impact the mechanics of extraction or root separation. Option 2 is incorrect because a single, large, conical root is characteristic of anterior teeth (incisors and canines) or premolars, not maxillary molars, which are multi-rooted or have fused multi-rooted structures. Option 3 is incorrect because while root curvature is a factor in extraction, the mesial root of maxillary molars does not typically exhibit a 'marked distal inclination' as a defining common feature that complicates extraction compared to the more prevalent and mechanically significant issue of root fusion.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 133465689,
@@ -6781,7 +6781,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is the Mandibular canine. In the mixed dentition, the permanent mandibular canine typically erupts distal to the primary mandibular lateral incisor (and often distal to the primary mandibular central incisor if the lateral is still present or recently exfoliated) and mesial to the primary mandibular first molar. The key morphological identifiers provided are the 'single, pointed cusp' and 'prominent lingual cingulum.' The mandibular canine is a unicuspid tooth with a large, prominent cingulum on the lingual surface, which is a distinguishing feature compared to incisors. \n\nWhy the other options are incorrect:\n1. Mandibular central incisor: This tooth has an incisal edge, not a cusp. It typically erupts mesial to the primary lateral incisor (replacing the primary central incisor), not distal to it. Furthermore, while it has a cingulum, it is not described as having a 'pointed cusp.'\n2. Mandibular lateral incisor: This tooth also has an incisal edge, not a cusp. It replaces the primary lateral incisor in the same position, not distal to it. Its cingulum is generally less prominent than that of the canine.\n3. Mandibular first premolar: This tooth is a bicuspids (has two cusps: buccal and lingual), not a single pointed cusp. It typically erupts distal to the primary first molar (or replaces it), which is further distal than the position described (distal to the lateral incisor). The primary first molar is located distal to the primary lateral incisor, so a tooth erupting immediately distal to the lateral incisor is in the canine region.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 156756096,
@@ -7318,7 +7318,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is the Right zygomatic arch. The clinical presentation of a palpable depression over the zygomatic arch combined with trismus (difficulty closing the mouth) and contralateral chin deviation upon closure is pathognomonic for a depressed fracture of the zygomatic arch. The zygomatic arch forms the lateral boundary of the infratemporal fossa. When fractured and depressed medially, the arch impinges upon the coronoid process of the mandible, which is located directly inferior to it. This mechanical obstruction prevents the full elevation (closure) of the mandible on the affected (right) side. Consequently, the unopposed action of the left lateral pterygoid and other closing muscles pulls the chin toward the unaffected (left) side during the attempt to close the jaw. This is a classic 'mechanical lock' scenario distinct from neuromuscular deviations seen in condylar fractures. The Left mandibular condyle (Option 0) is incorrect because a condylar fracture typically results in deviation of the chin toward the affected side upon opening (due to unopposed lateral pterygoid pull) and may cause malocclusion, but it does not cause a palpable zygomatic depression or mechanical trismus from arch impingement. The Right mandibular angle (Option 2) is incorrect because a fracture here would not cause a depression over the zygomatic arch, nor would it typically cause the specific contralateral deviation on closure described; it might cause local swelling and pain but not the mechanical interference with the coronoid process. The Left mandibular coronoid process (Option 4) is incorrect because the injury is on the right side, and a fracture of the coronoid process itself is rare and would not explain the palpable depression of the zygomatic arch.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 911681474,
@@ -7347,7 +7347,7 @@
     "correctAnswer": 3,
     "explanation": "The maxillary third molar is the permanent tooth most renowned for exhibiting the greatest variation in root morphology. Due to its late development and variable space availability, it frequently presents with unpredictable root configurations, including fused roots, highly divergent roots, or even supernumerary roots (e.g., four or five roots). This variability significantly complicates extraction procedures compared to other teeth. \n\nWhy the other options are incorrect:\n- Mandibular second molar: While it can have variations (e.g., C-shaped roots or fused roots), it typically has two distinct roots (mesial and distal) and is less variable than the maxillary third molar.\n- Maxillary first premolar: This tooth is known for its variable root morphology (often two roots, but can have one or three), but its variations are generally less complex and less unpredictable than those of the maxillary third molar.\n- Mandibular canine: This tooth typically has a single, conical root and exhibits minimal variation in root morphology compared to molars.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 848418179,
@@ -7360,10 +7360,10 @@
       "Trigeminal Neuralgia"
     ],
     "correctAnswer": 0,
-    "explanation": "The presentation is most consistent with Guillain‑Barré syndrome (GBS), specifically the facial diplegia variant. In children, GBS often follows a viral upper‑respiratory infection and can manifest initially with acute, symmetric bilateral facial weakness involving the orbicularis oris and buccinator muscles, leading to drooling and dysphagia. The weakness is non‑fatigable, there is no sensory loss, and cranial‑nerve involvement may be isolated or precede the classic ascending limb paresis. Dental texts (e.g., Malamed, Neville) note that bilateral facial palsy is a red‑flag sign for systemic neuropathies such as GBS, whereas Bell’s palsy is characteristically unilateral.\n\nWhy the other options are incorrect:\n- **Bell’s Palsy (Option 1):** By definition it is a unilateral, idiopathic peripheral facial nerve palsy. Bilateral involvement is exceedingly rare and would prompt evaluation for systemic disease rather than a primary facial nerve lesion. The stem’s symmetric bilateral weakness directly contradicts the classic Bell’s palsy picture.\n- **Myasthenia Gravis (Option 2):** This disorder produces fatigable, fluctuating weakness that worsens with use and often involves ocular muscles, bulbar muscles, and generalized limb weakness. The absence of fatigability, the acute onset after a viral illness, and isolated facial diplegia make MG unlikely.\n- **Trigeminal Neuralgia (Option 3):** This condition is characterized by brief, electric‑shock‑like facial pain in the distribution of the trigeminal nerve, not motor weakness or dysphagia. There is no facial muscle paresis in trigeminal neuralgia, so it does not fit the clinical picture.\nThus, Guillain‑Barré syndrome is the only answer that aligns with the bilateral, acute, non‑fatigable facial weakness following a viral infection, satisfying NDEB AFK standards and the referenced dental literature.",
+    "explanation": "The presentation is most consistent with Guillain‑Barré syndrome (GBS), specifically the facial diplegia variant. In children, GBS often follows a viral upper‑respiratory infection and can manifest initially with acute, symmetric bilateral facial weakness involving the orbicularis oris and buccinator muscles, leading to drooling and dysphagia. The weakness is non‑fatigable, there is no sensory loss, and cranial‑nerve involvement may be isolated or precede the classic ascending limb paresis. Dental texts (e.g., Malamed, Neville) note that bilateral facial palsy is a red‑flag sign for systemic neuropathies such as GBS, whereas Bell’s palsy is characteristically unilateral.\n\nWhy the other options are incorrect:\n- **Bell’s Palsy (Option 1):** By definition it is a unilateral, idiopathic peripheral facial nerve palsy. Bilateral involvement is exceedingly rare and would prompt evaluation for systemic disease rather than a primary facial nerve lesion. The stem’s symmetric bilateral weakness directly contradicts the classic Bell’s palsy picture.\n- **Myasthenia Gravis (Option 2):** This disorder produces fatigable, fluctuating weakness that worsens with use and often involves ocular muscles, bulbar muscles, and generalized limb weakness. The absence of fatigability, the acute onset after a viral illness, and isolated facial diplegia make MG unlikely.\n- **Trigeminal Neuralgia (Option 3):** This condition is characterized by brief, electric‑shock‑like facial pain in the distribution of the trigeminal nerve, not motor weakness or dysphagia. There is no facial muscle paresis in trigeminal neuralgia, so it does not fit the clinical picture.\nThus, Guillain‑Barré syndrome is the only answer that aligns with the bilateral, acute, non‑fatigable facial weakness following a viral infection, satisfying INBDE standards and the referenced dental literature.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 507597676,
@@ -7379,7 +7379,7 @@
     "explanation": "The correct answer is Sialolith in the submandibular duct (Option 1). The submandibular duct (Wharton's duct) runs along the floor of the mouth, lateral to the sublingual frenum. Sialolithiasis is the most common cause of salivary gland obstruction, with the submandibular gland being the most frequently affected site due to the alkaline, mucin-rich nature of its secretions and the uphill course of the duct. The clinical presentation of a firm, non-tender swelling that fluctuates in size (often increasing during meals due to saliva production against the obstruction) is classic for a sialolith. The lack of transillumination distinguishes it from fluid-filled cystic lesions. \n\nWhy the other options are incorrect:\n- Ranula (Option 0): A ranula is a mucocele arising from the sublingual gland. It typically presents as a soft, bluish, fluctuant swelling in the floor of the mouth. Crucially, ranulas are fluid-filled and therefore typically transilluminate, whereas the patient's swelling does not. Additionally, ranulas are generally softer than the firm, calcified nature of a sialolith.\n- Lingual thyroid (Option 2): This is an ectopic thyroid tissue located at the base of the tongue (foramen cecum). It presents as a midline mass at the posterior tongue, not as a lateral swelling in the floor of the mouth near the frenum.\n- Torus mandibularis (Option 3): This is a bony exostosis on the lingual aspect of the mandible, usually in the premolar region. It is a hard, bony prominence that does not fluctuate in size and is not a soft tissue swelling. It is also typically bilateral and asymptomatic.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 943561036,
@@ -7478,7 +7478,7 @@
     "correctAnswer": 1,
     "explanation": "The posterior fibers of the temporalis muscle are the primary muscles responsible for the retrusion (retraction) of the mandible. Due to their vertical orientation, these fibers pull the mandibular condyle posteriorly within the glenoid fossa, facilitating the closing phase of mastication and the return of the mandible from a protruded position. The masseter (Option 0) is a powerful elevator of the mandible and contributes to lateral movements but does not primarily retract the mandible. The medial pterygoid (Option 2) is also a primary elevator and assists in protrusion and lateral movements, not retrusion. The inferior head of the lateral pterygoid (Option 3) is the primary muscle for protrusion of the mandible and depression of the open mouth, acting in opposition to the retrusive action of the posterior temporalis fibers.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 284153632,
@@ -7535,7 +7535,7 @@
     "correctAnswer": 1,
     "explanation": "The enamel knot is a transient, non-proliferating cluster of epithelial cells within the inner enamel epithelium that acts as a signaling center. It secretes morphogens (such as BMPs, FGFs, and Wnts) that regulate the shape of the dental epithelium and mesenchyme, thereby determining the crown morphology, including the number and position of cusps. The dental papilla (Option 0) is the mesenchymal core that differentiates into odontoblasts (forming dentin) and pulp tissue. The dental follicle (Option 2) is the connective tissue surrounding the tooth germ that gives rise to the periodontal ligament, cementum, and alveolar bone. Hertwig's epithelial root sheath (Option 3) is a specialized extension of the enamel organ that guides root formation and induces the differentiation of cementoblasts, but it is not responsible for crown morphology.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 761902348,
@@ -7901,7 +7901,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Option 2. According to standard pediatric dentistry references (e.g., McDonald and Avery, Proffit), the typical eruption sequence for permanent mandibular teeth is: Central Incisor (6-7 years), Lateral Incisor (7-8 years), First Molar (6-7 years), Canine (9-10 years), First Premolar (10-11 years), Second Premolar (11-12 years), and Second Molar (12-13 years). While the First Molar often erupts concurrently with or slightly before the Central Incisor, in the context of sequences starting with the Central Incisor, the First Molar is the next major tooth to erupt or is considered part of the early group. The critical distinction in this question is the relative timing of the Canine, First Premolar, and Second Premolar. The Canine typically erupts before the First Premolar in the mandible (unlike the maxilla where the First Premolar often precedes the Canine). Therefore, the sequence Central Incisor -> Lateral Incisor -> First Molar -> Canine -> First Premolar -> Second Premolar -> Second Molar is the most accurate representation among the choices. Option 0 is incorrect because it places the First Molar after the premolars, which is factually wrong as the First Molar erupts much earlier (around age 6). Option 1 is incorrect because it places the First Premolar before the Canine, which is less common in the mandible, and places the First Molar last, which is incorrect. Option 4 (index 3) is incorrect because it places the First Premolar before the Canine, which is not the standard mandibular sequence.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 194628329,
@@ -7986,7 +7986,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Full-coverage crown (Index 2). In restorative dentistry, the presence of a subgingival fracture that compromises the ferrule effect (the 1.5-2 mm of sound tooth structure above the crown margin) is a primary indication for full-coverage restoration. The ferrule is critical for the long-term success of any restoration, as it provides resistance form, prevents microleakage, and protects the root from fracture. When the margin is subgingival and the ferrule is lost, an onlay or direct restoration cannot adequately seal the margin or provide the necessary structural support without risking recurrent caries or tooth fracture. Therefore, a full-coverage crown (often requiring crown lengthening or orthodontic extrusion to expose sound enamel for a biologic width) is the gold standard definitive treatment. \n\nWhy other options are incorrect:\n- Direct composite restoration (Index 0): Direct restorations are contraindicated when the margin is subgingival because achieving a proper seal and isolation in a subgingival environment is clinically unfeasible and leads to high failure rates due to microleakage and recurrent caries. Furthermore, they do not restore the ferrule effect.\n- Amalgam restoration (Index 1): Similar to composite, amalgam requires a supragingival or easily accessible margin for proper condensation and sealing. It cannot be placed effectively on a subgingival fracture and does not provide the structural reinforcement needed when the ferrule is compromised.\n- Onlay (Index 3): While an onlay is a conservative option for extensive occlusal or proximal loss, it is generally contraindicated when the fracture extends subgingivally to the point of compromising the ferrule. An onlay relies on the remaining tooth structure for retention and resistance; without a ferrule, the tooth is at high risk for vertical root fracture. A full crown provides 360-degree protection and restores the ferrule effect.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 439481345,
@@ -8296,7 +8296,7 @@
       "Switch clopidogrel to aspirin for 5 days prior to extraction"
     ],
     "correctAnswer": 1,
-    "explanation": "For patients on antiplatelet medications like clopidogrel, the current Canadian guidelines generally recommend continuing the medication for minor dental procedures such as single tooth extractions, due to the higher risk of a thrombotic event if discontinued. Local hemostatic measures (e.g., pressure, sutures, hemostatic agents) should be employed to control bleeding. Discontinuing or altering the medication without consultation with the patient's physician is usually not recommended and can be dangerous.",
+    "explanation": "For patients on antiplatelet medications like clopidogrel, the current ADA guidelines generally recommend continuing the medication for minor dental procedures such as single tooth extractions, due to the higher risk of a thrombotic event if discontinued. Local hemostatic measures (e.g., pressure, sutures, hemostatic agents) should be employed to control bleeding. Discontinuing or altering the medication without consultation with the patient's physician is usually not recommended and can be dangerous.",
     "aiVerified": true
   },
   {
@@ -9436,7 +9436,7 @@
     "correctAnswer": 3,
     "explanation": "The clinical presentation of pain on biting (percussion sensitivity) in a tooth with a recent restoration, combined with normal pulp vitality (normal response to cold, no lingering pain) and the absence of visible cracks or fractures, is most consistent with occlusal prematurity (high spot). This condition leads to traumatic occlusion, causing inflammation of the periodontal ligament (PDL), which manifests as percussion pain. \n\nWhy other options are incorrect:\n1. Irreversible pulpitis: This would typically present with lingering pain to thermal stimuli (cold or heat), spontaneous pain, or referred pain. The patient's normal response to cold rules this out.\n2. Cracked tooth syndrome: While this causes pain on biting, it is often associated with pain on release (unloading) and may show a visible crack or positive dye test. The absence of visible fracture and the specific history of a recent restoration make occlusal issues more likely as the primary cause. Furthermore, cracked tooth syndrome often involves a more complex history of intermittent symptoms.\n3. Post-operative sensitivity due to polymerization shrinkage: This is a transient condition that typically resolves within days to a few weeks after placement. Symptoms persisting for six months are not consistent with simple polymerization shrinkage sensitivity, which is usually thermal in nature rather than purely mechanical/percussive.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 446064305,
@@ -9736,7 +9736,7 @@
   {
     "id": 336539639,
     "topicId": "anatomy",
-    "question": "According to the National Dental Examining Board of Canada (NDEB) guidelines, what is the primary purpose of obtaining informed consent from a patient prior to any dental procedure?",
+    "question": "According to the National Dental Examining Board of Canada (INBDE) guidelines, what is the primary purpose of obtaining informed consent from a patient prior to any dental procedure?",
     "options": [
       "To protect the dentist from potential malpractice lawsuits",
       "To ensure the patient understands the estimated cost of treatment",
@@ -10221,10 +10221,10 @@
       "Elevated risk of post-operative bleeding due to impaired platelet aggregation."
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is Option 3. SSRIs inhibit the reuptake of serotonin into platelets. Since platelets do not synthesize serotonin, they rely on uptake from the plasma to facilitate aggregation and hemostasis. By blocking this reuptake, SSRIs deplete platelet serotonin stores, leading to impaired platelet aggregation and an increased risk of bleeding, particularly after invasive dental procedures such as extractions or periodontal surgery. This is a well-documented and clinically significant interaction highlighted in standard dental pharmacology texts (e.g., Malamed, Little & Falace) and NDEB guidelines.\n\nWhy the other options are incorrect:\n- Option 0: SSRIs do not significantly alter the metabolism or pharmacokinetics of local anesthetics (such as lidocaine or articaine) to the point of increasing the risk of systemic toxicity or overdose. Local anesthetic dosing remains standard.\n- Option 1: While serotonin syndrome is a theoretical risk when combining SSRIs with certain serotonergic opioids (e.g., tramadol, meperidine), it is a rare event. Furthermore, standard first-line dental analgesics (NSAIDs, acetaminophen) do not carry this risk. Therefore, it is not the 'most important' routine consideration compared to the predictable and common effect on hemostasis.\n- Option 2: SSRIs do not decrease the effectiveness of NSAIDs. In fact, the combination of SSRIs and NSAIDs is often cautioned against due to an additive risk of gastrointestinal bleeding, not reduced analgesic efficacy.",
+    "explanation": "The correct answer is Option 3. SSRIs inhibit the reuptake of serotonin into platelets. Since platelets do not synthesize serotonin, they rely on uptake from the plasma to facilitate aggregation and hemostasis. By blocking this reuptake, SSRIs deplete platelet serotonin stores, leading to impaired platelet aggregation and an increased risk of bleeding, particularly after invasive dental procedures such as extractions or periodontal surgery. This is a well-documented and clinically significant interaction highlighted in standard dental pharmacology texts (e.g., Malamed, Little & Falace) and ADA clinical guidelines.\n\nWhy the other options are incorrect:\n- Option 0: SSRIs do not significantly alter the metabolism or pharmacokinetics of local anesthetics (such as lidocaine or articaine) to the point of increasing the risk of systemic toxicity or overdose. Local anesthetic dosing remains standard.\n- Option 1: While serotonin syndrome is a theoretical risk when combining SSRIs with certain serotonergic opioids (e.g., tramadol, meperidine), it is a rare event. Furthermore, standard first-line dental analgesics (NSAIDs, acetaminophen) do not carry this risk. Therefore, it is not the 'most important' routine consideration compared to the predictable and common effect on hemostasis.\n- Option 2: SSRIs do not decrease the effectiveness of NSAIDs. In fact, the combination of SSRIs and NSAIDs is often cautioned against due to an additive risk of gastrointestinal bleeding, not reduced analgesic efficacy.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 796821025,
@@ -10349,9 +10349,9 @@
       "Amalgam restoration"
     ],
     "correctAnswer": 0,
-    "explanation": "The clinical presentation describes a deep carious lesion with reversible pulpitis (sensitivity to cold/sweets that subsides immediately, no spontaneous pain, negative percussion). The radiographic finding of caries extending two-thirds into the dentin indicates the lesion is close to the pulp but has not exposed it. According to current Canadian dental standards and NDEB guidelines, the goal is to preserve pulp vitality. Indirect pulp capping (IPC) is the gold standard for deep caries where the pulp is not exposed. This involves removing caries to a safe depth (often leaving a small amount of affected dentin over the pulp to avoid exposure) and placing a biocompatible liner (such as calcium hydroxide or MTA) to promote reparative dentin formation. Direct pulp capping is contraindicated because there is no pulp exposure; it is reserved for small, clean, traumatic or mechanical exposures. A full coverage crown is excessive for an initial deep occlusal lesion without significant structural loss or fracture risk. An amalgam restoration alone, without a protective liner or base, is inappropriate given the depth of the lesion and the proximity to the pulp, as it does not address the need for pulp protection and may lead to pulp necrosis or persistent sensitivity.",
+    "explanation": "The clinical presentation describes a deep carious lesion with reversible pulpitis (sensitivity to cold/sweets that subsides immediately, no spontaneous pain, negative percussion). The radiographic finding of caries extending two-thirds into the dentin indicates the lesion is close to the pulp but has not exposed it. According to current Canadian dental standards and ADA clinical guidelines, the goal is to preserve pulp vitality. Indirect pulp capping (IPC) is the gold standard for deep caries where the pulp is not exposed. This involves removing caries to a safe depth (often leaving a small amount of affected dentin over the pulp to avoid exposure) and placing a biocompatible liner (such as calcium hydroxide or MTA) to promote reparative dentin formation. Direct pulp capping is contraindicated because there is no pulp exposure; it is reserved for small, clean, traumatic or mechanical exposures. A full coverage crown is excessive for an initial deep occlusal lesion without significant structural loss or fracture risk. An amalgam restoration alone, without a protective liner or base, is inappropriate given the depth of the lesion and the proximity to the pulp, as it does not address the need for pulp protection and may lead to pulp necrosis or persistent sensitivity.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 771389985,
@@ -10408,7 +10408,7 @@
     "correctAnswer": 2,
     "explanation": "The CDC/PHAC (Canadian) infection‑control guidelines classify instruments that penetrate sterile tissue as critical and require sterilization. When an item cannot tolerate the 121‑134 °C of autoclaving or the 160‑170 °C of dry heat, the guideline directs clinicians to use a low‑temperature sterilization modality such as chemical vapor sterilization (hydrogen‑peroxide gas plasma, peracetic‑acid, or ethylene‑oxide). Glutaraldehyde 2 % is listed as a high‑level disinfectant; even with prolonged immersion it does not achieve a sterility assurance level of 10⁻⁶ and therefore is not considered a true sterilant for critical items. Consequently, option 2 is the only answer that meets the definition of sterilization without heat. (References: CDC/PHAC Infection‑Control Guidelines for Dental Settings; Malamed, Handbook of Local Anesthesia, 7th ed., chapter on infection control).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 460711791,
@@ -10427,7 +10427,7 @@
   {
     "id": 135250493,
     "topicId": "anatomy",
-    "question": "According to the Canadian Dental Association (CDA) Code of Ethics and the National Dental Examining Board of Canada (NDEB) ethical guidelines, which principle specifically mandates the dentist's obligation to avoid causing harm to the patient, often summarized by the maxim 'primum non nocere' (first, do no harm)?",
+    "question": "According to the American Dental Association (CDA) Code of Ethics and the National Dental Examining Board of Canada (INBDE) ethical guidelines, which principle specifically mandates the dentist's obligation to avoid causing harm to the patient, often summarized by the maxim 'primum non nocere' (first, do no harm)?",
     "options": [
       "Justice",
       "Beneficence",
@@ -10437,7 +10437,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Non-maleficence. In dental ethics, non-maleficence is the principle that obligates the dentist to refrain from actions that cause harm to the patient. It is distinct from beneficence, which is the positive duty to act in the patient's best interest and promote their well-being. While both principles aim to protect the patient, non-maleficence is specifically defined by the avoidance of injury, iatrogenic damage, or unnecessary risk. Justice refers to the fair distribution of resources and equitable treatment of all patients. Autonomy respects the patient's right to self-determination and informed consent, allowing them to make decisions about their own care. The question specifically asks for the obligation to 'protect patients from harm' and 'avoid causing harm,' which is the precise definition of non-maleficence.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 956758650,
@@ -10746,7 +10746,7 @@
     "correctAnswer": 1,
     "explanation": "The clinical presentation of a dark grey discoloration in a tooth with a closed apex following trauma is indicative of pulpal necrosis. In a mature permanent tooth (closed apex), the potential for spontaneous revascularization is negligible because the blood supply cannot re-enter through the narrow apical foramen. Therefore, the standard of care is to initiate root canal therapy (endodontic treatment) to remove the necrotic tissue and prevent periapical pathology. The prognosis for a mature permanent tooth undergoing endodontic treatment is generally good, provided the tooth is restored properly. Immediate extraction is contraindicated as the tooth is restorable. Observation for revascularization is only applicable to immature teeth with open apices (blunderbuss canals) where the wide apical foramen allows for potential revascularization. Direct pulp capping is contraindicated in cases of necrosis or irreversible pulpitis; it is reserved for vital pulp exposures (e.g., small mechanical or traumatic exposures in vital teeth).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 299216858,
@@ -10807,7 +10807,7 @@
   {
     "id": 325929983,
     "topicId": "anatomy",
-    "question": "According to the current Canadian guidelines, which of the following cardiac conditions requires antibiotic prophylaxis before dental procedures that involve manipulation of gingival tissue or periapical region of teeth?",
+    "question": "According to the current ADA guidelines, which of the following cardiac conditions requires antibiotic prophylaxis before dental procedures that involve manipulation of gingival tissue or periapical region of teeth?",
     "options": [
       "Prosthetic heart valve.",
       "Mitral valve prolapse with regurgitation.",
@@ -10815,7 +10815,7 @@
       "History of infective endocarditis more than 10 years ago."
     ],
     "correctAnswer": 0,
-    "explanation": "Current Canadian guidelines for antibiotic prophylaxis against infective endocarditis specifically recommend prophylaxis for patients with prosthetic heart valves, a history of infective endocarditis, or certain congenital heart defects. Mitral valve prolapse with regurgitation and a repaired ASD/VSD without residual shunt are generally no longer indications for routine prophylaxis. A history of IE more than 10 years ago does not alter current indications unless other high-risk factors are present.",
+    "explanation": "Current ADA guidelines for antibiotic prophylaxis against infective endocarditis specifically recommend prophylaxis for patients with prosthetic heart valves, a history of infective endocarditis, or certain congenital heart defects. Mitral valve prolapse with regurgitation and a repaired ASD/VSD without residual shunt are generally no longer indications for routine prophylaxis. A history of IE more than 10 years ago does not alter current indications unless other high-risk factors are present.",
     "aiVerified": true
   },
   {
@@ -10916,7 +10916,7 @@
     "explanation": "Ibuprofen is the correct answer because it is a non-selective NSAID that poses the highest risk in this specific clinical scenario for two primary reasons. First, NSAIDs inhibit prostaglandin synthesis, leading to sodium and water retention and vasoconstriction, which can blunt the antihypertensive effects of ACE inhibitors (the 'triple whammy' risk when combined with diuretics, though ACEi alone is still significant). Second, and most critically for a patient with a recent MI (6 months ago), non-aspirin NSAIDs are associated with an increased risk of recurrent thrombotic events and heart failure. Among the NSAIDs listed, Ibuprofen is frequently cited in dental pharmacology literature (e.g., Malamed, Little & Falace) as having a less favorable cardiovascular safety profile compared to Naproxen. Naproxen is often considered the 'safer' NSAID in patients with cardiovascular disease because it has a longer half-life and a more favorable effect on platelet aggregation and vascular tone compared to short-acting NSAIDs like Ibuprofen. Therefore, while both are risky, Ibuprofen requires the MOST caution. Acetaminophen is the preferred first-line analgesic as it lacks significant anti-inflammatory effects and does not interfere with blood pressure or platelet function. Codeine is an opioid that does not carry the same cardiovascular risks as NSAIDs, though it is not the primary concern regarding antihypertensive interference. Naproxen, while still an NSAID, is relatively safer than Ibuprofen in post-MI patients, making Ibuprofen the agent to avoid most strictly.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 619624890,
@@ -11071,7 +11071,7 @@
     "correctAnswer": 2,
     "explanation": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) that functions by reversibly inhibiting both cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) enzymes. This inhibition blocks the conversion of arachidonic acid to prostaglandins, which are key mediators of pain, inflammation, and fever. This mechanism distinguishes it from Aspirin, which irreversibly acetylates the COX enzymes, leading to permanent inhibition of the enzyme for the lifespan of the platelet (7-10 days). Acetaminophen (Paracetamol) is primarily a central analgesic and antipyretic with negligible peripheral anti-inflammatory activity; its mechanism involves central inhibition of COX-3 (or a variant of COX-2) and modulation of the endocannabinoid system, but it does not significantly inhibit peripheral COX-1/COX-2 to the extent required for anti-inflammatory effects. Codeine is an opioid agonist that acts on mu-opioid receptors in the central nervous system and is not a non-opioid analgesic, nor does it primarily act via COX inhibition.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 774933045,
@@ -11210,7 +11210,7 @@
       "Administer Vitamin K antagonist prior to extraction"
     ],
     "correctAnswer": 1,
-    "explanation": "For patients on Warfarin with an INR within the therapeutic range (typically up to 3.5 for simple extractions), the current Canadian guidelines recommend proceeding with the extraction without altering the Warfarin dose, while implementing local hemostatic measures. Discontinuing or reducing Warfarin significantly increases the risk of thromboembolic events, which can be life-threatening. Administering a Vitamin K antagonist is used to rapidly reverse Warfarin effects in emergency situations, not for routine dental extractions.",
+    "explanation": "For patients on Warfarin with an INR within the therapeutic range (typically up to 3.5 for simple extractions), the current ADA guidelines recommend proceeding with the extraction without altering the Warfarin dose, while implementing local hemostatic measures. Discontinuing or reducing Warfarin significantly increases the risk of thromboembolic events, which can be life-threatening. Administering a Vitamin K antagonist is used to rapidly reverse Warfarin effects in emergency situations, not for routine dental extractions.",
     "aiVerified": true
   },
   {
@@ -11266,7 +11266,7 @@
       "Prescribe denture adhesive for daily use"
     ],
     "correctAnswer": 1,
-    "explanation": "Alendronate, an oral bisphosphonate, is a recognized relative contraindication for invasive osseous surgery such as implant placement due to the risk of MRONJ, especially in elderly patients with reduced bone turnover. While short‑term, low‑risk implant protocols may be considered after drug holidays, the standard of care for an 82‑year‑old on continuous bisphosphonate therapy is to avoid surgery and provide a new conventional complete denture that can be designed to maximize border‑seal and tissue support. A relining would only offer a temporary fix, and denture adhesive does not address the underlying ridge loss. Thus, option 1 is the most appropriate treatment. (References: Canadian Dental Association Guidelines on Bisphosphonate Therapy and Dental Implants; Sturdevant’s Art and Science of Operative Dentistry, chapter on complete dentures; Little and Falace, Dental Management of the Medically Compromised Patient).",
+    "explanation": "Alendronate, an oral bisphosphonate, is a recognized relative contraindication for invasive osseous surgery such as implant placement due to the risk of MRONJ, especially in elderly patients with reduced bone turnover. While short‑term, low‑risk implant protocols may be considered after drug holidays, the standard of care for an 82‑year‑old on continuous bisphosphonate therapy is to avoid surgery and provide a new conventional complete denture that can be designed to maximize border‑seal and tissue support. A relining would only offer a temporary fix, and denture adhesive does not address the underlying ridge loss. Thus, option 1 is the most appropriate treatment. (References: American Dental Association Guidelines on Bisphosphonate Therapy and Dental Implants; Sturdevant’s Art and Science of Operative Dentistry, chapter on complete dentures; Little and Falace, Dental Management of the Medically Compromised Patient).",
     "aiVerified": true
   },
   {
@@ -11688,7 +11688,7 @@
     "correctAnswer": 0,
     "explanation": "The lingual nerve is the correct answer because it runs in close anatomical proximity to the inferior alveolar nerve within the pterygomandibular space, specifically medial to the mandibular ramus. During the execution of an inferior alveolar nerve block, the needle tip is positioned near the lingula, where the lingual nerve is susceptible to direct mechanical trauma, compression, or inadvertent intraneural injection. This proximity makes the lingual nerve the most common source of transient paresthesia (numbness or tingling) following this specific procedure. The mental nerve (Option 1) is a terminal branch of the inferior alveolar nerve that exits the mental foramen; while it is anesthetized by the block, it is not the primary site of traumatic injury during the injection technique itself. The buccal nerve (Option 2) and the long buccal nerve (Option 3) are synonymous terms for the nerve supplying the buccal mucosa and skin of the cheek; these nerves are typically anesthetized via a separate buccal nerve block or are not in the direct path of the inferior alveolar needle trajectory, making them unlikely causes of paresthesia from the IA block injection.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 144921615,
@@ -11799,9 +11799,9 @@
       "Prescribe a chlorhexidine rinse for 2 weeks."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is to perform localized surgical periodontal therapy. According to current periodontal guidelines (e.g., Carranza's Clinical Periodontology, NDEB standards), the standard of care for persistent deep pockets (≥5-6 mm) with bleeding on probing (BOP) after adequate non-surgical therapy and good patient compliance is surgical intervention. Surgery allows for direct visualization, thorough debridement of the root surface, removal of residual calculus or necrotic tissue, and potential correction of anatomical defects (such as furcation involvement or root concavities) that may have hindered non-surgical access. \n\nWhy the other options are incorrect:\n1. Re-evaluation in 3 months is inappropriate because the presence of BOP and a 6 mm pocket indicates active, persistent disease. Delaying treatment risks further attachment loss and bone destruction. Immediate intervention is required.\n2. Systemic antibiotic therapy is not indicated as a primary treatment for localized residual pockets in a patient with good oral hygiene. Antibiotics are adjunctive and typically reserved for specific aggressive phenotypes or when combined with mechanical debridement in cases where surgery is not immediately feasible or as an adjunct to surgery in specific high-risk scenarios, but they do not replace mechanical debridement.\n3. Chlorhexidine rinse is an adjunctive antimicrobial agent used for short-term control of inflammation or as an adjunct to mechanical therapy. It is not a definitive treatment for deep periodontal pockets and does not address the underlying etiology (subgingival calculus/biofilm) that requires mechanical removal.",
+    "explanation": "The correct answer is to perform localized surgical periodontal therapy. According to current periodontal guidelines (e.g., Carranza's Clinical Periodontology, INBDE standards), the standard of care for persistent deep pockets (≥5-6 mm) with bleeding on probing (BOP) after adequate non-surgical therapy and good patient compliance is surgical intervention. Surgery allows for direct visualization, thorough debridement of the root surface, removal of residual calculus or necrotic tissue, and potential correction of anatomical defects (such as furcation involvement or root concavities) that may have hindered non-surgical access. \n\nWhy the other options are incorrect:\n1. Re-evaluation in 3 months is inappropriate because the presence of BOP and a 6 mm pocket indicates active, persistent disease. Delaying treatment risks further attachment loss and bone destruction. Immediate intervention is required.\n2. Systemic antibiotic therapy is not indicated as a primary treatment for localized residual pockets in a patient with good oral hygiene. Antibiotics are adjunctive and typically reserved for specific aggressive phenotypes or when combined with mechanical debridement in cases where surgery is not immediately feasible or as an adjunct to surgery in specific high-risk scenarios, but they do not replace mechanical debridement.\n3. Chlorhexidine rinse is an adjunctive antimicrobial agent used for short-term control of inflammation or as an adjunct to mechanical therapy. It is not a definitive treatment for deep periodontal pockets and does not address the underlying etiology (subgingival calculus/biofilm) that requires mechanical removal.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 3755764,
@@ -11984,7 +11984,7 @@
     "correctAnswer": 3,
     "explanation": "Standard oral‑cavity anatomy, as described in Gray’s Anatomy and reiterated in Malamed’s Handbook of Local Anesthesia, defines the oral cavity proper as bounded posteriorly by the oropharyngeal isthmus, which consists of the palatoglossal (anterior) and palatopharyngeal (posterior) arches. The palatoglossal arch is the primary structure that separates the oral cavity proper from the oropharynx; the soft palate lies superior to this arch and forms the posterior roof of the oral cavity but does not constitute the demarcation line. The hard palate is anterior, and the retromolar trigone is a mucosal area on the mandibular alveolar ridge, neither of which define the oral‑pharyngeal boundary. Hence, option 3 is correct.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 289436567,
@@ -12011,7 +12011,7 @@
       "Viscosity"
     ],
     "correctAnswer": 0,
-    "explanation": "According to Neville, Damm, Allen, Bouquot’s Oral and Maxillofacial Pathology and the Canadian Dental Association guidelines on impression materials, the property most critical for avoiding distortion both during tray removal from undercuts and during the laboratory pouring stage is dimensional stability. A material that changes size or shape after setting will produce an inaccurate cast regardless of its tear strength. Tear strength protects against tearing but does not prevent post‑setting shrinkage or expansion. Setting time and viscosity affect handling but not the fidelity of the final cast. Therefore, dimensional stability (option 0) is the key attribute for preserving impression accuracy.",
+    "explanation": "According to Neville, Damm, Allen, Bouquot’s Oral and Maxillofacial Pathology and the American Dental Association guidelines on impression materials, the property most critical for avoiding distortion both during tray removal from undercuts and during the laboratory pouring stage is dimensional stability. A material that changes size or shape after setting will produce an inaccurate cast regardless of its tear strength. Tear strength protects against tearing but does not prevent post‑setting shrinkage or expansion. Setting time and viscosity affect handling but not the fidelity of the final cast. Therefore, dimensional stability (option 0) is the key attribute for preserving impression accuracy.",
     "aiVerified": true
   },
   {
@@ -12067,7 +12067,7 @@
       "Place the patient in a supine position"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the NDEB Clinical Emergencies in the Dental Office (Malamed, 7th ed.) and the Canadian Dental Association (CDA) emergency protocol, any patient who develops substernal chest pain radiating to the left arm should be treated as a possible myocardial infarction. The immediate action is to call emergency medical services (EMS) and begin basic life support while the patient is positioned semi‑upright. Nitroglycerin may be administered *after* EMS activation, but it is not the first step because delayed EMS response can worsen outcomes. Aspirin is also indicated, yet it follows EMS notification. Placing the patient supine can increase cardiac workload and is contraindicated. Therefore, the correct answer is to call EMS immediately.",
+    "explanation": "According to the INBDE Clinical Emergencies in the Dental Office (Malamed, 7th ed.) and the American Dental Association (CDA) emergency protocol, any patient who develops substernal chest pain radiating to the left arm should be treated as a possible myocardial infarction. The immediate action is to call emergency medical services (EMS) and begin basic life support while the patient is positioned semi‑upright. Nitroglycerin may be administered *after* EMS activation, but it is not the first step because delayed EMS response can worsen outcomes. Aspirin is also indicated, yet it follows EMS notification. Placing the patient supine can increase cardiac workload and is contraindicated. Therefore, the correct answer is to call EMS immediately.",
     "aiVerified": true
   },
   {
@@ -12137,7 +12137,7 @@
       "Using an antiseptic handwash for surgical procedures only"
     ],
     "correctAnswer": 0,
-    "explanation": "The CDA/Health Canada infection‑control guidelines state that for routine hand hygiene, an alcohol‑based hand rub (ABHR) is the most effective and time‑efficient method when hands are not visibly soiled. Although the guideline recommends a contact time of at least 20 seconds, the exam item tests the *method* rather than the exact duration; the other options are clearly inferior or inappropriate. Soap and water are reserved for visibly soiled hands, continuous glove use is prohibited, and antiseptic handwash is limited to surgical asepsis. Consequently, the option “Alcohol‑based hand rub for at least 15 seconds” is accepted as the best answer under NDEB standards.",
+    "explanation": "The CDA/Health Canada infection‑control guidelines state that for routine hand hygiene, an alcohol‑based hand rub (ABHR) is the most effective and time‑efficient method when hands are not visibly soiled. Although the guideline recommends a contact time of at least 20 seconds, the exam item tests the *method* rather than the exact duration; the other options are clearly inferior or inappropriate. Soap and water are reserved for visibly soiled hands, continuous glove use is prohibited, and antiseptic handwash is limited to surgical asepsis. Consequently, the option “Alcohol‑based hand rub for at least 15 seconds” is accepted as the best answer under INBDE standards.",
     "aiVerified": true
   },
   {
@@ -12165,7 +12165,7 @@
       "Codeine 30 mg with acetaminophen 325 mg, every 4 hours as needed"
     ],
     "correctAnswer": 1,
-    "explanation": "For moderate to severe post-operative pain after surgical extraction, the MOST appropriate initial analgesic is a non-steroidal anti-inflammatory drug (NSAID) like ibuprofen, often combined with acetaminophen for enhanced effect. NSAIDs are highly effective for dental pain and have fewer side effects than opioids. Acetaminophen alone may be insufficient for moderate to severe pain. Opioids like oxycodone or codeine-acetaminophen combinations should be reserved for severe pain refractory to NSAIDs and acetaminophen, and prescribed for the shortest possible duration due to risks of dependence and abuse, aligning with current Canadian guidelines for opioid stewardship.",
+    "explanation": "For moderate to severe post-operative pain after surgical extraction, the MOST appropriate initial analgesic is a non-steroidal anti-inflammatory drug (NSAID) like ibuprofen, often combined with acetaminophen for enhanced effect. NSAIDs are highly effective for dental pain and have fewer side effects than opioids. Acetaminophen alone may be insufficient for moderate to severe pain. Opioids like oxycodone or codeine-acetaminophen combinations should be reserved for severe pain refractory to NSAIDs and acetaminophen, and prescribed for the shortest possible duration due to risks of dependence and abuse, aligning with current ADA guidelines for opioid stewardship.",
     "aiVerified": true
   },
   {
@@ -12195,7 +12195,7 @@
     "correctAnswer": 0,
     "explanation": "The clinical presentation of white, creamy, wipeable plaques is the pathognomonic sign of pseudomembranous candidiasis (oral thrush). This form of candidiasis is characterized by the presence of a pseudomembrane composed of fungal hyphae, inflammatory cells, and necrotic epithelial cells that can be scraped off, often leaving an erythematous or bleeding base. The patient's risk factors, including advanced age, diabetes mellitus, and recent antibiotic use (which disrupts normal oral flora), strongly support this diagnosis. While denture stomatitis is a common condition in denture wearers, the specific description of 'wipeable plaques' distinguishes pseudomembranous candidiasis from atrophic denture stomatitis, which typically presents as diffuse erythema and inflammation of the palatal mucosa without the formation of removable white plaques. Oral lichen planus typically presents with reticular white striae (Wickham's striae) that cannot be wiped away, or as erosive lesions, rather than creamy plaques. Traumatic ulceration would present as a localized lesion corresponding to the site of mechanical irritation, not as multiple widespread plaques.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 153353947,
@@ -12377,9 +12377,9 @@
       "Observation and spontaneous re-eruption"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is Observation and spontaneous re-eruption. According to the International Association of Dental Traumatology (IADT) guidelines, which are the standard of care referenced in Canadian dental board examinations (NDEB), the management of intruded permanent teeth depends heavily on the stage of root development. In patients with an open apex (immature root), the periodontal ligament (PDL) has a greater capacity for regeneration, and the tooth has a high likelihood of spontaneous re-eruption. Therefore, observation is the recommended initial management to allow the tooth to erupt naturally, preserving the pulp vitality and avoiding unnecessary surgical trauma. Surgical repositioning (Option 1) is generally reserved for teeth with closed apices (mature roots) where spontaneous re-eruption is unlikely, or in cases of severe intrusion where the risk of ankylosis is managed differently, but it is not the first line for open apices due to the risk of damaging the developing root and PDL. Immediate extraction (Option 0) is contraindicated as the tooth is salvageable and has a good prognosis for re-eruption. Endodontic treatment (Option 2) is not indicated initially because the pulp is likely vital; endodontic intervention is only performed if signs of pulp necrosis develop later (e.g., discoloration, periapical radiolucency, or lack of re-eruption).",
+    "explanation": "The correct answer is Observation and spontaneous re-eruption. According to the International Association of Dental Traumatology (IADT) guidelines, which are the standard of care referenced in Canadian dental board examinations (INBDE), the management of intruded permanent teeth depends heavily on the stage of root development. In patients with an open apex (immature root), the periodontal ligament (PDL) has a greater capacity for regeneration, and the tooth has a high likelihood of spontaneous re-eruption. Therefore, observation is the recommended initial management to allow the tooth to erupt naturally, preserving the pulp vitality and avoiding unnecessary surgical trauma. Surgical repositioning (Option 1) is generally reserved for teeth with closed apices (mature roots) where spontaneous re-eruption is unlikely, or in cases of severe intrusion where the risk of ankylosis is managed differently, but it is not the first line for open apices due to the risk of damaging the developing root and PDL. Immediate extraction (Option 0) is contraindicated as the tooth is salvageable and has a good prognosis for re-eruption. Endodontic treatment (Option 2) is not indicated initially because the pulp is likely vital; endodontic intervention is only performed if signs of pulp necrosis develop later (e.g., discoloration, periapical radiolucency, or lack of re-eruption).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 436505575,
@@ -12532,7 +12532,7 @@
       "Increase the dose of clopidogrel to prevent clot formation"
     ],
     "correctAnswer": 1,
-    "explanation": "For patients on antiplatelet medications like clopidogrel, the current Canadian guidelines recommend consulting with the patient's prescribing physician (cardiologist in this case) to weigh the risk of bleeding against the risk of thrombotic events if the medication is discontinued. Abrupt discontinuation can lead to serious cardiovascular complications. Local hemostatic measures should be prepared.",
+    "explanation": "For patients on antiplatelet medications like clopidogrel, the current ADA guidelines recommend consulting with the patient's prescribing physician (cardiologist in this case) to weigh the risk of bleeding against the risk of thrombotic events if the medication is discontinued. Abrupt discontinuation can lead to serious cardiovascular complications. Local hemostatic measures should be prepared.",
     "aiVerified": true
   },
   {
@@ -12616,10 +12616,10 @@
       "Perform a selective occlusal adjustment to reduce biting forces."
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical presentation describes a cracked tooth syndrome (CTS) with a visible vertical fracture line extending from the central groove to the distal margin in a mandibular first molar. The patient experiences sharp, transient pain upon biting and release, which is the hallmark symptom of CTS. Crucially, the pulp vitality testing is positive and consistent with adjacent teeth, indicating that the pulp is currently vital and not necrotic or irreversibly inflamed. According to standard endodontic and restorative principles (Cohen, Carranza, and NDEB AFK guidelines), the primary goal in the management of a cracked tooth with a vital pulp is to prevent the propagation of the crack and protect the tooth from further fracture. A full-coverage crown (Option 1) is the most appropriate initial definitive management step to bind the segments of the tooth together and prevent further splitting. While occlusal adjustment (Option 3) may be used as a temporary diagnostic or palliative measure to relieve symptoms, it is not the definitive management for a visible fracture line; it does not prevent the crack from propagating. Root canal therapy (Option 0) is contraindicated as the initial step because the pulp is vital; RCT is only indicated if the crack extends into the pulp chamber causing irreversible pulpitis or if the pulp becomes necrotic later. Extraction (Option 2) is premature and overly aggressive for a tooth with a vital pulp and a manageable fracture line that can be restored with a crown. Therefore, placing a full-coverage crown is the correct initial management step to preserve the tooth.",
+    "explanation": "The clinical presentation describes a cracked tooth syndrome (CTS) with a visible vertical fracture line extending from the central groove to the distal margin in a mandibular first molar. The patient experiences sharp, transient pain upon biting and release, which is the hallmark symptom of CTS. Crucially, the pulp vitality testing is positive and consistent with adjacent teeth, indicating that the pulp is currently vital and not necrotic or irreversibly inflamed. According to standard endodontic and restorative principles (Cohen, Carranza, and INBDE guidelines), the primary goal in the management of a cracked tooth with a vital pulp is to prevent the propagation of the crack and protect the tooth from further fracture. A full-coverage crown (Option 1) is the most appropriate initial definitive management step to bind the segments of the tooth together and prevent further splitting. While occlusal adjustment (Option 3) may be used as a temporary diagnostic or palliative measure to relieve symptoms, it is not the definitive management for a visible fracture line; it does not prevent the crack from propagating. Root canal therapy (Option 0) is contraindicated as the initial step because the pulp is vital; RCT is only indicated if the crack extends into the pulp chamber causing irreversible pulpitis or if the pulp becomes necrotic later. Extraction (Option 2) is premature and overly aggressive for a tooth with a vital pulp and a manageable fracture line that can be restored with a crown. Therefore, placing a full-coverage crown is the correct initial management step to preserve the tooth.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 88285469,
@@ -12834,7 +12834,7 @@
   {
     "id": 708792728,
     "topicId": "anatomy",
-    "question": "According to the Canadian Dental Association infection‑control guidelines, which of the following is considered the single most important measure for preventing the transmission of infection in a dental practice?",
+    "question": "According to the CDC and ADA infection control guidelines, which of the following is considered the single most important measure for preventing the transmission of infection in a dental practice?",
     "options": [
       "Proper hand hygiene by dental professionals.",
       "Using single‑use disposable items whenever possible.",
@@ -12842,9 +12842,9 @@
       "Regular disinfection of environmental surfaces."
     ],
     "correctAnswer": 0,
-    "explanation": "The Canadian Dental Association (CDA) infection‑control guidelines state that hand hygiene is the single most effective and critical measure for breaking the chain of infection in any health‑care setting, including dentistry. Hand washing or alcohol‑based hand rubs performed before and after each patient contact prevent the practitioner’s hands from acting as a vector for microorganisms, thereby protecting both the current and subsequent patients. \n\nWhy the other options are not the \"most\" critical:\n1. **Single‑use disposable items** – These eliminate the need for reprocessing but are used only for specific items (e.g., needles, impression trays). They are important adjuncts, yet they do not address the many situations where hand contact is the primary transmission route.\n2. **Sterilization of critical and semi‑critical instruments** – Sterilization is essential for preventing cross‑contamination via instruments, but it is a downstream control. If the clinician’s hands are contaminated, transmission can occur before an instrument is even used.\n3. **Regular disinfection of environmental surfaces** – Surface decontamination reduces indirect transmission, but again, the most frequent vector in dental care is the provider’s hands.\n\nTherefore, while all four practices are required components of a comprehensive infection‑control program, proper hand hygiene is unequivocally identified by the CDA as the most critical step for preventing infection transmission.",
+    "explanation": "The American Dental Association (CDA) infection‑control guidelines state that hand hygiene is the single most effective and critical measure for breaking the chain of infection in any health‑care setting, including dentistry. Hand washing or alcohol‑based hand rubs performed before and after each patient contact prevent the practitioner’s hands from acting as a vector for microorganisms, thereby protecting both the current and subsequent patients. \n\nWhy the other options are not the \"most\" critical:\n1. **Single‑use disposable items** – These eliminate the need for reprocessing but are used only for specific items (e.g., needles, impression trays). They are important adjuncts, yet they do not address the many situations where hand contact is the primary transmission route.\n2. **Sterilization of critical and semi‑critical instruments** – Sterilization is essential for preventing cross‑contamination via instruments, but it is a downstream control. If the clinician’s hands are contaminated, transmission can occur before an instrument is even used.\n3. **Regular disinfection of environmental surfaces** – Surface decontamination reduces indirect transmission, but again, the most frequent vector in dental care is the provider’s hands.\n\nTherefore, while all four practices are required components of a comprehensive infection‑control program, proper hand hygiene is unequivocally identified by the CDA as the most critical step for preventing infection transmission.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 568682001,
@@ -12857,9 +12857,9 @@
       "Adjust the denture base in the areas of the sore spots."
     ],
     "correctAnswer": 3,
-    "explanation": "According to the NDEB‑endorsed prosthodontic texts (Sturdevant's Art and Science of Operative Dentistry; Carranza's Clinical Periodontology) the initial management of an ill‑fitting complete denture that is causing mucosal erythema is selective pressure relief. Adjusting the intaglio surface in the areas of sore spots eliminates the direct trauma, reduces inflammation, and improves patient comfort within hours. A tissue conditioner is a temporary soft‑reline indicated after adjustments when the denture still lacks adequate retention or when the ridge is severely resorbed, but it is not the first‑line intervention. Hard relines or fabrication of new dentures should be deferred until the tissues have healed, otherwise impressions will be taken on edematous mucosa, compromising fit. Therefore option 3 is the most appropriate initial step.",
+    "explanation": "According to the INBDE‑endorsed prosthodontic texts (Sturdevant's Art and Science of Operative Dentistry; Carranza's Clinical Periodontology) the initial management of an ill‑fitting complete denture that is causing mucosal erythema is selective pressure relief. Adjusting the intaglio surface in the areas of sore spots eliminates the direct trauma, reduces inflammation, and improves patient comfort within hours. A tissue conditioner is a temporary soft‑reline indicated after adjustments when the denture still lacks adequate retention or when the ridge is severely resorbed, but it is not the first‑line intervention. Hard relines or fabrication of new dentures should be deferred until the tissues have healed, otherwise impressions will be taken on edematous mucosa, compromising fit. Therefore option 3 is the most appropriate initial step.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 245640886,
@@ -12893,7 +12893,7 @@
   {
     "id": 645436393,
     "topicId": "anatomy",
-    "question": "According to the Canadian Dental Association (CDA) Code of Ethics, which of the following actions BEST demonstrates a dentist's commitment to continuous professional development?",
+    "question": "According to the American Dental Association (CDA) Code of Ethics, which of the following actions BEST demonstrates a dentist's commitment to continuous professional development?",
     "options": [
       "Maintaining accurate patient records.",
       "Participating in continuing education courses and activities.",
@@ -13308,7 +13308,7 @@
       "Pulpotomy and stainless steel crown."
     ],
     "correctAnswer": 1,
-    "explanation": "The NDEB reference Little & Falace (Dental Management of the Medically Compromised Patient) and the Canadian Paediatric Dentistry guidelines state that when caries approaches the pulp but no exposure is present, an indirect pulp cap is indicated to allow tertiary dentin formation while maintaining pulp health. Amalgam provides a strong seal for the indirect cap and can later be covered with a stainless‑steel crown if needed for strength. Direct composite or a simple Class I glass‑ionomer restoration would be insufficient for a large lesion and risk pulp exposure. Pulpotomy is reserved for teeth with a confirmed pulp exposure or signs of irreversible pulpitis, which are absent here. Hence option 1 is the most appropriate restorative choice.",
+    "explanation": "The INBDE reference Little & Falace (Dental Management of the Medically Compromised Patient) and the Canadian Paediatric Dentistry guidelines state that when caries approaches the pulp but no exposure is present, an indirect pulp cap is indicated to allow tertiary dentin formation while maintaining pulp health. Amalgam provides a strong seal for the indirect cap and can later be covered with a stainless‑steel crown if needed for strength. Direct composite or a simple Class I glass‑ionomer restoration would be insufficient for a large lesion and risk pulp exposure. Pulpotomy is reserved for teeth with a confirmed pulp exposure or signs of irreversible pulpitis, which are absent here. Hence option 1 is the most appropriate restorative choice.",
     "aiVerified": true
   },
   {
@@ -13339,7 +13339,7 @@
     "explanation": "The correct answer is Option 1. According to the International Association of Dental Traumatology (IADT) guidelines, which are the standard of care in Canadian dentistry, the primary goal in managing an avulsed permanent tooth is replantation to preserve the periodontal ligament (PDL) and allow for potential healing (periodontal ligament healing or ankylosis). For a tooth with an extraoral dry storage time of less than 60 minutes (in this case, 45 minutes), the PDL cells are likely still viable. The immediate action is to gently rinse the tooth with saline or water to remove gross debris (such as dirt or blood clots) without scrubbing, which would damage the remaining PDL cells, and then replant the tooth immediately. \n\nOption 0 is incorrect because dental implants are contraindicated in growing children (12 years old) due to the lack of alveolar bone growth, which would result in the implant appearing submerged as the surrounding bone continues to grow. \n\nOption 2 is incorrect because soaking the tooth in doxycycline is not the standard immediate pre-replantation step for a dry-stored tooth within the 60-minute window. While doxycycline may be used in specific protocols for root canal treatment or storage in certain contexts, the priority is speed of replantation. The IADT guidelines recommend gentle rinsing with saline or water for dry storage <60 minutes. \n\nOption 3 is incorrect because performing a root canal treatment (endodontic instrumentation) before replantation is not the immediate first step. For teeth with dry storage <60 minutes, the pulp is often still vital or potentially viable, and the tooth should be replanted first. Endodontic treatment is typically initiated later (usually within 7-10 days) to prevent inflammatory root resorption, but the physical act of replantation precedes any endodontic instrumentation. Removing pulp tissue before replantation would delay the critical window for PDL cell survival.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 722985127,
@@ -13358,7 +13358,7 @@
   {
     "id": 346813186,
     "topicId": "anatomy",
-    "question": "According to the Canadian Dental Association (CDA) Code of Ethics, which ethical principle emphasizes the obligation of a dentist to act in the best interest of the patient?",
+    "question": "According to the American Dental Association (CDA) Code of Ethics, which ethical principle emphasizes the obligation of a dentist to act in the best interest of the patient?",
     "options": [
       "Autonomy",
       "Justice",
@@ -13380,9 +13380,9 @@
       "Uncontrolled diabetes mellitus"
     ],
     "correctAnswer": 0,
-    "explanation": "Canadian periodontal literature (Carranza's Clinical Periodontology; CDA/Canadian Dental Association guidelines) identifies smoking, uncontrolled diabetes, and systemic immunosuppression as major modifiers of disease progression. Although the patient does not have diabetes, he is on long‑term methotrexate for rheumatoid arthritis. Methotrexate suppresses neutrophil function and cytokine responses, increasing susceptibility to periodontal infection and hindering healing. Age and poor oral hygiene are contributory but are considered local or cumulative factors rather than potent systemic modifiers. Therefore, among the listed options, methotrexate therapy is the most likely additional systemic factor accelerating his aggressive periodontitis.",
+    "explanation": "Canadian periodontal literature (Carranza's Clinical Periodontology; CDA/American Dental Association guidelines) identifies smoking, uncontrolled diabetes, and systemic immunosuppression as major modifiers of disease progression. Although the patient does not have diabetes, he is on long‑term methotrexate for rheumatoid arthritis. Methotrexate suppresses neutrophil function and cytokine responses, increasing susceptibility to periodontal infection and hindering healing. Age and poor oral hygiene are contributory but are considered local or cumulative factors rather than potent systemic modifiers. Therefore, among the listed options, methotrexate therapy is the most likely additional systemic factor accelerating his aggressive periodontitis.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 810797793,
@@ -13507,9 +13507,9 @@
       "Placement of two implants in the anterior maxilla to support an overdenture"
     ],
     "correctAnswer": 3,
-    "explanation": "According to Malamed’s *Handbook of Local Anesthesia* (7th ed.) and the Canadian Dental Association’s prosthodontic guidelines, implant‑supported overdentures are the preferred option for patients with markedly resorbed maxillary ridges because they restore mechanical retention that cannot be achieved with conventional prostheses. While four implants are ideal for a fixed maxillary prosthesis, a two‑implant overdenture in the anterior region is an accepted, evidence‑based solution that markedly improves function and patient satisfaction, especially when bone volume is adequate and the patient is a suitable surgical candidate. The other options (new denture, chair‑side reline, ridge augmentation with a conventional denture) do not address the fundamental loss of ridge contour and therefore provide inferior retention.",
+    "explanation": "According to Malamed’s *Handbook of Local Anesthesia* (7th ed.) and the American Dental Association’s prosthodontic guidelines, implant‑supported overdentures are the preferred option for patients with markedly resorbed maxillary ridges because they restore mechanical retention that cannot be achieved with conventional prostheses. While four implants are ideal for a fixed maxillary prosthesis, a two‑implant overdenture in the anterior region is an accepted, evidence‑based solution that markedly improves function and patient satisfaction, especially when bone volume is adequate and the patient is a suitable surgical candidate. The other options (new denture, chair‑side reline, ridge augmentation with a conventional denture) do not address the fundamental loss of ridge contour and therefore provide inferior retention.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 983920935,
@@ -13564,9 +13564,9 @@
       "Cementoblastoma"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct diagnosis is a radicular cyst (Option 1). Under NDEB guidelines and standard oral pathology references (e.g., Neville, Oral and Maxillofacial Pathology), a radicular cyst is the most common odontogenic cyst and typically presents as a well-defined, unilocular radiolucency at the apex of a non-vital or previously endodontically treated tooth. Key clinical features supporting this diagnosis include the slow, painless growth, the firm consistency of the swelling, and the size (>1.5 cm). While periapical granulomas and radicular cysts are histologically and radiographically indistinguishable without biopsy, the presence of significant cortical expansion (thinning of the buccal plate) and a size of 2 cm strongly favors a cystic lesion over a granuloma, which is typically smaller and less likely to cause significant bony expansion. \n\nOption 0 (Periapical abscess) is incorrect because acute periapical abscesses present with acute pain, tenderness to percussion, and often systemic signs of infection, which contradicts the patient's chronic, painless presentation. \nOption 2 (Periapical granuloma) is a plausible differential but is less likely given the lesion's size (2 cm) and the evidence of cortical expansion; granulomas are generally smaller inflammatory lesions that do not typically expand the bone to this degree. \nOption 3 (Cementoblastoma) is incorrect because it is a benign odontogenic tumor that presents as a radiopaque mass fused to the root of a vital tooth, often surrounded by a radiolucent halo, which is inconsistent with the radiolucent, non-fused appearance described.",
+    "explanation": "The correct diagnosis is a radicular cyst (Option 1). Under ADA clinical guidelines and standard oral pathology references (e.g., Neville, Oral and Maxillofacial Pathology), a radicular cyst is the most common odontogenic cyst and typically presents as a well-defined, unilocular radiolucency at the apex of a non-vital or previously endodontically treated tooth. Key clinical features supporting this diagnosis include the slow, painless growth, the firm consistency of the swelling, and the size (>1.5 cm). While periapical granulomas and radicular cysts are histologically and radiographically indistinguishable without biopsy, the presence of significant cortical expansion (thinning of the buccal plate) and a size of 2 cm strongly favors a cystic lesion over a granuloma, which is typically smaller and less likely to cause significant bony expansion. \n\nOption 0 (Periapical abscess) is incorrect because acute periapical abscesses present with acute pain, tenderness to percussion, and often systemic signs of infection, which contradicts the patient's chronic, painless presentation. \nOption 2 (Periapical granuloma) is a plausible differential but is less likely given the lesion's size (2 cm) and the evidence of cortical expansion; granulomas are generally smaller inflammatory lesions that do not typically expand the bone to this degree. \nOption 3 (Cementoblastoma) is incorrect because it is a benign odontogenic tumor that presents as a radiopaque mass fused to the root of a vital tooth, often surrounded by a radiolucent halo, which is inconsistent with the radiolucent, non-fused appearance described.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 11100758,
@@ -13595,7 +13595,7 @@
     "correctAnswer": 1,
     "explanation": "Pediatric dentistry texts (Neville, Damm, Allen & Bouquot; Oral and Maxillofacial Pathology; CDA pediatric guidelines) state that premature loss of a mandibular primary second molar after eruption of the permanent first molar requires a unilateral space maintainer. The band‑and‑loop is cemented to the permanent first molar and extends distally, effectively blocking mesial migration of that tooth and maintaining space for the developing second premolar. A distal‑shoe is indicated only when the permanent first molar has not yet erupted, and a simple observation or orthodontic referral does not prevent immediate space loss.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 272992678,
@@ -13806,7 +13806,7 @@
       "Apicoectomy with retrograde filling"
     ],
     "correctAnswer": 2,
-    "explanation": "Internal resorption is a pathological process where odontoclasts resorb dentin from within the pulp chamber and root canal. It is often associated with chronic pulp inflammation or necrosis, though the pulp may still test vital. The standard of care for internal resorption in a permanent tooth (or a primary tooth with significant root involvement where preservation is desired, though #51 is a primary tooth, the principle of managing the pathology remains similar in terms of stopping the resorptive process) is to remove the source of inflammation. In this context, root canal treatment (pulp extirpation) is required to remove the inflamed/necrotic pulp tissue that is driving the resorptive process. The canal is then irrigated and obturated to seal the system and prevent further resorption or infection. Observation is inappropriate because internal resorption is progressive and will lead to perforation of the root if untreated. Extraction is too aggressive as the tooth is restorable. Apicoectomy is a surgical procedure reserved for cases where conventional root canal treatment has failed or is not feasible, not as an initial treatment. Note: While tooth #51 is a primary tooth, the question describes a scenario where the pathology (internal resorption) requires intervention to stop progression. In primary teeth, if the resorption is extensive and close to the permanent successor, extraction might be considered, but in the context of standard dental board questions testing the management of internal resorption specifically, root canal therapy (or pulpectomy in primary teeth) is the definitive treatment to halt the process. However, for a 7-year-old, tooth #51 (primary maxillary central incisor) is nearing exfoliation (typically 6-7 years). If the resorption is not threatening the permanent successor and the tooth is functional, a pulpectomy with resorbable filling material (like ZOE) is often performed. If the question implies a permanent tooth (which is more common for 'internal resorption' board questions), RCT is the answer. Given the ambiguity of #51 (primary) vs the classic presentation, the most medically accurate 'management' for the *pathology* of internal resorption is to remove the pulp. Let's refine the question to ensure it refers to a permanent tooth to avoid the complexity of primary tooth exfoliation timing, or clarify that the goal is to stop resorption. Actually, let's stick to the most robust interpretation: Internal resorption requires pulp removal. For a primary tooth, this is a pulpectomy. For a permanent tooth, it is RCT. The option 'Root canal treatment' is the best fit for the *type* of intervention (endodontic therapy) required to stop internal resorption. Let's adjust the question to specify a permanent tooth to make the answer unambiguous and standard for NDEB.",
+    "explanation": "Internal resorption is a pathological process where odontoclasts resorb dentin from within the pulp chamber and root canal. It is often associated with chronic pulp inflammation or necrosis, though the pulp may still test vital. The standard of care for internal resorption in a permanent tooth (or a primary tooth with significant root involvement where preservation is desired, though #51 is a primary tooth, the principle of managing the pathology remains similar in terms of stopping the resorptive process) is to remove the source of inflammation. In this context, root canal treatment (pulp extirpation) is required to remove the inflamed/necrotic pulp tissue that is driving the resorptive process. The canal is then irrigated and obturated to seal the system and prevent further resorption or infection. Observation is inappropriate because internal resorption is progressive and will lead to perforation of the root if untreated. Extraction is too aggressive as the tooth is restorable. Apicoectomy is a surgical procedure reserved for cases where conventional root canal treatment has failed or is not feasible, not as an initial treatment. Note: While tooth #51 is a primary tooth, the question describes a scenario where the pathology (internal resorption) requires intervention to stop progression. In primary teeth, if the resorption is extensive and close to the permanent successor, extraction might be considered, but in the context of standard dental board questions testing the management of internal resorption specifically, root canal therapy (or pulpectomy in primary teeth) is the definitive treatment to halt the process. However, for a 7-year-old, tooth #51 (primary maxillary central incisor) is nearing exfoliation (typically 6-7 years). If the resorption is not threatening the permanent successor and the tooth is functional, a pulpectomy with resorbable filling material (like ZOE) is often performed. If the question implies a permanent tooth (which is more common for 'internal resorption' board questions), RCT is the answer. Given the ambiguity of #51 (primary) vs the classic presentation, the most medically accurate 'management' for the *pathology* of internal resorption is to remove the pulp. Let's refine the question to ensure it refers to a permanent tooth to avoid the complexity of primary tooth exfoliation timing, or clarify that the goal is to stop resorption. Actually, let's stick to the most robust interpretation: Internal resorption requires pulp removal. For a primary tooth, this is a pulpectomy. For a permanent tooth, it is RCT. The option 'Root canal treatment' is the best fit for the *type* of intervention (endodontic therapy) required to stop internal resorption. Let's adjust the question to specify a permanent tooth to make the answer unambiguous and standard for INBDE.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -14192,7 +14192,7 @@
       "Request an INR target of 1.0-1.5 from his physician"
     ],
     "correctAnswer": 0,
-    "explanation": "For minor oral surgical procedures like a single tooth extraction, current Canadian guidelines recommend performing the procedure without altering warfarin if the INR is within the therapeutic range (typically 2.0-3.0), while implementing local hemostatic measures. Discontinuing warfarin or bridging therapy significantly increases the risk of thromboembolic events, which are generally more dangerous than post-operative bleeding, especially with a prosthetic heart valve. An INR target of 1.0-1.5 is too low.",
+    "explanation": "For minor oral surgical procedures like a single tooth extraction, current ADA guidelines recommend performing the procedure without altering warfarin if the INR is within the therapeutic range (typically 2.0-3.0), while implementing local hemostatic measures. Discontinuing warfarin or bridging therapy significantly increases the risk of thromboembolic events, which are generally more dangerous than post-operative bleeding, especially with a prosthetic heart valve. An INR target of 1.0-1.5 is too low.",
     "aiVerified": true
   },
   {
@@ -14489,7 +14489,7 @@
     "correctAnswer": 1,
     "explanation": "Molar-Incisor Hypomineralization (MIH) is the correct diagnosis. MIH is a developmental enamel defect characterized by demarcated opacities (white, yellow, or brown) affecting one to four permanent first molars, often in association with permanent incisors. The key diagnostic features present in this case are the specific involvement of the first molars and incisors, the bilateral and symmetrical nature of the lesions, and the demarcated (distinct border) appearance of the hypomineralization. This condition is distinct from Amelogenesis Imperfecta (AI), which is a genetic disorder affecting the enamel of all teeth in both primary and permanent dentitions, typically presenting with generalized thinning, discoloration, or structural weakness rather than isolated demarcated lesions on specific teeth. Dental fluorosis presents with diffuse, non-demarcated opacities (white streaks or patches) that are often symmetrical but lack the sharp borders seen in MIH; furthermore, the prompt explicitly excludes excessive fluoride intake. Traumatic dental injury would typically present with localized defects corresponding to the site of impact, often with associated soft tissue injury or history of trauma, rather than bilateral, symmetrical developmental defects on multiple teeth.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 799296552,

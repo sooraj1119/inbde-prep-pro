@@ -136,7 +136,7 @@
       "Call for immediate medical assistance and start CPR."
     ],
     "correctAnswer": 1,
-    "explanation": "The Canadian Dental Association and NDEB emergency guidelines list the first‑line management of a vasovagal episode as: (1) place the patient supine with the head‑down (Trendelenburg) position or legs elevated, (2) loosen tight clothing, and (3) administer 100 % oxygen. Epinephrine is reserved for anaphylaxis, nitroglycerin for angina, and CPR only when there is no pulse or breathing. Although some texts prefer “legs elevated” over “Trendelenburg,” the essential actions are captured in option 1, making it the correct choice under Canadian standards.",
+    "explanation": "The American Dental Association and INBDE emergency guidelines list the first‑line management of a vasovagal episode as: (1) place the patient supine with the head‑down (Trendelenburg) position or legs elevated, (2) loosen tight clothing, and (3) administer 100 % oxygen. Epinephrine is reserved for anaphylaxis, nitroglycerin for angina, and CPR only when there is no pulse or breathing. Although some texts prefer “legs elevated” over “Trendelenburg,” the essential actions are captured in option 1, making it the correct choice under Canadian standards.",
     "aiVerified": true
   },
   {
@@ -184,7 +184,7 @@
   {
     "id": 14,
     "topicId": "oral-surgery",
-    "question": "A 50-year-old male with a prosthetic heart valve requires a single tooth extraction. He reports no allergies. According to current Canadian guidelines, what is the recommended antibiotic prophylactic regimen?",
+    "question": "A 50-year-old male with a prosthetic heart valve requires a single tooth extraction. He reports no allergies. According to current ADA guidelines, what is the recommended antibiotic prophylactic regimen?",
     "options": [
       "Clindamycin 600mg orally one hour prior to the procedure.",
       "Amoxicillin 2 grams orally one hour prior to the procedure.",
@@ -192,7 +192,7 @@
       "Amoxicillin 500mg orally three times a day, starting the day before the procedure."
     ],
     "correctAnswer": 1,
-    "explanation": "According to Canadian guidelines (and consistent with AHA guidelines), patients with prosthetic heart valves require antibiotic prophylaxis before dental procedures that involve manipulation of gingival tissue or the periapical region of teeth. The recommended regimen for patients not allergic to penicillin is Amoxicillin 2 grams orally one hour prior to the procedure. Clindamycin is for penicillin-allergic patients. No prophylaxis is incorrect for this high-risk condition. A multi-day regimen is not standard for prophylaxis.",
+    "explanation": "According to ADA guidelines (and consistent with AHA guidelines), patients with prosthetic heart valves require antibiotic prophylaxis before dental procedures that involve manipulation of gingival tissue or the periapical region of teeth. The recommended regimen for patients not allergic to penicillin is Amoxicillin 2 grams orally one hour prior to the procedure. Clindamycin is for penicillin-allergic patients. No prophylaxis is incorrect for this high-risk condition. A multi-day regimen is not standard for prophylaxis.",
     "aiVerified": true
   },
   {
@@ -458,10 +458,10 @@
       "Perform a primary closure of the defect using a buccal advancement flap."
     ],
     "correctAnswer": 3,
-    "explanation": "A 3‑mm oro‑antral communication (OAC) is considered a small defect. Current Canadian dental guidelines (NDEB, Canadian Dental Association) recommend that OACs less than 5 mm be closed surgically at the time of extraction to prevent progression to a chronic oro‑antral fistula. The buccal advancement (Rehrmann) flap provides a well‑vascularized soft‑tissue seal and is the technique of choice for primary closure of small to moderate OACs. \n\nWhy the other options are incorrect:\n0. Caldwell‑Luc is an invasive maxillary sinus surgery reserved for large defects, chronic sinusitis, or when other closure techniques have failed. It is unnecessary and overly aggressive for a 3‑mm acute OAC in a healthy patient.\n1. Antibiotics and nasal precautions are adjunctive measures; they do not close the defect. An untreated 3‑mm communication is unlikely to close spontaneously and may develop into a chronic fistula.\n2. Gelfoam can be used as a temporary hemostatic aid or for very tiny (<2 mm) communications, but it does not provide a reliable tissue seal. Without definitive closure, the risk of persistent communication remains high.\n\nTherefore, the gold‑standard immediate management is primary closure with a buccal advancement flap (option 3).",
+    "explanation": "A 3‑mm oro‑antral communication (OAC) is considered a small defect. Current Canadian dental guidelines (INBDE, American Dental Association) recommend that OACs less than 5 mm be closed surgically at the time of extraction to prevent progression to a chronic oro‑antral fistula. The buccal advancement (Rehrmann) flap provides a well‑vascularized soft‑tissue seal and is the technique of choice for primary closure of small to moderate OACs. \n\nWhy the other options are incorrect:\n0. Caldwell‑Luc is an invasive maxillary sinus surgery reserved for large defects, chronic sinusitis, or when other closure techniques have failed. It is unnecessary and overly aggressive for a 3‑mm acute OAC in a healthy patient.\n1. Antibiotics and nasal precautions are adjunctive measures; they do not close the defect. An untreated 3‑mm communication is unlikely to close spontaneously and may develop into a chronic fistula.\n2. Gelfoam can be used as a temporary hemostatic aid or for very tiny (<2 mm) communications, but it does not provide a reliable tissue seal. Without definitive closure, the risk of persistent communication remains high.\n\nTherefore, the gold‑standard immediate management is primary closure with a buccal advancement flap (option 3).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 34,
@@ -939,7 +939,7 @@
     "explanation": "Neville, Damm, Allen & Bouquot and the Canadian Endodontic Society state that the first‑line, definitive treatment for a radicular (periapical) cyst is nonsurgical root‑ canal therapy of the associated non‑vital tooth. Successful RCT eliminates the source of inflammation, allowing most cystic lesions to resolve spontaneously; surgical enucleation or apicoectomy is reserved for lesions that persist after 6‑12 months or are unusually large. Marsupialisation is indicated for expansive cysts, and extraction with curettage is unnecessary when the tooth is restorable. Therefore option 0 is the correct answer.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 68,
@@ -1295,7 +1295,7 @@
   {
     "id": 93,
     "topicId": "oral-surgery",
-    "question": "A 65‑year‑old patient with a prosthetic heart valve requires a single tooth extraction. The patient has a documented penicillin allergy. According to current Canadian dental guidelines (e.g., Canadian Dental Association), which antibiotic prophylaxis regimen is most appropriate?",
+    "question": "A 65‑year‑old patient with a prosthetic heart valve requires a single tooth extraction. The patient has a documented penicillin allergy. According to current Canadian dental guidelines (e.g., American Dental Association), which antibiotic prophylaxis regimen is most appropriate?",
     "options": [
       "Amoxicillin 2 g orally one hour before the procedure",
       "Clindamycin 600 mg orally one hour before the procedure",
@@ -1303,10 +1303,10 @@
       "No antibiotic prophylaxis is required for a single tooth extraction in this patient"
     ],
     "correctAnswer": 1,
-    "explanation": "The Canadian Dental Association (CDA) and the American Heart Association/American Dental Association (AHA/ADA) prophylaxis guidelines, which are adopted by the NDEB, list prosthetic cardiac valves as a high‑risk cardiac condition. Any invasive oral procedure that manipulates gingival tissue, periapical bone, or perforates the oral mucosa—including a single tooth extraction—requires antibiotic prophylaxis. The first‑line agent for patients without a β‑lactam allergy is amoxicillin 2 g PO 30–60 minutes before the procedure. Because this patient has a documented penicillin allergy, the guideline recommends clindamycin 600 mg PO 30–60 minutes pre‑operatively as the preferred alternative. \n\nOption 0 (amoxicillin) is incorrect because the patient is allergic to penicillins; administering it could precipitate a severe hypersensitivity reaction. \nOption 2 (azithromycin) is not listed in the CDA/AHA prophylaxis tables; macrolides are only considered when clindamycin is contraindicated, and azithromycin lacks sufficient evidence for efficacy in this context. \nOption 3 (no prophylaxis) is a trap; while many routine dental procedures no longer require antibiotics, prosthetic valve patients remain an exception, and omission would place the patient at risk for infective endocarditis. \nThus, the only regimen that aligns with current Canadian NDEB AFK standards, CDA infection‑control protocols, and evidence‑based guidelines is clindamycin 600 mg orally one hour before the extraction.",
+    "explanation": "The American Dental Association (CDA) and the American Heart Association/American Dental Association (AHA/ADA) prophylaxis guidelines, which are adopted by the INBDE, list prosthetic cardiac valves as a high‑risk cardiac condition. Any invasive oral procedure that manipulates gingival tissue, periapical bone, or perforates the oral mucosa—including a single tooth extraction—requires antibiotic prophylaxis. The first‑line agent for patients without a β‑lactam allergy is amoxicillin 2 g PO 30–60 minutes before the procedure. Because this patient has a documented penicillin allergy, the guideline recommends clindamycin 600 mg PO 30–60 minutes pre‑operatively as the preferred alternative. \n\nOption 0 (amoxicillin) is incorrect because the patient is allergic to penicillins; administering it could precipitate a severe hypersensitivity reaction. \nOption 2 (azithromycin) is not listed in the CDA/AHA prophylaxis tables; macrolides are only considered when clindamycin is contraindicated, and azithromycin lacks sufficient evidence for efficacy in this context. \nOption 3 (no prophylaxis) is a trap; while many routine dental procedures no longer require antibiotics, prosthetic valve patients remain an exception, and omission would place the patient at risk for infective endocarditis. \nThus, the only regimen that aligns with current Canadian INBDE standards, CDA infection‑control protocols, and evidence‑based guidelines is clindamycin 600 mg orally one hour before the extraction.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 94,
@@ -1963,7 +1963,7 @@
       "Administer a pre-operative dose of Vitamin K to rapidly reduce the INR."
     ],
     "correctAnswer": 1,
-    "explanation": "For minor oral surgical procedures like single tooth extractions, current Canadian guidelines recommend proceeding with the extraction without altering warfarin for INR values within the therapeutic range (2.0-3.0), coupled with effective local hemostatic measures. Discontinuing or altering warfarin without physician consultation increases the risk of serious thrombotic events. Switching to LMWH or administering Vitamin K is typically reserved for major surgical procedures or supra-therapeutic INR values.",
+    "explanation": "For minor oral surgical procedures like single tooth extractions, current ADA guidelines recommend proceeding with the extraction without altering warfarin for INR values within the therapeutic range (2.0-3.0), coupled with effective local hemostatic measures. Discontinuing or altering warfarin without physician consultation increases the risk of serious thrombotic events. Switching to LMWH or administering Vitamin K is typically reserved for major surgical procedures or supra-therapeutic INR values.",
     "aiVerified": true
   },
   {
@@ -2062,7 +2062,7 @@
       "8 cartridges"
     ],
     "correctAnswer": 0,
-    "explanation": "Malamed’s Handbook of Local Anesthesia (7th ed.) states that the maximum epinephrine dose for hypertensive patients is 0.04 mg per appointment. Each 1.8 mL cartridge of 1:100,000 solution contains 0.018 mg epinephrine; therefore only two cartridges (0.036 mg) stay within the safe limit. The lidocaine dose (2 % = 20 mg/mL) in two cartridges is 72 mg, well below the 4.4 mg/kg ceiling for a 70‑kg adult. Canadian Dental Association guidelines echo this restriction, recommending a maximum of two cartridges for hypertensive patients. Hence the correct answer is 2 cartridges.",
+    "explanation": "Malamed’s Handbook of Local Anesthesia (7th ed.) states that the maximum epinephrine dose for hypertensive patients is 0.04 mg per appointment. Each 1.8 mL cartridge of 1:100,000 solution contains 0.018 mg epinephrine; therefore only two cartridges (0.036 mg) stay within the safe limit. The lidocaine dose (2 % = 20 mg/mL) in two cartridges is 72 mg, well below the 4.4 mg/kg ceiling for a 70‑kg adult. American Dental Association guidelines echo this restriction, recommending a maximum of two cartridges for hypertensive patients. Hence the correct answer is 2 cartridges.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2414,9 +2414,9 @@
       "Allows greater flap mobility and tension‑free primary closure"
     ],
     "correctAnswer": 2,
-    "explanation": "A mucoperiosteal (full‑thickness) flap includes the periosteum, which remains attached to the reflected flap and thus retains its blood supply. Preservation of the periosteum is essential for maintaining the osteogenic potential of the underlying bone, protecting it from desiccation, and ensuring optimal bone healing after removal of an impacted tooth. This is the principal benefit over a partial‑thickness (mucosal‑only) flap, which leaves the periosteum attached to the bone and can compromise bone vitality.\n\nWhy the distractors are incorrect:\n0. Faster healing due to less manipulation – a full‑thickness flap actually involves more tissue elevation than a mucosal‑only flap, so healing is not faster because of reduced manipulation.\n1. Provides better hemostasis – while a full‑thickness flap may expose bone for better control of bleeding, hemostasis is not the primary advantage; the key benefit relates to periosteal preservation.\n3. Allows greater flap mobility and tension‑free closure – a partial‑thickness flap generally provides more flexibility; the full‑thickness flap is used for access and periosteal preservation, not primarily for mobility.\n\nThus, under the NDEB clinical standards, the gold‑standard answer is option 2.",
+    "explanation": "A mucoperiosteal (full‑thickness) flap includes the periosteum, which remains attached to the reflected flap and thus retains its blood supply. Preservation of the periosteum is essential for maintaining the osteogenic potential of the underlying bone, protecting it from desiccation, and ensuring optimal bone healing after removal of an impacted tooth. This is the principal benefit over a partial‑thickness (mucosal‑only) flap, which leaves the periosteum attached to the bone and can compromise bone vitality.\n\nWhy the distractors are incorrect:\n0. Faster healing due to less manipulation – a full‑thickness flap actually involves more tissue elevation than a mucosal‑only flap, so healing is not faster because of reduced manipulation.\n1. Provides better hemostasis – while a full‑thickness flap may expose bone for better control of bleeding, hemostasis is not the primary advantage; the key benefit relates to periosteal preservation.\n3. Allows greater flap mobility and tension‑free closure – a partial‑thickness flap generally provides more flexibility; the full‑thickness flap is used for access and periosteal preservation, not primarily for mobility.\n\nThus, under the INBDE clinical standards, the gold‑standard answer is option 2.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 173,
@@ -2443,7 +2443,7 @@
       "Postpone the procedure until 6 months have passed since the MI, regardless of the patient's current stability."
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Option B. According to current Canadian dental guidelines and medical literature (e.g., Malamed's Handbook of Local Anesthesia, NDEB standards), a recent myocardial infarction (within 6 months) is a relative contraindication for the use of epinephrine, not an absolute one, provided the patient is stable. The standard recommendation is to use a low concentration of epinephrine (1:100,000) and limit the total dose to approximately 0.04 mg (equivalent to 2 carpules of 1.5 mL of 1:100,000 solution) to minimize cardiovascular strain while ensuring adequate hemostasis and pain control. Option A is incorrect because standard concentrations (1:100,000 is low, but 1:200,000 is standard; however, the key is the dose limit, and 'standard of care for all' ignores the specific cardiac risk). Option C is incorrect because plain anesthetics are not strictly required if the patient is stable; epinephrine is beneficial for hemostasis and prolonging anesthesia, and the risk is managed by dose limitation rather than complete avoidance. Option D is incorrect because postponement is not mandatory if the patient is stable and the procedure is urgent or can be managed with precautions; the 6-month rule is a guideline for risk stratification, not an absolute ban on treatment.",
+    "explanation": "The correct answer is Option B. According to current Canadian dental guidelines and medical literature (e.g., Malamed's Handbook of Local Anesthesia, INBDE standards), a recent myocardial infarction (within 6 months) is a relative contraindication for the use of epinephrine, not an absolute one, provided the patient is stable. The standard recommendation is to use a low concentration of epinephrine (1:100,000) and limit the total dose to approximately 0.04 mg (equivalent to 2 carpules of 1.5 mL of 1:100,000 solution) to minimize cardiovascular strain while ensuring adequate hemostasis and pain control. Option A is incorrect because standard concentrations (1:100,000 is low, but 1:200,000 is standard; however, the key is the dose limit, and 'standard of care for all' ignores the specific cardiac risk). Option C is incorrect because plain anesthetics are not strictly required if the patient is stable; epinephrine is beneficial for hemostasis and prolonging anesthesia, and the risk is managed by dose limitation rather than complete avoidance. Option D is incorrect because postponement is not mandatory if the patient is stable and the procedure is urgent or can be managed with precautions; the 6-month rule is a guideline for risk stratification, not an absolute ban on treatment.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -2600,7 +2600,7 @@
     "correctAnswer": 1,
     "explanation": "According to Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) and the CDA oral‑lesion guidelines, lesions on high‑risk oral sites (lateral tongue, floor of mouth) that are clinically suspicious for dysplasia or early carcinoma require an incisional biopsy regardless of size. Excisional biopsy is reserved for clearly benign, small (<1 cm) lesions where removal also serves as definitive therapy. Brush biopsy provides only cytology and lacks architectural detail, and FNA is unsuitable for superficial mucosal lesions. Therefore, the correct approach is an incisional biopsy to obtain adequate tissue for histopathologic assessment.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 186,
@@ -2712,10 +2712,10 @@
       "Refer to an endodontist for potential retrieval through the canal of the adjacent tooth."
     ],
     "correctAnswer": 0,
-    "explanation": "According to current Canadian oral‑surgery guidelines and the NDEB blueprint, a small (<5 mm), asymptomatic root‑tip fragment that is completely embedded in bone and not communicating with the maxillary sinus can be safely left in situ. The risk of additional bone removal, postoperative morbidity, and possible damage to adjacent structures outweighs the low risk of infection or cyst formation from such a tiny fragment. \n\nWhy the other options are incorrect:\n1. \"Attempt removal with a periotome and fine root‑tip elevators\" – The fragment is described as non‑mobile and fully encased in bone; luxation instruments are unlikely to succeed and may cause unnecessary trauma.\n2. \"Perform a small osteotomy around the root tip and retrieve it\" – While surgical retrieval is indicated for larger fragments, fragments that are ≤5 mm, asymptomatic, and not in the sinus are best managed conservatively. Creating an osteotomy would increase operative time, postoperative pain, and risk of alveolar bone loss.\n3. \"Refer to an endodontist for potential retrieval through the canal of the adjacent tooth\" – Endodontic techniques cannot be used to retrieve a root fragment located in a different socket; this option is not a recognized or feasible management strategy.\n\nThus, the gold‑standard management is to inform the patient, leave the fragment in place, and monitor for any future signs of infection or pathology.",
+    "explanation": "According to current Canadian oral‑surgery guidelines and the INBDE blueprint, a small (<5 mm), asymptomatic root‑tip fragment that is completely embedded in bone and not communicating with the maxillary sinus can be safely left in situ. The risk of additional bone removal, postoperative morbidity, and possible damage to adjacent structures outweighs the low risk of infection or cyst formation from such a tiny fragment. \n\nWhy the other options are incorrect:\n1. \"Attempt removal with a periotome and fine root‑tip elevators\" – The fragment is described as non‑mobile and fully encased in bone; luxation instruments are unlikely to succeed and may cause unnecessary trauma.\n2. \"Perform a small osteotomy around the root tip and retrieve it\" – While surgical retrieval is indicated for larger fragments, fragments that are ≤5 mm, asymptomatic, and not in the sinus are best managed conservatively. Creating an osteotomy would increase operative time, postoperative pain, and risk of alveolar bone loss.\n3. \"Refer to an endodontist for potential retrieval through the canal of the adjacent tooth\" – Endodontic techniques cannot be used to retrieve a root fragment located in a different socket; this option is not a recognized or feasible management strategy.\n\nThus, the gold‑standard management is to inform the patient, leave the fragment in place, and monitor for any future signs of infection or pathology.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 194,
@@ -2734,7 +2734,7 @@
   {
     "id": 195,
     "topicId": "oral-surgery",
-    "question": "A 42-year-old patient with a history of a prosthetic heart valve requires a surgical extraction of a carious tooth #37. She has a documented allergy to Penicillin. According to current Canadian Dental Association (CDA) and American Heart Association (AHA) guidelines for infective endocarditis prophylaxis, which antibiotic regimen is most appropriate for this patient?",
+    "question": "A 42-year-old patient with a history of a prosthetic heart valve requires a surgical extraction of a carious tooth #37. She has a documented allergy to Penicillin. According to current American Dental Association (CDA) and American Heart Association (AHA) guidelines for infective endocarditis prophylaxis, which antibiotic regimen is most appropriate for this patient?",
     "options": [
       "Clindamycin 600 mg orally, 1 hour before the procedure.",
       "Amoxicillin 2 grams orally, 1 hour before the procedure.",
@@ -2871,9 +2871,9 @@
       "Refer for biopsy to rule out malignancy."
     ],
     "correctAnswer": 1,
-    "explanation": "A torus palatinus is a benign bony exostosis. According to the NDEB Clinical Knowledge Blueprint and standard prosthodontic texts (e.g., Little & Falace, Proffit), removal is indicated when the torus interferes with the extension, retention, or stability of a complete denture. Surgical excision eliminates the obstruction, allowing optimal denture extension and a proper posterior palatal seal, which are essential for retention in an edentulous maxilla. \n\nWhy the other options are incorrect:\n1. **Fabricate a denture with a relief area over the torus** – While a relief can be placed, a large, broad‑based torus will prevent adequate tissue contact and compromise the posterior seal, resulting in poor retention and stability. This is considered a sub‑optimal compromise when removal is feasible.\n2. **Leave the torus undisturbed** – The torus is already causing denture instability; leaving it in place would not resolve the prosthetic problem and would likely lead to patient dissatisfaction and recurrent ulceration.\n3. **Refer for biopsy** – Palatal tori have a characteristic appearance and are not malignant. Biopsy is reserved for lesions with atypical features (e.g., ulceration, rapid growth, irregular surface). In the absence of such signs, biopsy is unnecessary.\n\nTherefore, the gold‑standard management, consistent with Canadian dental standards, is surgical removal of the torus before proceeding with denture fabrication.",
+    "explanation": "A torus palatinus is a benign bony exostosis. According to the INBDE Clinical Knowledge Blueprint and standard prosthodontic texts (e.g., Little & Falace, Proffit), removal is indicated when the torus interferes with the extension, retention, or stability of a complete denture. Surgical excision eliminates the obstruction, allowing optimal denture extension and a proper posterior palatal seal, which are essential for retention in an edentulous maxilla. \n\nWhy the other options are incorrect:\n1. **Fabricate a denture with a relief area over the torus** – While a relief can be placed, a large, broad‑based torus will prevent adequate tissue contact and compromise the posterior seal, resulting in poor retention and stability. This is considered a sub‑optimal compromise when removal is feasible.\n2. **Leave the torus undisturbed** – The torus is already causing denture instability; leaving it in place would not resolve the prosthetic problem and would likely lead to patient dissatisfaction and recurrent ulceration.\n3. **Refer for biopsy** – Palatal tori have a characteristic appearance and are not malignant. Biopsy is reserved for lesions with atypical features (e.g., ulceration, rapid growth, irregular surface). In the absence of such signs, biopsy is unnecessary.\n\nTherefore, the gold‑standard management, consistent with Canadian dental standards, is surgical removal of the torus before proceeding with denture fabrication.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 205,
@@ -2914,9 +2914,9 @@
       "Leave the socket to heal by secondary intention and advise sinus precautions only."
     ],
     "correctAnswer": 1,
-    "explanation": "In a healthy patient with a small (<2‑3 mm) oro‑antral communication, the preferred immediate treatment is a simple closure of the defect. A figure‑of‑eight (or similar) suture placed over a blood clot provides an effective seal, and adjunctive therapy with a short course of antibiotics (e.g., amoxicillin‑clavulanate) and a nasal decongestant reduces the risk of sinus infection. The patient should also be instructed on sinus precautions (avoid nose blowing, sneeze with mouth open, no straws, etc.).\n\nWhy the other options are incorrect:\n1. **Iodoform gauze packing** – This is an outdated technique that can act as a foreign body, impede healing, and increase the risk of chronic sinus communication. Modern practice favors primary closure rather than packing.\n2. **Buccal advancement flap** – This more extensive surgical closure is reserved for larger defects (>5 mm) or those that fail to close with simple suturing. Using it for a 2‑mm opening would be unnecessarily invasive.\n3. **Allowing secondary intention** – Leaving a sinus communication to heal on its own carries a high risk of persistent fistula formation and sinusitis. Small defects should be closed primarily to promote rapid, uneventful healing.\n\nThus, the gold‑standard management per Canadian dental and oral‑surgery guidelines (NDEB, Canadian Association of Oral and Maxillofacial Surgeons) is option 1.",
+    "explanation": "In a healthy patient with a small (<2‑3 mm) oro‑antral communication, the preferred immediate treatment is a simple closure of the defect. A figure‑of‑eight (or similar) suture placed over a blood clot provides an effective seal, and adjunctive therapy with a short course of antibiotics (e.g., amoxicillin‑clavulanate) and a nasal decongestant reduces the risk of sinus infection. The patient should also be instructed on sinus precautions (avoid nose blowing, sneeze with mouth open, no straws, etc.).\n\nWhy the other options are incorrect:\n1. **Iodoform gauze packing** – This is an outdated technique that can act as a foreign body, impede healing, and increase the risk of chronic sinus communication. Modern practice favors primary closure rather than packing.\n2. **Buccal advancement flap** – This more extensive surgical closure is reserved for larger defects (>5 mm) or those that fail to close with simple suturing. Using it for a 2‑mm opening would be unnecessarily invasive.\n3. **Allowing secondary intention** – Leaving a sinus communication to heal on its own carries a high risk of persistent fistula formation and sinusitis. Small defects should be closed primarily to promote rapid, uneventful healing.\n\nThus, the gold‑standard management per Canadian dental and oral‑surgery guidelines (INBDE, Canadian Association of Oral and Maxillofacial Surgeons) is option 1.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 208,
@@ -3181,7 +3181,7 @@
       "8 cartridges"
     ],
     "correctAnswer": 0,
-    "explanation": "NDEB‑aligned guidelines (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed; Malamed, Handbook of Local Anesthesia, 7th ed) set the maximum epinephrine dose for patients with cardiovascular disease, including well‑controlled hypertension, at 0.04 mg per appointment. One cartridge of 2 % lidocaine with 1:100 000 epinephrine delivers 18 µg of epinephrine; 2 cartridges provide 36 µg, staying within the 40 µg limit. The lidocaine dose (4.4 mg/kg) is not the limiting factor in a typical adult. Therefore, the safest maximum is 2 cartridges, making option 0 the correct answer.",
+    "explanation": "INBDE‑aligned guidelines (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed; Malamed, Handbook of Local Anesthesia, 7th ed) set the maximum epinephrine dose for patients with cardiovascular disease, including well‑controlled hypertension, at 0.04 mg per appointment. One cartridge of 2 % lidocaine with 1:100 000 epinephrine delivers 18 µg of epinephrine; 2 cartridges provide 36 µg, staying within the 40 µg limit. The lidocaine dose (4.4 mg/kg) is not the limiting factor in a typical adult. Therefore, the safest maximum is 2 cartridges, making option 0 the correct answer.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -3434,7 +3434,7 @@
       "Prescribe Vitamin K prior to the procedure."
     ],
     "correctAnswer": 1,
-    "explanation": "Canadian guidelines (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; CDA Clinical Practice Guidelines) state that direct oral anticoagulants need not be discontinued for simple extractions because the bleeding risk is low and the thromboembolic risk of interruption is greater. The recommended approach is to schedule the extraction at the end of the dosing interval (approximately 12 h after the last dose) and employ local measures (e.g., pressure packs, sutures, tranexamic acid). Vitamin K is ineffective for dabigatran, and routine physician consultation is not required for low‑risk extractions. Therefore option 1 is the correct management.",
+    "explanation": "ADA guidelines (Little & Falace, Dental Management of the Medically Compromised Patient, 5th ed.; CDA Clinical Practice Guidelines) state that direct oral anticoagulants need not be discontinued for simple extractions because the bleeding risk is low and the thromboembolic risk of interruption is greater. The recommended approach is to schedule the extraction at the end of the dosing interval (approximately 12 h after the last dose) and employ local measures (e.g., pressure packs, sutures, tranexamic acid). Vitamin K is ineffective for dabigatran, and routine physician consultation is not required for low‑risk extractions. Therefore option 1 is the correct management.",
     "aiVerified": true
   },
   {
@@ -3819,7 +3819,7 @@
   {
     "id": 272,
     "topicId": "oral-surgery",
-    "question": "A patient with a history of a prosthetic heart valve requires a simple tooth extraction. According to current Canadian guidelines, which of the following is the most appropriate course of action regarding antibiotic prophylaxis?",
+    "question": "A patient with a history of a prosthetic heart valve requires a simple tooth extraction. According to current ADA guidelines, which of the following is the most appropriate course of action regarding antibiotic prophylaxis?",
     "options": [
       "No antibiotic prophylaxis is required",
       "Administer a single dose of oral amoxicillin 30-60 minutes before the procedure",
@@ -4604,7 +4604,7 @@
   {
     "id": 329,
     "topicId": "oral-surgery",
-    "question": "A 60-year-old patient with a prosthetic heart valve requires a single dental extraction. The patient has no known allergies to penicillin. According to current Canadian guidelines, what is the recommended prophylactic antibiotic regimen for this patient?",
+    "question": "A 60-year-old patient with a prosthetic heart valve requires a single dental extraction. The patient has no known allergies to penicillin. According to current ADA guidelines, what is the recommended prophylactic antibiotic regimen for this patient?",
     "options": [
       "Amoxicillin 2g orally, 30-60 minutes before the procedure.",
       "Clindamycin 600mg orally, 30-60 minutes before the procedure.",
@@ -4612,7 +4612,7 @@
       "No antibiotic prophylaxis is indicated for dental extractions in patients with prosthetic heart valves."
     ],
     "correctAnswer": 0,
-    "explanation": "According to current Canadian guidelines (and similar international guidelines), Amoxicillin 2g orally, 30-60 minutes before the procedure, is the recommended prophylactic antibiotic regimen for patients with prosthetic heart valves who are not allergic to penicillin. Clindamycin or Azithromycin are alternatives for penicillin-allergic patients. Prophylaxis is indicated for patients with prosthetic heart valves undergoing dental procedures that involve manipulation of gingival tissue or the periapical region of teeth, or perforation of the oral mucosa, which includes extractions.",
+    "explanation": "According to current ADA guidelines (and similar international guidelines), Amoxicillin 2g orally, 30-60 minutes before the procedure, is the recommended prophylactic antibiotic regimen for patients with prosthetic heart valves who are not allergic to penicillin. Clindamycin or Azithromycin are alternatives for penicillin-allergic patients. Prophylaxis is indicated for patients with prosthetic heart valves undergoing dental procedures that involve manipulation of gingival tissue or the periapical region of teeth, or perforation of the oral mucosa, which includes extractions.",
     "aiVerified": true
   },
   {
@@ -4866,7 +4866,7 @@
     "correctAnswer": 2,
     "explanation": "Canadian oral‑surgery standards (Carranza’s Clinical Oral Surgery, 12th ed.; Little & Falace, Dental Management of the Medically Compromised Patient) classify communications ≤5 mm as suitable for non‑surgical closure. A figure‑of‑eight (or simple interrupted) suture approximates the gingival margins, providing an effective seal while allowing drainage. Adjunctive sinus precautions (no nose blowing, sneeze with mouth open) and a brief course of prophylactic antibiotics (e.g., amoxicillin‑clavulanate) reduce the risk of sinus infection. Buccal advancement flaps are reserved for larger defects (>5 mm) or failed conservative therapy, and packing alone or no intervention is inadequate for a 3‑mm defect.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 348,
@@ -5089,7 +5089,7 @@
       "Temporarily switch the patient to low molecular weight heparin (LMWH) for perioperative management."
     ],
     "correctAnswer": 2,
-    "explanation": "For routine single tooth extractions in patients on Warfarin with an INR within the therapeutic range (typically <3.0-3.5), current Canadian guidelines recommend *not* altering the anticoagulant regimen. Instead, meticulous local hemostatic measures (e.g., pressure, sutures, hemostatic agents) should be employed to control bleeding. Discontinuing or altering Warfarin significantly increases the risk of serious thrombotic events, outweighing the minor risk of bleeding from a simple extraction. LMWH bridging is generally reserved for more extensive surgeries or higher INR values.",
+    "explanation": "For routine single tooth extractions in patients on Warfarin with an INR within the therapeutic range (typically <3.0-3.5), current ADA guidelines recommend *not* altering the anticoagulant regimen. Instead, meticulous local hemostatic measures (e.g., pressure, sutures, hemostatic agents) should be employed to control bleeding. Discontinuing or altering Warfarin significantly increases the risk of serious thrombotic events, outweighing the minor risk of bleeding from a simple extraction. LMWH bridging is generally reserved for more extensive surgeries or higher INR values.",
     "aiVerified": true
   },
   {
@@ -5502,7 +5502,7 @@
   {
     "id": 393,
     "topicId": "oral-surgery",
-    "question": "A 68-year-old patient with a history of a prosthetic mitral valve replacement requires a simple extraction of a non-restorable maxillary incisor. The patient has no known drug allergies. According to Canadian guidelines, what is the most appropriate antibiotic prophylaxis regimen?",
+    "question": "A 68-year-old patient with a history of a prosthetic mitral valve replacement requires a simple extraction of a non-restorable maxillary incisor. The patient has no known drug allergies. According to ADA guidelines, what is the most appropriate antibiotic prophylaxis regimen?",
     "options": [
       "Amoxicillin 500mg, one hour pre-procedure",
       "Clindamycin 600mg, one hour pre-procedure",
@@ -5804,10 +5804,10 @@
       "Refer the patient for immediate endoscopic sinus surgery."
     ],
     "correctAnswer": 2,
-    "explanation": "An oroantral communication (OAC) that is ≥3 mm in diameter rarely closes spontaneously and carries a high risk of evolving into an oroantral fistula if left untreated. Current Canadian dental guidelines (NDEB, Canadian Dental Association) recommend prompt surgical closure of OACs larger than 3 mm in the absence of infection. The buccal advancement (Rehrmann) flap provides a well‑vascularised, tension‑free closure and is the technique of choice for defects up to about 5 mm. \n\nWhy the other options are incorrect:\n\n0. Antibiotics alone do not close the defect, and advising the patient to blow the nose is contraindicated because increased sinus pressure can enlarge the communication and impede healing.\n1. Gelfoam packing may be useful for very small (<2‑3 mm) defects that are expected to heal spontaneously. A 4‑mm defect is beyond the size that reliably closes with packing alone, and reliance on this method has a high failure rate.\n3. Endoscopic sinus surgery is reserved for cases with chronic sinus disease, large defects that cannot be closed intra‑orally, or when a previously placed flap fails. It is not indicated as the first‑line treatment for an uncomplicated 4‑mm OAC.\n\nTherefore, the gold‑standard immediate management is primary surgical closure with a buccal advancement flap (option 2).",
+    "explanation": "An oroantral communication (OAC) that is ≥3 mm in diameter rarely closes spontaneously and carries a high risk of evolving into an oroantral fistula if left untreated. Current Canadian dental guidelines (INBDE, American Dental Association) recommend prompt surgical closure of OACs larger than 3 mm in the absence of infection. The buccal advancement (Rehrmann) flap provides a well‑vascularised, tension‑free closure and is the technique of choice for defects up to about 5 mm. \n\nWhy the other options are incorrect:\n\n0. Antibiotics alone do not close the defect, and advising the patient to blow the nose is contraindicated because increased sinus pressure can enlarge the communication and impede healing.\n1. Gelfoam packing may be useful for very small (<2‑3 mm) defects that are expected to heal spontaneously. A 4‑mm defect is beyond the size that reliably closes with packing alone, and reliance on this method has a high failure rate.\n3. Endoscopic sinus surgery is reserved for cases with chronic sinus disease, large defects that cannot be closed intra‑orally, or when a previously placed flap fails. It is not indicated as the first‑line treatment for an uncomplicated 4‑mm OAC.\n\nTherefore, the gold‑standard immediate management is primary surgical closure with a buccal advancement flap (option 2).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 415,
@@ -5918,7 +5918,7 @@
       "Proceed to the nearest emergency department immediately for evaluation."
     ],
     "correctAnswer": 1,
-    "explanation": "Malamed’s *Handbook of Local Anesthesia* (7th ed.) and the Canadian Dental Association’s postoperative bleeding protocol recommend that patients place a fresh gauze over the extraction site, bite firmly for 30–45 minutes, and then check the socket. If bleeding persists, the gauze should be changed approximately every 15 minutes until hemostasis is achieved. This approach balances adequate pressure with the need to monitor clot formation. Option 2 reflects this evidence‑based practice, whereas option 3’s instruction to bite for 30–60 minutes “without checking” is inconsistent with the guideline.",
+    "explanation": "Malamed’s *Handbook of Local Anesthesia* (7th ed.) and the American Dental Association’s postoperative bleeding protocol recommend that patients place a fresh gauze over the extraction site, bite firmly for 30–45 minutes, and then check the socket. If bleeding persists, the gauze should be changed approximately every 15 minutes until hemostasis is achieved. This approach balances adequate pressure with the need to monitor clot formation. Option 2 reflects this evidence‑based practice, whereas option 3’s instruction to bite for 30–60 minutes “without checking” is inconsistent with the guideline.",
     "aiVerified": true
   },
   {
@@ -5932,10 +5932,10 @@
       "Odontogenic keratocyst"
     ],
     "correctAnswer": 2,
-    "explanation": "Ameloblastoma is the classic odontogenic tumor that presents as a large, multilocular (\"soap‑bubble\" or \"honey‑comb\") radiolucency in the posterior mandible of adults, frequently causing marked expansion of the buccal and lingual cortical plates. Although it may be associated with an impacted tooth, the key radiographic features are multilocularity and aggressive cortical expansion. \n\nWhy the distractors are incorrect:\n- **Radicular cyst**: Arises at the apex of a non‑vital tooth, is usually unilocular, and is not associated with an impacted third molar or significant cortical expansion. \n- **Dentigerous cyst**: Envelops the crown of an unerupted tooth but is characteristically unilocular and causes minimal expansion; it does not produce the multilocular \"soap‑bubble\" appearance. \n- **Odontogenic keratocyst (OKC)**: Can be multilocular but typically grows within the medullary bone with little cortical expansion until late stages; it is less commonly associated with an impacted tooth and lacks the pronounced expansion seen in ameloblastoma.\n\nTherefore, based on the combination of multilocularity, association with an impacted third molar, and marked cortical expansion, the gold‑standard diagnosis under NDEB guidelines is ameloblastoma.",
+    "explanation": "Ameloblastoma is the classic odontogenic tumor that presents as a large, multilocular (\"soap‑bubble\" or \"honey‑comb\") radiolucency in the posterior mandible of adults, frequently causing marked expansion of the buccal and lingual cortical plates. Although it may be associated with an impacted tooth, the key radiographic features are multilocularity and aggressive cortical expansion. \n\nWhy the distractors are incorrect:\n- **Radicular cyst**: Arises at the apex of a non‑vital tooth, is usually unilocular, and is not associated with an impacted third molar or significant cortical expansion. \n- **Dentigerous cyst**: Envelops the crown of an unerupted tooth but is characteristically unilocular and causes minimal expansion; it does not produce the multilocular \"soap‑bubble\" appearance. \n- **Odontogenic keratocyst (OKC)**: Can be multilocular but typically grows within the medullary bone with little cortical expansion until late stages; it is less commonly associated with an impacted tooth and lacks the pronounced expansion seen in ameloblastoma.\n\nTherefore, based on the combination of multilocularity, association with an impacted third molar, and marked cortical expansion, the gold‑standard diagnosis under ADA clinical guidelines is ameloblastoma.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 424,
@@ -6089,7 +6089,7 @@
       "Refer immediately to an oral surgeon for surgical re-implantation."
     ],
     "correctAnswer": 1,
-    "explanation": "International Association of Dental Traumatology (IADT) and Canadian Dental Association trauma guidelines state that when a permanent tooth has been extra‑orally dry for more than 60 minutes, the periodontal ligament cells are considered non‑viable. Re‑implantation under these conditions is not recommended because ankylosis and progressive root resorption are almost inevitable. The appropriate management is to discard the tooth and plan for later prosthetic replacement (e.g., bridge or implant) after alveolar healing. Options involving milk storage or surgical re‑implantation are only indicated when the extra‑oral dry time is <60 minutes. (IADT Guidelines 2020; CDA Trauma Protocol, 2022).",
+    "explanation": "International Association of Dental Traumatology (IADT) and American Dental Association trauma guidelines state that when a permanent tooth has been extra‑orally dry for more than 60 minutes, the periodontal ligament cells are considered non‑viable. Re‑implantation under these conditions is not recommended because ankylosis and progressive root resorption are almost inevitable. The appropriate management is to discard the tooth and plan for later prosthetic replacement (e.g., bridge or implant) after alveolar healing. Options involving milk storage or surgical re‑implantation are only indicated when the extra‑oral dry time is <60 minutes. (IADT Guidelines 2020; CDA Trauma Protocol, 2022).",
     "aiVerified": true
   },
   {
@@ -6406,7 +6406,7 @@
   {
     "id": 457,
     "topicId": "oral-surgery",
-    "question": "Which of the following conditions would generally NOT require antibiotic prophylaxis prior to a dental extraction, according to current Canadian guidelines?",
+    "question": "Which of the following conditions would generally NOT require antibiotic prophylaxis prior to a dental extraction, according to current ADA guidelines?",
     "options": [
       "Presence of a prosthetic cardiac valve",
       "Previous infective endocarditis",
@@ -6627,7 +6627,7 @@
     "correctAnswer": 1,
     "explanation": "Carranza’s Clinical Periodontology and the Canadian Oral Surgery curriculum advise that a maxillary tuberosity fracture that remains attached to the periosteum should be managed conservatively. The fragment is repositioned and secured with figure‑of‑eight sutures, periosteal sutures, or an arch‑bar to maintain bone integrity and allow healing. Extraction of the segment and tooth is a last‑resort measure that sacrifices valuable bone and increases the risk of an oro‑antral fistula. Referral is reserved for cases where the fragment cannot be stabilized chair‑side. (Carranza, 12th ed., p. 421; RCDSO Surgical Guidelines, 2021).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 473,
@@ -6640,7 +6640,7 @@
       "Bupivacaine"
     ],
     "correctAnswer": 1,
-    "explanation": "Articaine is the most appropriate choice for a patient with Child‑Pugh Class C cirrhosis because, unlike the other agents listed, it is an amide‑type local anesthetic that possesses a unique ester side chain which is rapidly hydrolyzed by plasma cholinesterases. Consequently, only a small fraction of the administered dose requires hepatic metabolism, markedly reducing the risk of accumulation and systemic toxicity in severe hepatic impairment (Malamed, 9th ed.; Carranza, 12th ed.). Lidocaine, mepivacaine, and bupivacaine are pure amides whose clearance depends almost entirely on hepatic microsomal enzymes; in Child‑Pugh C patients their half‑lives are prolonged, plasma concentrations rise, and the potential for central nervous system and cardiovascular toxicity increases (Sturdevant, 7th ed.; Phillips, 12th ed.). Bupivacaine is especially problematic because it is highly protein‑bound, has a long duration of action, and is the most cardiotoxic of the amides, making it the least suitable for compromised liver function. Mepivacaine, while slightly less vasodilatory than lidocaine, is still metabolized almost exclusively by the liver and offers no advantage in this scenario. Lidocaine, though widely used, requires dose reduction and careful monitoring in severe hepatic disease due to reduced clearance. The NDEB AFK examination emphasizes selection of the safest pharmacologic option based on patient‑specific systemic conditions; therefore, articaine (option 1) is the correct answer.",
+    "explanation": "Articaine is the most appropriate choice for a patient with Child‑Pugh Class C cirrhosis because, unlike the other agents listed, it is an amide‑type local anesthetic that possesses a unique ester side chain which is rapidly hydrolyzed by plasma cholinesterases. Consequently, only a small fraction of the administered dose requires hepatic metabolism, markedly reducing the risk of accumulation and systemic toxicity in severe hepatic impairment (Malamed, 9th ed.; Carranza, 12th ed.). Lidocaine, mepivacaine, and bupivacaine are pure amides whose clearance depends almost entirely on hepatic microsomal enzymes; in Child‑Pugh C patients their half‑lives are prolonged, plasma concentrations rise, and the potential for central nervous system and cardiovascular toxicity increases (Sturdevant, 7th ed.; Phillips, 12th ed.). Bupivacaine is especially problematic because it is highly protein‑bound, has a long duration of action, and is the most cardiotoxic of the amides, making it the least suitable for compromised liver function. Mepivacaine, while slightly less vasodilatory than lidocaine, is still metabolized almost exclusively by the liver and offers no advantage in this scenario. Lidocaine, though widely used, requires dose reduction and careful monitoring in severe hepatic disease due to reduced clearance. The INBDE examination emphasizes selection of the safest pharmacologic option based on patient‑specific systemic conditions; therefore, articaine (option 1) is the correct answer.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -6894,10 +6894,10 @@
       "Prescribe gabapentin to manage neuropathic pain and monitor for improvement over the next 2 weeks."
     ],
     "correctAnswer": 0,
-    "explanation": "Persistent altered sensation 2 weeks after mandibular third‑molar removal is most commonly a temporary neuropraxic injury. Canadian guidelines and the Little & Falace text advise reassurance and periodic monitoring, as 80–90 % of such deficits recover within 3–6 months without intervention. Corticosteroids are only useful within the first 48 h, and immediate specialist referral is reserved for deficits persisting beyond 3–4 months or when surgical exploration is indicated. Gabapentin addresses pain but does not promote nerve recovery, making reassurance the appropriate first step.",
+    "explanation": "Persistent altered sensation 2 weeks after mandibular third‑molar removal is most commonly a temporary neuropraxic injury. ADA guidelines and the Little & Falace text advise reassurance and periodic monitoring, as 80–90 % of such deficits recover within 3–6 months without intervention. Corticosteroids are only useful within the first 48 h, and immediate specialist referral is reserved for deficits persisting beyond 3–4 months or when surgical exploration is indicated. Gabapentin addresses pain but does not promote nerve recovery, making reassurance the appropriate first step.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 492,
@@ -6910,7 +6910,7 @@
       "Delay the extraction and refer the patient to his cardiologist for an alternative anticoagulant."
     ],
     "correctAnswer": 0,
-    "explanation": "For patients on direct oral anticoagulants (DOACs) like rivaroxaban undergoing minor oral surgical procedures, the current NDEB and medical guidelines generally recommend continuing the medication and utilizing local hemostatic measures. Interrupting rivaroxaban significantly increases the risk of thromboembolic events such as stroke. Vitamin K is not an antidote for rivaroxaban, and referral for alternative anticoagulation is typically unnecessary for minor procedures.",
+    "explanation": "For patients on direct oral anticoagulants (DOACs) like rivaroxaban undergoing minor oral surgical procedures, the current INBDE and medical guidelines generally recommend continuing the medication and utilizing local hemostatic measures. Interrupting rivaroxaban significantly increases the risk of thromboembolic events such as stroke. Vitamin K is not an antidote for rivaroxaban, and referral for alternative anticoagulation is typically unnecessary for minor procedures.",
     "aiVerified": true
   },
   {

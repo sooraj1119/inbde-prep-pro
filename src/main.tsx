@@ -8,7 +8,7 @@ import { Preferences } from '@capacitor/preferences';
 import { Capacitor } from '@capacitor/core';
 import { initializeRevenueCat } from './lib/revenuecat';
 
-const PREMIUM_KEY = 'ndeb_prep_is_premium';
+const PREMIUM_KEY = 'inbde_prep_is_premium';
 
 /** Resolves after `ms` milliseconds — used to cap the RC network wait. */
 const timeout = (ms: number) => new Promise<void>(resolve => setTimeout(resolve, ms));

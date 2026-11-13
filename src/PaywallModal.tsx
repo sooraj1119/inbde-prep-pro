@@ -196,7 +196,7 @@ export function PaywallModal({ isOpen, onClose, feature: _feature = "this featur
                   >
                     <span style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', flex: 1, textAlign: 'left', paddingRight: '0.25rem', minWidth: 0 }}>
                       <span style={{ lineHeight: 1.2, marginBottom: '0.2rem', display: 'flex', alignItems: 'center', gap: '0.25rem', flexWrap: 'wrap' }}>
-                        {pkg.product.title.replace(/\\(com\\.ndeb\\.INBDEprep \\(unreviewed\\)\\)/g, '').trim()}
+                        {pkg.product.title.replace(/\s*\([^)]*(?:dentalprep|INBDEprep|ndeb)[^)]*\)/gi, '').replace(/\s*\(unreviewed\)/gi, '').trim() || pkg.product.title}
                         {pkg.product.title.toLowerCase().includes('yearly') && (
                           <span style={{ fontSize: '0.65rem', background: '#fbbf24', color: '#854d0e', padding: '0.15rem 0.4rem', borderRadius: '4px', fontWeight: 800, textTransform: 'uppercase' }}>Best Value</span>
                         )}

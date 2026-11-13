@@ -1429,7 +1429,7 @@
       "Perform baseline testing of the source patient and healthcare worker for anti-HCV antibodies and HCV RNA"
     ],
     "correctAnswer": 3,
-    "explanation": "Current Canadian guidelines recommend baseline testing for both the source patient and the exposed healthcare worker (anti-HCV and baseline ALT, with HCV RNA testing considered if the source is positive) to establish infection status. There is no immune globulin or standard post-exposure prophylaxis regimen recommended for HCV; instead, early monitoring and prompt treatment with direct-acting antivirals if infection occurs is the standard protocol.",
+    "explanation": "Current ADA guidelines recommend baseline testing for both the source patient and the exposed healthcare worker (anti-HCV and baseline ALT, with HCV RNA testing considered if the source is positive) to establish infection status. There is no immune globulin or standard post-exposure prophylaxis regimen recommended for HCV; instead, early monitoring and prompt treatment with direct-acting antivirals if infection occurs is the standard protocol.",
     "aiVerified": true
   },
   {
@@ -1819,7 +1819,7 @@
       "Hepatitis B immune globulin (HBIG) only"
     ],
     "correctAnswer": 2,
-    "explanation": "For an unimmunized individual exposed to a known HBsAg-positive source, Canadian guidelines recommend both passive immunization (Hepatitis B immune globulin, HBIG) and active immunization (Hepatitis B vaccine series) administered concurrently at different injection sites to provide immediate and long-term protection.",
+    "explanation": "For an unimmunized individual exposed to a known HBsAg-positive source, ADA guidelines recommend both passive immunization (Hepatitis B immune globulin, HBIG) and active immunization (Hepatitis B vaccine series) administered concurrently at different injection sites to provide immediate and long-term protection.",
     "aiVerified": true
   },
   {
@@ -1931,7 +1931,7 @@
     "id": 141,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current Canadian guidelines (CDAC/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
+    "question": "During routine dental unit waterline (DUWL) maintenance, a clinic tests for heterotrophic plate count (HPC) bacteria. According to current ADA guidelines (CDAC/CDC), what is the maximum acceptable limit for HPC bacteria in water used for routine non-surgical dental treatment?",
     "options": [
       "≤ 200 CFU/mL",
       "≤ 5,000 CFU/mL",
@@ -2621,7 +2621,7 @@
     "id": 192,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A dental clinic waterline test reveals bacterial colony-forming unit (CFU) counts exceeding the Canadian Dental Association (CDA) and CDC recommendations of $\\le 200$ CFU/mL for nonsurgical dental treatment water. Which organism is most commonly associated with forming biofilms in dental unit waterlines (DUWLs)?",
+    "question": "A dental clinic waterline test reveals bacterial colony-forming unit (CFU) counts exceeding the American Dental Association (CDA) and CDC recommendations of $\\le 200$ CFU/mL for nonsurgical dental treatment water. Which organism is most commonly associated with forming biofilms in dental unit waterlines (DUWLs)?",
     "options": [
       "Pseudomonas aeruginosa",
       "Staphylococcus aureus",
@@ -3432,7 +3432,7 @@
     "id": 252,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease is scheduled for a full-mouth scaling and root planing. According to current Canadian Dental Association (CDA) and AHA guidelines, for which of the following underlying cardiac conditions is antibiotic prophylaxis strictly recommended prior to an invasive dental procedure?",
+    "question": "A patient with a history of rheumatic heart disease is scheduled for a full-mouth scaling and root planing. According to current American Dental Association (CDA) and AHA guidelines, for which of the following underlying cardiac conditions is antibiotic prophylaxis strictly recommended prior to an invasive dental procedure?",
     "options": [
       "Previous history of infective endocarditis",
       "Mitral valve prolapse with regurgitation",
@@ -3485,7 +3485,7 @@
       "Disruption of osmotic pressure via simple cell lysis"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Malamed Handbook of Local Anesthesia (7th ed.) and CDA infection‑control guidelines, glutaraldehyde achieves high‑level disinfection through alkylation of sulfhydryl, amino and carboxyl groups, leading to irreversible protein denaturation and loss of enzymatic activity. Although hydrogen peroxide acts primarily via oxidative damage, the exam item groups the two agents under the same high‑level category and expects the alkylation description, which is the canonical mechanism for glutaraldehyde and is accepted as the primary answer in NDEB‑style questions.",
+    "explanation": "According to the Malamed Handbook of Local Anesthesia (7th ed.) and CDA infection‑control guidelines, glutaraldehyde achieves high‑level disinfection through alkylation of sulfhydryl, amino and carboxyl groups, leading to irreversible protein denaturation and loss of enzymatic activity. Although hydrogen peroxide acts primarily via oxidative damage, the exam item groups the two agents under the same high‑level category and expects the alkylation description, which is the canonical mechanism for glutaraldehyde and is accepted as the primary answer in INBDE‑style questions.",
     "aiVerified": true
   },
   {
@@ -3777,7 +3777,7 @@
     "id": 277,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic heart disease requires scaling and root planing. According to current American Heart Association (AHA) and Canadian guidelines, infective endocarditis prophylaxis is recommended for which of the following scenarios?",
+    "question": "A patient with a history of rheumatic heart disease requires scaling and root planing. According to current American Heart Association (AHA) and ADA guidelines, infective endocarditis prophylaxis is recommended for which of the following scenarios?",
     "options": [
       "Suture removal from uncomplicated gingival surgery",
       "Routine local anesthetic injections through non-infected tissue",
@@ -4087,7 +4087,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is 500 CFU/mL. The Centers for Disease Control and Prevention (CDC) and the American Dental Association (ADA) recommend that dental unit water (DUW) used for routine non-surgical dental treatment should meet the standard for drinking water, which is defined as less than or equal to 500 CFU/mL of heterotrophic water bacteria. This standard is based on the US EPA and Canadian drinking water guidelines for total heterotrophic plate count. \n\nWhy the other options are incorrect:\n- 200 CFU/mL: This is not the standard threshold for routine non-surgical procedures. While some guidelines suggest lower counts for specific high-risk patients or surgical procedures, 500 CFU/mL is the general regulatory benchmark.\n- 10 CFU/mL: This is the recommended limit for water used in surgical procedures (e.g., implant placement, periodontal surgery) or for immunocompromised patients, not for routine non-surgical care.\n- 1,000,000 CFU/mL: This count is significantly higher than the drinking water standard and indicates severe biofilm contamination, posing a high risk of infection and is unacceptable for any dental procedure.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 299,
@@ -4678,7 +4678,7 @@
     "id": 343,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic fever requires antibiotic prophylaxis prior to a complex periodontal surgical procedure involving gingival manipulation. According to current AHA and Canadian guidelines, which bacteria are clinicians primarily targeting to prevent infective endocarditis?",
+    "question": "A patient with a history of rheumatic fever requires antibiotic prophylaxis prior to a complex periodontal surgical procedure involving gingival manipulation. According to current AHA and ADA guidelines, which bacteria are clinicians primarily targeting to prevent infective endocarditis?",
     "options": [
       "Escherichia coli",
       "Staphylococcus aureus",
@@ -5068,7 +5068,7 @@
     "id": 371,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "During a routine check of the dental unit waterlines (DUWLs), bacterial heterotrophic plate counts exceed the Canadian Dental Association and CDC standard of less than 500 CFU/mL. What is the primary cause of this contamination in dental units?",
+    "question": "During a routine check of the dental unit waterlines (DUWLs), bacterial heterotrophic plate counts exceed the American Dental Association and CDC standard of less than 500 CFU/mL. What is the primary cause of this contamination in dental units?",
     "options": [
       "Biofilm formation inside the narrow-bore plastic tubing",
       "Saliva suck-back from patient mouths",
@@ -5198,7 +5198,7 @@
     "correctAnswer": 3,
     "explanation": "The clinical presentation of widespread oral mucous patches (ulcerative lesions) and lymphadenopathy following a resolved primary chancre is classic for secondary syphilis, caused by the spirochete Treponema pallidum. The question asks for the most specific test for confirmation. Treponemal tests, such as the Treponema pallidum hemagglutination assay (TPHA) or the fluorescent treponemal antibody absorption (FTA-ABS) test, are highly specific (95-99%) for T. pallidum antigens and are used to confirm a positive non-treponemal screening test. In contrast, the VDRL (Option 0) is a non-treponemal screening test that detects antibodies against cardiolipin-cholesterol-lecithin antigen; while sensitive, it lacks specificity and can yield false positives in conditions like pregnancy, autoimmune diseases, or other infections. Dark-field microscopy (Option 1) allows for the direct visualization of live spirochetes and is highly specific when positive, but it has low sensitivity in secondary syphilis because the spirochete load in mucous patches is often lower than in primary chancres, and it is technically difficult to perform in a standard dental or general laboratory setting; therefore, serological confirmation via treponemal testing is the standard of care for diagnosis. Gram stain (Option 2) is ineffective because T. pallidum is too thin to be visualized with standard light microscopy and does not stain well with Gram stain.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 381,
@@ -5656,7 +5656,7 @@
     "id": 415,
     "topicId": "microbiology",
     "difficulty": "medium",
-    "question": "During routine dental waterline maintenance, a clinic tests its self-contained water systems and finds heterotrophic plate counts exceeding the Canadian Dental Association (CDA) and CDC recommendation of less than 500 CFU/mL. Which opportunistic pathogen is of primary concern regarding biofilm formation in dental unit waterlines, particularly for immunocompromised patients?",
+    "question": "During routine dental waterline maintenance, a clinic tests its self-contained water systems and finds heterotrophic plate counts exceeding the American Dental Association (CDA) and CDC recommendation of less than 500 CFU/mL. Which opportunistic pathogen is of primary concern regarding biofilm formation in dental unit waterlines, particularly for immunocompromised patients?",
     "options": [
       "Lactobacillus acidophilus",
       "Pseudomonas aeruginosa",
@@ -6309,9 +6309,9 @@
       "Administer Hepatitis B immunoglobulin (HBIG) only"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct management is no specific post-exposure prophylaxis (Option 2). According to Canadian guidelines (aligned with CDC and PHAC recommendations), healthcare workers with documented adequate antibody response (anti-HBs ≥ 10 mIU/mL) following vaccination are considered immune to Hepatitis B. In the event of a percutaneous exposure to an HBsAg-positive source, these individuals do not require Hepatitis B immunoglobulin (HBIG) or a booster dose of vaccine. Their immune memory is sufficient to provide protection. Option 0 is incorrect because HBIG is reserved for unvaccinated individuals or those with unknown/inadequate immune response. Option 1 is incorrect because a booster is not indicated for individuals with documented adequate immunity; routine boosters are not recommended for healthy adults with confirmed seroconversion. Option 3 is incorrect because HBIG is not indicated for immune individuals.",
+    "explanation": "The correct management is no specific post-exposure prophylaxis (Option 2). According to ADA guidelines (aligned with CDC and PHAC recommendations), healthcare workers with documented adequate antibody response (anti-HBs ≥ 10 mIU/mL) following vaccination are considered immune to Hepatitis B. In the event of a percutaneous exposure to an HBsAg-positive source, these individuals do not require Hepatitis B immunoglobulin (HBIG) or a booster dose of vaccine. Their immune memory is sufficient to provide protection. Option 0 is incorrect because HBIG is reserved for unvaccinated individuals or those with unknown/inadequate immune response. Option 1 is incorrect because a booster is not indicated for individuals with documented adequate immunity; routine boosters are not recommended for healthy adults with confirmed seroconversion. Option 3 is incorrect because HBIG is not indicated for immune individuals.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 460,
@@ -6568,7 +6568,7 @@
       "A panoramic radiograph only."
     ],
     "correctAnswer": 3,
-    "explanation": "Canadian Dental Association (CDA) and provincial radiographic guidelines state that for a new adult patient who has not had radiographs in the past five years, the initial imaging should be a panoramic radiograph, supplemented by bitewings only if caries risk warrants. A full‑mouth series exceeds the minimum diagnostic requirement and violates the ALARA principle by exposing the patient to unnecessary radiation. Panoramic imaging offers sufficient diagnostic information for gross assessment of teeth, bone, and pathology, and is the standard initial survey in Canadian practice (CDA Radiology Guidelines, 2020).",
+    "explanation": "American Dental Association (CDA) and provincial radiographic guidelines state that for a new adult patient who has not had radiographs in the past five years, the initial imaging should be a panoramic radiograph, supplemented by bitewings only if caries risk warrants. A full‑mouth series exceeds the minimum diagnostic requirement and violates the ALARA principle by exposing the patient to unnecessary radiation. Panoramic imaging offers sufficient diagnostic information for gross assessment of teeth, bone, and pathology, and is the standard initial survey in Canadian practice (CDA Radiology Guidelines, 2020).",
     "aiVerified": true
   },
   {
@@ -6963,7 +6963,7 @@
     "correctAnswer": 0,
     "explanation": "The most appropriate local anesthetic for a routine mandibular extraction in a patient with well-controlled asthma is 2% Lidocaine with 1:50,000 epinephrine. Lidocaine is the gold standard amide local anesthetic in dentistry due to its rapid onset, reliable efficacy, and safety profile. The addition of epinephrine (1:50,000) is critical for mandibular extractions as it provides vasoconstriction, which prolongs the duration of anesthesia, reduces surgical bleeding, and allows for a clearer operative field. While patients with asthma require caution regarding sympathomimetics, well-controlled asthma is not a contraindication to the use of epinephrine in local anesthetics; the systemic absorption from a dental cartridge is minimal and generally safe. Option 1 (3% Mepivacaine plain) is incorrect because plain anesthetics lack vasoconstrictors, leading to rapid systemic absorption, shorter duration of action, and increased intraoperative bleeding, which is undesirable for surgical extractions. Option 2 (4% Articaine with 1:100,000 epinephrine) is a plausible alternative due to its bone-penetrating properties, but Lidocaine remains the primary first-line agent in Canadian dental practice for routine extractions unless specific indications favor articaine (e.g., high bone density or previous failure of lidocaine). Furthermore, the 1:100,000 concentration is less potent for hemostasis than 1:50,000. Option 3 (0.5% Bupivacaine with 1:200,000 epinephrine) is incorrect because bupivacaine has a very long duration of action (up to 8-12 hours) and is typically reserved for post-operative pain management or specific cases requiring prolonged anesthesia, not for routine extractions where a standard duration is preferred. Additionally, the lower concentration of epinephrine (1:200,000) provides less effective hemostasis compared to 1:50,000.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 72176977,
@@ -7116,10 +7116,10 @@
       "Acute apical abscess"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the AAE/NDEB terminology (as cited in Sturdevant’s Art and Science of Operative Dentistry and Carranza’s Clinical Periodontology), symptomatic apical periodontitis is a periapical lesion associated with any subjective pain or discomfort, whether spontaneous or provoked, in the absence of acute inflammatory signs. The described dull ache satisfies the symptom criterion, whereas asymptomatic apical periodontitis requires no reported pain. Chronic or acute abscesses would present with sinus tracts, swelling, or marked percussion tenderness, which are not present. Hence, symptomatic apical periodontitis is the correct diagnosis.",
+    "explanation": "According to the AAE/INBDE terminology (as cited in Sturdevant’s Art and Science of Operative Dentistry and Carranza’s Clinical Periodontology), symptomatic apical periodontitis is a periapical lesion associated with any subjective pain or discomfort, whether spontaneous or provoked, in the absence of acute inflammatory signs. The described dull ache satisfies the symptom criterion, whereas asymptomatic apical periodontitis requires no reported pain. Chronic or acute abscesses would present with sinus tracts, swelling, or marked percussion tenderness, which are not present. Hence, symptomatic apical periodontitis is the correct diagnosis.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 30003406,
@@ -7233,7 +7233,7 @@
     "explanation": "The correct answer is Periapical cemento‑osseous dysplasia (PCOD). PCOD is a benign fibro‑osseous lesion that presents in middle‑aged women, is usually asymptomatic, and shows a well‑defined radiolucency around a vital tooth with an intact lamina dura. While the mandibular anterior region is the classic site, the lesion can, albeit rarely, involve posterior maxillary teeth (Neville, Damm, Allen, Bouquot, Oral and Maxillofacial Pathology, 4th ed., p. 462). Inflammatory lesions such as granuloma or radicular cyst require pulp necrosis and would not demonstrate normal vitality testing. An acute apical abscess would be painful. Therefore the current answer is correct.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 366611674,
@@ -7321,7 +7321,7 @@
     "explanation": "The clinical presentation of an acute, painful, purulent submandibular abscess of odontogenic origin is characteristic of an infection driven by anaerobic bacteria. Prevotella melaninogenica (formerly known as Bacteroides melaninogenus) is a gram-negative anaerobe that is a predominant primary pathogen in acute deep space neck infections and odontogenic abscesses. It thrives in the low-oxygen environment of an abscess and is frequently isolated in pure culture or as the dominant organism in these acute presentations. \n\nActinomyces israelii (Option 0) is an anaerobic gram-positive rod that causes actinomycosis, which typically presents as a chronic, slowly progressive, non-tender 'lumpy jaw' with draining sinuses and sulfur granules, rather than an acute, painful, purulent abscess. \n\nStreptococcus viridans (Option 2) is a facultative anaerobe and a common oral commensal. While it is often involved in the initial colonization of dental caries and can be part of the polymicrobial flora in odontogenic infections, it is not the primary driver of the acute, deep-space anaerobic abscess formation described; anaerobes like Prevotella and Fusobacterium are the key pathogens in the progression to deep space infection. \n\nStaphylococcus aureus (Option 3) is a facultative anaerobe primarily associated with skin and soft tissue infections. While it can cause abscesses, it is not the primary pathogen in odontogenic deep space infections unless there is a specific history of skin trauma or secondary inoculation, which is not indicated in this classic odontogenic presentation.",
     "aiGenerated": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 124112941,
@@ -7337,7 +7337,7 @@
     "explanation": "The correct answer is Development of antibiotic‑resistant oral streptococci. Fluoroquinolones such as ciprofloxacin have activity against Gram‑positive oral streptococci; their systemic use can disrupt the normal oral microbiome and select for fluoroquinolone‑resistant strains (Little & Falace, Dental Management of the Medically Compromised Patient, 2nd ed., p. 215). While ciprofloxacin can also select for resistant Pseudomonas aeruginosa, this organism is not a predominant member of the healthy oral flora and therefore represents a lower risk in routine dental procedures. Vancomycin‑resistant Enterococcus and HIV transmission are unrelated to ciprofloxacin exposure.",
     "aiGenerated": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 962854476,

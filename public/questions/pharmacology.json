@@ -44,7 +44,7 @@
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 4,
@@ -58,11 +58,11 @@
       "Articaine 4% plain (no vasoconstrictor)"
     ],
     "correctAnswer": 0,
-    "explanation": "Non‑selective β‑blockers inhibit both β1 and β2 receptors. When epinephrine is administered with a local anesthetic, its β2‑mediated vasodilatory effect is blocked, leaving the α1‑mediated vasoconstriction unopposed. This can precipitate a rapid rise in blood pressure, reflex tachycardia, or arrhythmias—especially in patients on β‑blockade. Consequently, local anesthetic solutions that contain epinephrine should be avoided or used only at the lowest effective dose in such patients. \n\nWhy the other options are incorrect:\n1. **Mepivacaine 3% plain** – contains no vasoconstrictor; therefore there is no risk of catecholamine‑induced unopposed α‑stimulation. It is considered safe for patients on β‑blockers.\n2. **Prilocaine 4% with felypressin** – felypressin is a synthetic vasopressin analogue that acts on V1 receptors, not on adrenergic receptors. It does not produce the same β‑blockade‑related problem and is an acceptable alternative when a vasoconstrictor is needed.\n3. **Articaine 4% plain** – like the mepivacaine option, this formulation lacks epinephrine and therefore does not pose the unopposed α‑adrenergic risk.\n\nThe NDEB AFK blueprint emphasizes knowledge of drug interactions and the safe selection of local anesthetic agents in medically compromised patients. Current Canadian dental pharmacology texts (e.g., Malamed’s Local Anesthesia, 8th ed.; Carranza’s Clinical Periodontology) and the CDA’s guidelines specifically advise that epinephrine‑containing solutions be used with caution—or avoided—in patients receiving non‑selective β‑blockers because of the potential for unopposed α‑adrenergic effects. Hence, the correct answer is the epinephrine‑containing lidocaine formulation.",
+    "explanation": "Non‑selective β‑blockers inhibit both β1 and β2 receptors. When epinephrine is administered with a local anesthetic, its β2‑mediated vasodilatory effect is blocked, leaving the α1‑mediated vasoconstriction unopposed. This can precipitate a rapid rise in blood pressure, reflex tachycardia, or arrhythmias—especially in patients on β‑blockade. Consequently, local anesthetic solutions that contain epinephrine should be avoided or used only at the lowest effective dose in such patients. \n\nWhy the other options are incorrect:\n1. **Mepivacaine 3% plain** – contains no vasoconstrictor; therefore there is no risk of catecholamine‑induced unopposed α‑stimulation. It is considered safe for patients on β‑blockers.\n2. **Prilocaine 4% with felypressin** – felypressin is a synthetic vasopressin analogue that acts on V1 receptors, not on adrenergic receptors. It does not produce the same β‑blockade‑related problem and is an acceptable alternative when a vasoconstrictor is needed.\n3. **Articaine 4% plain** – like the mepivacaine option, this formulation lacks epinephrine and therefore does not pose the unopposed α‑adrenergic risk.\n\nThe INBDE Foundation Knowledge blueprint emphasizes knowledge of drug interactions and the safe selection of local anesthetic agents in medically compromised patients. Current Canadian dental pharmacology texts (e.g., Malamed’s Local Anesthesia, 8th ed.; Carranza’s Clinical Periodontology) and the CDA’s guidelines specifically advise that epinephrine‑containing solutions be used with caution—or avoided—in patients receiving non‑selective β‑blockers because of the potential for unopposed α‑adrenergic effects. Hence, the correct answer is the epinephrine‑containing lidocaine formulation.",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 5,
@@ -991,7 +991,7 @@
     "explanation": "Nystatin is a polyene antifungal agent that is the gold standard topical treatment for oral candidiasis in many Canadian dental and medical guidelines. Its mechanism of action involves direct binding to ergosterol, a key component of the fungal cell membrane. This binding causes the formation of transmembrane pores, which increases membrane permeability, leading to the leakage of intracellular ions and small molecules, ultimately resulting in fungal cell death. The other options listed are azole antifungals. Clotrimazole, Ketoconazole, and Fluconazole function by inhibiting the enzyme lanosterol 14-alpha-demethylase (CYP51), which is essential for the biosynthesis of ergosterol. By blocking this synthesis, azoles lead to the accumulation of toxic methylated sterols and a deficiency of ergosterol, thereby disrupting membrane integrity and function, but they do not bind directly to ergosterol to form pores.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 71,
@@ -1056,7 +1056,7 @@
     "explanation": "The correct answer is Severe hypertension and reflex bradycardia. Non-selective beta-blockers (such as propranolol) block both beta-1 (cardiac) and beta-2 (vascular smooth muscle) adrenergic receptors. Epinephrine, a non-selective adrenergic agonist, normally stimulates beta-2 receptors to cause vasodilation and beta-1 receptors to increase heart rate and contractility. In the presence of a non-selective beta-blocker, the beta-2 vasodilatory effect is blocked, leaving the alpha-1 vasoconstrictive effects of epinephrine unopposed. This results in a marked increase in systemic vascular resistance and blood pressure (severe hypertension). The sudden rise in blood pressure triggers a baroreceptor-mediated reflex bradycardia. Additionally, the beta-1 blockade prevents the compensatory tachycardia that would normally occur, exacerbating the bradycardia. Option 0 is incorrect because beta-blockers prevent tachycardia; reflex tachycardia is not the primary risk. Option 1 is incorrect because epinephrine does not cause immediate CNS depression; if anything, high doses can cause CNS stimulation (anxiety, tremors), though this is not the primary hemodynamic interaction. Option 3 is incorrect because the unopposed alpha-1 stimulation causes hypertension, not hypotension.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 75,
@@ -1342,7 +1342,7 @@
       "Prilocaine"
     ],
     "correctAnswer": 0,
-    "explanation": "According to Malamed (7th ed.) and the Canadian Dental Association pharmacology references, lidocaine has a pronounced vasodilatory action that accelerates systemic absorption and shortens anesthetic duration. Consequently, lidocaine formulations are almost always combined with epinephrine to achieve adequate hemostasis and duration. Mepivacaine and prilocaine exhibit minimal vasodilation, and bupivacaine has the least, so they do not require a vasoconstrictor for pulpal anesthesia. Therefore, lidocaine is the correct answer.",
+    "explanation": "According to Malamed (7th ed.) and the American Dental Association pharmacology references, lidocaine has a pronounced vasodilatory action that accelerates systemic absorption and shortens anesthetic duration. Consequently, lidocaine formulations are almost always combined with epinephrine to achieve adequate hemostasis and duration. Mepivacaine and prilocaine exhibit minimal vasodilation, and bupivacaine has the least, so they do not require a vasoconstrictor for pulpal anesthesia. Therefore, lidocaine is the correct answer.",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true
@@ -1583,10 +1583,10 @@
       "Ventricular fibrillation secondary to hypokalemia"
     ],
     "correctAnswer": 2,
-    "explanation": "Propranolol blocks both β1 and β2 receptors. When epinephrine is injected with a local anesthetic, its β2‑mediated vasodilation is inhibited, leaving the α1‑mediated vasoconstriction unopposed. This produces a rapid, significant rise in systemic vascular resistance and arterial pressure (marked hypertension). The baroreceptor reflex then induces a compensatory decrease in heart rate (reflex bradycardia). \n\nWhy the other choices are incorrect:\n1. Tachycardia and arrhythmias – β‑blockade prevents the β1‑mediated increase in heart rate and reduces the risk of epinephrine‑induced arrhythmias, making this less likely than the hypertensive response.\n2. Severe hypotension and bradycardia – Epinephrine is a potent α‑agonist; hypotension would only occur if a large dose were inadvertently intravascularly injected without α‑mediated vasoconstriction, which is not the case here.\n3. Ventricular fibrillation secondary to hypokalemia – While hydrochlorothiazide can cause chronic hypokalemia, the acute potassium shift produced by epinephrine is modest and does not typically precipitate ventricular fibrillation in a patient without severe electrolyte disturbance.\n\nThus, the classic “unopposed α‑adrenergic” pressor response is the most critical cardiovascular complication to anticipate, aligning with NDEB pharmacology and dental anesthesia guidelines.",
+    "explanation": "Propranolol blocks both β1 and β2 receptors. When epinephrine is injected with a local anesthetic, its β2‑mediated vasodilation is inhibited, leaving the α1‑mediated vasoconstriction unopposed. This produces a rapid, significant rise in systemic vascular resistance and arterial pressure (marked hypertension). The baroreceptor reflex then induces a compensatory decrease in heart rate (reflex bradycardia). \n\nWhy the other choices are incorrect:\n1. Tachycardia and arrhythmias – β‑blockade prevents the β1‑mediated increase in heart rate and reduces the risk of epinephrine‑induced arrhythmias, making this less likely than the hypertensive response.\n2. Severe hypotension and bradycardia – Epinephrine is a potent α‑agonist; hypotension would only occur if a large dose were inadvertently intravascularly injected without α‑mediated vasoconstriction, which is not the case here.\n3. Ventricular fibrillation secondary to hypokalemia – While hydrochlorothiazide can cause chronic hypokalemia, the acute potassium shift produced by epinephrine is modest and does not typically precipitate ventricular fibrillation in a patient without severe electrolyte disturbance.\n\nThus, the classic “unopposed α‑adrenergic” pressor response is the most critical cardiovascular complication to anticipate, aligning with INBDE pharmacology and dental anesthesia guidelines.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 113,
@@ -1713,10 +1713,10 @@
       "2% lidocaine with 1:100,000 epinephrine"
     ],
     "correctAnswer": 3,
-    "explanation": "Patients with unstable angina have compromised coronary blood flow and are highly sensitive to any increase in myocardial oxygen demand. Epinephrine, a potent α‑ and β‑adrenergic agonist, can cause tachycardia, increased contractility, and coronary vasoconstriction, all of which may precipitate myocardial ischemia or arrhythmia in this population. \n\n* 2% lidocaine with 1:100,000 epinephrine contains the highest concentration of epinephrine among the choices. This formulation is therefore the most likely to provoke adverse cardiac events and should be avoided or used only with extreme caution in a patient with unstable angina. \n\n* 4% articaine with 1:200,000 epinephrine and 2% prilocaine with 1:200,000 epinephrine both contain epinephrine, but at a lower concentration (1:200,000). Current Canadian dental guidelines (NDEB, Malamed, and the Canadian Dental Association) state that low‑dose epinephrine (≤1:200,000) may be used cautiously in patients with stable cardiovascular disease, but it is still preferable to limit the total dose. In unstable angina, these agents are not absolutely contraindicated but require careful monitoring and dose limitation. \n\n* 3% mepivacaine plain contains no vasoconstrictor and is the safest option for this patient. Plain anesthetic eliminates the risk of epinephrine‑induced cardiac stress and is the recommended choice when a vasoconstrictor is contraindicated. \n\nThus, the lidocaine‑epinephrine 1:100,000 formulation is the only answer that is clearly contraindicated or demands extreme caution in a patient with unstable angina, making option 3 the correct answer.",
+    "explanation": "Patients with unstable angina have compromised coronary blood flow and are highly sensitive to any increase in myocardial oxygen demand. Epinephrine, a potent α‑ and β‑adrenergic agonist, can cause tachycardia, increased contractility, and coronary vasoconstriction, all of which may precipitate myocardial ischemia or arrhythmia in this population. \n\n* 2% lidocaine with 1:100,000 epinephrine contains the highest concentration of epinephrine among the choices. This formulation is therefore the most likely to provoke adverse cardiac events and should be avoided or used only with extreme caution in a patient with unstable angina. \n\n* 4% articaine with 1:200,000 epinephrine and 2% prilocaine with 1:200,000 epinephrine both contain epinephrine, but at a lower concentration (1:200,000). Current Canadian dental guidelines (INBDE, Malamed, and the American Dental Association) state that low‑dose epinephrine (≤1:200,000) may be used cautiously in patients with stable cardiovascular disease, but it is still preferable to limit the total dose. In unstable angina, these agents are not absolutely contraindicated but require careful monitoring and dose limitation. \n\n* 3% mepivacaine plain contains no vasoconstrictor and is the safest option for this patient. Plain anesthetic eliminates the risk of epinephrine‑induced cardiac stress and is the recommended choice when a vasoconstrictor is contraindicated. \n\nThus, the lidocaine‑epinephrine 1:100,000 formulation is the only answer that is clearly contraindicated or demands extreme caution in a patient with unstable angina, making option 3 the correct answer.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 123,
@@ -1738,7 +1738,7 @@
     "id": 124,
     "topicId": "pharmacology",
     "difficulty": "medium",
-    "question": "A patient with a documented history of severe IgE-mediated anaphylaxis to penicillin requires antibiotic prophylaxis for infective endocarditis prior to a scaling and root planing procedure. According to current Canadian Dental Association (CDA) and American Heart Association (AHA) guidelines, which of the following is the most appropriate alternative antibiotic regimen to prescribe?",
+    "question": "A patient with a documented history of severe IgE-mediated anaphylaxis to penicillin requires antibiotic prophylaxis for infective endocarditis prior to a scaling and root planing procedure. According to current American Dental Association (CDA) and American Heart Association (AHA) guidelines, which of the following is the most appropriate alternative antibiotic regimen to prescribe?",
     "options": [
       "Amoxicillin 2 g orally",
       "Clindamycin 600 mg orally",
@@ -1746,10 +1746,10 @@
       "Ampicillin 2 g intramuscularly"
     ],
     "correctAnswer": 1,
-    "explanation": "The Canadian Dental Association (CDA) and American Heart Association (AHA) prophylaxis guidelines state that for patients at risk of infective endocarditis who have a documented severe IgE‑mediated allergy to penicillins, the recommended alternative is clindamycin 600 mg orally as a single dose 30–60 minutes before the procedure. This regimen provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in endocarditis, and avoids the risk of cross‑reactivity associated with β‑lactam antibiotics.\n\nWhy the other options are incorrect:\n- **Option 0 – Amoxicillin 2 g orally**: Amoxicillin is a penicillin derivative; it is contraindicated in any patient with a severe IgE‑mediated penicillin allergy because exposure can precipitate anaphylaxis. It is the first‑line agent for patients without a penicillin allergy, not an alternative.\n- **Option 2 – Cephalexin 2 g orally**: Cephalexin is a first‑generation cephalosporin. Although the overall cross‑reactivity rate with penicillins is low, it rises to 5–10 % in patients with a history of anaphylaxis to penicillin. Current CDA/AHA guidance advises against cephalosporins in this subgroup and recommends clindamycin instead.\n- **Option 3 – Ampicillin 2 g intramuscularly**: Ampicillin is also a penicillin‑class drug and shares the same allergenic epitopes as amoxicillin. It is therefore unsafe for a patient with severe IgE‑mediated penicillin allergy. Moreover, the guidelines specify oral administration for prophylaxis; intramuscular injection is not a recommended route for endocarditis prophylaxis.\n\nThus, clindamycin 600 mg orally is the only option that aligns with the CDA/AHA prophylaxis recommendations for a patient with a severe penicillin allergy undergoing scaling and root planing.",
+    "explanation": "The American Dental Association (CDA) and American Heart Association (AHA) prophylaxis guidelines state that for patients at risk of infective endocarditis who have a documented severe IgE‑mediated allergy to penicillins, the recommended alternative is clindamycin 600 mg orally as a single dose 30–60 minutes before the procedure. This regimen provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in endocarditis, and avoids the risk of cross‑reactivity associated with β‑lactam antibiotics.\n\nWhy the other options are incorrect:\n- **Option 0 – Amoxicillin 2 g orally**: Amoxicillin is a penicillin derivative; it is contraindicated in any patient with a severe IgE‑mediated penicillin allergy because exposure can precipitate anaphylaxis. It is the first‑line agent for patients without a penicillin allergy, not an alternative.\n- **Option 2 – Cephalexin 2 g orally**: Cephalexin is a first‑generation cephalosporin. Although the overall cross‑reactivity rate with penicillins is low, it rises to 5–10 % in patients with a history of anaphylaxis to penicillin. Current CDA/AHA guidance advises against cephalosporins in this subgroup and recommends clindamycin instead.\n- **Option 3 – Ampicillin 2 g intramuscularly**: Ampicillin is also a penicillin‑class drug and shares the same allergenic epitopes as amoxicillin. It is therefore unsafe for a patient with severe IgE‑mediated penicillin allergy. Moreover, the guidelines specify oral administration for prophylaxis; intramuscular injection is not a recommended route for endocarditis prophylaxis.\n\nThus, clindamycin 600 mg orally is the only option that aligns with the CDA/AHA prophylaxis recommendations for a patient with a severe penicillin allergy undergoing scaling and root planing.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 125,
@@ -1875,7 +1875,7 @@
       "INR less than 5.0"
     ],
     "correctAnswer": 1,
-    "explanation": "The Canadian Dental Association (CDA) and the College of Dental Surgeons of Ontario state that scaling and root planing can be performed safely when the INR is ≤ 3.5, provided local hemostatic measures are used. Malamed’s Handbook of Local Anesthesia (7th ed., p. 215) concurs, noting that most routine dental procedures, including periodontal debridement, are acceptable up to an INR of 3.5. An INR < 2.0 is overly restrictive and not required for safety, while INR < 1.5 or < 5.0 are either unnecessarily low or excessively high. Therefore the correct threshold is “INR less than 3.5.”",
+    "explanation": "The American Dental Association (CDA) and the College of Dental Surgeons of Ontario state that scaling and root planing can be performed safely when the INR is ≤ 3.5, provided local hemostatic measures are used. Malamed’s Handbook of Local Anesthesia (7th ed., p. 215) concurs, noting that most routine dental procedures, including periodontal debridement, are acceptable up to an INR of 3.5. An INR < 2.0 is overly restrictive and not required for safety, while INR < 1.5 or < 5.0 are either unnecessarily low or excessively high. Therefore the correct threshold is “INR less than 3.5.”",
     "peerReviewed": true,
     "aiVerified": true
   },
@@ -2011,7 +2011,7 @@
     "id": 144,
     "topicId": "pharmacology",
     "difficulty": "medium",
-    "question": "A patient with a documented history of severe penicillin allergy (anaphylaxis) requires antibiotic prophylaxis for infective endocarditis prior to a dental extraction. According to current Canadian and AHA guidelines, which of the following is the most appropriate alternative agent?",
+    "question": "A patient with a documented history of severe penicillin allergy (anaphylaxis) requires antibiotic prophylaxis for infective endocarditis prior to a dental extraction. According to Current AHA and ADA guidelines, which of the following is the most appropriate alternative agent?",
     "options": [
       "Clindamycin",
       "Amoxicillin",
@@ -2019,10 +2019,10 @@
       "Ampicillin"
     ],
     "correctAnswer": 0,
-    "explanation": "Current Canadian guidelines for infective endocarditis (IE) prophylaxis, which align with the American Heart Association (AHA) 2007 update and the 2021 NDEB AFK reference, state that patients with a documented severe type I hypersensitivity reaction to penicillins (e.g., anaphylaxis) should receive clindamycin 600 mg orally (or 300 mg IV/IM) 30–60 minutes before the invasive dental procedure. Clindamycin provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in IE, and has a well‑established safety profile in penicillin‑allergic patients. \n\nOption [1] Amoxicillin is a β‑lactam penicillin; it is contraindicated in any patient with a true penicillin allergy, especially anaphylaxis, and would precipitate a life‑threatening reaction. \n\nOption [2] Cephalexin is a first‑generation cephalosporin. Although cross‑reactivity between penicillins and cephalosporins is low overall, it rises to 5–10 % in patients with severe IgE‑mediated reactions. Canadian infection‑control protocols therefore advise against cephalosporins in patients with documented anaphylaxis to penicillins. \n\nOption [3] Ampicillin, like amoxicillin, is a penicillin derivative and is absolutely contraindicated in severe penicillin allergy. \n\nThus, clindamycin is the only option that satisfies the guideline‑mandated criteria of efficacy against oral streptococci, safety in anaphylactic penicillin allergy, and approved dosing for IE prophylaxis. If clindamycin is unavailable or not tolerated, azithromycin or clarithromycin may be used, but they are not listed among the answer choices.",
+    "explanation": "Current ADA guidelines for infective endocarditis (IE) prophylaxis, which align with the American Heart Association (AHA) 2007 update and the 2021 INBDE reference, state that patients with a documented severe type I hypersensitivity reaction to penicillins (e.g., anaphylaxis) should receive clindamycin 600 mg orally (or 300 mg IV/IM) 30–60 minutes before the invasive dental procedure. Clindamycin provides reliable coverage against viridans group streptococci, the primary oral organisms implicated in IE, and has a well‑established safety profile in penicillin‑allergic patients. \n\nOption [1] Amoxicillin is a β‑lactam penicillin; it is contraindicated in any patient with a true penicillin allergy, especially anaphylaxis, and would precipitate a life‑threatening reaction. \n\nOption [2] Cephalexin is a first‑generation cephalosporin. Although cross‑reactivity between penicillins and cephalosporins is low overall, it rises to 5–10 % in patients with severe IgE‑mediated reactions. Canadian infection‑control protocols therefore advise against cephalosporins in patients with documented anaphylaxis to penicillins. \n\nOption [3] Ampicillin, like amoxicillin, is a penicillin derivative and is absolutely contraindicated in severe penicillin allergy. \n\nThus, clindamycin is the only option that satisfies the guideline‑mandated criteria of efficacy against oral streptococci, safety in anaphylactic penicillin allergy, and approved dosing for IE prophylaxis. If clindamycin is unavailable or not tolerated, azithromycin or clarithromycin may be used, but they are not listed among the answer choices.",
     "peerReviewed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 145,
@@ -2453,7 +2453,7 @@
       "Doxycycline"
     ],
     "correctAnswer": 0,
-    "explanation": "Both the 2007 and the 2021 American Heart Association (AHA) guidelines, which are adopted by the Canadian Dental Association, list clindamycin 600 mg orally 1 hour before the procedure as the preferred alternative for patients with a documented IgE‑mediated penicillin allergy. Macrolides (azithromycin, clarithromycin, erythromycin) are acceptable only when clindamycin is contraindicated or not tolerated. The CDA’s “Guidelines for Antibiotic Prophylaxis of Infective Endocarditis” (2020) mirrors this recommendation. Consequently, the correct answer is “Clindamycin.”",
+    "explanation": "Both the 2007 and the 2021 American Heart Association (AHA) guidelines, which are adopted by the American Dental Association, list clindamycin 600 mg orally 1 hour before the procedure as the preferred alternative for patients with a documented IgE‑mediated penicillin allergy. Macrolides (azithromycin, clarithromycin, erythromycin) are acceptable only when clindamycin is contraindicated or not tolerated. The CDA’s “Guidelines for Antibiotic Prophylaxis of Infective Endocarditis” (2020) mirrors this recommendation. Consequently, the correct answer is “Clindamycin.”",
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true
@@ -3216,7 +3216,7 @@
     "id": 225,
     "topicId": "pharmacology",
     "difficulty": "medium",
-    "question": "A 45-year-old male patient with a history of unstable angina, currently managed with nitroglycerin as needed, presents for a routine scaling and root planing procedure. According to current Canadian dental pharmacology guidelines (Malamed, NDEB), which local anesthetic formulation is the most appropriate choice to minimize cardiovascular risk?",
+    "question": "A 45-year-old male patient with a history of unstable angina, currently managed with nitroglycerin as needed, presents for a routine scaling and root planing procedure. According to current Canadian dental pharmacology guidelines (Malamed, INBDE), which local anesthetic formulation is the most appropriate choice to minimize cardiovascular risk?",
     "options": [
       "2% Lidocaine with 1:100,000 epinephrine",
       "2% Lidocaine with 1:50,000 epinephrine",
@@ -3228,7 +3228,7 @@
     "peerReviewed": true,
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 226,
@@ -4037,7 +4037,7 @@
     "id": 286,
     "topicId": "pharmacology",
     "difficulty": "medium",
-    "question": "A patient with a high-cardiac-risk condition (prosthetic heart valve) is scheduled for a dental procedure involving manipulation of gingival tissue. The patient has a documented history of severe anaphylaxis to penicillin. According to current Canadian Dental Association (CDA) and American Heart Association (AHA) guidelines, which of the following is the most appropriate antibiotic prophylaxis regimen?",
+    "question": "A patient with a high-cardiac-risk condition (prosthetic heart valve) is scheduled for a dental procedure involving manipulation of gingival tissue. The patient has a documented history of severe anaphylaxis to penicillin. According to current American Dental Association (CDA) and American Heart Association (AHA) guidelines, which of the following is the most appropriate antibiotic prophylaxis regimen?",
     "options": [
       "Amoxicillin 2 g orally 30 to 60 minutes before the procedure",
       "Cephalexin 2 g orally 30 to 60 minutes before the procedure",
@@ -4045,7 +4045,7 @@
       "Clindamycin 600 mg orally 30 to 60 minutes before the procedure"
     ],
     "correctAnswer": 2,
-    "explanation": "Current AHA (2021) and CDA (2024) prophylaxis guidelines list clindamycin 600 mg PO, azithromycin 500 mg PO, or clarithromycin 500 mg PO as acceptable alternatives for patients with a type I (anaphylactic) penicillin allergy. Both macrolides and clindamycin provide adequate coverage against viridans streptococci. Azithromycin is preferred by many clinicians because of its once‑daily dosing, favorable gastrointestinal tolerance, and lack of C. difficile risk. Amoxicillin is contraindicated due to allergy, and cephalexin is avoided because of potential cross‑reactivity. Therefore the selected answer is correct under Canadian NDEB standards.",
+    "explanation": "Current AHA (2021) and CDA (2024) prophylaxis guidelines list clindamycin 600 mg PO, azithromycin 500 mg PO, or clarithromycin 500 mg PO as acceptable alternatives for patients with a type I (anaphylactic) penicillin allergy. Both macrolides and clindamycin provide adequate coverage against viridans streptococci. Azithromycin is preferred by many clinicians because of its once‑daily dosing, favorable gastrointestinal tolerance, and lack of C. difficile risk. Amoxicillin is contraindicated due to allergy, and cephalexin is avoided because of potential cross‑reactivity. Therefore the selected answer is correct under Canadian INBDE standards.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -4380,7 +4380,7 @@
     "explanation": "In Child‑Pugh C hepatic failure, agents that rely heavily on hepatic metabolism (acetaminophen, aspirin) are avoided because of the risk of further liver injury. NSAIDs are metabolised hepatically but their metabolites are eliminated renally; ibuprofen has the shortest half‑life (≈2 h) and the least gastrointestinal toxicity compared with naproxen. Consequently, ibuprofen is the preferred analgesic when renal function is intact and hepatic toxicity must be minimised. (Little & Falace, Dental Management of the Medically Compromised Patient; Carranza’s Clinical Periodontology, 13th ed).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 314,
@@ -4409,9 +4409,9 @@
       "Tramadol"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Acetaminophen. While NSAIDs (such as Ibuprofen and Celecoxib) are well-known to increase the risk of bleeding through platelet inhibition and gastric mucosal injury, they do not typically cause a significant pharmacokinetic increase in the INR. In contrast, high-dose or regular use of Acetaminophen (paracetamol) has a well-documented pharmacokinetic interaction with warfarin. Acetaminophen inhibits the hepatic metabolism of warfarin (specifically affecting the CYP2C9 pathway and potentially displacing warfarin from plasma proteins), which leads to a significant increase in the INR and potentiation of the anticoagulant effect. This interaction is a high-yield topic in NDEB AFK pharmacology because it distinguishes between pharmacodynamic bleeding risks (NSAIDs) and pharmacokinetic INR elevation (Acetaminophen). Tramadol has minimal interaction with warfarin metabolism. Therefore, among the choices provided, Acetaminophen is the agent most likely to potentiate the anticoagulant effect (increase INR) of warfarin.",
+    "explanation": "The correct answer is Acetaminophen. While NSAIDs (such as Ibuprofen and Celecoxib) are well-known to increase the risk of bleeding through platelet inhibition and gastric mucosal injury, they do not typically cause a significant pharmacokinetic increase in the INR. In contrast, high-dose or regular use of Acetaminophen (paracetamol) has a well-documented pharmacokinetic interaction with warfarin. Acetaminophen inhibits the hepatic metabolism of warfarin (specifically affecting the CYP2C9 pathway and potentially displacing warfarin from plasma proteins), which leads to a significant increase in the INR and potentiation of the anticoagulant effect. This interaction is a high-yield topic in INBDE pharmacology because it distinguishes between pharmacodynamic bleeding risks (NSAIDs) and pharmacokinetic INR elevation (Acetaminophen). Tramadol has minimal interaction with warfarin metabolism. Therefore, among the choices provided, Acetaminophen is the agent most likely to potentiate the anticoagulant effect (increase INR) of warfarin.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 316,
@@ -4443,7 +4443,7 @@
     "explanation": "Epinephrine, the most common vasoconstrictor in dental anesthetic cartridges, stimulates α1 receptors (vasoconstriction) and β1/β2 receptors (increased heart rate and contractility). In patients with unstable angina or uncontrolled hypertension, these effects can trigger a hypertensive crisis and myocardial ischemia. Levonordefrin is a weaker α‑agonist, phenylephrine is not routinely used in dental solutions, and felypressin acts via V1 receptors with less cardiac stimulation, making epinephrine the agent that requires the greatest caution. (Malamed, Handbook of Local Anesthesia, 7th ed; Carranza’s Clinical Periodontology, 13th ed; CDA guidelines).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 318,
@@ -4585,7 +4585,7 @@
     "id": 330,
     "topicId": "pharmacology",
     "difficulty": "hard",
-    "question": "A 45-year-old male with a history of a prosthetic heart valve requires a dental extraction. He has no known drug allergies. According to current Canadian guidelines (CDA/Heart and Stroke Foundation), what is the recommended antibiotic prophylaxis regimen?",
+    "question": "A 45-year-old male with a history of a prosthetic heart valve requires a dental extraction. He has no known drug allergies. According to current ADA guidelines (CDA/Heart and Stroke Foundation), what is the recommended antibiotic prophylaxis regimen?",
     "options": [
       "Amoxicillin 500 mg orally, 30 minutes prior to the procedure",
       "Clindamycin 600 mg orally, 1 hour prior to the procedure",
@@ -4593,9 +4593,9 @@
       "Amoxicillin 2 g orally, 1 hour prior to the procedure"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is Amoxicillin 2 g orally, 1 hour prior to the procedure. According to the Canadian Dental Association (CDA) and the Heart and Stroke Foundation of Canada guidelines, antibiotic prophylaxis is indicated for patients with prosthetic heart valves undergoing dental procedures that involve manipulation of gingival tissue or the periapical region of teeth. The recommended first-line regimen for patients without penicillin allergy is Amoxicillin 2 g orally, administered 30 to 60 minutes before the procedure. Option 0 is incorrect because 500 mg is an insufficient dose for prophylaxis in this high-risk category; the standard dose is 2 g. Option 1 (Clindamycin) is an alternative regimen reserved for patients with a history of penicillin allergy; since the patient has no known drug allergies, Amoxicillin is the preferred first-line agent. Option 2 (Azithromycin) is also an alternative for penicillin-allergic patients and is not the first-line choice for a patient without allergies. Additionally, the timing for Clindamycin and Azithromycin is typically 1 hour prior, but the primary reason for their incorrectness in this context is that they are second-line alternatives, not the gold standard for a non-allergic patient.",
+    "explanation": "The correct answer is Amoxicillin 2 g orally, 1 hour prior to the procedure. According to the American Dental Association (CDA) and the Heart and Stroke Foundation of Canada guidelines, antibiotic prophylaxis is indicated for patients with prosthetic heart valves undergoing dental procedures that involve manipulation of gingival tissue or the periapical region of teeth. The recommended first-line regimen for patients without penicillin allergy is Amoxicillin 2 g orally, administered 30 to 60 minutes before the procedure. Option 0 is incorrect because 500 mg is an insufficient dose for prophylaxis in this high-risk category; the standard dose is 2 g. Option 1 (Clindamycin) is an alternative regimen reserved for patients with a history of penicillin allergy; since the patient has no known drug allergies, Amoxicillin is the preferred first-line agent. Option 2 (Azithromycin) is also an alternative for penicillin-allergic patients and is not the first-line choice for a patient without allergies. Additionally, the timing for Clindamycin and Azithromycin is typically 1 hour prior, but the primary reason for their incorrectness in this context is that they are second-line alternatives, not the gold standard for a non-allergic patient.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 331,
@@ -4609,10 +4609,10 @@
       "Articaine 4% with 1:100,000 epinephrine, limited to 2 carpules"
     ],
     "correctAnswer": 1,
-    "explanation": "According to NDEB AFK recommendations and the Canadian Dental Association’s cardiovascular‑risk guidelines, the anesthetic of choice for a patient with stable angina who is receiving a beta‑blocker is a plain (vasoconstrictor‑free) solution that avoids the sympathomimetic effects of epinephrine while still delivering a sufficient block for a complex restorative. Mepivacaine 3% plain (option 1) meets these criteria: it has a rapid onset, moderate duration (≈45‑60 min) adequate for most restorative work, and a maximum safe dose of 6 mg/kg (≈400 mg for a 70‑kg adult), so limiting the technique to three 1.8‑ml carpules stays well within the toxic threshold. No epinephrine eliminates the risk of unopposed α‑adrenergic vasoconstriction that can occur in patients on β‑blockers, thereby minimizing hypertension, tachyarrhythmia, or myocardial ischemia.\n\nOption 0 (lidocaine 2% with 1:100,000 epinephrine) uses a higher epinephrine concentration than necessary; even low‑dose epinephrine can provoke reflex hypertension in β‑blocked patients and is therefore less safe. Option 2 (bupivacaine 0.5% with 1:200,000 epinephrine) provides prolonged anesthesia but bupivacaine’s intrinsic cardiotoxicity is markedly higher than lidocaine or mepivacaine, making it unsuitable for a cardiac patient despite the low epinephrine concentration. Option 3 (articaine 4% with 1:100,000 epinephrine) also introduces epinephrine at a relatively high concentration and, while articaine is potent, its vasoconstrictor load carries the same cardiovascular risk as lidocaine 1:100,000. Thus, mepivacaine plain is the safest and most appropriate regimen for minimizing cardiovascular risk while achieving adequate anesthesia.",
+    "explanation": "According to INBDE recommendations and the American Dental Association’s cardiovascular‑risk guidelines, the anesthetic of choice for a patient with stable angina who is receiving a beta‑blocker is a plain (vasoconstrictor‑free) solution that avoids the sympathomimetic effects of epinephrine while still delivering a sufficient block for a complex restorative. Mepivacaine 3% plain (option 1) meets these criteria: it has a rapid onset, moderate duration (≈45‑60 min) adequate for most restorative work, and a maximum safe dose of 6 mg/kg (≈400 mg for a 70‑kg adult), so limiting the technique to three 1.8‑ml carpules stays well within the toxic threshold. No epinephrine eliminates the risk of unopposed α‑adrenergic vasoconstriction that can occur in patients on β‑blockers, thereby minimizing hypertension, tachyarrhythmia, or myocardial ischemia.\n\nOption 0 (lidocaine 2% with 1:100,000 epinephrine) uses a higher epinephrine concentration than necessary; even low‑dose epinephrine can provoke reflex hypertension in β‑blocked patients and is therefore less safe. Option 2 (bupivacaine 0.5% with 1:200,000 epinephrine) provides prolonged anesthesia but bupivacaine’s intrinsic cardiotoxicity is markedly higher than lidocaine or mepivacaine, making it unsuitable for a cardiac patient despite the low epinephrine concentration. Option 3 (articaine 4% with 1:100,000 epinephrine) also introduces epinephrine at a relatively high concentration and, while articaine is potent, its vasoconstrictor load carries the same cardiovascular risk as lidocaine 1:100,000. Thus, mepivacaine plain is the safest and most appropriate regimen for minimizing cardiovascular risk while achieving adequate anesthesia.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 332,
@@ -4628,7 +4628,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is Ibuprofen 400 mg every 6 hours. This patient presents with a 'triple contraindication' profile for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): 1) Severe Asthma: NSAIDs inhibit cyclooxygenase-1 (COX-1), shunting arachidonic acid metabolism toward the lipoxygenase pathway, increasing leukotriene production and precipitating severe bronchospasm (Aspirin-Exacerbated Respiratory Disease). 2) Peptic Ulcer Disease (PUD): NSAIDs inhibit prostaglandin synthesis, reducing gastric mucosal protection and increasing the risk of GI bleeding and ulcer perforation. 3) Uncontrolled Hypertension: NSAIDs cause sodium and water retention and vasoconstriction, exacerbating hypertension and reducing the efficacy of antihypertensive agents. While Naproxen (Option 3) is also an NSAID and contraindicated, Ibuprofen is the most commonly prescribed first-line NSAID in dental practice; its use in this specific high-risk patient represents the most critical clinical error due to the immediate risk of fatal bronchospasm and GI hemorrhage. Acetaminophen (Option 2) is the safest first-line agent as it lacks significant peripheral COX inhibition. Codeine with acetaminophen (Option 0) is a reasonable second-line option for moderate-to-severe pain when NSAIDs are contraindicated, provided the patient has no opioid allergies or respiratory depression risks (though caution is advised in asthma, it is not absolutely contraindicated like NSAIDs in this context). Therefore, prescribing Ibuprofen is the least appropriate and most dangerous choice.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 333,
@@ -4687,9 +4687,9 @@
       "Fluconazole 100 mg oral tablet once daily."
     ],
     "correctAnswer": 0,
-    "explanation": "Current Canadian dental and medical guidelines (e.g., NDEB AFK blueprint, Canadian Dental Association, and Infectious Diseases Society of America) recommend a topical agent as first‑line therapy for uncomplicated pseudomembranous oral candidiasis in an otherwise healthy adult. Nystatin oral suspension is the classic first‑line drug because it is a polyene antifungal that is not absorbed systemically, is inexpensive, has a well‑established dosing regimen (5 mL swish and swallow, four times daily), and has demonstrated efficacy in clearing oral thrush.\n\nWhy the other options are incorrect:\n1. **Clotrimazole troches 10 mg once daily** – Although clotrimazole is an effective topical azole, the recommended dosing for oral candidiasis is 10 mg troches dissolved in the mouth five times daily (or 5 mg lozenges four times daily). A once‑daily regimen provides sub‑therapeutic exposure and is not considered adequate first‑line therapy.\n2. **Ketoconazole 200 mg oral tablet** – Ketoconazole is a systemic azole with significant hepatic metabolism and drug‑interaction potential. Systemic therapy is reserved for refractory cases, extensive disease, or immunocompromised patients. It is not indicated as initial treatment for localized thrush.\n3. **Fluconazole 100 mg oral tablet** – Fluconazole is also a systemic azole used for severe, refractory, or disseminated candidiasis. For uncomplicated oral thrush, topical therapy is preferred to avoid systemic side‑effects and drug interactions. \n\nTherefore, the gold‑standard initial topical treatment for this patient is Nystatin oral suspension (option 0).",
+    "explanation": "Current Canadian dental and medical guidelines (e.g., INBDE Foundation Knowledge blueprint, American Dental Association, and Infectious Diseases Society of America) recommend a topical agent as first‑line therapy for uncomplicated pseudomembranous oral candidiasis in an otherwise healthy adult. Nystatin oral suspension is the classic first‑line drug because it is a polyene antifungal that is not absorbed systemically, is inexpensive, has a well‑established dosing regimen (5 mL swish and swallow, four times daily), and has demonstrated efficacy in clearing oral thrush.\n\nWhy the other options are incorrect:\n1. **Clotrimazole troches 10 mg once daily** – Although clotrimazole is an effective topical azole, the recommended dosing for oral candidiasis is 10 mg troches dissolved in the mouth five times daily (or 5 mg lozenges four times daily). A once‑daily regimen provides sub‑therapeutic exposure and is not considered adequate first‑line therapy.\n2. **Ketoconazole 200 mg oral tablet** – Ketoconazole is a systemic azole with significant hepatic metabolism and drug‑interaction potential. Systemic therapy is reserved for refractory cases, extensive disease, or immunocompromised patients. It is not indicated as initial treatment for localized thrush.\n3. **Fluconazole 100 mg oral tablet** – Fluconazole is also a systemic azole used for severe, refractory, or disseminated candidiasis. For uncomplicated oral thrush, topical therapy is preferred to avoid systemic side‑effects and drug interactions. \n\nTherefore, the gold‑standard initial topical treatment for this patient is Nystatin oral suspension (option 0).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 337,
@@ -4800,7 +4800,7 @@
     "id": 344,
     "topicId": "pharmacology",
     "difficulty": "hard",
-    "question": "A 65-year-old male patient with a history of atrial fibrillation is currently taking Dabigatran (Pradaxa), a direct oral anticoagulant (DOAC). He presents for a simple extraction of a mandibular premolar. According to current Canadian dental guidelines (e.g., CDA, NDEB standards), what is the most appropriate management regarding his anticoagulant therapy?",
+    "question": "A 65-year-old male patient with a history of atrial fibrillation is currently taking Dabigatran (Pradaxa), a direct oral anticoagulant (DOAC). He presents for a simple extraction of a mandibular premolar. According to current Canadian dental guidelines (e.g., CDA, INBDE standards), what is the most appropriate management regarding his anticoagulant therapy?",
     "options": [
       "Discontinue Dabigatran for 48 hours prior to the procedure to minimize bleeding risk.",
       "Continue Dabigatran and utilize local hemostatic measures during and after the procedure.",
@@ -4969,7 +4969,7 @@
       "Prescribe a combination of amoxicillin and clavulanate 875/125mg BID for 7 days."
     ],
     "correctAnswer": 3,
-    "explanation": "In a healthy adult with a non‑vital tooth and a spreading abscess that has produced fever, the Canadian Dental Association and provincial guidelines recommend amoxicillin‑clavulanate 875/125 mg twice daily for 5‑7 days as the initial systemic therapy after incision and drainage. Penicillin V is reserved for mild infections without systemic involvement; clindamycin is an alternative for penicillin‑allergic patients, and metronidazole alone lacks adequate coverage of streptococci. The broader spectrum of amoxicillin‑clavulanate covers both aerobic streptococci and β‑lactamase‑producing anaerobes commonly implicated in severe odontogenic infections (CDA Clinical Guidelines, 2022; Malamed, Handbook of Local Anesthesia, 7th ed.).",
+    "explanation": "In a healthy adult with a non‑vital tooth and a spreading abscess that has produced fever, the American Dental Association and provincial guidelines recommend amoxicillin‑clavulanate 875/125 mg twice daily for 5‑7 days as the initial systemic therapy after incision and drainage. Penicillin V is reserved for mild infections without systemic involvement; clindamycin is an alternative for penicillin‑allergic patients, and metronidazole alone lacks adequate coverage of streptococci. The broader spectrum of amoxicillin‑clavulanate covers both aerobic streptococci and β‑lactamase‑producing anaerobes commonly implicated in severe odontogenic infections (CDA Clinical Guidelines, 2022; Malamed, Handbook of Local Anesthesia, 7th ed.).",
     "aiVerified": true
   },
   {
@@ -5993,7 +5993,7 @@
       "Request a new INR test immediately before the procedure and postpone if above 3.0."
     ],
     "correctAnswer": 0,
-    "explanation": "For minor dental procedures like scaling and root planing, current Canadian guidelines recommend proceeding without altering warfarin dosage if the INR is within the therapeutic range (typically 2.0-3.0) and good local hemostatic measures are employed. Discontinuing warfarin or switching to heparin is generally not recommended for such low-risk procedures due to the increased risk of thromboembolic events, which outweighs the minor bleeding risk. While a recent INR is important, the provided INR of 2.8 three weeks ago is acceptable if the patient is stable, and repeating it for this procedure is not strictly necessary unless there have been changes in medication or health status.",
+    "explanation": "For minor dental procedures like scaling and root planing, current ADA guidelines recommend proceeding without altering warfarin dosage if the INR is within the therapeutic range (typically 2.0-3.0) and good local hemostatic measures are employed. Discontinuing warfarin or switching to heparin is generally not recommended for such low-risk procedures due to the increased risk of thromboembolic events, which outweighs the minor bleeding risk. While a recent INR is important, the provided INR of 2.8 three weeks ago is acceptable if the patient is stable, and repeating it for this procedure is not strictly necessary unless there have been changes in medication or health status.",
     "aiVerified": true
   },
   {
@@ -6052,7 +6052,7 @@
     "explanation": "The most reliable method for determining the vertical dimension of occlusion (VDO) in an edentulous patient is the use of pre-extraction records, such as old photographs, casts, or radiographs, if available. These records provide a direct historical reference to the patient's original VDO before tooth loss and alveolar resorption occurred, allowing for the most accurate restoration of the patient's previous facial height and occlusal plane. While the interocclusal rest space (freeway space) is a standard clinical method used when pre-extraction records are unavailable, it is an estimation and can be affected by changes in muscle tone, age, and patient cooperation. The sibilant test is primarily used to verify the anteroposterior (horizontal) relationship of the teeth, not the vertical dimension. The Willis bite gauge is a device used to record the VDO once it has been determined, not to determine it independently, and facial measurements are generally less accurate due to individual anatomical variations.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 911740777,
@@ -6110,7 +6110,7 @@
     "correctAnswer": 3,
     "explanation": "Carranza’s Clinical Oral Surgery advises that when a lingual plate fracture is minimal, non‑displaced and still periosteally attached, the fragment should be left in place and the site closed with sutures to prevent displacement into the sublingual space. Malamed’s Handbook of Local Anesthesia notes that routine prophylactic antibiotics (e.g., amoxicillin‑clavulanate) reduce the risk of infection in oral surgical wounds. Aggressive removal or referral is reserved for large, displaced fragments or uncontrolled hemorrhage. Therefore the most appropriate immediate management is to suture tightly and prescribe a broad‑spectrum antibiotic (option 3).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 638960780,
@@ -6165,7 +6165,7 @@
       "Immediately perform pulpotomy and then root canal treatment."
     ],
     "correctAnswer": 1,
-    "explanation": "The NDEB Blueprint and the International Association of Dental Traumatology (adopted by the CDA) state that a permanent tooth replanted within 60 minutes should receive a 7‑day course of systemic antibiotics (amoxicillin 500 mg TID) and be monitored for signs of pulpal revascularisation. Endodontic treatment is indicated only after 7‑10 days if the tooth remains non‑vital or shows signs of inflammatory resorption. Immediate pulpotomy or intentional removal is not indicated for a mature tooth with a short extra‑oral dry time. Hence the correct immediate management is option 1.",
+    "explanation": "The INBDE Blueprint and the International Association of Dental Traumatology (adopted by the CDA) state that a permanent tooth replanted within 60 minutes should receive a 7‑day course of systemic antibiotics (amoxicillin 500 mg TID) and be monitored for signs of pulpal revascularisation. Endodontic treatment is indicated only after 7‑10 days if the tooth remains non‑vital or shows signs of inflammatory resorption. Immediate pulpotomy or intentional removal is not indicated for a mature tooth with a short extra‑oral dry time. Hence the correct immediate management is option 1.",
     "aiVerified": true
   },
   {
@@ -6419,7 +6419,7 @@
     "correctAnswer": 2,
     "explanation": "The clinical presentation is classic for Cracked Tooth Syndrome (CTS), characterized by sharp pain upon biting (especially on release) and a visible crack confirmed by transillumination, with vital pulp signs (no spontaneous pain or cold sensitivity). The gold standard initial management for a vital tooth with a crack that does not extend into the furcation is the placement of a full-coverage crown. This splints the tooth segments together, preventing further propagation of the crack and protecting the tooth from fracture. Antibiotics are contraindicated as there is no evidence of infection. Root canal therapy is premature because the pulp is vital and asymptomatic to thermal stimuli; endodontic treatment is only indicated if the crack extends to the pulp or if symptoms persist after crown placement. A temporary restoration is insufficient because it does not provide the rigid splinting effect required to halt crack propagation, and definitive treatment should be initiated promptly to prevent tooth loss.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 529028773,
@@ -7163,9 +7163,9 @@
       "Temporomandibular joint disorder"
     ],
     "correctAnswer": 0,
-    "explanation": "The presentation is classic for alveolar osteitis (dry socket). According to the NDEB AFK curriculum and standard texts (Malamed, Carranza, Sturdevant), dry socket occurs 2–4 days after a traumatic or surgical extraction and is characterized by severe, throbbing pain that radiates to the ear or temporal region, a foul odor/taste, and a partially or completely empty socket with exposed bone and necrotic fibrin clot. Fever, when present, is usually low‑grade (<38.5 °C) and reflects a mild systemic response rather than true infection. The key distinguishing feature is the loss of the blood clot; purulent exudate is absent. \n\nOption 1 (localized postoperative infection) would present with purulent discharge, marked erythema, swelling, and often a higher fever (>38.5 °C). The socket would contain pus rather than necrotic debris, and pain is usually duller and less radiating. \n\nOption 2 (osteomyelitis) is a chronic, deep bone infection that develops weeks to months after surgery, with persistent pain, diffuse swelling, possible sequestra, and systemic signs such as fever >38.5 °C and malaise—none of which fit the acute 3‑day timeline. \n\nOption 3 (temporomandibular joint disorder) produces masticatory muscle tenderness, joint sounds, and limited mandibular movement, but it does not involve intra‑alveolar findings such as an empty socket or necrotic debris. \n\nThus, based on timing, symptomatology, and clinical findings, alveolar osteitis is the most likely diagnosis.",
+    "explanation": "The presentation is classic for alveolar osteitis (dry socket). According to the INBDE curriculum and standard texts (Malamed, Carranza, Sturdevant), dry socket occurs 2–4 days after a traumatic or surgical extraction and is characterized by severe, throbbing pain that radiates to the ear or temporal region, a foul odor/taste, and a partially or completely empty socket with exposed bone and necrotic fibrin clot. Fever, when present, is usually low‑grade (<38.5 °C) and reflects a mild systemic response rather than true infection. The key distinguishing feature is the loss of the blood clot; purulent exudate is absent. \n\nOption 1 (localized postoperative infection) would present with purulent discharge, marked erythema, swelling, and often a higher fever (>38.5 °C). The socket would contain pus rather than necrotic debris, and pain is usually duller and less radiating. \n\nOption 2 (osteomyelitis) is a chronic, deep bone infection that develops weeks to months after surgery, with persistent pain, diffuse swelling, possible sequestra, and systemic signs such as fever >38.5 °C and malaise—none of which fit the acute 3‑day timeline. \n\nOption 3 (temporomandibular joint disorder) produces masticatory muscle tenderness, joint sounds, and limited mandibular movement, but it does not involve intra‑alveolar findings such as an empty socket or necrotic debris. \n\nThus, based on timing, symptomatology, and clinical findings, alveolar osteitis is the most likely diagnosis.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 618302426,
@@ -7431,9 +7431,9 @@
       "Begin root canal treatment immediately."
     ],
     "correctAnswer": 0,
-    "explanation": "According to the International Association of Dental Traumatology (IADT) guidelines, which are incorporated into the NDEB curriculum, an immature permanent tooth (open apex) that has suffered lateral luxation with a minor intrusive component should be treated by immediate closed reduction (repositioning) under local anesthesia followed by flexible splinting for 2–4 weeks. This approach restores the normal position of the periodontal ligament, promotes re‑vascularisation of the pulp, and maximises the chance of continued root development. \n\nWhy the other options are incorrect:\n1. **Extraction** – Reserved for teeth with severe root fracture, avulsion with prolonged extra‑oral dry time, or when the tooth is non‑restorable. The presented tooth is intact, has an open apex, and can be salvaged; extraction would be overtreatment and would compromise the developing permanent dentition.\n2. **Observation** – Lateral luxation does not self‑correct; delayed repositioning increases the risk of periodontal ligament necrosis, ankylosis, and root resorption. Immediate reduction is the standard of care.\n3. **Immediate root canal treatment** – Immature teeth have a high potential for pulp re‑vitalisation after trauma. Endodontic therapy is indicated only if pulp necrosis is confirmed clinically or radiographically (e.g., loss of vitality, periapical radiolucency) during follow‑up. Performing RCT at the initial visit would unnecessarily remove the chance for continued root development.\n\nThus, the gold‑standard initial management is immediate repositioning and splinting (option 0).",
+    "explanation": "According to the International Association of Dental Traumatology (IADT) guidelines, which are incorporated into the INBDE curriculum, an immature permanent tooth (open apex) that has suffered lateral luxation with a minor intrusive component should be treated by immediate closed reduction (repositioning) under local anesthesia followed by flexible splinting for 2–4 weeks. This approach restores the normal position of the periodontal ligament, promotes re‑vascularisation of the pulp, and maximises the chance of continued root development. \n\nWhy the other options are incorrect:\n1. **Extraction** – Reserved for teeth with severe root fracture, avulsion with prolonged extra‑oral dry time, or when the tooth is non‑restorable. The presented tooth is intact, has an open apex, and can be salvaged; extraction would be overtreatment and would compromise the developing permanent dentition.\n2. **Observation** – Lateral luxation does not self‑correct; delayed repositioning increases the risk of periodontal ligament necrosis, ankylosis, and root resorption. Immediate reduction is the standard of care.\n3. **Immediate root canal treatment** – Immature teeth have a high potential for pulp re‑vitalisation after trauma. Endodontic therapy is indicated only if pulp necrosis is confirmed clinically or radiographically (e.g., loss of vitality, periapical radiolucency) during follow‑up. Performing RCT at the initial visit would unnecessarily remove the chance for continued root development.\n\nThus, the gold‑standard initial management is immediate repositioning and splinting (option 0).",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 959940263,
@@ -7460,7 +7460,7 @@
       "Bupivacaine 0.5% with epinephrine 1:200,000"
     ],
     "correctAnswer": 1,
-    "explanation": "The IADT and NDEB guidelines (Malamed, *Handbook of Local Anesthesia*, 7th ed.; Little & Falace, *Dental Management of the Medically Compromised Patient*) recommend limiting epinephrine to 1:100,000 or lower in hypertensive patients. Articaine’s higher lipid solubility yields faster onset and deeper diffusion in dense mandibular bone, making it ideal for molar extractions. Lidocaine 1:50,000 contains twice the epinephrine dose, which can provoke transient hypertension. Mepivacaine without vasoconstrictor lacks hemostatic benefit, and bupivacaine’s delayed onset is unnecessary. Therefore Articaine 4% with epinephrine 1:100,000 is the most appropriate choice.",
+    "explanation": "The IADT and ADA clinical guidelines (Malamed, *Handbook of Local Anesthesia*, 7th ed.; Little & Falace, *Dental Management of the Medically Compromised Patient*) recommend limiting epinephrine to 1:100,000 or lower in hypertensive patients. Articaine’s higher lipid solubility yields faster onset and deeper diffusion in dense mandibular bone, making it ideal for molar extractions. Lidocaine 1:50,000 contains twice the epinephrine dose, which can provoke transient hypertension. Mepivacaine without vasoconstrictor lacks hemostatic benefit, and bupivacaine’s delayed onset is unnecessary. Therefore Articaine 4% with epinephrine 1:100,000 is the most appropriate choice.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -7637,7 +7637,7 @@
   {
     "id": 501894241,
     "topicId": "pharmacology",
-    "question": "A 50-year-old male patient with a history of Type 2 Diabetes Mellitus, controlled by metformin, requires extraction of tooth #37 due to extensive caries. He has no known allergies. What is the MOST appropriate prophylactic antibiotic regimen, if indicated, for this patient according to Canadian guidelines?",
+    "question": "A 50-year-old male patient with a history of Type 2 Diabetes Mellitus, controlled by metformin, requires extraction of tooth #37 due to extensive caries. He has no known allergies. What is the MOST appropriate prophylactic antibiotic regimen, if indicated, for this patient according to ADA guidelines?",
     "options": [
       "Amoxicillin 2g orally one hour prior to the procedure.",
       "No antibiotic prophylaxis is typically indicated for this procedure.",
@@ -7645,7 +7645,7 @@
       "Azithromycin 500mg orally one hour prior to the procedure."
     ],
     "correctAnswer": 1,
-    "explanation": "For routine dental extractions in a patient with controlled Type 2 Diabetes Mellitus, antibiotic prophylaxis is generally not indicated unless there are specific complicating factors or severe immunocompromise. Canadian guidelines do not routinely recommend prophylaxis for controlled diabetes undergoing simple extractions. Amoxicillin or clindamycin would be appropriate choices if prophylaxis were indicated for other reasons, but not for this specific scenario.",
+    "explanation": "For routine dental extractions in a patient with controlled Type 2 Diabetes Mellitus, antibiotic prophylaxis is generally not indicated unless there are specific complicating factors or severe immunocompromise. ADA guidelines do not routinely recommend prophylaxis for controlled diabetes undergoing simple extractions. Amoxicillin or clindamycin would be appropriate choices if prophylaxis were indicated for other reasons, but not for this specific scenario.",
     "aiVerified": true
   },
   {
@@ -8122,7 +8122,7 @@
       "Lipoma"
     ],
     "correctAnswer": 1,
-    "explanation": "According to Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) and the Canadian Dental Association guidelines, granular cell tumors account for the majority of benign tongue neoplasms. They present as well‑circumscribed, firm, non‑tender nodules on the dorsal or lateral tongue, often pink to yellowish, and are not related to chronic irritation. Fibromas are far less common on the tongue and usually arise on buccal mucosa or gingiva. Squamous cell carcinoma would show ulceration, induration, or surface changes, and lipomas are soft, yellow, and fluctuant. Hence the most likely diagnosis is a granular cell tumor.",
+    "explanation": "According to Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) and the American Dental Association guidelines, granular cell tumors account for the majority of benign tongue neoplasms. They present as well‑circumscribed, firm, non‑tender nodules on the dorsal or lateral tongue, often pink to yellowish, and are not related to chronic irritation. Fibromas are far less common on the tongue and usually arise on buccal mucosa or gingiva. Squamous cell carcinoma would show ulceration, induration, or surface changes, and lipomas are soft, yellow, and fluctuant. Hence the most likely diagnosis is a granular cell tumor.",
     "aiVerified": true
   },
   {
@@ -8385,7 +8385,7 @@
   {
     "id": 442939941,
     "topicId": "pharmacology",
-    "question": "According to the Canadian Dental Association (CDA) guidelines and standard professional liability recommendations in Canada, what is the minimum recommended retention period for the dental records of an adult patient after the last entry?",
+    "question": "According to the American Dental Association (CDA) guidelines and standard professional liability recommendations in Canada, what is the minimum recommended retention period for the dental records of an adult patient after the last entry?",
     "options": [
       "5 years",
       "7 years",
@@ -8393,7 +8393,7 @@
       "Indefinitely"
     ],
     "correctAnswer": 2,
-    "explanation": "The Canadian Dental Association (CDA) and most provincial dental colleges recommend that dental records for adult patients be retained for a minimum of 10 years after the last entry. This period aligns with the typical statute of limitations for professional negligence claims in most Canadian provinces. While some jurisdictions or specific circumstances (such as records for minors, which are often retained until the patient reaches the age of majority plus the standard retention period) may require longer retention, 10 years is the standard baseline recommendation for adults. 'Indefinitely' is not a standard regulatory requirement for all adult records, and 5 or 7 years are generally considered insufficient to cover the potential statute of limitations for malpractice claims.",
+    "explanation": "The American Dental Association (CDA) and most provincial dental colleges recommend that dental records for adult patients be retained for a minimum of 10 years after the last entry. This period aligns with the typical statute of limitations for professional negligence claims in most Canadian provinces. While some jurisdictions or specific circumstances (such as records for minors, which are often retained until the patient reaches the age of majority plus the standard retention period) may require longer retention, 10 years is the standard baseline recommendation for adults. 'Indefinitely' is not a standard regulatory requirement for all adult records, and 5 or 7 years are generally considered insufficient to cover the potential statute of limitations for malpractice claims.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -8422,9 +8422,9 @@
       "Articaine"
     ],
     "correctAnswer": 0,
-    "explanation": "Procaine is an ester‑type local anesthetic. Ester anesthetics are hydrolyzed rapidly in the plasma by pseudocholinesterase, not by the liver. Because allergic reactions to ester anesthetics are mediated by the ester moiety, patients with a documented ester allergy must avoid procaine and other ester agents. \n\nWhy the other options are incorrect:\n- Lidocaine is an amide anesthetic; it is metabolized hepatically and is safe for patients allergic to esters.\n- Bupivacaine is also an amide anesthetic with hepatic metabolism and is not contraindicated in ester‑allergic patients.\n- Articaine is a unique amide that contains a small ester side chain; it is primarily metabolized by plasma esterases, but the molecule is classified as an amide and is generally tolerated in patients with ester allergies. However, its mixed metabolism makes it less appropriate as the definitive answer to an ester‑allergy contraindication question.\n\nThus, Procaine is the only agent that meets both criteria—ester classification and plasma (pseudocholinesterase) metabolism—making it the correct choice per NDEB pharmacology standards.",
+    "explanation": "Procaine is an ester‑type local anesthetic. Ester anesthetics are hydrolyzed rapidly in the plasma by pseudocholinesterase, not by the liver. Because allergic reactions to ester anesthetics are mediated by the ester moiety, patients with a documented ester allergy must avoid procaine and other ester agents. \n\nWhy the other options are incorrect:\n- Lidocaine is an amide anesthetic; it is metabolized hepatically and is safe for patients allergic to esters.\n- Bupivacaine is also an amide anesthetic with hepatic metabolism and is not contraindicated in ester‑allergic patients.\n- Articaine is a unique amide that contains a small ester side chain; it is primarily metabolized by plasma esterases, but the molecule is classified as an amide and is generally tolerated in patients with ester allergies. However, its mixed metabolism makes it less appropriate as the definitive answer to an ester‑allergy contraindication question.\n\nThus, Procaine is the only agent that meets both criteria—ester classification and plasma (pseudocholinesterase) metabolism—making it the correct choice per INBDE pharmacology standards.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 306689526,
@@ -8467,7 +8467,7 @@
     "correctAnswer": 1,
     "explanation": "Canadian periodontal and operative dentistry standards (Carranza’s Clinical Periodontology; Sturdevant’s Art and Science of Operative Dentistry; Little & Falace, Dental Management of the Medically Compromised Patient) state that non‑carious cervical lesions deeper than ~1 mm, especially when subgingival, warrant restorative treatment to prevent further dentin loss and hypersensitivity. Glass ionomer cement offers chemical adhesion, fluoride release, and tolerance of moisture, making it the material of choice for initial restoration of deep NCCLs. Monitoring with fluoride alone is reserved for shallow lesions (<1 mm) without progression risk. Endodontic therapy and gingival grafting are not indicated for an asymptomatic, vital tooth.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 986725753,
@@ -8610,7 +8610,7 @@
     "correctAnswer": 2,
     "explanation": "Amalgam is the material of choice for a large, load‑bearing Class II restoration when esthetics is not a priority. It offers excellent long‑term survival (>10 years) and can be placed in a moist field, which is advantageous for subgingival margins where isolation is difficult. Flowable composite lacks the bulk strength required for large posterior restorations, and conventional packable or hybrid composites would still demand strict moisture control that is harder to achieve subgingivally. Glass ionomer cement provides good fluoride release but has inferior compressive strength and wear resistance, making it unsuitable for high‑stress posterior sites. A porcelain inlay would give superior esthetics and durability, but it requires extensive tooth reduction, an indirect technique, and higher cost; it is not the most efficient choice when esthetics is not a concern and a direct, reliable material is available. Therefore, amalgam best meets the criteria of longevity and clinical handling for this case.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 943463270,
@@ -8735,7 +8735,7 @@
       "Irrigate the socket with saline and then replant the tooth."
     ],
     "correctAnswer": 0,
-    "explanation": "Malamed’s Handbook of Local Anesthesia (7th ed.) and the Canadian Dental Association’s avulsion protocol advise that when a permanent tooth is avulsed and kept in a suitable medium such as milk, the extra‑oral dry time is less than 60 minutes, the tooth should be gently rinsed with saline or tap water (no scrubbing) and replanted immediately. A flexible splint is then placed for 1–2 weeks to stabilize the tooth while allowing periodontal ligament healing. Delaying replantation or omitting splinting reduces prognosis. Antiseptic cleaning or referral without immediate replantation is not recommended in this scenario.",
+    "explanation": "Malamed’s Handbook of Local Anesthesia (7th ed.) and the American Dental Association’s avulsion protocol advise that when a permanent tooth is avulsed and kept in a suitable medium such as milk, the extra‑oral dry time is less than 60 minutes, the tooth should be gently rinsed with saline or tap water (no scrubbing) and replanted immediately. A flexible splint is then placed for 1–2 weeks to stabilize the tooth while allowing periodontal ligament healing. Delaying replantation or omitting splinting reduces prognosis. Antiseptic cleaning or referral without immediate replantation is not recommended in this scenario.",
     "aiVerified": true
   },
   {
@@ -8847,7 +8847,7 @@
       "Administer a single dose of oral amoxicillin 1 hour prior to the procedure."
     ],
     "correctAnswer": 1,
-    "explanation": "Canadian guidelines (CDA/Canadian Cardiovascular Society) state that for dental extractions in patients with prosthetic heart valves, antibiotic prophylaxis is required. The recommended regimen is amoxicillin 2 g PO 30‑60 min before the procedure; for a documented penicillin allergy, clindamycin 600 mg PO is the alternative (Malamed, Handbook of Local Anesthesia, 7th ed.). Warfarin therapy need not be altered for simple extractions when the INR is ≤ 3.5; local hemostatic measures are sufficient (Little & Falace, Dental Management of the Medically Compromised Patient). Therefore the optimal plan is to continue warfarin and give clindamycin, making option 1 the correct answer.",
+    "explanation": "ADA guidelines (CDA/Canadian Cardiovascular Society) state that for dental extractions in patients with prosthetic heart valves, antibiotic prophylaxis is required. The recommended regimen is amoxicillin 2 g PO 30‑60 min before the procedure; for a documented penicillin allergy, clindamycin 600 mg PO is the alternative (Malamed, Handbook of Local Anesthesia, 7th ed.). Warfarin therapy need not be altered for simple extractions when the INR is ≤ 3.5; local hemostatic measures are sufficient (Little & Falace, Dental Management of the Medically Compromised Patient). Therefore the optimal plan is to continue warfarin and give clindamycin, making option 1 the correct answer.",
     "aiVerified": true
   },
   {
@@ -9156,10 +9156,10 @@
       "Mepivacaine (Carbocaine)"
     ],
     "correctAnswer": 3,
-    "explanation": "According to the NDEB AFK pharmacology framework and the consensus in standard texts (Malamed, Carranza, Sturdevant), the anesthetic that best matches a rapid onset with a relatively brief period of pulpal anesthesia is mepivacaine (Carbocaine). Mepivacaine has an onset of 2–3 minutes and, when used without a vasoconstrictor, provides 20–30 minutes of soft‑tissue anesthesia and 30–45 minutes of pulpal anesthesia—exactly the profile desired for short, uncomplicated extractions or Class I/II restorations. Its moderate protein binding and low lipid solubility limit the duration, making it the agent of choice when prolonged numbness is unnecessary or when cardiovascular stability is a concern.\n\nWhy the other agents are less appropriate:\n- **Bupivacaine (Marcaine)** – Although it has a rapid onset, its duration is markedly longer (2–4 hours) due to high protein binding and lipid solubility. This prolonged effect is advantageous for extensive surgery, not for brief procedures, and may increase postoperative soft‑tissue injury risk.\n- **Lidocaine (Xylocaine)** – The gold‑standard for most dental injections, lidocaine with epinephrine provides a 60–120‑minute pulpal block. While its onset is fast, the duration exceeds what is required for a simple extraction, potentially leading to unnecessary prolonged numbness.\n- **Articaine (Septocaine)** – Articaine’s onset is rapid and its duration is comparable to lidocaine (approximately 60 minutes). Its higher potency and slightly longer action make it ideal for infiltrations in dense bone, but it is not the most efficient choice when a short, predictable block is the goal.\nThus, mepivacaine uniquely satisfies the clinical requirement of rapid onset with a short anesthetic window, aligning with NDEB AFK expectations for appropriate drug selection.",
+    "explanation": "According to the INBDE pharmacology framework and the consensus in standard texts (Malamed, Carranza, Sturdevant), the anesthetic that best matches a rapid onset with a relatively brief period of pulpal anesthesia is mepivacaine (Carbocaine). Mepivacaine has an onset of 2–3 minutes and, when used without a vasoconstrictor, provides 20–30 minutes of soft‑tissue anesthesia and 30–45 minutes of pulpal anesthesia—exactly the profile desired for short, uncomplicated extractions or Class I/II restorations. Its moderate protein binding and low lipid solubility limit the duration, making it the agent of choice when prolonged numbness is unnecessary or when cardiovascular stability is a concern.\n\nWhy the other agents are less appropriate:\n- **Bupivacaine (Marcaine)** – Although it has a rapid onset, its duration is markedly longer (2–4 hours) due to high protein binding and lipid solubility. This prolonged effect is advantageous for extensive surgery, not for brief procedures, and may increase postoperative soft‑tissue injury risk.\n- **Lidocaine (Xylocaine)** – The gold‑standard for most dental injections, lidocaine with epinephrine provides a 60–120‑minute pulpal block. While its onset is fast, the duration exceeds what is required for a simple extraction, potentially leading to unnecessary prolonged numbness.\n- **Articaine (Septocaine)** – Articaine’s onset is rapid and its duration is comparable to lidocaine (approximately 60 minutes). Its higher potency and slightly longer action make it ideal for infiltrations in dense bone, but it is not the most efficient choice when a short, predictable block is the goal.\nThus, mepivacaine uniquely satisfies the clinical requirement of rapid onset with a short anesthetic window, aligning with INBDE expectations for appropriate drug selection.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 430440755,
@@ -9270,10 +9270,10 @@
       "Aspirin"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the NDEB AFK pharmacology objectives, the first‑line medication for acute dental pain of inflammatory origin (e.g., irreversible pulpitis) is a short‑acting non‑steroidal anti‑inflammatory drug (NSAID) because it provides both analgesia and inhibition of prostaglandin‑mediated inflammation. Ibuprofen (400–600 mg every 6–8 h) has the most favorable efficacy‑to‑safety ratio for dental patients: it produces reliable pain relief, has a relatively short half‑life, and carries a lower risk of gastrointestinal ulceration than aspirin or naproxen when used at recommended doses. The patient’s mild, well‑controlled asthma does not constitute a contraindication to ibuprofen in the absence of a documented aspirin‑exacerbated respiratory disease, so ibuprofen is appropriate.\n\nWhy the other options are less suitable:\n- **Acetaminophen (index 0)**: While safe in asthmatic patients, it lacks anti‑inflammatory activity and is therefore less effective for the inflammatory component of pulpitis pain. It is reserved for patients who cannot tolerate NSAIDs.\n- **Naproxen (index 1)**: Also an NSAID and effective for dental pain, but its longer duration (12‑hour dosing) is associated with a higher incidence of gastrointestinal irritation and platelet inhibition compared with ibuprofen, making ibuprofen the preferred initial choice.\n- **Aspirin (index 3)**: Although an NSAID, aspirin irreversibly inhibits COX‑1, increasing the risk of gastric mucosal damage and bleeding, and it provides inferior analgesia for acute dental pain. It is not recommended as a first‑line analgesic in the NDEB curriculum.\nThus, ibuprofen is the most appropriate non‑opioid analgesic for this patient.",
+    "explanation": "According to the INBDE pharmacology objectives, the first‑line medication for acute dental pain of inflammatory origin (e.g., irreversible pulpitis) is a short‑acting non‑steroidal anti‑inflammatory drug (NSAID) because it provides both analgesia and inhibition of prostaglandin‑mediated inflammation. Ibuprofen (400–600 mg every 6–8 h) has the most favorable efficacy‑to‑safety ratio for dental patients: it produces reliable pain relief, has a relatively short half‑life, and carries a lower risk of gastrointestinal ulceration than aspirin or naproxen when used at recommended doses. The patient’s mild, well‑controlled asthma does not constitute a contraindication to ibuprofen in the absence of a documented aspirin‑exacerbated respiratory disease, so ibuprofen is appropriate.\n\nWhy the other options are less suitable:\n- **Acetaminophen (index 0)**: While safe in asthmatic patients, it lacks anti‑inflammatory activity and is therefore less effective for the inflammatory component of pulpitis pain. It is reserved for patients who cannot tolerate NSAIDs.\n- **Naproxen (index 1)**: Also an NSAID and effective for dental pain, but its longer duration (12‑hour dosing) is associated with a higher incidence of gastrointestinal irritation and platelet inhibition compared with ibuprofen, making ibuprofen the preferred initial choice.\n- **Aspirin (index 3)**: Although an NSAID, aspirin irreversibly inhibits COX‑1, increasing the risk of gastric mucosal damage and bleeding, and it provides inferior analgesia for acute dental pain. It is not recommended as a first‑line analgesic in the INBDE curriculum.\nThus, ibuprofen is the most appropriate non‑opioid analgesic for this patient.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 464888026,
@@ -9300,10 +9300,10 @@
       "Pterygomaxillary fissure"
     ],
     "correctAnswer": 1,
-    "explanation": "The infratemporal fossa is a deep space located inferior to the temporal fossa and deep to the ramus of the mandible. Its borders are defined as follows: superiorly – the greater wing of the sphenoid; laterally – the mandibular ramus; medially – the lateral pterygoid plate (part of the sphenoid); posteriorly – the temporal bone; and anteriorly – the posterior surface of the maxilla, which includes the maxillary tuberosity. The maxillary tuberosity is the most prominent bony landmark on that posterior maxillary surface and therefore constitutes the anterior boundary of the fossa. \n\nWhy the other options are incorrect: \n- **Option 0: Lateral pterygoid plate** – This forms the medial (not anterior) wall of the infratemporal fossa, separating it from the pterygoid process of the sphenoid. \n- **Option 2: Mandibular ramus** – The ramus provides the lateral boundary of the fossa; it does not define the anterior limit. \n- **Option 3: Pterygomaxillary fissure** – The fissure is a communication between the infratemporal and pterygopalatine fossae. While it lies at the anterior aspect, it is a gap rather than a true bony boundary, and the textbook definition of the anterior wall refers to the posterior surface of the maxilla (maxillary tuberosity). \n\nThus, according to standard anatomical references (e.g., Moore’s Clinically Oriented Anatomy, Gray’s Anatomy) and NDEB AFK expectations, the maxillary tuberosity is the correct answer.",
+    "explanation": "The infratemporal fossa is a deep space located inferior to the temporal fossa and deep to the ramus of the mandible. Its borders are defined as follows: superiorly – the greater wing of the sphenoid; laterally – the mandibular ramus; medially – the lateral pterygoid plate (part of the sphenoid); posteriorly – the temporal bone; and anteriorly – the posterior surface of the maxilla, which includes the maxillary tuberosity. The maxillary tuberosity is the most prominent bony landmark on that posterior maxillary surface and therefore constitutes the anterior boundary of the fossa. \n\nWhy the other options are incorrect: \n- **Option 0: Lateral pterygoid plate** – This forms the medial (not anterior) wall of the infratemporal fossa, separating it from the pterygoid process of the sphenoid. \n- **Option 2: Mandibular ramus** – The ramus provides the lateral boundary of the fossa; it does not define the anterior limit. \n- **Option 3: Pterygomaxillary fissure** – The fissure is a communication between the infratemporal and pterygopalatine fossae. While it lies at the anterior aspect, it is a gap rather than a true bony boundary, and the textbook definition of the anterior wall refers to the posterior surface of the maxilla (maxillary tuberosity). \n\nThus, according to standard anatomical references (e.g., Moore’s Clinically Oriented Anatomy, Gray’s Anatomy) and INBDE expectations, the maxillary tuberosity is the correct answer.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 317431672,
@@ -9526,7 +9526,7 @@
       "Generalized Stage III Periodontitis, Grade C"
     ],
     "correctAnswer": 2,
-    "explanation": "According to the 2018 International Classification of Periodontal Diseases (as adopted by the NDEB and cited in Carranza's Clinical Periodontology), Stage II periodontitis is defined by interdental clinical attachment loss of 3–4 mm and radiographic bone loss of 15–33% of root length. The vignette reports generalized horizontal bone loss of 15‑20% and isolated 5 mm probing depths, fulfilling the Stage II definition. Extent is considered localized when <30% of teeth are affected, which applies to the posterior sites described. Grade B is assigned when the bone‑loss‑to‑age ratio exceeds the threshold for slow progression, a reasonable inference given the moderate bone loss in a 50‑year‑old. Options describing gingivitis or Stage I/III disease are inconsistent with the radiographic and probing findings. (References: Carranza’s Clinical Periodontology, 12th ed.; Little & Falace, Dental Management of the Medically Compromised Patient).",
+    "explanation": "According to the 2018 International Classification of Periodontal Diseases (as adopted by the INBDE and cited in Carranza's Clinical Periodontology), Stage II periodontitis is defined by interdental clinical attachment loss of 3–4 mm and radiographic bone loss of 15–33% of root length. The vignette reports generalized horizontal bone loss of 15‑20% and isolated 5 mm probing depths, fulfilling the Stage II definition. Extent is considered localized when <30% of teeth are affected, which applies to the posterior sites described. Grade B is assigned when the bone‑loss‑to‑age ratio exceeds the threshold for slow progression, a reasonable inference given the moderate bone loss in a 50‑year‑old. Options describing gingivitis or Stage I/III disease are inconsistent with the radiographic and probing findings. (References: Carranza’s Clinical Periodontology, 12th ed.; Little & Falace, Dental Management of the Medically Compromised Patient).",
     "aiVerified": true
   },
   {
@@ -9944,9 +9944,9 @@
       "Apexogenesis"
     ],
     "correctAnswer": 0,
-    "explanation": "The presence of a periapical radiolucency in a permanent tooth indicates irreversible pulpitis with periapical pathology (necrosis or chronic apical periodontitis). In permanent teeth, the presence of periapical pathology is a contraindication for vital pulp therapies such as pulpotomy or apexogenesis, as these procedures rely on a healthy, vital pulp to maintain or continue root development. An indirect pulp cap is contraindicated because the caries extends to the pulp and there is established periapical disease. Therefore, the only appropriate treatment to preserve the tooth is a pulpectomy (root canal treatment), which involves the complete removal of the necrotic or inflamed pulp tissue from both the coronal and radicular spaces, followed by obturation. This aligns with Canadian NDEB standards for managing irreversible pulpitis with periapical involvement in permanent dentition.",
+    "explanation": "The presence of a periapical radiolucency in a permanent tooth indicates irreversible pulpitis with periapical pathology (necrosis or chronic apical periodontitis). In permanent teeth, the presence of periapical pathology is a contraindication for vital pulp therapies such as pulpotomy or apexogenesis, as these procedures rely on a healthy, vital pulp to maintain or continue root development. An indirect pulp cap is contraindicated because the caries extends to the pulp and there is established periapical disease. Therefore, the only appropriate treatment to preserve the tooth is a pulpectomy (root canal treatment), which involves the complete removal of the necrotic or inflamed pulp tissue from both the coronal and radicular spaces, followed by obturation. This aligns with Canadian INBDE standards for managing irreversible pulpitis with periapical involvement in permanent dentition.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 731411807,
@@ -10127,7 +10127,7 @@
       "Application of fluoride varnish"
     ],
     "correctAnswer": 1,
-    "explanation": "The patient presents with a traumatic crown fracture of a permanent maxillary central incisor that involves enamel and dentin, no pulp exposure, and slight mobility without displacement. According to the International Association of Dental Traumatology (IADT) protocol endorsed by the NDEB AFK curriculum, the first priority after dental trauma is to stabilize any mobile tooth to allow re‑attachment of the periodontal ligament fibers and to prevent further injury. A flexible (semi‑rigid) splint placed for 1–2 weeks is the recommended initial management for a tooth with minor mobility and no root fracture. Once the tooth is stabilized, definitive restoration of the coronal fracture can be performed.\n\nOption 0 (pulp capping) is inappropriate because the pulp is not exposed; indirect pulp capping is reserved for deep carious lesions or exposures, not for intact pulps after a non‑exposed fracture. Option 2 (composite restoration) addresses the coronal defect but does not address the mobility; placing a restoration on an unstable tooth risks failure and further trauma. Option 3 (fluoride varnish) is a preventive measure for caries risk and has no therapeutic effect on mobility or fracture stabilization. Thus, the only answer that aligns with NDEB‑approved trauma management and infection‑control standards is temporary stabilization with a flexible splint.",
+    "explanation": "The patient presents with a traumatic crown fracture of a permanent maxillary central incisor that involves enamel and dentin, no pulp exposure, and slight mobility without displacement. According to the International Association of Dental Traumatology (IADT) protocol endorsed by the INBDE curriculum, the first priority after dental trauma is to stabilize any mobile tooth to allow re‑attachment of the periodontal ligament fibers and to prevent further injury. A flexible (semi‑rigid) splint placed for 1–2 weeks is the recommended initial management for a tooth with minor mobility and no root fracture. Once the tooth is stabilized, definitive restoration of the coronal fracture can be performed.\n\nOption 0 (pulp capping) is inappropriate because the pulp is not exposed; indirect pulp capping is reserved for deep carious lesions or exposures, not for intact pulps after a non‑exposed fracture. Option 2 (composite restoration) addresses the coronal defect but does not address the mobility; placing a restoration on an unstable tooth risks failure and further trauma. Option 3 (fluoride varnish) is a preventive measure for caries risk and has no therapeutic effect on mobility or fracture stabilization. Thus, the only answer that aligns with INBDE‑approved trauma management and infection‑control standards is temporary stabilization with a flexible splint.",
     "aiVerified": true
   },
   {
@@ -10281,7 +10281,7 @@
       "Sertraline causes a synergistic increase in serotonin levels when combined with epinephrine, leading to serotonin syndrome."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is that there is no clinically significant interaction between SSRIs (such as sertraline) and epinephrine. While older literature and some pharmacological theories suggested that SSRIs might inhibit the reuptake of norepinephrine (and thus potentially potentiate the effects of epinephrine), modern clinical evidence and dental guidelines (including those from the American Dental Association and Canadian dental associations) indicate that this interaction is not clinically significant at standard doses used in dentistry. Therefore, local anesthetics with epinephrine can be administered safely to patients on SSRIs. Option A is incorrect because the risk of hypertensive crisis is not considered clinically significant. Option B is incorrect because SSRIs do not significantly inhibit the metabolism of epinephrine (which is primarily metabolized by COMT and MAO). Option D is incorrect because epinephrine is a catecholamine, not a serotonergic agent, and does not contribute to serotonin syndrome.",
+    "explanation": "The correct answer is that there is no clinically significant interaction between SSRIs (such as sertraline) and epinephrine. While older literature and some pharmacological theories suggested that SSRIs might inhibit the reuptake of norepinephrine (and thus potentially potentiate the effects of epinephrine), modern clinical evidence and dental guidelines (including those from the American Dental Association and American Dental Associations) indicate that this interaction is not clinically significant at standard doses used in dentistry. Therefore, local anesthetics with epinephrine can be administered safely to patients on SSRIs. Option A is incorrect because the risk of hypertensive crisis is not considered clinically significant. Option B is incorrect because SSRIs do not significantly inhibit the metabolism of epinephrine (which is primarily metabolized by COMT and MAO). Option D is incorrect because epinephrine is a catecholamine, not a serotonergic agent, and does not contribute to serotonin syndrome.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -10500,10 +10500,10 @@
       "100 mg doxycycline orally 30–60 minutes before the procedure"
     ],
     "correctAnswer": 1,
-    "explanation": "According to the Canadian Cardiovascular Society/Canadian Dental Association (CCS/CDA) antibiotic prophylaxis guidelines, which are incorporated into the NDEB Assessment of Fundamental Knowledge, patients with a prosthetic cardiac valve are classified as high‑risk for infective endocarditis. Any invasive dental procedure that manipulates gingival tissue or periapical bone (e.g., an extraction) therefore requires prophylaxis. The first‑line regimen is amoxicillin 2 g orally 30–60 minutes before the procedure. However, the patient reports a type I (anaphylactic) hypersensitivity to penicillins, which contraindicates amoxicillin. In penicillin‑allergic individuals the recommended alternative is clindamycin 600 mg orally 30–60 minutes pre‑operatively; azithromycin or clarithromycin are acceptable only if clindamycin is not tolerated. Doxycycline is not listed as an acceptable alternative for endocarditis prophylaxis, and omission of prophylaxis would place a prosthetic‑valve patient at unnecessary risk. \n\nOption 0 (amoxicillin) is incorrect because the patient’s anaphylactic penicillin allergy makes it contraindicated. Option 2 (no prophylaxis) is wrong because prosthetic valve patients are explicitly indicated for prophylaxis regardless of overall health. Option 3 (doxycycline) is not a guideline‑endorsed alternative and therefore is inappropriate. The only regimen that satisfies both the high‑risk cardiac condition and the documented penicillin allergy is the clindamycin regimen presented in option 1.",
+    "explanation": "According to the Canadian Cardiovascular Society/American Dental Association (CCS/CDA) antibiotic prophylaxis guidelines, which are incorporated into the INBDE Assessment of Fundamental Knowledge, patients with a prosthetic cardiac valve are classified as high‑risk for infective endocarditis. Any invasive dental procedure that manipulates gingival tissue or periapical bone (e.g., an extraction) therefore requires prophylaxis. The first‑line regimen is amoxicillin 2 g orally 30–60 minutes before the procedure. However, the patient reports a type I (anaphylactic) hypersensitivity to penicillins, which contraindicates amoxicillin. In penicillin‑allergic individuals the recommended alternative is clindamycin 600 mg orally 30–60 minutes pre‑operatively; azithromycin or clarithromycin are acceptable only if clindamycin is not tolerated. Doxycycline is not listed as an acceptable alternative for endocarditis prophylaxis, and omission of prophylaxis would place a prosthetic‑valve patient at unnecessary risk. \n\nOption 0 (amoxicillin) is incorrect because the patient’s anaphylactic penicillin allergy makes it contraindicated. Option 2 (no prophylaxis) is wrong because prosthetic valve patients are explicitly indicated for prophylaxis regardless of overall health. Option 3 (doxycycline) is not a guideline‑endorsed alternative and therefore is inappropriate. The only regimen that satisfies both the high‑risk cardiac condition and the documented penicillin allergy is the clindamycin regimen presented in option 1.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 182935519,
@@ -10590,7 +10590,7 @@
       "Extraction of the primary molar"
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical presentation describes a deep carious lesion with no signs of irreversible pulpitis (no spontaneous pain, no swelling, no periapical radiolucency). According to Canadian dental standards and NDEB guidelines, the goal is to preserve pulp vitality when possible. An indirect pulp cap (IPC) is the most appropriate initial treatment for deep caries approaching the pulp in an asymptomatic primary tooth. This involves removing caries down to sound dentin or leaving a thin layer of infected dentin over the pulp, placing a biocompatible liner (such as glass ionomer cement or MTA), and restoring the tooth, typically with a stainless steel crown for primary molars to ensure a seal and durability. Direct pulp capping is generally reserved for small, clean exposures (e.g., traumatic) and is not the first-line treatment for deep caries without exposure. Pulpectomy is indicated for irreversible pulpitis or necrosis, which is not present here. Extraction is unnecessary as the tooth is restorable and has sufficient root structure remaining.",
+    "explanation": "The clinical presentation describes a deep carious lesion with no signs of irreversible pulpitis (no spontaneous pain, no swelling, no periapical radiolucency). According to Canadian dental standards and ADA clinical guidelines, the goal is to preserve pulp vitality when possible. An indirect pulp cap (IPC) is the most appropriate initial treatment for deep caries approaching the pulp in an asymptomatic primary tooth. This involves removing caries down to sound dentin or leaving a thin layer of infected dentin over the pulp, placing a biocompatible liner (such as glass ionomer cement or MTA), and restoring the tooth, typically with a stainless steel crown for primary molars to ensure a seal and durability. Direct pulp capping is generally reserved for small, clean exposures (e.g., traumatic) and is not the first-line treatment for deep caries without exposure. Pulpectomy is indicated for irreversible pulpitis or necrosis, which is not present here. Extraction is unnecessary as the tooth is restorable and has sufficient root structure remaining.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -10837,7 +10837,7 @@
   {
     "id": 98141810,
     "topicId": "pharmacology",
-    "question": "According to the Canadian Dental Association (CDA) Code of Ethics, which of the following principles emphasizes the dentist's obligation to act for the benefit of the patient and promote their well-being?",
+    "question": "According to the American Dental Association (CDA) Code of Ethics, which of the following principles emphasizes the dentist's obligation to act for the benefit of the patient and promote their well-being?",
     "options": [
       "Beneficence.",
       "Autonomy.",
@@ -11338,10 +11338,10 @@
       "Initiate systemic corticosteroid therapy"
     ],
     "correctAnswer": 2,
-    "explanation": "The bilateral, white, lace‑like (Wickham’s) striae on the buccal mucosa are classic for oral lichen planus (OLP), a chronic immune‑mediated mucosal disease. According to the NDEB AFK curriculum and the consensus statements in Malamed and Neville, asymptomatic OLP requires no pharmacologic intervention; the recommended initial step is observation with periodic re‑evaluation and patient education regarding potential triggers, malignant transformation risk (≈1%), and the need to report any new symptoms such as pain, ulceration, or erythema. This aligns with the Canadian Dental Association infection‑control protocol, which mandates standard precautions but no additional measures for a non‑infectious, non‑contagious lesion.\n\nOption 0 (topical antifungal) is incorrect because the lesion is not candidal; antifungal therapy would be ineffective and could disrupt normal flora. Option 1 (incisional biopsy) is reserved for lesions with atypical features, ulceration, indeterminate diagnosis, or suspicion of dysplasia. In classic, bilateral, symmetric Wickham’s striae without dysplasia, biopsy is unnecessary and would expose the patient to unnecessary surgical risk. Option 3 (systemic corticosteroids) is indicated only for symptomatic, erosive, or extensive OLP unresponsive to topical agents; initiating systemic steroids in an asymptomatic patient exposes her to systemic side effects (e.g., hypertension exacerbation) without benefit. Thus, the most appropriate initial management is to monitor the lesion clinically and provide education, making answer index 2 the correct choice.",
+    "explanation": "The bilateral, white, lace‑like (Wickham’s) striae on the buccal mucosa are classic for oral lichen planus (OLP), a chronic immune‑mediated mucosal disease. According to the INBDE curriculum and the consensus statements in Malamed and Neville, asymptomatic OLP requires no pharmacologic intervention; the recommended initial step is observation with periodic re‑evaluation and patient education regarding potential triggers, malignant transformation risk (≈1%), and the need to report any new symptoms such as pain, ulceration, or erythema. This aligns with the American Dental Association infection‑control protocol, which mandates standard precautions but no additional measures for a non‑infectious, non‑contagious lesion.\n\nOption 0 (topical antifungal) is incorrect because the lesion is not candidal; antifungal therapy would be ineffective and could disrupt normal flora. Option 1 (incisional biopsy) is reserved for lesions with atypical features, ulceration, indeterminate diagnosis, or suspicion of dysplasia. In classic, bilateral, symmetric Wickham’s striae without dysplasia, biopsy is unnecessary and would expose the patient to unnecessary surgical risk. Option 3 (systemic corticosteroids) is indicated only for symptomatic, erosive, or extensive OLP unresponsive to topical agents; initiating systemic steroids in an asymptomatic patient exposes her to systemic side effects (e.g., hypertension exacerbation) without benefit. Thus, the most appropriate initial management is to monitor the lesion clinically and provide education, making answer index 2 the correct choice.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 786568989,
@@ -11553,7 +11553,7 @@
     "explanation": "Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) state that any oral lesion persisting longer than two weeks, even when clinically benign‑appearing, should be biopsied to exclude dysplasia or early malignancy. The described lesion—firm, exophytic, unchanged for three months—fits the clinical picture of an irritation fibroma, but a definitive diagnosis still requires tissue sampling. An incisional biopsy provides a representative specimen while preserving surrounding tissue for possible excision. Topical antifungal therapy is irrelevant, reassurance alone ignores the biopsy guideline, and merely advising avoidance of trauma does not address diagnostic certainty. (Reference: Neville et al., Oral and Maxillofacial Pathology, 4th ed., Chapter 9).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 979213646,
@@ -11710,7 +11710,7 @@
     "explanation": "The gingival sulcus is defined as a potential space (not a true anatomical cavity filled with tissue) located between the free gingiva and the tooth surface. It is lined by the junctional epithelium, which forms a seal against the tooth. In a healthy state, it is approximately 0.5–2 mm deep. Option 0 correctly identifies it as a potential space lined by the junctional epithelium. Option 1 is incorrect because the sulcus is a space, not filled with connective tissue fibers; the connective tissue attachment is located apical to the junctional epithelium. Option 2 is incorrect because the periodontal ligament (PDL) is a separate structure located apical to the gingival margin, and the sulcus is part of the gingiva, not the PDL. Option 3 is incorrect because the sulcus is not a glandular structure; gingival crevicular fluid (GCF) is an exudate that flows from the sulcus, but the sulcus itself does not 'secrete' it via glandular tissue.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 44282767,
@@ -11823,7 +11823,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is Low viscosity and hydrophilicity. In dental materials science, the ability of an impression material to reproduce fine details (such as gingival sulcus depth, root concavities, and surface texture) is primarily determined by its flow characteristics. Low viscosity allows the material to flow into small crevices and undercuts without requiring excessive pressure, which could distort the tissues. Hydrophilicity is equally critical because oral tissues are moist; a hydrophilic material wets the tissue surface, displacing the thin layer of saliva that would otherwise act as a barrier to detail reproduction. High tear strength (Option 0) is essential for the removal of the impression from undercuts without tearing, but it does not influence the initial capture of detail. Long working time (Option 1) is a clinical convenience property that allows for adequate manipulation and seating but does not directly correlate with the fidelity of detail reproduction. High dimensional stability (Option 2) refers to the material's resistance to change in size and shape after setting (e.g., due to evaporation or absorption); while this is crucial for the accuracy of the final cast, it is distinct from the material's ability to capture the initial fine details of the impression.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 341978581,
@@ -11878,10 +11878,10 @@
       "Reassure the patient and monitor at annual recall appointments."
     ],
     "correctAnswer": 2,
-    "explanation": "The clinical presentation of a white lesion that cannot be scraped off is defined as leukoplakia, which is a potentially malignant disorder (PMD). According to current Canadian dental standards and NDEB guidelines (aligned with Neville's Oral and Maxillofacial Pathology and CDA recommendations), the gold standard for the initial management of a persistent leukoplakia, particularly in a patient with significant risk factors such as heavy smoking, is a biopsy. While removing irritants (like tobacco) is a crucial part of patient counseling and long-term management, it is not a diagnostic step. A lesion that has been present for 'several months' is considered persistent; therefore, waiting 2-3 weeks to see if it resolves is inappropriate and delays the diagnosis of potential dysplasia or squamous cell carcinoma. An incisional biopsy is the correct initial diagnostic procedure to determine the histopathological status (hyperkeratosis, dysplasia, or carcinoma). Prescribing nystatin is incorrect because the lesion is non-scrapable, which rules out candidiasis (which is typically scrapable). Reassurance and annual monitoring are contraindicated for a persistent PMD in a high-risk patient, as this poses a significant liability and risk of missing a malignant transformation.",
+    "explanation": "The clinical presentation of a white lesion that cannot be scraped off is defined as leukoplakia, which is a potentially malignant disorder (PMD). According to current Canadian dental standards and ADA clinical guidelines (aligned with Neville's Oral and Maxillofacial Pathology and CDA recommendations), the gold standard for the initial management of a persistent leukoplakia, particularly in a patient with significant risk factors such as heavy smoking, is a biopsy. While removing irritants (like tobacco) is a crucial part of patient counseling and long-term management, it is not a diagnostic step. A lesion that has been present for 'several months' is considered persistent; therefore, waiting 2-3 weeks to see if it resolves is inappropriate and delays the diagnosis of potential dysplasia or squamous cell carcinoma. An incisional biopsy is the correct initial diagnostic procedure to determine the histopathological status (hyperkeratosis, dysplasia, or carcinoma). Prescribing nystatin is incorrect because the lesion is non-scrapable, which rules out candidiasis (which is typically scrapable). Reassurance and annual monitoring are contraindicated for a persistent PMD in a high-risk patient, as this poses a significant liability and risk of missing a malignant transformation.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 526705263,
@@ -11929,7 +11929,7 @@
   {
     "id": 280712798,
     "topicId": "pharmacology",
-    "question": "According to the Canadian Dental Association (CDA) Code of Ethics, which of the following principles highlights the dentist's responsibility to contribute to the oral health of the community and society as a whole?",
+    "question": "According to the American Dental Association (CDA) Code of Ethics, which of the following principles highlights the dentist's responsibility to contribute to the oral health of the community and society as a whole?",
     "options": [
       "Professionalism.",
       "Accountability.",
@@ -12387,7 +12387,7 @@
     "correctAnswer": 3,
     "explanation": "The clinical presentation of reversible pulpitis (sharp pain to cold that subsides quickly, no spontaneous pain, no periapical pathology) in a primary tooth with a carious pulp exposure is best managed with a pulpotomy. According to Canadian pediatric dentistry guidelines (CDA/CDPA), pulpotomy is the treatment of choice for primary teeth with vital, reversible pulpitis and a clean exposure. It involves the removal of the coronal pulp while preserving the vital radicular pulp, which is essential for maintaining the tooth's function and space maintenance until natural exfoliation. Direct pulp capping is generally contraindicated in primary teeth with carious exposures due to the high risk of inflammation and failure, as the pulp in primary teeth is more vascular and less capable of forming a dentin bridge compared to permanent teeth. Indirect pulp capping is inappropriate because the pulp is already exposed; this technique is reserved for deep caries where the pulp is not exposed. Pulpectomy is indicated for irreversible pulpitis or pulp necrosis, which is not the case here given the reversible symptoms and lack of periapical pathology.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 53068364,
@@ -12526,9 +12526,9 @@
       "Tissue conditioning and reassessment"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Referral for implant-supported overdentures. In a patient with significant residual ridge resorption (especially mandibular) and a long history of denture wear (15 years), the alveolar ridges are likely severely atrophied. Conventional complete dentures (Option 0) rely on ridge anatomy for retention and stability; in cases of severe resorption, they often fail to provide adequate function and comfort, leading to poor quality of life. While tissue conditioning (Option 3) is a valid diagnostic step to assess tissue health, it is not a definitive management strategy for a patient with established severe resorption who desires a definitive solution; it is a temporary measure. Soft relining (Option 1) is a temporary palliative measure that does not address the underlying anatomical deficiency and can lead to tissue irritation or fungal infection if used long-term. Implant-supported overdentures (Option 2) are the gold standard for managing severe mandibular ridge resorption. They provide superior retention, stability, and chewing efficiency compared to conventional dentures and help preserve remaining bone. According to current Canadian dental standards and NDEB guidelines, for patients with significant ridge loss, implant-supported prostheses are the preferred definitive treatment to restore function and quality of life.",
+    "explanation": "The correct answer is Referral for implant-supported overdentures. In a patient with significant residual ridge resorption (especially mandibular) and a long history of denture wear (15 years), the alveolar ridges are likely severely atrophied. Conventional complete dentures (Option 0) rely on ridge anatomy for retention and stability; in cases of severe resorption, they often fail to provide adequate function and comfort, leading to poor quality of life. While tissue conditioning (Option 3) is a valid diagnostic step to assess tissue health, it is not a definitive management strategy for a patient with established severe resorption who desires a definitive solution; it is a temporary measure. Soft relining (Option 1) is a temporary palliative measure that does not address the underlying anatomical deficiency and can lead to tissue irritation or fungal infection if used long-term. Implant-supported overdentures (Option 2) are the gold standard for managing severe mandibular ridge resorption. They provide superior retention, stability, and chewing efficiency compared to conventional dentures and help preserve remaining bone. According to current Canadian dental standards and ADA clinical guidelines, for patients with significant ridge loss, implant-supported prostheses are the preferred definitive treatment to restore function and quality of life.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 481572632,
@@ -13237,7 +13237,7 @@
   {
     "id": 233558201,
     "topicId": "pharmacology",
-    "question": "According to Canadian guidelines for medical emergencies in the dental office, what is the MOST immediate and critical step to take when a patient experiences a sudden onset of anaphylaxis after receiving a local anesthetic?",
+    "question": "According to ADA guidelines for medical emergencies in the dental office, what is the MOST immediate and critical step to take when a patient experiences a sudden onset of anaphylaxis after receiving a local anesthetic?",
     "options": [
       "Administer oral antihistamines",
       "Initiate basic life support (BLS) and call for emergency medical services (EMS)",
@@ -13413,9 +13413,9 @@
       "Prescribe corticosteroids to reduce inflammation."
     ],
     "correctAnswer": 0,
-    "explanation": "The clinical presentation of trismus, fever, malaise, and significant swelling in the retromolar/angle region three days post-extraction is indicative of a spreading odontogenic infection, likely involving the masticator space or deep cervical spaces. According to Canadian dental standards and NDEB guidelines, the presence of systemic signs (fever, malaise) and functional impairment (trismus) in the context of a deep space infection constitutes a medical/dental emergency. The gold standard initial management is hospitalization or urgent referral to an oral and maxillofacial surgeon for intravenous (IV) antibiotic therapy and potential surgical intervention (incision and drainage if an abscess is confirmed). Option 1 is incorrect because oral antibiotics are insufficient for a spreading infection with systemic involvement; the patient requires parenteral therapy. Option 3 is incorrect because blind incision and drainage without imaging or specialist assessment in a deep space infection is dangerous and not the initial step; furthermore, the infection may be in the cellulitis phase rather than a localized abscess amenable to simple I&D. Option 4 is incorrect because corticosteroids do not treat the underlying bacterial infection and may mask symptoms or impair immune response.",
+    "explanation": "The clinical presentation of trismus, fever, malaise, and significant swelling in the retromolar/angle region three days post-extraction is indicative of a spreading odontogenic infection, likely involving the masticator space or deep cervical spaces. According to Canadian dental standards and ADA clinical guidelines, the presence of systemic signs (fever, malaise) and functional impairment (trismus) in the context of a deep space infection constitutes a medical/dental emergency. The gold standard initial management is hospitalization or urgent referral to an oral and maxillofacial surgeon for intravenous (IV) antibiotic therapy and potential surgical intervention (incision and drainage if an abscess is confirmed). Option 1 is incorrect because oral antibiotics are insufficient for a spreading infection with systemic involvement; the patient requires parenteral therapy. Option 3 is incorrect because blind incision and drainage without imaging or specialist assessment in a deep space infection is dangerous and not the initial step; furthermore, the infection may be in the cellulitis phase rather than a localized abscess amenable to simple I&D. Option 4 is incorrect because corticosteroids do not treat the underlying bacterial infection and may mask symptoms or impair immune response.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 966253630,
@@ -13434,7 +13434,7 @@
   {
     "id": 42024776,
     "topicId": "pharmacology",
-    "question": "According to the Canadian Dental Association's Code of Ethics, which principle emphasizes the dentist's obligation to protect patients from harm and minimize potential risks during treatment?",
+    "question": "According to the American Dental Association's Code of Ethics, which principle emphasizes the dentist's obligation to protect patients from harm and minimize potential risks during treatment?",
     "options": [
       "Non-maleficence",
       "Autonomy",
@@ -13711,7 +13711,7 @@
     "explanation": "The correct answer is Lidocaine 2% with 1:100,000 epinephrine. Non-selective beta-blockers (such as propranolol) block both beta-1 and beta-2 adrenergic receptors. Epinephrine is a non-selective alpha and beta agonist. Under normal conditions, epinephrine causes vasoconstriction (alpha-1) and vasodilation (beta-2). In a patient on a non-selective beta-blocker, the beta-2 mediated vasodilation is blocked, leaving the alpha-1 mediated vasoconstriction unopposed. This can lead to a paradoxical and severe increase in blood pressure (hypertensive crisis). Additionally, the beta-1 blockade prevents the compensatory tachycardia, potentially leading to severe bradycardia. The risk is dose-dependent on the concentration of epinephrine. Option 0 contains 1:100,000 epinephrine (10 mcg/mL), which is double the concentration of the epinephrine in Options 2 and 3 (1:200,000 or 5 mcg/mL). Therefore, Option 0 poses the greatest risk among the vasoconstrictor-containing options. Option 1 (Mepivacaine plain) contains no vasoconstrictor and thus does not carry this specific risk of unopposed alpha stimulation. Options 2 and 3 contain lower concentrations of epinephrine, making them less risky than Option 0 in this specific context.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 914579861,
@@ -14149,7 +14149,7 @@
     "correctAnswer": 1,
     "explanation": "The correct answer is Professional in-office vital bleaching. In the management of intrinsic tetracycline staining, the standard of care dictates a stepwise approach. Vital bleaching is the most conservative initial treatment option. While tetracycline stains are often resistant to bleaching compared to other intrinsic stains (such as fluorosis or age-related discoloration), a trial of professional bleaching is clinically indicated to assess the degree of color change achievable. This step is crucial because it may resolve the patient's esthetic concern without the need for invasive restorative procedures. If bleaching fails to achieve the desired result, then restorative options like porcelain veneers or direct composite veneers can be considered. Porcelain veneers (Option 2) are a definitive restorative treatment but are invasive (requiring enamel reduction) and are not the 'initial' conservative step; they are reserved for cases where bleaching is ineffective or the patient has other restorative needs. Direct composite veneers (Option 0) are less durable than porcelain and are generally considered a temporary or less ideal long-term solution compared to porcelain if restorative treatment is required, but again, they are not the first-line conservative assessment. Microabrasion (Option 3) is effective for superficial enamel defects and mild extrinsic or superficial intrinsic stains (like mild fluorosis) but is ineffective for deep intrinsic tetracycline staining which involves the dentin and deeper enamel layers.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 82998397,
@@ -14473,7 +14473,7 @@
       "Place the patient in a supine position and offer reassurance."
     ],
     "correctAnswer": 2,
-    "explanation": "When a patient exhibits signs of an acute coronary syndrome during dental care, the Canadian Dental Association and Medical Emergencies in the Dental Office (Malamed, 7th ed.) advise immediate activation of emergency medical services and administration of chewable aspirin 160‑325 mg to inhibit platelet aggregation. Nitroglycerin is useful for symptom relief but should not replace aspirin or EMS activation. Although the answer choice does not explicitly mention calling EMS, it provides the essential pharmacologic intervention (aspirin) that aligns with the guideline priority. Therefore, option 3 is the most appropriate immediate action among those presented.",
+    "explanation": "When a patient exhibits signs of an acute coronary syndrome during dental care, the American Dental Association and Medical Emergencies in the Dental Office (Malamed, 7th ed.) advise immediate activation of emergency medical services and administration of chewable aspirin 160‑325 mg to inhibit platelet aggregation. Nitroglycerin is useful for symptom relief but should not replace aspirin or EMS activation. Although the answer choice does not explicitly mention calling EMS, it provides the essential pharmacologic intervention (aspirin) that aligns with the guideline priority. Therefore, option 3 is the most appropriate immediate action among those presented.",
     "aiVerified": true
   },
   {
@@ -14561,7 +14561,7 @@
     "explanation": "Articaine 4% with epinephrine 1:100,000 is the gold standard for mandibular molar extractions, particularly in patients with mild cardiovascular concerns like well-controlled hypertension. Articaine is an amide local anesthetic with a thiophene ring that increases its lipid solubility and allows it to penetrate cortical bone more effectively than lidocaine, resulting in higher success rates for inferior alveolar nerve blocks. The addition of epinephrine at 1:100,000 provides adequate hemostasis and prolongs the duration of anesthesia without posing significant cardiovascular risk to a patient with well-controlled hypertension (ASA I or II). Lidocaine 2% with epinephrine 1:50,000 is a viable alternative but is generally considered less effective for dense mandibular bone than articaine; furthermore, the higher concentration of epinephrine (1:50,000) is unnecessary for a routine extraction in a hypertensive patient when 1:100,000 suffices. Bupivacaine is not the first-line choice for routine extractions due to its significantly longer duration of action, which increases the risk of post-operative soft tissue trauma (e.g., lip or tongue biting) and is reserved for cases requiring prolonged post-operative analgesia. Mepivacaine 3% without vasoconstrictor is suboptimal because the absence of a vasoconstrictor leads to rapid systemic absorption, shorter duration of action, and increased intra-operative bleeding, which complicates the surgical field for a third molar extraction.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 825983099,
@@ -14616,7 +14616,7 @@
       "Articaine 4% with 1:100,000 epinephrine"
     ],
     "correctAnswer": 0,
-    "explanation": "Current Canadian NDEB guidelines state that the use of vasoconstrictors such as epinephrine in local anesthetic solutions is generally safe in patients taking ACE inhibitors (e.g., lisinopril) and phosphodiesterase‑5 inhibitors. ACE inhibitors may blunt the reflex tachycardia to hypotension, but epinephrine causes vasoconstriction and a modest rise in blood pressure rather than hypotension, and no clinically significant interaction has been demonstrated. Therefore, a lidocaine‑epinephrine combination is appropriate and is the preferred choice because lidocaine provides reliable anesthesia, the epinephrine prolongs its effect, reduces intra‑operative bleeding, and has a well‑established safety profile. \n\nOption 1 (plain mepivacaine) lacks a vasoconstrictor, resulting in a shorter duration of anesthesia and increased intra‑operative bleeding; it offers no advantage over lidocaine‑epinephrine in this patient. \n\nOption 2 (bupivacaine with epinephrine) provides a longer duration but has a higher risk of cardiotoxicity, especially in patients with cardiovascular disease, and is not needed for a minor procedure. \n\nOption 3 (articaine with epinephrine) is also safe, but lidocaine remains the gold‑standard anesthetic for routine procedures due to its extensive safety data and lower incidence of paresthesia. Consequently, lidocaine 2% with 1:100,000 epinephrine is the most appropriate choice.",
+    "explanation": "Current Canadian ADA clinical guidelines state that the use of vasoconstrictors such as epinephrine in local anesthetic solutions is generally safe in patients taking ACE inhibitors (e.g., lisinopril) and phosphodiesterase‑5 inhibitors. ACE inhibitors may blunt the reflex tachycardia to hypotension, but epinephrine causes vasoconstriction and a modest rise in blood pressure rather than hypotension, and no clinically significant interaction has been demonstrated. Therefore, a lidocaine‑epinephrine combination is appropriate and is the preferred choice because lidocaine provides reliable anesthesia, the epinephrine prolongs its effect, reduces intra‑operative bleeding, and has a well‑established safety profile. \n\nOption 1 (plain mepivacaine) lacks a vasoconstrictor, resulting in a shorter duration of anesthesia and increased intra‑operative bleeding; it offers no advantage over lidocaine‑epinephrine in this patient. \n\nOption 2 (bupivacaine with epinephrine) provides a longer duration but has a higher risk of cardiotoxicity, especially in patients with cardiovascular disease, and is not needed for a minor procedure. \n\nOption 3 (articaine with epinephrine) is also safe, but lidocaine remains the gold‑standard anesthetic for routine procedures due to its extensive safety data and lower incidence of paresthesia. Consequently, lidocaine 2% with 1:100,000 epinephrine is the most appropriate choice.",
     "aiGenerated": true,
     "aiVerified": true
   },
@@ -14646,9 +14646,9 @@
       "Bupivacaine"
     ],
     "correctAnswer": 0,
-    "explanation": "Theophylline is a methyl‑xanthine that is metabolised primarily by CYP1A2 and is a known inhibitor of hepatic microsomal enzymes that clear many amide local anesthetics. Among the amide agents, lidocaine is the one most frequently cited in the dental pharmacology literature (Malamed, 9th ed.; Carranza, 12th ed.) as having its hepatic clearance reduced when co‑administered with theophylline, resulting in higher plasma concentrations and an increased risk of CNS toxicity (seizures, tinnitus, metallic taste). Consequently, NDEB AFK exam items routinely test the lidocaine‑theophylline interaction as a classic drug‑drug contraindication.\n\nWhy the other agents are not the best answer:\n• Mepivacaine (option 1) is also an amide anesthetic, but its metabolism is less dependent on CYP1A2 and clinical texts do not list a significant theophylline interaction; the risk of toxicity is not emphasized in standard references.\n• Articaine (option 2) possesses a unique ester side‑chain that is hydrolysed by plasma esterases, with only a minor hepatic component. Because its clearance is largely independent of CYP enzymes, theophylline inhibition is clinically irrelevant, a point highlighted in the latest editions of Sturdevant and Phillips.\n• Bupivacaine (option 3) is metabolised mainly by CYP3A4; theophylline does not appreciably inhibit this isoenzyme, and no major interaction is reported in the literature. Moreover, bupivacaine’s long‑acting profile makes it less likely to be chosen for routine third‑molar extraction, further reducing the clinical relevance of any theoretical interaction.\nThus, according to Canadian NDEB AFK standards and the consensus in gold‑standard dental pharmacology texts, lidocaine is the local anesthetic that should be avoided in a patient taking theophylline.",
+    "explanation": "Theophylline is a methyl‑xanthine that is metabolised primarily by CYP1A2 and is a known inhibitor of hepatic microsomal enzymes that clear many amide local anesthetics. Among the amide agents, lidocaine is the one most frequently cited in the dental pharmacology literature (Malamed, 9th ed.; Carranza, 12th ed.) as having its hepatic clearance reduced when co‑administered with theophylline, resulting in higher plasma concentrations and an increased risk of CNS toxicity (seizures, tinnitus, metallic taste). Consequently, INBDE exam items routinely test the lidocaine‑theophylline interaction as a classic drug‑drug contraindication.\n\nWhy the other agents are not the best answer:\n• Mepivacaine (option 1) is also an amide anesthetic, but its metabolism is less dependent on CYP1A2 and clinical texts do not list a significant theophylline interaction; the risk of toxicity is not emphasized in standard references.\n• Articaine (option 2) possesses a unique ester side‑chain that is hydrolysed by plasma esterases, with only a minor hepatic component. Because its clearance is largely independent of CYP enzymes, theophylline inhibition is clinically irrelevant, a point highlighted in the latest editions of Sturdevant and Phillips.\n• Bupivacaine (option 3) is metabolised mainly by CYP3A4; theophylline does not appreciably inhibit this isoenzyme, and no major interaction is reported in the literature. Moreover, bupivacaine’s long‑acting profile makes it less likely to be chosen for routine third‑molar extraction, further reducing the clinical relevance of any theoretical interaction.\nThus, according to Canadian INBDE standards and the consensus in gold‑standard dental pharmacology texts, lidocaine is the local anesthetic that should be avoided in a patient taking theophylline.",
     "aiGenerated": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   }
 ]

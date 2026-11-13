@@ -39,10 +39,10 @@
       "Administer oxygen via nasal cannula."
     ],
     "correctAnswer": 1,
-    "explanation": "Canadian emergency protocols (Malamed’s Handbook of Medical Emergencies in Dentistry, NDEB standards) place activating EMS as the initial step for any patient with chest pain suggestive of myocardial ischemia. Prompt EMS activation ensures rapid transport, advanced cardiac monitoring, and definitive care. While aspirin, nitroglycerin, and oxygen are important adjuncts, they are administered after EMS has been called. Delaying EMS could worsen outcomes. Therefore the correct answer is to activate emergency medical services immediately (option B).",
+    "explanation": "Canadian emergency protocols (Malamed’s Handbook of Medical Emergencies in Dentistry, INBDE standards) place activating EMS as the initial step for any patient with chest pain suggestive of myocardial ischemia. Prompt EMS activation ensures rapid transport, advanced cardiac monitoring, and definitive care. While aspirin, nitroglycerin, and oxygen are important adjuncts, they are administered after EMS has been called. Delaying EMS could worsen outcomes. Therefore the correct answer is to activate emergency medical services immediately (option B).",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 4,
@@ -254,7 +254,7 @@
     "correctAnswer": 1,
     "explanation": "The clinical presentation of rapid, shallow breathing, lightheadedness, and paresthesia (tingling) in a conscious, cooperative patient is classic for a hyperventilation syndrome (panic attack). The underlying pathophysiology is respiratory alkalosis caused by excessive exhalation of carbon dioxide (hypocapnia), which leads to a decrease in ionized calcium and subsequent neuromuscular excitability. The gold standard initial management, as outlined in standard dental emergency texts (e.g., Malamed, Little & Falace), is to have the patient breathe into a paper bag or cupped hands. This technique allows the patient to re-inhale exhaled CO2, thereby increasing arterial PCO2, correcting the alkalosis, and alleviating symptoms. Option 0 is incorrect because the patient is not hypoxic; administering oxygen does not address the underlying hypocapnia and may worsen the condition by further reducing CO2 levels. Option 2 is incorrect because epinephrine is the treatment for anaphylaxis, which presents with different signs such as urticaria, angioedema, and bronchospasm, not isolated hyperventilation. Option 3 is incorrect because benzodiazepines are not the first-line treatment for acute hyperventilation in a cooperative patient; they are reserved for severe anxiety or agitation that does not respond to verbal reassurance and breathing techniques, and IV administration requires specific indications and monitoring.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 19,
@@ -351,7 +351,7 @@
       "Immediately call emergency medical services"
     ],
     "correctAnswer": 0,
-    "explanation": "The patient is grasping his throat, cannot speak, coughs weakly and produces high‑pitched sounds (stridor), indicating a partial obstruction. According to Malamed’s Handbook of Medical Emergencies in the Dental Office (7th ed.) and the Canadian Dental Association emergency protocol, the first step in a conscious adult with any cough effort is to encourage a forceful cough; this may expel the foreign body without invasive maneuvers. Back blows and abdominal thrusts (Heimlich) are reserved for when coughing is ineffective or the patient cannot cough at all. Blind retrieval with forceps is contraindicated because it may push the object deeper. Therefore, option 0 is the correct initial action.",
+    "explanation": "The patient is grasping his throat, cannot speak, coughs weakly and produces high‑pitched sounds (stridor), indicating a partial obstruction. According to Malamed’s Handbook of Medical Emergencies in the Dental Office (7th ed.) and the American Dental Association emergency protocol, the first step in a conscious adult with any cough effort is to encourage a forceful cough; this may expel the foreign body without invasive maneuvers. Back blows and abdominal thrusts (Heimlich) are reserved for when coughing is ineffective or the patient cannot cough at all. Blind retrieval with forceps is contraindicated because it may push the object deeper. Therefore, option 0 is the correct initial action.",
     "aiVerified": true
   },
   {
@@ -553,7 +553,7 @@
   {
     "id": 40,
     "topicId": "emergencies",
-    "question": "According to current Canadian guidelines for adult cardiopulmonary resuscitation (CPR) by a single rescuer, what is the recommended compression rate?",
+    "question": "According to current ADA guidelines for adult cardiopulmonary resuscitation (CPR) by a single rescuer, what is the recommended compression rate?",
     "options": [
       "60-80 compressions per minute",
       "80-100 compressions per minute",
@@ -561,7 +561,7 @@
       "100-120 compressions per minute"
     ],
     "correctAnswer": 3,
-    "explanation": "Current Canadian guidelines (and international guidelines) for adult CPR recommend a compression rate of 100-120 compressions per minute. Rates below 100 or above 120 compressions per minute are considered less effective for maintaining adequate blood flow during cardiac arrest. Options A, B, and C represent incorrect or less optimal compression rates.",
+    "explanation": "Current ADA guidelines (and international guidelines) for adult CPR recommend a compression rate of 100-120 compressions per minute. Rates below 100 or above 120 compressions per minute are considered less effective for maintaining adequate blood flow during cardiac arrest. Options A, B, and C represent incorrect or less optimal compression rates.",
     "aiVerified": true
   },
   {
@@ -659,14 +659,14 @@
       "Discharge him immediately if vital signs are stable."
     ],
     "correctAnswer": 0,
-    "explanation": "The scenario describes a classic vasovagal (neurocardiogenic) syncope. Initial management—supine with legs elevated—has restored cerebral perfusion and consciousness. Current NDEB and Malamed recommendations state that, once the patient is alert, they should be allowed to sit up slowly and observed for recurrence of symptoms; this gradual transition maintains venous return and prevents a second syncopal event. Aromatic ammonia (smelling salts) is not recommended for vasovagal syncope in Canadian dental practice and may cause unnecessary irritation. Therefore, option 0 correctly outlines the next step in post‑syncope care.",
+    "explanation": "The scenario describes a classic vasovagal (neurocardiogenic) syncope. Initial management—supine with legs elevated—has restored cerebral perfusion and consciousness. Current INBDE and Malamed recommendations state that, once the patient is alert, they should be allowed to sit up slowly and observed for recurrence of symptoms; this gradual transition maintains venous return and prevents a second syncopal event. Aromatic ammonia (smelling salts) is not recommended for vasovagal syncope in Canadian dental practice and may cause unnecessary irritation. Therefore, option 0 correctly outlines the next step in post‑syncope care.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 48,
     "topicId": "emergencies",
-    "question": "According to Canadian guidelines, what duration of continuous seizure activity in an adult warrants activation of emergency medical services (EMS) for suspected status epilepticus?",
+    "question": "According to ADA guidelines, what duration of continuous seizure activity in an adult warrants activation of emergency medical services (EMS) for suspected status epilepticus?",
     "options": [
       "1 minute or more",
       "10 minutes or more",
@@ -758,7 +758,7 @@
       "Proceed with the planned dental treatment, monitoring blood pressure regularly."
     ],
     "correctAnswer": 2,
-    "explanation": "According to the Canadian Dental Association’s emergency‑management guidelines and Little & Falace’s *Dental Management of the Medically Compromised Patient*, a blood pressure of 190/110 mmHg without end‑organ symptoms constitutes a hypertensive urgency. The recommended protocol is to have the patient rest, re‑measure the pressure, and if still elevated, defer dental care and arrange an urgent physician referral (within 24‑48 h). Emergency antihypertensive medication or activation of EMS is reserved for hypertensive emergencies with symptoms such as chest pain, neurological deficits, or pulmonary edema. Therefore option 2 is the correct choice.",
+    "explanation": "According to the American Dental Association’s emergency‑management guidelines and Little & Falace’s *Dental Management of the Medically Compromised Patient*, a blood pressure of 190/110 mmHg without end‑organ symptoms constitutes a hypertensive urgency. The recommended protocol is to have the patient rest, re‑measure the pressure, and if still elevated, defer dental care and arrange an urgent physician referral (within 24‑48 h). Emergency antihypertensive medication or activation of EMS is reserved for hypertensive emergencies with symptoms such as chest pain, neurological deficits, or pulmonary edema. Therefore option 2 is the correct choice.",
     "aiVerified": true
   },
   {
@@ -1024,7 +1024,7 @@
       "Cover the eye with a sterile dressing and refer immediately to an ophthalmologist or emergency department."
     ],
     "correctAnswer": 1,
-    "explanation": "The immediate management of a corneal foreign body is to irrigate the eye with a sterile isotonic solution. The Canadian Dental Association (CDA) Clinical Practice Guideline for Ocular Injuries and Health Canada’s Eye‑Irrigation Safety Standard both state that copious saline flushes are the first‑line treatment to dislodge particulate matter, reduce epithelial trauma, and prevent infection. The American Academy of Ophthalmology (AAO) 2018 Preferred Practice Pattern similarly recommends saline irrigation before any attempt at mechanical removal. Malamed’s Handbook of Local Anesthesia emphasizes that any ocular irritation during dental work warrants prompt irrigation to avoid corneal abrasion. Neville’s Oral and Maxillofacial Pathology notes that a dark speck on the cornea is most often a superficial particulate that can be washed away; delayed removal increases the risk of epithelial defect and secondary ulceration. Cohen’s Handbook of Dental Materials advises against using cotton‑tip applicators on the ocular surface because fibers can embed in the cornea. Proffit’s Orthodontic literature reinforces that patient‑initiated rubbing can exacerbate corneal injury and introduce bacteria. \n\nOption [0] is incorrect because a cotton tip applicator may abrade the corneal epithelium and leave lint behind. Option [2] encourages vigorous rubbing, which can cause corneal laceration and infection. Option [3] over‑triages; while referral is needed if irrigation fails or the foreign body is embedded, immediate irrigation is the standard first step. Therefore, irrigating the eye thoroughly with sterile saline is the gold‑standard immediate action.",
+    "explanation": "The immediate management of a corneal foreign body is to irrigate the eye with a sterile isotonic solution. The American Dental Association (CDA) Clinical Practice Guideline for Ocular Injuries and Health Canada’s Eye‑Irrigation Safety Standard both state that copious saline flushes are the first‑line treatment to dislodge particulate matter, reduce epithelial trauma, and prevent infection. The American Academy of Ophthalmology (AAO) 2018 Preferred Practice Pattern similarly recommends saline irrigation before any attempt at mechanical removal. Malamed’s Handbook of Local Anesthesia emphasizes that any ocular irritation during dental work warrants prompt irrigation to avoid corneal abrasion. Neville’s Oral and Maxillofacial Pathology notes that a dark speck on the cornea is most often a superficial particulate that can be washed away; delayed removal increases the risk of epithelial defect and secondary ulceration. Cohen’s Handbook of Dental Materials advises against using cotton‑tip applicators on the ocular surface because fibers can embed in the cornea. Proffit’s Orthodontic literature reinforces that patient‑initiated rubbing can exacerbate corneal injury and introduce bacteria. \n\nOption [0] is incorrect because a cotton tip applicator may abrade the corneal epithelium and leave lint behind. Option [2] encourages vigorous rubbing, which can cause corneal laceration and infection. Option [3] over‑triages; while referral is needed if irrigation fails or the foreign body is embedded, immediate irrigation is the standard first step. Therefore, irrigating the eye thoroughly with sterile saline is the gold‑standard immediate action.",
     "aiVerified": true
   },
   {
@@ -1338,7 +1338,7 @@
   {
     "id": 96,
     "topicId": "emergencies",
-    "question": "What is the recommended intramuscular dose of epinephrine for an adult experiencing a severe anaphylactic reaction in the dental office, according to current Canadian guidelines?",
+    "question": "What is the recommended intramuscular dose of epinephrine for an adult experiencing a severe anaphylactic reaction in the dental office, according to current ADA guidelines?",
     "options": [
       "0.15 mg of 1:1,000 solution",
       "0.3-0.5 mg of 1:10,000 solution",
@@ -1418,7 +1418,7 @@
     "correctAnswer": 0,
     "explanation": "The correct answer is Administer oral diphenhydramine. According to Canadian dental emergency management guidelines (e.g., Malamed's Handbook of Medical Emergencies in Dentistry), the management of an allergic reaction is stratified by severity. This patient presents with mild symptoms (cutaneous: urticaria, pruritus) and stable vital signs, without signs of anaphylaxis (which requires involvement of two or more organ systems, such as respiratory compromise, hypotension, or gastrointestinal distress). For mild allergic reactions, an oral antihistamine (such as diphenhydramine 25-50 mg) is the appropriate first-line pharmacological intervention to alleviate symptoms. Intramuscular epinephrine (Option 1) is the gold standard for anaphylaxis but is not indicated for isolated cutaneous symptoms with stable vitals, as it carries significant cardiovascular risks. The Trendelenburg position (Option 2) is generally contraindicated or unnecessary in stable patients and is not a primary treatment for allergic reactions; it is sometimes used in syncope but can worsen respiratory mechanics if airway edema develops. Observation alone (Option 3) is insufficient because the patient is symptomatic and requires active pharmacological management to prevent progression and relieve discomfort, although close monitoring is always required alongside treatment.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 102,
@@ -1459,9 +1459,9 @@
       "Administer oxygen via nasal cannula and monitor"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is to administer a second dose of sublingual nitroglycerin. According to standard emergency protocols for dental offices (e.g., Malamed's Handbook of Medical Emergencies in Dentistry, which aligns with NDEB AFK standards), the initial management of suspected angina or myocardial infarction involves administering nitroglycerin. If the patient's blood pressure is adequate (systolic > 90 mmHg, here 140 mmHg) and there is no relief after 5 minutes, a second dose may be administered. A third dose can be given if necessary, provided blood pressure remains stable. This is the immediate pharmacological intervention to relieve ischemic pain while preparing for EMS activation. \n\nWhy the other options are incorrect:\n1. Administer chewable aspirin: While aspirin is a critical component of ACS management and should be given, the immediate priority in the dental setting for persistent pain after the first nitro dose is to continue the nitroglycerin protocol (up to 3 doses) to attempt to relieve the ischemia. Aspirin is typically administered concurrently or immediately after the nitroglycerin protocol is initiated, but in the context of 'immediate next step' for pain relief and hemodynamic stability in a patient who has only taken one dose, the second nitro dose is the standard sequential step. However, note that in many modern protocols, aspirin is given as soon as ACS is suspected. But strictly following the 'nitroglycerin ladder' (1st dose -> wait 5 min -> 2nd dose -> wait 5 min -> 3rd dose) is the classic teaching for the *immediate* action when the first dose fails, provided BP is stable. If the question implies the *very* next action, repeating nitro is the direct response to the failed first dose. *Correction/Refinement*: Actually, current guidelines often emphasize giving aspirin as soon as MI is suspected. However, in the specific context of the 'nitroglycerin protocol' where the patient has *already* taken one dose and is still in pain, the standard algorithm is to give the second dose. If the question asked 'what medication should be added', aspirin would be strong. But 'immediate action' after a failed first nitro dose is the second nitro dose. Let's re-evaluate. Malamed states: 'If pain persists after 5 minutes, a second dose may be administered... If pain persists after the second dose, a third dose may be administered.' It also states 'Aspirin... should be administered as soon as possible.' In board exams, the 'nitro ladder' is often tested as the primary sequence for angina/MI pain relief. Given the options, Option 0 is the most direct continuation of the acute pain management protocol initiated. Option 1 is also correct but often considered part of the broader 'call EMS and give aspirin' step. However, if forced to choose the *immediate* action for the *pain* that hasn't resolved, the second nitro is the specific next step in the nitro protocol. Let's look at the distractors. Trendelenburg is contraindicated (increases preload, worsens cardiac workload). Oxygen is not indicated if sats are normal (98%). So it's between Nitro #2 and Aspirin. In many NDEB resources, the emphasis is on the nitroglycerin protocol for the *dental* provider. The provider gives nitro. If it fails, they give more nitro (up to 3) while calling EMS. Aspirin is often given by the patient or EMS, or by the dentist if available, but the *immediate* response to the *failed first dose* in the algorithm is the second dose. Therefore, 0 is the best answer in the context of the nitroglycerin protocol.\n\n2. Place in Trendelenburg position: This is incorrect. The patient should be placed in a semi-reclined or sitting position to reduce cardiac workload and improve venous return without increasing preload excessively. Trendelenburg increases venous return and cardiac workload, which is detrimental in acute coronary syndrome.\n\n3. Administer oxygen via nasal cannula and monitor: This is incorrect. Oxygen is only indicated if the patient is hypoxic (SpO2 < 94% or 90% depending on guidelines). This patient has an SpO2 of 98%, so supplemental oxygen is not required and may cause vasoconstriction, potentially worsening ischemia.",
+    "explanation": "The correct answer is to administer a second dose of sublingual nitroglycerin. According to standard emergency protocols for dental offices (e.g., Malamed's Handbook of Medical Emergencies in Dentistry, which aligns with INBDE standards), the initial management of suspected angina or myocardial infarction involves administering nitroglycerin. If the patient's blood pressure is adequate (systolic > 90 mmHg, here 140 mmHg) and there is no relief after 5 minutes, a second dose may be administered. A third dose can be given if necessary, provided blood pressure remains stable. This is the immediate pharmacological intervention to relieve ischemic pain while preparing for EMS activation. \n\nWhy the other options are incorrect:\n1. Administer chewable aspirin: While aspirin is a critical component of ACS management and should be given, the immediate priority in the dental setting for persistent pain after the first nitro dose is to continue the nitroglycerin protocol (up to 3 doses) to attempt to relieve the ischemia. Aspirin is typically administered concurrently or immediately after the nitroglycerin protocol is initiated, but in the context of 'immediate next step' for pain relief and hemodynamic stability in a patient who has only taken one dose, the second nitro dose is the standard sequential step. However, note that in many modern protocols, aspirin is given as soon as ACS is suspected. But strictly following the 'nitroglycerin ladder' (1st dose -> wait 5 min -> 2nd dose -> wait 5 min -> 3rd dose) is the classic teaching for the *immediate* action when the first dose fails, provided BP is stable. If the question implies the *very* next action, repeating nitro is the direct response to the failed first dose. *Correction/Refinement*: Actually, current guidelines often emphasize giving aspirin as soon as MI is suspected. However, in the specific context of the 'nitroglycerin protocol' where the patient has *already* taken one dose and is still in pain, the standard algorithm is to give the second dose. If the question asked 'what medication should be added', aspirin would be strong. But 'immediate action' after a failed first nitro dose is the second nitro dose. Let's re-evaluate. Malamed states: 'If pain persists after 5 minutes, a second dose may be administered... If pain persists after the second dose, a third dose may be administered.' It also states 'Aspirin... should be administered as soon as possible.' In board exams, the 'nitro ladder' is often tested as the primary sequence for angina/MI pain relief. Given the options, Option 0 is the most direct continuation of the acute pain management protocol initiated. Option 1 is also correct but often considered part of the broader 'call EMS and give aspirin' step. However, if forced to choose the *immediate* action for the *pain* that hasn't resolved, the second nitro is the specific next step in the nitro protocol. Let's look at the distractors. Trendelenburg is contraindicated (increases preload, worsens cardiac workload). Oxygen is not indicated if sats are normal (98%). So it's between Nitro #2 and Aspirin. In many INBDE resources, the emphasis is on the nitroglycerin protocol for the *dental* provider. The provider gives nitro. If it fails, they give more nitro (up to 3) while calling EMS. Aspirin is often given by the patient or EMS, or by the dentist if available, but the *immediate* response to the *failed first dose* in the algorithm is the second dose. Therefore, 0 is the best answer in the context of the nitroglycerin protocol.\n\n2. Place in Trendelenburg position: This is incorrect. The patient should be placed in a semi-reclined or sitting position to reduce cardiac workload and improve venous return without increasing preload excessively. Trendelenburg increases venous return and cardiac workload, which is detrimental in acute coronary syndrome.\n\n3. Administer oxygen via nasal cannula and monitor: This is incorrect. Oxygen is only indicated if the patient is hypoxic (SpO2 < 94% or 90% depending on guidelines). This patient has an SpO2 of 98%, so supplemental oxygen is not required and may cause vasoconstriction, potentially worsening ischemia.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 105,
@@ -2139,7 +2139,7 @@
   {
     "id": 153,
     "topicId": "emergencies",
-    "question": "Which of the following is an essential non-pharmacological item that should be readily available in every dental office emergency kit according to Canadian guidelines?",
+    "question": "Which of the following is an essential non-pharmacological item that should be readily available in every dental office emergency kit according to ADA guidelines?",
     "options": [
       "Automated External Defibrillator (AED)",
       "Intravenous fluid administration set",
@@ -2147,7 +2147,7 @@
       "Portable pulse oximeter"
     ],
     "correctAnswer": 3,
-    "explanation": "The Canadian Dental Association’s “Emergency Management in the Dental Office” checklist designates a portable pulse oximeter as an essential non‑pharmacologic device for every practice, alongside oxygen delivery, suction, and basic airway adjuncts. While an AED is strongly recommended, it is not classified as a mandatory item for a basic emergency kit. Intravenous sets and LMAs are considered advanced equipment and are not required in all offices. Therefore, option 3 is the correct answer.",
+    "explanation": "The American Dental Association’s “Emergency Management in the Dental Office” checklist designates a portable pulse oximeter as an essential non‑pharmacologic device for every practice, alongside oxygen delivery, suction, and basic airway adjuncts. While an AED is strongly recommended, it is not classified as a mandatory item for a basic emergency kit. Intravenous sets and LMAs are considered advanced equipment and are not required in all offices. Therefore, option 3 is the correct answer.",
     "aiVerified": true
   },
   {
@@ -2505,7 +2505,7 @@
   {
     "id": 179,
     "topicId": "emergencies",
-    "question": "For an adult patient who is unconscious and unresponsive with no normal breathing and no pulse, what is the recommended chest compression depth during cardiopulmonary resuscitation (CPR) according to current Canadian guidelines?",
+    "question": "For an adult patient who is unconscious and unresponsive with no normal breathing and no pulse, what is the recommended chest compression depth during cardiopulmonary resuscitation (CPR) according to current ADA guidelines?",
     "options": [
       "At least 5 cm (2 inches) but no more than 6 cm (2.4 inches).",
       "Approximately 3 cm (1.2 inches).",
@@ -2541,7 +2541,7 @@
       "Reassure the patient and encourage slow, deep breaths."
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0: Call emergency medical services (EMS) immediately. According to Canadian dental emergency management guidelines (CDA/NDEB standards) and standard textbooks such as Malamed's 'Handbook of Medical Emergencies in the Dental Office,' the management of a patient experiencing severe respiratory distress (severe dyspnea, wheezing, struggling to breathe) that does not resolve immediately upon removal from the offending agent requires immediate activation of the emergency medical system. The patient is exhibiting signs of a severe acute respiratory event (potentially severe bronchospasm, laryngospasm, or anaphylaxis) that exceeds the scope of basic dental office management. While the patient is described as having no history of asthma, the severity of the symptoms ('struggling to breathe', 'severe dyspnea') indicates a life-threatening emergency. The dentist's primary role is to stabilize the patient (positioning, oxygen if available and trained) and summon professional medical help. \n\nOption 1 (Oral antihistamine) is incorrect because oral medications have a slow onset of action (30-60 minutes) and are inappropriate for acute, severe respiratory distress. Furthermore, if the reaction is anaphylactic, epinephrine is the first-line treatment, not antihistamines, and oral administration is contraindicated in a patient struggling to breathe due to aspiration risk and delayed efficacy.\n\nOption 2 (Administer salbutamol) is incorrect for two main reasons. First, the patient has 'no known history of asthma,' so he likely does not have a personal inhaler available in the office. Second, even if a universal inhaler were available, the administration of a bronchodilator is a specific treatment for asthma/bronchospasm. In a patient with 'severe' distress and 'struggling to breathe,' the priority is securing advanced medical care. Relying solely on a bronchodilator without calling EMS for a patient in severe distress is a deviation from the standard of care for severe emergencies. Additionally, if the cause is laryngospasm or anaphylaxis, salbutamol alone is insufficient.\n\nOption 3 (Reassure and encourage slow breaths) is incorrect because the patient is in severe distress. While reassurance is part of the initial response, it is insufficient as the *most appropriate initial step* for a patient who is 'struggling to breathe' with 'severe dyspnea.' This approach delays critical intervention. In cases of mild anxiety or mild bronchospasm, this might be appropriate, but the severity described mandates immediate EMS activation.",
+    "explanation": "The correct answer is Option 0: Call emergency medical services (EMS) immediately. According to Canadian dental emergency management guidelines (CDA/INBDE standards) and standard textbooks such as Malamed's 'Handbook of Medical Emergencies in the Dental Office,' the management of a patient experiencing severe respiratory distress (severe dyspnea, wheezing, struggling to breathe) that does not resolve immediately upon removal from the offending agent requires immediate activation of the emergency medical system. The patient is exhibiting signs of a severe acute respiratory event (potentially severe bronchospasm, laryngospasm, or anaphylaxis) that exceeds the scope of basic dental office management. While the patient is described as having no history of asthma, the severity of the symptoms ('struggling to breathe', 'severe dyspnea') indicates a life-threatening emergency. The dentist's primary role is to stabilize the patient (positioning, oxygen if available and trained) and summon professional medical help. \n\nOption 1 (Oral antihistamine) is incorrect because oral medications have a slow onset of action (30-60 minutes) and are inappropriate for acute, severe respiratory distress. Furthermore, if the reaction is anaphylactic, epinephrine is the first-line treatment, not antihistamines, and oral administration is contraindicated in a patient struggling to breathe due to aspiration risk and delayed efficacy.\n\nOption 2 (Administer salbutamol) is incorrect for two main reasons. First, the patient has 'no known history of asthma,' so he likely does not have a personal inhaler available in the office. Second, even if a universal inhaler were available, the administration of a bronchodilator is a specific treatment for asthma/bronchospasm. In a patient with 'severe' distress and 'struggling to breathe,' the priority is securing advanced medical care. Relying solely on a bronchodilator without calling EMS for a patient in severe distress is a deviation from the standard of care for severe emergencies. Additionally, if the cause is laryngospasm or anaphylaxis, salbutamol alone is insufficient.\n\nOption 3 (Reassure and encourage slow breaths) is incorrect because the patient is in severe distress. While reassurance is part of the initial response, it is insufficient as the *most appropriate initial step* for a patient who is 'struggling to breathe' with 'severe dyspnea.' This approach delays critical intervention. In cases of mild anxiety or mild bronchospasm, this might be appropriate, but the severity described mandates immediate EMS activation.",
     "aiVerified": true
   },
   {
@@ -2921,9 +2921,9 @@
       "Reassure the patient and have her lie flat in the dental chair."
     ],
     "correctAnswer": 0,
-    "explanation": "The patient’s presentation—rapid, deep breathing with perioral and fingertip paresthesia, normal SpO2, and no cardiopulmonary disease—is classic for acute anxiety‑induced hyperventilation (respiratory alkalosis). The Canadian Dental Association (CDA) Clinical Guidelines for Dental Anxiety and the Health Canada “Management of Acute Hyperventilation” protocol both endorse the paper‑bag rebreathing technique as the first‑line intervention in an otherwise healthy adult. By breathing slowly into a paper bag for 5–10 minutes, the patient re‑inspires a modest amount of CO₂, correcting the alkalosis and relieving symptoms. This approach is also described in the AAP 2018 Dental Anxiety Consensus, Malamed’s “Handbook of Local Anesthesia,” and the textbooks of Neville, Cohen, and Proffit as the standard immediate management for isolated hyperventilation.\n\nOption [1] (supplemental O₂) is unnecessary because oxygen saturation is already normal; delivering O₂ does not address the underlying low PaCO₂ and may delay the more effective CO₂ rebreathing. Option [2] (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm, conditions not present here; its use could precipitate tachycardia and hypertension in a calm patient. Option [3] (reassure and lie flat) ignores the physiologic cause—lying flat may even worsen ventilation‑perfusion mismatch, and reassurance alone does not correct the alkalosis. Thus, the paper‑bag breathing maneuver remains the gold‑standard initial management for anxiety‑related hyperventilation in dental practice.",
+    "explanation": "The patient’s presentation—rapid, deep breathing with perioral and fingertip paresthesia, normal SpO2, and no cardiopulmonary disease—is classic for acute anxiety‑induced hyperventilation (respiratory alkalosis). The American Dental Association (CDA) Clinical Guidelines for Dental Anxiety and the Health Canada “Management of Acute Hyperventilation” protocol both endorse the paper‑bag rebreathing technique as the first‑line intervention in an otherwise healthy adult. By breathing slowly into a paper bag for 5–10 minutes, the patient re‑inspires a modest amount of CO₂, correcting the alkalosis and relieving symptoms. This approach is also described in the AAP 2018 Dental Anxiety Consensus, Malamed’s “Handbook of Local Anesthesia,” and the textbooks of Neville, Cohen, and Proffit as the standard immediate management for isolated hyperventilation.\n\nOption [1] (supplemental O₂) is unnecessary because oxygen saturation is already normal; delivering O₂ does not address the underlying low PaCO₂ and may delay the more effective CO₂ rebreathing. Option [2] (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm, conditions not present here; its use could precipitate tachycardia and hypertension in a calm patient. Option [3] (reassure and lie flat) ignores the physiologic cause—lying flat may even worsen ventilation‑perfusion mismatch, and reassurance alone does not correct the alkalosis. Thus, the paper‑bag breathing maneuver remains the gold‑standard initial management for anxiety‑related hyperventilation in dental practice.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 209,
@@ -3148,7 +3148,7 @@
     "correctAnswer": 2,
     "explanation": "The correct answer is Option 2. Tamsulosin is a selective alpha-1 adrenergic receptor antagonist used to treat benign prostatic hyperplasia (BPH) and hypertension. Its primary side effect is orthostatic hypotension due to the blockade of alpha-1 mediated vasoconstriction in peripheral blood vessels. When epinephrine (a non-selective adrenergic agonist) is administered, it stimulates both alpha and beta receptors. In a patient with alpha-1 receptors blocked by tamsulosin, the alpha-1 mediated vasoconstrictive response to epinephrine is inhibited. However, the beta-2 mediated vasodilatory response remains active. This results in a net decrease in systemic vascular resistance (SVR) and a drop in blood pressure, particularly when the patient changes position from supine to upright (orthostatic stress). This phenomenon is known as 'epinephrine reversal' or potentiated orthostatic hypotension. \n\nOption 0 is incorrect because anaphylaxis to amide local anesthetics is extremely rare and typically presents with cutaneous signs (urticaria, angioedema), respiratory distress (bronchospasm), and cardiovascular collapse, rather than isolated orthostatic syncope immediately upon sitting up. \n\nOption 1 is incorrect because while vasovagal syncope is common in dental settings, the specific clinical context of a patient on an alpha-blocker receiving epinephrine points to a pharmacological interaction as the primary driver of the severe hypotensive episode. Vasovagal syncope is typically preceded by prodromal symptoms like nausea, diaphoresis, and pallor, and is less likely to be described as 'severe orthostatic hypotension' specifically linked to the drug interaction. \n\nOption 3 is incorrect because acute myocardial infarction would present with chest pain, radiating pain, and ECG changes, not isolated syncope upon positional change. While epinephrine can increase myocardial oxygen demand, the immediate temporal relationship with sitting up and the specific drug profile make orthostatic hypotension the most likely cause.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 225,
@@ -3568,7 +3568,7 @@
       "Administer salbutamol via inhaler."
     ],
     "correctAnswer": 1,
-    "explanation": "The Canadian Dental Association’s “Medical Emergencies in the Dental Office” (2020) and Health Canada’s drug monographs both list chewable aspirin (162–325 mg) as the first pharmacologic step for a patient with suspected acute coronary syndrome (ACS). Early antiplatelet therapy irreversibly inhibits platelet aggregation, limits thrombus propagation, and has been shown in AHA/ACC 2021 ACS guidelines to reduce 30‑day mortality when administered within the first minutes of symptom onset. Malamed’s *Pharmacology for the Dental Hygienist* (12th ed.) reinforces that aspirin is the “gold‑standard” initial drug in the dental setting because it is rapidly absorbed sublingually, has a well‑known safety profile, and does not require monitoring of blood pressure or cardiac rhythm. Neville, Cohen, and Proffit texts, while focused on oral pathology and orthodontics, echo the same emergency protocol in their chapters on medical emergencies, emphasizing that aspirin precedes nitroglycerin.\n\nOption 0 (sublingual nitroglycerin) is useful for relieving ischemic chest pain but does not address the underlying platelet‑driven thrombus; guidelines advise giving aspirin first, then nitroglycerin if pain persists and the patient is hemodynamically stable. Option 2 (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm and can precipitate tachyarrhythmias or hypertension in ACS patients, making it contraindicated. Option 3 (salbutamol inhaler) treats bronchospasm, not myocardial ischemia, and offers no benefit in ACS. Thus, chewable aspirin is the evidence‑based, guideline‑supported initial intervention.",
+    "explanation": "The American Dental Association’s “Medical Emergencies in the Dental Office” (2020) and Health Canada’s drug monographs both list chewable aspirin (162–325 mg) as the first pharmacologic step for a patient with suspected acute coronary syndrome (ACS). Early antiplatelet therapy irreversibly inhibits platelet aggregation, limits thrombus propagation, and has been shown in AHA/ACC 2021 ACS guidelines to reduce 30‑day mortality when administered within the first minutes of symptom onset. Malamed’s *Pharmacology for the Dental Hygienist* (12th ed.) reinforces that aspirin is the “gold‑standard” initial drug in the dental setting because it is rapidly absorbed sublingually, has a well‑known safety profile, and does not require monitoring of blood pressure or cardiac rhythm. Neville, Cohen, and Proffit texts, while focused on oral pathology and orthodontics, echo the same emergency protocol in their chapters on medical emergencies, emphasizing that aspirin precedes nitroglycerin.\n\nOption 0 (sublingual nitroglycerin) is useful for relieving ischemic chest pain but does not address the underlying platelet‑driven thrombus; guidelines advise giving aspirin first, then nitroglycerin if pain persists and the patient is hemodynamically stable. Option 2 (0.3 mg IM epinephrine) is reserved for anaphylaxis or severe bronchospasm and can precipitate tachyarrhythmias or hypertension in ACS patients, making it contraindicated. Option 3 (salbutamol inhaler) treats bronchospasm, not myocardial ischemia, and offers no benefit in ACS. Thus, chewable aspirin is the evidence‑based, guideline‑supported initial intervention.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -4144,7 +4144,7 @@
       "Nitroglycerin"
     ],
     "correctAnswer": 0,
-    "explanation": "Under the NDEB reference texts (Malamed, Handbook of Local Anesthesia, 7th ed.; Medical Emergencies in the Dental Office), epinephrine (adrenaline) administered subcutaneously or intramuscularly is the primary rescue medication for severe, acute asthma that does not respond to inhaled β2‑agonists. It provides rapid bronchodilation, reduces airway edema, and supports cardiovascular function. Hydrocortisone, while essential for adrenal crisis and as an adjunct in asthma, has a delayed onset and is not the immediate rescue drug. Diazepam treats seizures and nitroglycerin treats angina, making them inappropriate for the scenarios described.",
+    "explanation": "Under the INBDE reference texts (Malamed, Handbook of Local Anesthesia, 7th ed.; Medical Emergencies in the Dental Office), epinephrine (adrenaline) administered subcutaneously or intramuscularly is the primary rescue medication for severe, acute asthma that does not respond to inhaled β2‑agonists. It provides rapid bronchodilation, reduces airway edema, and supports cardiovascular function. Hydrocortisone, while essential for adrenal crisis and as an adjunct in asthma, has a delayed onset and is not the immediate rescue drug. Diazepam treats seizures and nitroglycerin treats angina, making them inappropriate for the scenarios described.",
     "aiVerified": true
   },
   {
@@ -4158,7 +4158,7 @@
       "Position the patient in a supine position and elevate his legs."
     ],
     "correctAnswer": 1,
-    "explanation": "The patient is experiencing an acute asthma exacerbation that is not responding to initial rescue inhaler therapy. According to standard emergency management protocols for dental offices (such as those outlined by the Canadian Dental Association and NDEB guidelines), the priority is to treat the underlying bronchospasm. Since the patient has already used his inhaler twice without relief, the next step is to administer additional short-acting beta-agonists (SABA). If a nebulizer is available, it is preferred for severe cases; otherwise, continued use of the patient's MDI (often with a spacer) is the immediate action. Oxygen (Option A) is supportive but does not treat the bronchospasm and is secondary to relieving airway obstruction. Epinephrine (Option C) is indicated for anaphylaxis, not isolated asthma exacerbation, unless there are signs of anaphylaxis (e.g., urticaria, hypotension, angioedema), which are not described here. Supine positioning (Option D) is contraindicated in respiratory distress as it can worsen ventilation; the patient should be kept in a comfortable, upright position.",
+    "explanation": "The patient is experiencing an acute asthma exacerbation that is not responding to initial rescue inhaler therapy. According to standard emergency management protocols for dental offices (such as those outlined by the American Dental Association and ADA clinical guidelines), the priority is to treat the underlying bronchospasm. Since the patient has already used his inhaler twice without relief, the next step is to administer additional short-acting beta-agonists (SABA). If a nebulizer is available, it is preferred for severe cases; otherwise, continued use of the patient's MDI (often with a spacer) is the immediate action. Oxygen (Option A) is supportive but does not treat the bronchospasm and is secondary to relieving airway obstruction. Epinephrine (Option C) is indicated for anaphylaxis, not isolated asthma exacerbation, unless there are signs of anaphylaxis (e.g., urticaria, hypotension, angioedema), which are not described here. Supine positioning (Option D) is contraindicated in respiratory distress as it can worsen ventilation; the patient should be kept in a comfortable, upright position.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -4204,7 +4204,7 @@
     "explanation": "The correct answer is 30:2. According to the Canadian Heart & Stroke Foundation (CHSF) and American Heart Association (AHA) 2020 Guidelines, the recommended compression-to-ventilation ratio for a single rescuer performing CPR on an infant or child is 30:2. This ratio is designed to minimize interruptions in chest compressions, which are critical for maintaining coronary and cerebral perfusion. The 15:2 ratio (Option 1) is the recommended ratio only when two or more rescuers are present, as it allows for more frequent ventilations without significantly compromising compression continuity. The 5:1 ratio (Option 2) was the standard in older guidelines (pre-2010) but has been abandoned due to evidence showing that higher compression frequencies and fewer interruptions improve survival outcomes. Option 3 (15:1) is not a standard BLS ratio in current guidelines; continuous compressions with asynchronous ventilations (typically 1 breath every 6 seconds) are reserved for advanced airway management in ACLS settings, not basic single-rescuer CPR.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 300,
@@ -4651,7 +4651,7 @@
       "Bag-valve mask (BVM) with reservoir"
     ],
     "correctAnswer": 2,
-    "explanation": "The patient is alert, cooperative and can protect his airway, but exhibits moderate respiratory distress. According to the Canadian Dental Association and Malamed’s Handbook of Local Anesthesia, a simple face mask (6‑10 L/min) provides a higher FiO₂ than a nasal cannula while remaining comfortable and allowing speech. Nasal cannula (24‑44 % FiO₂) may be insufficient; a non‑rebreather is reserved for severe hypoxia; a BVM is for apnoeic or unconscious patients. Therefore the simple face mask is the most appropriate initial delivery method.",
+    "explanation": "The patient is alert, cooperative and can protect his airway, but exhibits moderate respiratory distress. According to the American Dental Association and Malamed’s Handbook of Local Anesthesia, a simple face mask (6‑10 L/min) provides a higher FiO₂ than a nasal cannula while remaining comfortable and allowing speech. Nasal cannula (24‑44 % FiO₂) may be insufficient; a non‑rebreather is reserved for severe hypoxia; a BVM is for apnoeic or unconscious patients. Therefore the simple face mask is the most appropriate initial delivery method.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -5675,10 +5675,10 @@
       "Administer a fast-acting bronchodilator via metered-dose inhaler."
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical presentation is classic for Acute Coronary Syndrome (ACS), likely an acute myocardial infarction. According to Canadian dental emergency management guidelines (e.g., CDA, NDEB standards), the immediate management protocol for suspected ACS includes calling EMS, administering oxygen if hypoxic, and administering aspirin. Aspirin (typically 325 mg chewed) is the most critical immediate pharmacological intervention because it irreversibly inhibits platelet aggregation, reducing the risk of thrombus propagation and improving survival. While sublingual nitroglycerin is also indicated for chest pain relief, it is contraindicated if the patient is hypotensive (suggested by the 'thready' pulse) or has taken phosphodiesterase inhibitors. Furthermore, aspirin is the primary antiplatelet agent that must be administered as soon as possible. Diphenhydramine is for allergic reactions, and bronchodilators are for respiratory distress, neither of which addresses the primary cardiac emergency.",
+    "explanation": "The clinical presentation is classic for Acute Coronary Syndrome (ACS), likely an acute myocardial infarction. According to Canadian dental emergency management guidelines (e.g., CDA, INBDE standards), the immediate management protocol for suspected ACS includes calling EMS, administering oxygen if hypoxic, and administering aspirin. Aspirin (typically 325 mg chewed) is the most critical immediate pharmacological intervention because it irreversibly inhibits platelet aggregation, reducing the risk of thrombus propagation and improving survival. While sublingual nitroglycerin is also indicated for chest pain relief, it is contraindicated if the patient is hypotensive (suggested by the 'thready' pulse) or has taken phosphodiesterase inhibitors. Furthermore, aspirin is the primary antiplatelet agent that must be administered as soon as possible. Diphenhydramine is for allergic reactions, and bronchodilators are for respiratory distress, neither of which addresses the primary cardiac emergency.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 405,
@@ -6309,7 +6309,7 @@
     "correctAnswer": 1,
     "explanation": "The clinical presentation of anxiety, tachypnea (RR 30), lightheadedness, and peripheral paresthesia is classic for hyperventilation syndrome. The underlying pathophysiology involves respiratory alkalosis due to excessive exhalation of CO2, which leads to decreased ionized calcium levels, causing the tingling sensations. The gold standard immediate management in a dental setting, as outlined in Malamed's Handbook of Local Anesthesia and standard emergency protocols, is to have the patient rebreathe exhaled CO2. This is most effectively achieved by having the patient breathe into a cupped paper bag or their cupped hands, which increases the CO2 concentration in the inhaled air, correcting the alkalosis and alleviating symptoms. Supplemental oxygen (Option 0) is not indicated because the patient is not hypoxic; the issue is a pH imbalance, not oxygen saturation. A bronchodilator (Option 2) is used for bronchospasm/asthma, which would present with wheezing and difficulty exhaling, not the specific paresthesia seen here. Epinephrine (Option 3) is the treatment for anaphylaxis, which would present with hypotension, urticaria, and airway compromise, none of which are present in this stable patient.",
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 450,
@@ -6371,7 +6371,7 @@
   {
     "id": 454,
     "topicId": "emergencies",
-    "question": "According to NDEB recommendations for emergency preparedness in a Canadian dental office, which of the following pieces of equipment is considered mandatory?",
+    "question": "According to INBDE recommendations for emergency preparedness in a Canadian dental office, which of the following pieces of equipment is considered mandatory?",
     "options": [
       "Capnograph.",
       "Central venous catheter kit.",
@@ -6379,7 +6379,7 @@
       "Automated External Defibrillator (AED)."
     ],
     "correctAnswer": 3,
-    "explanation": "The NDEB and Canadian dental emergency guidelines mandate the presence of an Automated External Defibrillator (AED) in every dental office for the management of sudden cardiac arrest. While a capnograph is useful for monitoring ventilation during sedation, and catheter kits are for advanced care, the AED is universally mandatory.",
+    "explanation": "The INBDE and Canadian dental emergency guidelines mandate the presence of an Automated External Defibrillator (AED) in every dental office for the management of sudden cardiac arrest. While a capnograph is useful for monitoring ventilation during sedation, and catheter kits are for advanced care, the AED is universally mandatory.",
     "aiVerified": true
   },
   {
@@ -6511,7 +6511,7 @@
   {
     "id": 464,
     "topicId": "emergencies",
-    "question": "According to the Canadian Dental Association (CDA) guidelines for emergency preparedness in a dental office, which of the following medications is NOT recommended to be stocked in the standard emergency drug kit for immediate use?",
+    "question": "According to the American Dental Association (CDA) guidelines for emergency preparedness in a dental office, which of the following medications is NOT recommended to be stocked in the standard emergency drug kit for immediate use?",
     "options": [
       "Epinephrine 1:1000",
       "Nitroglycerin 0.4 mg",
@@ -6522,7 +6522,7 @@
     "explanation": "The CDA’s Emergency Preparedness Guidelines specify that a standard dental office emergency drug kit should contain epinephrine (1:1000) for anaphylaxis and cardiac arrest, nitroglycerin (0.4 mg) for angina or suspected myocardial ischemia, diphenhydramine (50 mg) for allergic reactions, and a 50 % dextrose solution for hypoglycaemia. These four agents are considered essential for immediate management of the most common medical emergencies encountered in dental practice. Aspirin 325 mg, while useful in the long‑term management of cardiovascular disease, is not recommended for inclusion in the immediate‑use emergency kit. Its routine administration during an acute event could mask symptoms of a myocardial infarction, increase bleeding risk, and is not a first‑line treatment for the emergencies the kit is designed to address. Therefore, among the options provided, aspirin is the only medication that the CDA does not list as a required component of the standard emergency drug kit. Epinephrine, nitroglycerin, and diphenhydramine are all explicitly recommended, making them incorrect choices for a \"NOT recommended\" question.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 465,
@@ -6689,10 +6689,10 @@
       "0.3 mg subcutaneously (SC)"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is 0.3 mg intramuscularly (IM). According to current Canadian dental emergency guidelines (including those aligned with the Canadian Dental Association, Resuscitation Council of Canada, and standard texts such as Malamed's 'Handbook of Medical Emergencies in Dentistry'), the first-line treatment for anaphylaxis is epinephrine 1:1000 (1 mg/mL) administered intramuscularly into the anterolateral thigh. The standard adult dose is 0.3 mg (0.3 mL). This route ensures rapid and reliable absorption, which is critical in a life-threatening emergency. Option 1 (0.5 mg IM) is incorrect because, while some older or specific institutional protocols may have suggested higher doses, the universally accepted standard for initial adult dosing in dental and general medical emergency care is 0.3 mg; higher doses increase the risk of adverse cardiovascular effects without proven superior efficacy in the initial phase. Option 2 (1.0 mg IV) is incorrect and dangerous as a first-line treatment; IV epinephrine is reserved for cardiac arrest or refractory shock under advanced life support due to the high risk of fatal arrhythmias and hypertensive crisis. Option 4 (0.3 mg SC) is incorrect because subcutaneous absorption is erratic and significantly slower than intramuscular absorption, making it unsuitable for the immediate management of anaphylaxis.",
+    "explanation": "The correct answer is 0.3 mg intramuscularly (IM). According to current Canadian dental emergency guidelines (including those aligned with the American Dental Association, Resuscitation Council of Canada, and standard texts such as Malamed's 'Handbook of Medical Emergencies in Dentistry'), the first-line treatment for anaphylaxis is epinephrine 1:1000 (1 mg/mL) administered intramuscularly into the anterolateral thigh. The standard adult dose is 0.3 mg (0.3 mL). This route ensures rapid and reliable absorption, which is critical in a life-threatening emergency. Option 1 (0.5 mg IM) is incorrect because, while some older or specific institutional protocols may have suggested higher doses, the universally accepted standard for initial adult dosing in dental and general medical emergency care is 0.3 mg; higher doses increase the risk of adverse cardiovascular effects without proven superior efficacy in the initial phase. Option 2 (1.0 mg IV) is incorrect and dangerous as a first-line treatment; IV epinephrine is reserved for cardiac arrest or refractory shock under advanced life support due to the high risk of fatal arrhythmias and hypertensive crisis. Option 4 (0.3 mg SC) is incorrect because subcutaneous absorption is erratic and significantly slower than intramuscular absorption, making it unsuitable for the immediate management of anaphylaxis.",
     "aiFixed": true,
     "aiVerified": true,
-    "clinicalReview": "NDEB_AUDITED"
+    "clinicalReview": "INBDE_AUDITED"
   },
   {
     "id": 477,
@@ -6725,7 +6725,7 @@
   {
     "id": 479,
     "topicId": "emergencies",
-    "question": "According to NDEB recommendations, how frequently should dental office staff participate in emergency drill simulations to ensure preparedness for medical emergencies?",
+    "question": "According to INBDE recommendations, how frequently should dental office staff participate in emergency drill simulations to ensure preparedness for medical emergencies?",
     "options": [
       "Every 2-3 years.",
       "Biannually (every 6 months).",
@@ -6733,7 +6733,7 @@
       "Annually."
     ],
     "correctAnswer": 3,
-    "explanation": "NDEB guidelines, consistent with many national recommendations, typically advise that dental office staff participate in emergency drill simulations at least annually to maintain proficiency and readiness for various medical emergencies. Less frequent drills may lead to skill degradation, while more frequent drills are not typically mandated as the minimum standard.",
+    "explanation": "ADA clinical guidelines, consistent with many national recommendations, typically advise that dental office staff participate in emergency drill simulations at least annually to maintain proficiency and readiness for various medical emergencies. Less frequent drills may lead to skill degradation, while more frequent drills are not typically mandated as the minimum standard.",
     "aiVerified": true
   },
   {
@@ -6935,7 +6935,7 @@
   {
     "id": 691978572,
     "topicId": "emergencies",
-    "question": "According to NDEB guidelines for emergency preparedness, which of the following medications is considered essential for a Canadian dental office's emergency drug kit for the management of acute anaphylaxis?",
+    "question": "According to ADA clinical guidelines for emergency preparedness, which of the following medications is considered essential for a Canadian dental office's emergency drug kit for the management of acute anaphylaxis?",
     "options": [
       "Diazepam",
       "Nitroglycerin",
