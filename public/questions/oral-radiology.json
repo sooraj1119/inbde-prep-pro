@@ -16,7 +16,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -38,7 +38,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -60,7 +60,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -82,7 +82,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -104,7 +104,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -126,7 +126,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -142,14 +142,14 @@
       "A distinct, corticated border."
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is a diameter exceeding 1 cm. While radiographic features alone cannot definitively distinguish between a periapical cyst and a periapical granuloma (histopathology is the gold standard), size is the most significant radiographic predictor. Periapical cysts are typically larger than granulomas, with a mean diameter often exceeding 1 cm, whereas granulomas are generally smaller. A distinct, corticated border (Option 3) is a feature of both cysts and granulomas, as both are encapsulated lesions, making it non-discriminatory. Resorption of adjacent tooth roots (Option 1) can occur with both entities due to pressure or inflammatory mediators and is not specific to cysts. The presence of a continuous radiopaque lamina dura (Option 0) is incorrect because periapical pathology, whether cystic or granulomatous, typically results in the destruction or loss of the lamina dura at the apex of the affected tooth.",
+    "explanation": "The correct answer is Option C (A diameter exceeding 1 cm). While radiographic features alone cannot definitively distinguish between a periapical cyst and a periapical granuloma (histopathology is the gold standard), size is the most significant radiographic predictor. Periapical cysts are typically larger than granulomas, with a mean diameter often exceeding 1 cm, whereas granulomas are generally smaller. A distinct, corticated border (Option D) is a feature of both cysts and granulomas, as both are encapsulated lesions, making it non-discriminatory. Resorption of adjacent tooth roots (Option B) can occur with both entities due to pressure or inflammatory mediators and is not specific to cysts. The presence of a continuous radiopaque lamina dura (Option A) is incorrect because periapical pathology, whether cystic or granulomatous, typically results in the destruction or loss of the lamina dura at the apex of the affected tooth.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.915Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -171,7 +171,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -193,7 +193,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -215,7 +215,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -237,7 +237,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -259,7 +259,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -281,7 +281,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -303,7 +303,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -325,7 +325,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -347,7 +347,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -369,7 +369,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -391,7 +391,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -413,7 +413,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -435,7 +435,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -457,7 +457,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -479,7 +479,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -501,7 +501,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -524,7 +524,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -546,7 +546,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -568,7 +568,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -590,7 +590,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -612,7 +612,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -634,7 +634,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -656,7 +656,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -678,7 +678,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -700,7 +700,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -722,7 +722,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -744,7 +744,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -766,7 +766,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -782,7 +782,7 @@
       "Lateral cephalometric radiograph"
     ],
     "correctAnswer": 2,
-    "explanation": "The Transcranial (Schuller) view is the gold standard extraoral radiographic projection for evaluating the morphology of the mandibular condyle and its relationship to the glenoid fossa (mandibular fossa). This view projects the condyle through the orbit, providing a clear, undistorted image of the condylar head, neck, and the articular eminence, which is essential for diagnosing degenerative joint disease, condylar resorption, or positional abnormalities. The Panoramic radiograph (Option 0) is a useful screening tool but is subject to significant distortion of the condyles due to the curvature of the focal trough and superimposition of the zygomatic arches, making it less reliable for detailed morphological assessment. The Reverse Towne projection (Option 1) is primarily indicated for the evaluation of condylar fractures and trauma, as it visualizes the condyles in relation to the skull base but does not provide the same detailed view of the glenoid fossa relationship as the transcranial view. The Lateral cephalometric radiograph (Option 3) is used for orthodontic and orthognathic planning to assess skeletal relationships and does not provide the detailed anatomical detail of the condylar head morphology required for diagnosing TMJ pathology.",
+    "explanation": "The Transcranial (Schuller) view is the gold standard extraoral radiographic projection for evaluating the morphology of the mandibular condyle and its relationship to the glenoid fossa (mandibular fossa). This view projects the condyle through the orbit, providing a clear, undistorted image of the condylar head, neck, and the articular eminence, which is essential for diagnosing degenerative joint disease, condylar resorption, or positional abnormalities. The Panoramic radiograph (Option A) is a useful screening tool but is subject to significant distortion of the condyles due to the curvature of the focal trough and superimposition of the zygomatic arches, making it less reliable for detailed morphological assessment. The Reverse Towne projection (Option B) is primarily indicated for the evaluation of condylar fractures and trauma, as it visualizes the condyles in relation to the skull base but does not provide the same detailed view of the glenoid fossa relationship as the transcranial view. The Lateral cephalometric radiograph (Option D) is used for orthodontic and orthognathic planning to assess skeletal relationships and does not provide the detailed anatomical detail of the condylar head morphology required for diagnosing TMJ pathology.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
@@ -790,7 +790,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -812,7 +812,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -834,7 +834,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -856,7 +856,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -878,7 +878,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -900,7 +900,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -922,7 +922,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -944,7 +944,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.809Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -966,7 +966,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -988,7 +988,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1011,7 +1011,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1033,7 +1033,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1049,14 +1049,14 @@
       "Mental foramen"
     ],
     "correctAnswer": 3,
-    "explanation": "The mental foramen is the correct answer. It is a common anatomical landmark that appears as a round or ovoid radiolucency in the mandible, typically located between the roots of the first and second premolars (or sometimes near the second premolar). It is the exit point for the mental nerve and vessels from the mandibular canal. On periapical radiographs, it is frequently mistaken for periapical pathology (such as a cyst or granuloma) if the clinician is not aware of its normal anatomical position. The incisive foramen (Option 1) is located in the anterior maxilla, not the mandible. The mandibular canal (Option 2) appears as a linear radiolucency running through the body of the mandible, not a discrete round/ovoid spot. The lingual foramen (Option 0) is located on the medial surface of the mandibular ramus and is not typically visible on standard periapical radiographs of the premolar region.",
+    "explanation": "The mental foramen is the correct answer. It is a common anatomical landmark that appears as a round or ovoid radiolucency in the mandible, typically located between the roots of the first and second premolars (or sometimes near the second premolar). It is the exit point for the mental nerve and vessels from the mandibular canal. On periapical radiographs, it is frequently mistaken for periapical pathology (such as a cyst or granuloma) if the clinician is not aware of its normal anatomical position. The incisive foramen (Option B) is located in the anterior maxilla, not the mandible. The mandibular canal (Option C) appears as a linear radiolucency running through the body of the mandible, not a discrete round/ovoid spot. The lingual foramen (Option A) is located on the medial surface of the mandibular ramus and is not typically visible on standard periapical radiographs of the premolar region.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1078,7 +1078,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1100,7 +1100,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1122,7 +1122,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1144,7 +1144,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1166,7 +1166,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1182,7 +1182,7 @@
       "Dentigerous cyst"
     ],
     "correctAnswer": 2,
-    "explanation": "The Odontogenic Keratocyst (OKC) is the most likely diagnosis given the specific radiographic features described. OKCs are characterized by a high propensity for anteroposterior growth within the medullary cavity of the jaw, allowing them to extend significantly along the long axis of the mandible (e.g., from the ramus to the premolar region) while often causing minimal buccolingual cortical expansion in their early to mid-stages. They typically present as well-corticated unilocular radiolucencies and frequently displace adjacent structures, such as the inferior alveolar nerve canal, without causing significant root resorption. In contrast, Ameloblastomas (Option 1) typically cause significant buccolingual cortical expansion and scalloping of the roots of adjacent teeth. Traumatic bone cysts (Option 0) are often scalloped between roots and do not typically present as a large, well-corticated unilocular lesion displacing the nerve canal in this manner. Dentigerous cysts (Option 3) are associated with the crown of an unerupted or impacted tooth, which is not mentioned in the scenario, and while they can be large, the specific pattern of extensive AP growth with nerve displacement is more characteristic of OKC.",
+    "explanation": "The Odontogenic Keratocyst (OKC) is the most likely diagnosis given the specific radiographic features described. OKCs are characterized by a high propensity for anteroposterior growth within the medullary cavity of the jaw, allowing them to extend significantly along the long axis of the mandible (e.g., from the ramus to the premolar region) while often causing minimal buccolingual cortical expansion in their early to mid-stages. They typically present as well-corticated unilocular radiolucencies and frequently displace adjacent structures, such as the inferior alveolar nerve canal, without causing significant root resorption. In contrast, Ameloblastomas (Option B) typically cause significant buccolingual cortical expansion and scalloping of the roots of adjacent teeth. Traumatic bone cysts (Option A) are often scalloped between roots and do not typically present as a large, well-corticated unilocular lesion displacing the nerve canal in this manner. Dentigerous cysts (Option D) are associated with the crown of an unerupted or impacted tooth, which is not mentioned in the scenario, and while they can be large, the specific pattern of extensive AP growth with nerve displacement is more characteristic of OKC.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
@@ -1190,7 +1190,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1212,7 +1212,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1234,7 +1234,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1256,7 +1256,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1278,7 +1278,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1300,7 +1300,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1322,7 +1322,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1344,7 +1344,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1366,7 +1366,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1382,14 +1382,14 @@
       "Condensing osteitis"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct diagnosis is a radicular cyst (Option 1). In the context of the INBDE examination, the differentiation between a periapical granuloma and a radicular cyst is a high-yield topic. While both are inflammatory lesions associated with non-vital teeth and appear as well-defined radiolucencies, the presence of external root resorption is a key clinical and radiographic indicator favoring a radicular cyst. Cysts are encapsulated by a fibrous wall lined by epithelium, which can exert pressure on adjacent structures, leading to root resorption and displacement of teeth. Additionally, lesions larger than 1 cm are statistically more likely to be cysts than granulomas. Why the other options are incorrect: - Option 0 (Periapical granuloma): While granulomas are the most common periapical lesion and present as well-defined radiolucencies, they are typically smaller (often <1 cm) and less likely to cause significant external root resorption compared to cysts. Without the specific feature of root resorption or a larger size, a granuloma would be a strong differential, but the resorption tips the scale to cyst. - Option 2 (Periapical abscess): An acute periapical abscess typically presents with diffuse, ill-defined radiolucency due to acute inflammation and edema, often accompanied by severe pain, swelling, and systemic signs. A chronic abscess may present similarly to a granuloma but lacks the distinct encapsulation and specific radiographic features of a cyst. The 'well-defined' nature and lack of acute symptoms described make this less likely. - Option 4 (Condensing osteitis): This condition presents as a radiopaque (white) area of increased bone density at the apex of a vital tooth, usually in response to low-grade chronic inflammation. It is radiographically opposite to the radiolucent lesion described in the stem.",
+    "explanation": "The correct diagnosis is a radicular cyst (Option B). In the context of the INBDE examination, the differentiation between a periapical granuloma and a radicular cyst is a high-yield topic. While both are inflammatory lesions associated with non-vital teeth and appear as well-defined radiolucencies, the presence of external root resorption is a key clinical and radiographic indicator favoring a radicular cyst. Cysts are encapsulated by a fibrous wall lined by epithelium, which can exert pressure on adjacent structures, leading to root resorption and displacement of teeth. Additionally, lesions larger than 1 cm are statistically more likely to be cysts than granulomas. Why the other options are incorrect: - Option A (Periapical granuloma): While granulomas are the most common periapical lesion and present as well-defined radiolucencies, they are typically smaller (often <1 cm) and less likely to cause significant external root resorption compared to cysts. Without the specific feature of root resorption or a larger size, a granuloma would be a strong differential, but the resorption tips the scale to cyst. - Option C (Periapical abscess): An acute periapical abscess typically presents with diffuse, ill-defined radiolucency due to acute inflammation and edema, often accompanied by severe pain, swelling, and systemic signs. A chronic abscess may present similarly to a granuloma but lacks the distinct encapsulation and specific radiographic features of a cyst. The 'well-defined' nature and lack of acute symptoms described make this less likely. - Option D (Condensing osteitis): This condition presents as a radiopaque (white) area of increased bone density at the apex of a vital tooth, usually in response to low-grade chronic inflammation. It is radiographically opposite to the radiolucent lesion described in the stem.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1411,7 +1411,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1433,7 +1433,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1455,7 +1455,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1477,7 +1477,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1499,7 +1499,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1521,7 +1521,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1544,7 +1544,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1566,7 +1566,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1588,7 +1588,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1610,7 +1610,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1632,7 +1632,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1654,7 +1654,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1676,7 +1676,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1698,7 +1698,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1720,7 +1720,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1742,7 +1742,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1764,7 +1764,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1786,7 +1786,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1808,7 +1808,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1830,7 +1830,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1852,7 +1852,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1874,7 +1874,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1896,7 +1896,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1918,7 +1918,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1941,7 +1941,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1963,7 +1963,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -1985,7 +1985,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2007,7 +2007,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2029,7 +2029,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2051,7 +2051,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2073,7 +2073,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2095,7 +2095,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2111,13 +2111,13 @@
       "Incisive canal granuloma."
     ],
     "correctAnswer": 0,
-    "explanation": "A nasopalatine duct cyst (incisive canal cyst) is the most common non‑odontogenic cyst of the anterior maxilla. It arises from remnants of the nasopalatine duct and typically presents as a well‑defined, heart‑shaped radiolucency located between the maxillary central incisors, often superior to the apices. The cyst does not arise from pulpal pathology, so the associated teeth are usually vital, matching the clinical scenario. Option 1, a globulomaxillary cyst, is classically situated between the maxillary lateral incisor and canine; it appears ovoid or teardrop‑shaped, not heart‑shaped, and is located more laterally than the midline. Therefore it does not fit the described location. Option 2, a periapical abscess, results from necrotic pulp and presents as a radiolucency at the apex of a non‑vital tooth, often with ill‑defined borders and associated symptoms. The teeth in the vignette are vital, making an abscess unlikely. Option 3, an incisive canal granuloma, represents a localized inflammatory response within the incisive canal, usually secondary to prior infection or trauma. It is generally small, asymmetrical, and does not produce the classic heart‑shaped outline seen with a nasopalatine duct cyst. Moreover, granulomas are less common and lack the distinct radiographic appearance described. Thus, the heart‑shaped, midline radiolucency between vital central incisors is most consistent with a nasopalatine duct cyst.",
+    "explanation": "A nasopalatine duct cyst (incisive canal cyst) is the most common non‑odontogenic cyst of the anterior maxilla. It arises from remnants of the nasopalatine duct and typically presents as a well‑defined, heart‑shaped radiolucency located between the maxillary central incisors, often superior to the apices. The cyst does not arise from pulpal pathology, so the associated teeth are usually vital, matching the clinical scenario. Option B, a globulomaxillary cyst, is classically situated between the maxillary lateral incisor and canine; it appears ovoid or teardrop‑shaped, not heart‑shaped, and is located more laterally than the midline. Therefore it does not fit the described location. Option C, a periapical abscess, results from necrotic pulp and presents as a radiolucency at the apex of a non‑vital tooth, often with ill‑defined borders and associated symptoms. The teeth in the vignette are vital, making an abscess unlikely. Option D, an incisive canal granuloma, represents a localized inflammatory response within the incisive canal, usually secondary to prior infection or trauma. It is generally small, asymmetrical, and does not produce the classic heart‑shaped outline seen with a nasopalatine duct cyst. Moreover, granulomas are less common and lack the distinct radiographic appearance described. Thus, the heart‑shaped, midline radiolucency between vital central incisors is most consistent with a nasopalatine duct cyst.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2139,7 +2139,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2161,7 +2161,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2184,7 +2184,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2207,7 +2207,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2230,7 +2230,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2253,7 +2253,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2276,7 +2276,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2299,7 +2299,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2322,7 +2322,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2345,7 +2345,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2369,7 +2369,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2392,7 +2392,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2416,7 +2416,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2439,7 +2439,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2462,7 +2462,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2485,7 +2485,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2508,7 +2508,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2531,7 +2531,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2554,7 +2554,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2577,7 +2577,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2594,14 +2594,14 @@
       "Maxillary sinus"
     ],
     "correctAnswer": 3,
-    "explanation": "The radiopaque, teardrop‑shaped structure seen superimposed on the roots of the maxillary premolars on a periapical film is the floor of the maxillary sinus. In the INBDE curriculum, identification of normal anatomic landmarks on radiographs is a core competency; the sinus floor is described in Malamed, Carranza, and Sturdevant as a dense cortical outline that often appears as a teardrop‑shaped radiopaque density over the premolar and molar roots. This appearance results from the thin cortical bone separating the sinus cavity from the alveolar process. Why the other options are incorrect: - **Incisive foramen (index 0)**: Located in the anterior maxilla between the central incisors; it presents as a radiolucent, ovoid or heart‑shaped area, not a radiopaque teardrop, and is never seen in the posterior premolar region. Selecting this answer reflects a common board trap of confusing anterior midline landmarks with posterior sinus anatomy. - **Inverted Y (index 1)**: Refers to the nasopalatine canal (or Y‑shaped suture) also confined to the anterior maxilla. Its radiographic signature is a radiolucent inverted‑Y configuration, again unrelated to the posterior premolar area. - **Zygomatic process (index 2)**: The zygomatic process of the maxilla may produce a radiopaque triangular projection near the maxillary molars, but its shape is angular, not teardrop, and it is situated more laterally and superiorly than the sinus floor seen over premolars. Confusing this with the sinus floor is a typical distractor. Thus, according to the INBDE standards and the referenced gold‑standard texts, the correct landmark is the maxillary sinus (option 3).",
+    "explanation": "The radiopaque, teardrop‑shaped structure seen superimposed on the roots of the maxillary premolars on a periapical film is the floor of the maxillary sinus. In the INBDE curriculum, identification of normal anatomic landmarks on radiographs is a core competency; the sinus floor is described in Malamed, Carranza, and Sturdevant as a dense cortical outline that often appears as a teardrop‑shaped radiopaque density over the premolar and molar roots. This appearance results from the thin cortical bone separating the sinus cavity from the alveolar process. Why the other options are incorrect: - **Incisive foramen (index 0)**: Located in the anterior maxilla between the central incisors; it presents as a radiolucent, ovoid or heart‑shaped area, not a radiopaque teardrop, and is never seen in the posterior premolar region. Selecting this answer reflects a common board trap of confusing anterior midline landmarks with posterior sinus anatomy. - **Inverted Y (index 1)**: Refers to the nasopalatine canal (or Y‑shaped suture) also confined to the anterior maxilla. Its radiographic signature is a radiolucent inverted‑Y configuration, again unrelated to the posterior premolar area. - **Zygomatic process (index 2)**: The zygomatic process of the maxilla may produce a radiopaque triangular projection near the maxillary molars, but its shape is angular, not teardrop, and it is situated more laterally and superiorly than the sinus floor seen over premolars. Confusing this with the sinus floor is a typical distractor. Thus, according to the INBDE standards and the referenced gold‑standard texts, the correct landmark is the maxillary sinus (Option D).",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2624,7 +2624,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2647,7 +2647,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.916Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2670,7 +2670,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2687,7 +2687,7 @@
       "Increase the horizontal angulation to compensate for the flat palate"
     ],
     "correctAnswer": 0,
-    "explanation": "The paralleling technique requires the image receptor to be parallel to the long axis of the tooth and the central ray (CR) to be perpendicular to the receptor. When anatomic factors such as a very flat palate prevent true parallel placement, the recommended modification is to keep the receptor as close to parallel as possible and then alter the vertical angulation of the beam so that the CR remains perpendicular to the receptor. This “tilted‑receptor” adjustment is described in White & Pharoah, Sturdevant and the INBDE radiography guidelines, which state that a vertical angulation change of up to 10–20° can compensate for a modest loss of parallelism while preserving image accuracy. Therefore, increasing the vertical angulation (option 0) is the correct response. Why the other options are incorrect: • Option 1 – Switching to the bisecting‑angle technique abandons the paralleling method. Although bisecting‑angle can be used when the receptor cannot be placed, it yields greater distortion and is not the first‑line modification when a simple vertical‑angulation adjustment will correct the problem. • Option 2 – Accepting a 20° deviation from parallelism violates the INBDE standard, which permits only a 5° deviation before corrective measures are required; a 20° error would produce unacceptable elongation and loss of detail. • Option 3 – Increasing horizontal angulation compensates for mesiodistal projection errors, not for a receptor that cannot be placed parallel due to palate shape. Horizontal changes would introduce distortion without addressing the core issue of receptor alignment. Thus, the evidence‑based and board‑approved answer is to increase the vertical angulation by up to 20° while maintaining the paralleling technique.",
+    "explanation": "The paralleling technique requires the image receptor to be parallel to the long axis of the tooth and the central ray (CR) to be perpendicular to the receptor. When anatomic factors such as a very flat palate prevent true parallel placement, the recommended modification is to keep the receptor as close to parallel as possible and then alter the vertical angulation of the beam so that the CR remains perpendicular to the receptor. This “tilted‑receptor” adjustment is described in White & Pharoah, Sturdevant and the INBDE radiography guidelines, which state that a vertical angulation change of up to 10–20° can compensate for a modest loss of parallelism while preserving image accuracy. Therefore, increasing the vertical angulation (Option A) is the correct response. Why the other options are incorrect: • Option B – Switching to the bisecting‑angle technique abandons the paralleling method. Although bisecting‑angle can be used when the receptor cannot be placed, it yields greater distortion and is not the first‑line modification when a simple vertical‑angulation adjustment will correct the problem. • Option A – Accepting a 20° deviation from parallelism violates the INBDE standard, which permits only a 5° deviation before corrective measures are required; a 20° error would produce unacceptable elongation and loss of detail. • Option D – Increasing horizontal angulation compensates for mesiodistal projection errors, not for a receptor that cannot be placed parallel due to palate shape. Horizontal changes would introduce distortion without addressing the core issue of receptor alignment. Thus, the evidence‑based and board‑approved answer is to increase the vertical angulation by up to 20° while maintaining the paralleling technique.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
@@ -2695,7 +2695,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2718,7 +2718,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2741,7 +2741,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2764,7 +2764,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2787,7 +2787,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2810,7 +2810,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2833,7 +2833,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2850,13 +2850,13 @@
       "Nasolacrimal canal and nasal septum"
     ],
     "correctAnswer": 0,
-    "explanation": "On a periapical radiograph of the maxillary central incisors the characteristic V‑shaped (or inverted Y) radiolucency seen just superior to the root apices corresponds to the superimposition of two mid‑facial structures: the floor of the nasal cavity (nasal fossa) and the incisive (nasopalatine) canal. The nasal fossa appears as a thin, V‑shaped radiolucent line because it is a hollow space bounded inferiorly by bone; the incisive canal, which traverses the anterior maxilla, presents as an inverted‑Y or heart‑shaped radiolucency. Their anatomical convergence creates the classic pattern described in standard texts (Neville, Carranza, Sturdevant) and is a recognized radiographic landmark in INBDE examinations. Option 1 (maxillary sinus floor and zygomatic process) is incorrect because the sinus floor lies posterior to the premolars and appears as a dome‑shaped radiolucency, while the zygomatic process is far lateral and does not intersect the central incisor region. Option 2 (incisal canal and maxillary sinus) is a distractor; the term \"incisal canal\" is not an anatomical entity, and the sinus does not extend anteriorly enough to intersect the central incisor apices. Option 3 (nasolacrimal canal and nasal septum) is also wrong: the nasolacrimal duct runs in the lateral wall of the nasal cavity near the orbit, and the nasal septum is a midline bony plate that does not produce a V‑shaped radiolucency in this area. Recognizing the true intersection of the nasal floor and incisive canal is essential for accurate diagnosis and avoids misinterpretation of pathology, aligning with INBDE standards for radiographic anatomy.",
+    "explanation": "On a periapical radiograph of the maxillary central incisors the characteristic V‑shaped (or inverted Y) radiolucency seen just superior to the root apices corresponds to the superimposition of two mid‑facial structures: the floor of the nasal cavity (nasal fossa) and the incisive (nasopalatine) canal. The nasal fossa appears as a thin, V‑shaped radiolucent line because it is a hollow space bounded inferiorly by bone; the incisive canal, which traverses the anterior maxilla, presents as an inverted‑Y or heart‑shaped radiolucency. Their anatomical convergence creates the classic pattern described in standard texts (Neville, Carranza, Sturdevant) and is a recognized radiographic landmark in INBDE examinations. Option B (maxillary sinus floor and zygomatic process) is incorrect because the sinus floor lies posterior to the premolars and appears as a dome‑shaped radiolucency, while the zygomatic process is far lateral and does not intersect the central incisor region. Option C (incisal canal and maxillary sinus) is a distractor; the term \"incisal canal\" is not an anatomical entity, and the sinus does not extend anteriorly enough to intersect the central incisor apices. Option D (nasolacrimal canal and nasal septum) is also wrong: the nasolacrimal duct runs in the lateral wall of the nasal cavity near the orbit, and the nasal septum is a midline bony plate that does not produce a V‑shaped radiolucency in this area. Recognizing the true intersection of the nasal floor and incisive canal is essential for accurate diagnosis and avoids misinterpretation of pathology, aligning with INBDE standards for radiographic anatomy.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2879,7 +2879,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2902,7 +2902,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2925,7 +2925,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2942,13 +2942,13 @@
       "True mandibular cross-section occlusal projection"
     ],
     "correctAnswer": 3,
-    "explanation": "The mandibular occlusal (true cross‑sectional) projection is the standard technique for visualising radiopaque sialoliths in the floor of the mouth because the central ray is perpendicular to the film placed on the oral floor, producing a cross‑section that removes superimposition of the mandible and hyoid structures (Neville, Damm, Allen, Bouquot: Oral and Maxillofacial Pathology, 4th ed., p. 512). Reverse Towne’s and submentovertex are skull projections and do not isolate the submandibular duct region. The “standard” mandibular occlusal view described in many texts is synonymous with the true cross‑sectional occlusal view, making option 3 the correct, recognized technique.",
+    "explanation": "The mandibular occlusal (true cross‑sectional) projection is the standard technique for visualising radiopaque sialoliths in the floor of the mouth because the central ray is perpendicular to the film placed on the oral floor, producing a cross‑section that removes superimposition of the mandible and hyoid structures (Neville, Damm, Allen, Bouquot: Oral and Maxillofacial Pathology, 4th ed., p. 512). Reverse Towne’s and submentovertex are skull projections and do not isolate the submandibular duct region. The “standard” mandibular occlusal view described in many texts is synonymous with the true cross‑sectional occlusal view, making Option D the correct, recognized technique.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2971,7 +2971,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -2994,7 +2994,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3017,7 +3017,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3040,7 +3040,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3063,7 +3063,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3086,7 +3086,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3109,7 +3109,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3132,7 +3132,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3155,7 +3155,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3178,7 +3178,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3201,7 +3201,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3224,7 +3224,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3247,7 +3247,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3271,7 +3271,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3294,7 +3294,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3317,7 +3317,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3340,7 +3340,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3363,7 +3363,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3386,7 +3386,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.810Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3409,7 +3409,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3432,7 +3432,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3455,7 +3455,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3478,7 +3478,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3501,7 +3501,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3524,7 +3524,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3547,7 +3547,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3571,7 +3571,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3594,7 +3594,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3617,7 +3617,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3640,7 +3640,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3663,7 +3663,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3686,7 +3686,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3709,7 +3709,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3732,7 +3732,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3755,7 +3755,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3778,7 +3778,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3801,7 +3801,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3824,7 +3824,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3848,7 +3848,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3872,7 +3872,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3895,7 +3895,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3918,7 +3918,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3941,7 +3941,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3964,7 +3964,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -3987,7 +3987,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4010,7 +4010,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4033,7 +4033,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4056,7 +4056,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4080,7 +4080,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4104,7 +4104,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4127,7 +4127,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4150,7 +4150,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4173,7 +4173,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4196,7 +4196,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4219,7 +4219,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4242,7 +4242,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4265,7 +4265,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4288,7 +4288,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4311,7 +4311,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4334,7 +4334,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4357,7 +4357,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4380,7 +4380,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4403,7 +4403,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4426,7 +4426,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4449,7 +4449,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4472,7 +4472,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4495,7 +4495,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4518,7 +4518,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4542,7 +4542,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4565,7 +4565,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4588,7 +4588,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4611,7 +4611,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4634,7 +4634,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4657,7 +4657,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4680,7 +4680,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4703,7 +4703,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4726,7 +4726,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4749,7 +4749,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4766,14 +4766,14 @@
       "Mandible bone marrow"
     ],
     "correctAnswer": 0,
-    "explanation": "US radiation‑protection guidelines for dental imaging (e.g., the US Public Health Service (USPHS) and CDC, American Dental Association) identify the thyroid gland as the primary organ of concern. The thyroid contains rapidly dividing follicular cells that are highly susceptible to ionising radiation, especially in children and young adults, and it lies directly in the primary or scattered beam path for intra‑oral and extra‑oral dental radiographs. Consequently, a thyroid collar is routinely recommended to attenuate the dose to this organ. Why the other options are incorrect: - **Parotid gland (option 1):** Although the parotid receives some scattered radiation, its cellular composition is less radiosensitive than thyroid tissue, and no specific shielding is mandated for it in dental radiography. - **Lens of the eye (option 2):** The lens is radiosensitive (risk of cataract formation) but it is not in the direct beam for standard intra‑oral images; protection is achieved with leaded glasses, not a thyroid collar. - **Mandible bone marrow (option 3):** Bone marrow is biologically radiosensitive, yet the volume of marrow in the mandible is small and the dose from routine dental films is negligible; shielding the thyroid provides a greater protective benefit than attempting to shield mandibular marrow. Therefore, the thyroid gland is the tissue that most strongly dictates the need for a thyroid collar in routine dental radiography.",
+    "explanation": "US radiation‑protection guidelines for dental imaging (e.g., the US Public Health Service (USPHS) and CDC, American Dental Association) identify the thyroid gland as the primary organ of concern. The thyroid contains rapidly dividing follicular cells that are highly susceptible to ionising radiation, especially in children and young adults, and it lies directly in the primary or scattered beam path for intra‑oral and extra‑oral dental radiographs. Consequently, a thyroid collar is routinely recommended to attenuate the dose to this organ. Why the other options are incorrect: - **Parotid gland (Option B):** Although the parotid receives some scattered radiation, its cellular composition is less radiosensitive than thyroid tissue, and no specific shielding is mandated for it in dental radiography. - **Lens of the eye (Option C):** The lens is radiosensitive (risk of cataract formation) but it is not in the direct beam for standard intra‑oral images; protection is achieved with leaded glasses, not a thyroid collar. - **Mandible bone marrow (Option D):** Bone marrow is biologically radiosensitive, yet the volume of marrow in the mandible is small and the dose from routine dental films is negligible; shielding the thyroid provides a greater protective benefit than attempting to shield mandibular marrow. Therefore, the thyroid gland is the tissue that most strongly dictates the need for a thyroid collar in routine dental radiography.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4796,7 +4796,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4819,7 +4819,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4842,7 +4842,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4865,7 +4865,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4888,7 +4888,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4911,7 +4911,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4934,7 +4934,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4958,7 +4958,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -4981,7 +4981,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5004,7 +5004,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5027,7 +5027,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5051,7 +5051,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5074,7 +5074,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5098,7 +5098,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5121,7 +5121,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5144,7 +5144,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.917Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5167,7 +5167,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5191,7 +5191,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5214,7 +5214,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5237,7 +5237,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5260,7 +5260,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5283,7 +5283,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5306,7 +5306,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5329,7 +5329,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5352,7 +5352,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5375,7 +5375,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5398,7 +5398,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5421,7 +5421,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5444,7 +5444,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5469,7 +5469,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5494,7 +5494,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5517,7 +5517,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5540,7 +5540,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5563,7 +5563,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5586,7 +5586,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5609,7 +5609,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5632,7 +5632,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5655,7 +5655,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5678,7 +5678,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5701,7 +5701,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5724,7 +5724,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5747,7 +5747,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5770,7 +5770,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5793,7 +5793,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5816,7 +5816,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5839,7 +5839,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5862,7 +5862,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5879,14 +5879,14 @@
       "Thermal denaturation of structural proteins"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Option 0. In radiobiology, radiation injury is classified into direct and indirect effects. Direct injury occurs when ionizing radiation interacts directly with critical cellular targets, specifically the DNA double helix, causing ionization and excitation of the macromolecule's bonds. This leads to single-strand breaks, double-strand breaks, or base damage. While indirect injury (mediated by free radicals from water radiolysis) accounts for the majority of biological damage in aqueous cellular environments, the question specifically asks for the mechanism of *direct* injury. Option 2 describes the mechanism of indirect injury. Option 1 (hydrogen peroxide) is a specific downstream product of indirect action. Option 4 (thermal denaturation) is incorrect because ionizing radiation does not cause significant thermal effects at diagnostic or therapeutic dental doses; thermal injury is associated with non-ionizing radiation or heat sources.",
+    "explanation": "The correct answer is Option A. In radiobiology, radiation injury is classified into direct and indirect effects. Direct injury occurs when ionizing radiation interacts directly with critical cellular targets, specifically the DNA double helix, causing ionization and excitation of the macromolecule's bonds. This leads to single-strand breaks, double-strand breaks, or base damage. While indirect injury (mediated by free radicals from water radiolysis) accounts for the majority of biological damage in aqueous cellular environments, the question specifically asks for the mechanism of *direct* injury. Option B describes the mechanism of indirect injury. Option B (hydrogen peroxide) is a specific downstream product of indirect action. Option D (thermal denaturation) is incorrect because ionizing radiation does not cause significant thermal effects at diagnostic or therapeutic dental doses; thermal injury is associated with non-ionizing radiation or heat sources.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.811Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5909,7 +5909,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5932,7 +5932,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5956,7 +5956,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -5979,7 +5979,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6002,7 +6002,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6025,7 +6025,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6050,7 +6050,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6067,14 +6067,14 @@
       "The X-ray machine was not activated, resulting in no exposure of the film"
     ],
     "correctAnswer": 2,
-    "explanation": "In manual processing the correct sequence is developer → fixer. The fixer dissolves all silver halide crystals, whether exposed or not. If the film is placed in fixer before developer, the unexposed crystals are removed and the exposed crystals remain as silver halide; subsequent development cannot occur because the necessary silver halide has been eliminated, resulting in a transparent film with no image. This error is described in the American Dental Association’s radiographic processing guidelines and standard dental radiography textbooks. The alternative of a non‑activated X‑ray unit also yields a clear film, but the question asks for a procedural error, making option 2 the most appropriate choice.",
+    "explanation": "In manual processing the correct sequence is developer → fixer. The fixer dissolves all silver halide crystals, whether exposed or not. If the film is placed in fixer before developer, the unexposed crystals are removed and the exposed crystals remain as silver halide; subsequent development cannot occur because the necessary silver halide has been eliminated, resulting in a transparent film with no image. This error is described in the American Dental Association’s radiographic processing guidelines and standard dental radiography textbooks. The alternative of a non‑activated X‑ray unit also yields a clear film, but the question asks for a procedural error, making Option A the most appropriate choice.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6098,7 +6098,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6121,7 +6121,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6144,7 +6144,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6167,7 +6167,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6190,7 +6190,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6213,7 +6213,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6236,7 +6236,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6259,7 +6259,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6282,7 +6282,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6305,7 +6305,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6328,7 +6328,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6351,7 +6351,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6374,7 +6374,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6397,7 +6397,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6420,7 +6420,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6443,7 +6443,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6466,7 +6466,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6489,7 +6489,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6512,7 +6512,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6535,7 +6535,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6558,7 +6558,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6582,7 +6582,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6605,7 +6605,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6628,7 +6628,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6652,7 +6652,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6675,7 +6675,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6698,7 +6698,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6722,7 +6722,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6745,7 +6745,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6769,7 +6769,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6792,7 +6792,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6815,7 +6815,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6838,7 +6838,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6855,7 +6855,7 @@
       "Compound odontoma"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct diagnosis is Compound odontoma (Option 3). According to standard oral pathology references (e.g., Neville, Oral and Maxillofacial Pathology), odontomas are classified into two types based on histological and radiographic appearance: compound and complex. A compound odontoma is characterized by the presence of multiple small, tooth-like structures (denticles) that resemble normal teeth in shape and size, although they may vary slightly. These structures are composed of enamel, dentin, cementum, and pulp arranged in a normal pattern. Although compound odontomas are more common in the anterior maxilla, they can occur in the posterior mandible, as described in the stem. The key radiographic feature distinguishing it from a complex odontoma is the organized, tooth-like morphology of the calcified structures. In contrast, a Complex odontoma (Option 0) presents as a disorganized mass of dental tissues (enamel, dentin, cementum, and pulp) that does not resemble normal tooth morphology; it typically appears as a radiopaque mass with a radiolucent rim, often located in the posterior mandible. Odontogenic myxoma (Option 1) is a benign tumor that typically appears as a multilocular radiolucency (often described as 'soap bubble' or 'honeycomb') without the presence of tooth-like structures. Ameloblastic fibro-odontoma (Option 2) is a mixed odontogenic tumor that contains both soft tissue and hard tissue components; while it may contain calcified structures, they are usually amorphous or irregular rather than distinct, well-formed tooth-like structures, and it is less common than odontomas in this age group.",
+    "explanation": "The correct diagnosis is Compound odontoma (Option D). According to standard oral pathology references (e.g., Neville, Oral and Maxillofacial Pathology), odontomas are classified into two types based on histological and radiographic appearance: compound and complex. A compound odontoma is characterized by the presence of multiple small, tooth-like structures (denticles) that resemble normal teeth in shape and size, although they may vary slightly. These structures are composed of enamel, dentin, cementum, and pulp arranged in a normal pattern. Although compound odontomas are more common in the anterior maxilla, they can occur in the posterior mandible, as described in the stem. The key radiographic feature distinguishing it from a complex odontoma is the organized, tooth-like morphology of the calcified structures. In contrast, a Complex odontoma (Option A) presents as a disorganized mass of dental tissues (enamel, dentin, cementum, and pulp) that does not resemble normal tooth morphology; it typically appears as a radiopaque mass with a radiolucent rim, often located in the posterior mandible. Odontogenic myxoma (Option B) is a benign tumor that typically appears as a multilocular radiolucency (often described as 'soap bubble' or 'honeycomb') without the presence of tooth-like structures. Ameloblastic fibro-odontoma (Option C) is a mixed odontogenic tumor that contains both soft tissue and hard tissue components; while it may contain calcified structures, they are usually amorphous or irregular rather than distinct, well-formed tooth-like structures, and it is less common than odontomas in this age group.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
@@ -6863,7 +6863,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6886,7 +6886,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6909,7 +6909,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6932,7 +6932,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6955,7 +6955,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -6978,7 +6978,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7001,7 +7001,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7024,7 +7024,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7047,7 +7047,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7070,7 +7070,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7093,7 +7093,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7116,7 +7116,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7139,7 +7139,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7162,7 +7162,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7185,7 +7185,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7208,7 +7208,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7231,7 +7231,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7254,7 +7254,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7277,7 +7277,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7300,7 +7300,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7323,7 +7323,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7346,7 +7346,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7369,7 +7369,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7392,7 +7392,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7415,7 +7415,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7438,7 +7438,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7461,7 +7461,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7484,7 +7484,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7507,7 +7507,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7530,7 +7530,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7553,7 +7553,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7576,7 +7576,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7599,7 +7599,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7622,7 +7622,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.918Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7645,7 +7645,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7668,7 +7668,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7691,7 +7691,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7714,7 +7714,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7737,7 +7737,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7760,7 +7760,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7783,7 +7783,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7806,7 +7806,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7829,7 +7829,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7852,7 +7852,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7875,7 +7875,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7898,7 +7898,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7921,7 +7921,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7944,7 +7944,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7967,7 +7967,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -7990,7 +7990,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8013,7 +8013,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8036,7 +8036,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8059,7 +8059,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8082,7 +8082,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8105,7 +8105,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8129,7 +8129,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8152,7 +8152,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8175,7 +8175,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8198,7 +8198,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8221,7 +8221,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8245,7 +8245,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8262,7 +8262,7 @@
       "Hyperparathyroidism"
     ],
     "correctAnswer": 3,
-    "explanation": "The radiographic picture described – bilateral, symmetric, multilocular radiolucencies in the mandibular angles and ascending rami with marked thinning of the inferior border and resorption of adjacent roots – is classic for the skeletal manifestations of hyperparathyroidism, specifically the so‑called \"brown tumors\" (osteitis fibrosa cystica). In primary hyperparathyroidism, excess parathyroid hormone stimulates osteoclastic bone resorption, producing well‑demarcated, multilocular radiolucent defects that may coalesce, thin the cortical plate, and cause root resorption. The condition is most common in middle‑aged to elderly women, matching the 60‑year‑old asymptomatic female in the vignette. This pattern is emphasized in standard texts (Neville, Carranza, and McDonald & Avery) and aligns with INBDE expectations for systemic bone disease affecting the jaws. Why the other options are incorrect: - Cherubism (option 0) is a hereditary fibro‑osseous disorder presenting in early childhood (usually before age 5) with bilateral jaw expansion that regresses after puberty; it does not occur de novo in a 60‑year‑old and the lesions are typically mixed radiolucent‑radiopaque, not purely radiolucent. - Osteopetrosis (option 1) is characterized by generalized increased bone density and a “bone‑in‑bone” appearance; radiographs are markedly radiopaque, not radiolucent, and cortical thinning is uncommon. - Paget’s disease of bone (option 2) shows a mixed radiolucent‑radiopaque “cotton‑wool” pattern with bone expansion and loss of lamina dura, but the lesions are not typically multilocular radiolucencies confined to the rami, and root resorption is less prominent than in hyperparathyroidism. Thus, hyperparathyroidism is the only systemic condition that fits all clinical and radiographic criteria presented.",
+    "explanation": "The radiographic picture described – bilateral, symmetric, multilocular radiolucencies in the mandibular angles and ascending rami with marked thinning of the inferior border and resorption of adjacent roots – is classic for the skeletal manifestations of hyperparathyroidism, specifically the so‑called \"brown tumors\" (osteitis fibrosa cystica). In primary hyperparathyroidism, excess parathyroid hormone stimulates osteoclastic bone resorption, producing well‑demarcated, multilocular radiolucent defects that may coalesce, thin the cortical plate, and cause root resorption. The condition is most common in middle‑aged to elderly women, matching the 60‑year‑old asymptomatic female in the vignette. This pattern is emphasized in standard texts (Neville, Carranza, and McDonald & Avery) and aligns with INBDE expectations for systemic bone disease affecting the jaws. Why the other options are incorrect: - Cherubism (Option A) is a hereditary fibro‑osseous disorder presenting in early childhood (usually before age 5) with bilateral jaw expansion that regresses after puberty; it does not occur de novo in a 60‑year‑old and the lesions are typically mixed radiolucent‑radiopaque, not purely radiolucent. - Osteopetrosis (Option B) is characterized by generalized increased bone density and a “bone‑in‑bone” appearance; radiographs are markedly radiopaque, not radiolucent, and cortical thinning is uncommon. - Paget’s disease of bone (Option C) shows a mixed radiolucent‑radiopaque “cotton‑wool” pattern with bone expansion and loss of lamina dura, but the lesions are not typically multilocular radiolucencies confined to the rami, and root resorption is less prominent than in hyperparathyroidism. Thus, hyperparathyroidism is the only systemic condition that fits all clinical and radiographic criteria presented.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
@@ -8270,7 +8270,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8294,7 +8294,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8317,7 +8317,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.812Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8340,7 +8340,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8363,7 +8363,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8386,7 +8386,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8409,7 +8409,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8432,7 +8432,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8455,7 +8455,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8478,7 +8478,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8501,7 +8501,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8524,7 +8524,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8547,7 +8547,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8570,7 +8570,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8593,7 +8593,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8610,13 +8610,13 @@
       "Complex odontoma"
     ],
     "correctAnswer": 0,
-    "explanation": "The radiographic picture described—a well‑circumscribed, homogenous radiopaque focus within the mandibular body, surrounded by a thin radiolucent rim, discovered incidentally in an asymptomatic 65‑year‑old patient, with vital adjacent teeth and no change over years—is classic for idiopathic osteosclerosis (enostosis). According to the INBDE curriculum and standard texts (Neville, Carranza, and Sturdevant), idiopathic osteosclerosis is a benign, non‑neoplastic, dense bone island that is asymptomatic, does not cause expansion, and remains static on serial radiographs. Its location is most often in the premolar‑molar region of the mandible, and the surrounding radiolucent halo represents the normal marrow space. Why the other options are incorrect: 1. Cementoblastoma (option 1) is a true neoplasm of cementum that is fused to the root of a tooth, producing a radiopaque mass with a radiolucent halo and often causing pain, swelling, and root resorption. It is most common in younger patients (second–third decade) and is not a static incidental finding. 2. Hypercementosis (option 2) is an excessive deposition of cementum on the root surface, appearing as a bulbous enlargement of the root outline rather than a separate intra‑osseous radiopacity. It follows the contour of the tooth and does not present as an isolated radiopaque nodule with a surrounding lucent rim. 3. Complex odontoma (option 3) is a mixed radiopaque‑radiolucent lesion composed of disorganized dental hard tissues, usually presenting as a dense, irregular mass with a well‑defined radiolucent capsule. Odontomas are most often diagnosed in the first two decades and may impede eruption; they are not typically static, solitary bone islands in older adults. Thus, idiopathic osteosclerosis is the only diagnosis that aligns with the patient’s age, asymptomatic nature, radiographic features, and lack of progression, satisfying INBDE expectations for lesion identification.",
+    "explanation": "The radiographic picture described—a well‑circumscribed, homogenous radiopaque focus within the mandibular body, surrounded by a thin radiolucent rim, discovered incidentally in an asymptomatic 65‑year‑old patient, with vital adjacent teeth and no change over years—is classic for idiopathic osteosclerosis (enostosis). According to the INBDE curriculum and standard texts (Neville, Carranza, and Sturdevant), idiopathic osteosclerosis is a benign, non‑neoplastic, dense bone island that is asymptomatic, does not cause expansion, and remains static on serial radiographs. Its location is most often in the premolar‑molar region of the mandible, and the surrounding radiolucent halo represents the normal marrow space. Why the other options are incorrect: 1. Cementoblastoma (Option B) is a true neoplasm of cementum that is fused to the root of a tooth, producing a radiopaque mass with a radiolucent halo and often causing pain, swelling, and root resorption. It is most common in younger patients (second–third decade) and is not a static incidental finding. 2. Hypercementosis (Option C) is an excessive deposition of cementum on the root surface, appearing as a bulbous enlargement of the root outline rather than a separate intra‑osseous radiopacity. It follows the contour of the tooth and does not present as an isolated radiopaque nodule with a surrounding lucent rim. 3. Complex odontoma (Option D) is a mixed radiopaque‑radiolucent lesion composed of disorganized dental hard tissues, usually presenting as a dense, irregular mass with a well‑defined radiolucent capsule. Odontomas are most often diagnosed in the first two decades and may impede eruption; they are not typically static, solitary bone islands in older adults. Thus, idiopathic osteosclerosis is the only diagnosis that aligns with the patient’s age, asymptomatic nature, radiographic features, and lack of progression, satisfying INBDE expectations for lesion identification.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8639,7 +8639,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8662,7 +8662,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8679,13 +8679,13 @@
       "Surgical enucleation and biopsy"
     ],
     "correctAnswer": 2,
-    "explanation": "Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) describe idiopathic osteosclerosis as a well‑defined radiopaque area continuous with the root surface, often surrounded by a thin radiolucent rim, occurring in vital, asymptomatic teeth. Unlike cementoblastoma, it does not produce pain, swelling, or root resorption and therefore does not merit endodontic therapy, extraction, or surgical removal. The standard of care, endorsed by the American Dental Association, is periodic clinical and radiographic review to ensure stability. Hence option 2 is correct.",
+    "explanation": "Neville, Damm, Allen & Bouquot (Oral and Maxillofacial Pathology, 4th ed.) describe idiopathic osteosclerosis as a well‑defined radiopaque area continuous with the root surface, often surrounded by a thin radiolucent rim, occurring in vital, asymptomatic teeth. Unlike cementoblastoma, it does not produce pain, swelling, or root resorption and therefore does not merit endodontic therapy, extraction, or surgical removal. The standard of care, endorsed by the American Dental Association, is periodic clinical and radiographic review to ensure stability. Hence Option C is correct.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8708,7 +8708,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8731,7 +8731,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8754,7 +8754,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8777,7 +8777,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8800,7 +8800,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8823,7 +8823,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8846,7 +8846,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8869,7 +8869,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8892,7 +8892,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8915,7 +8915,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8932,13 +8932,13 @@
       "Compound odontoma"
     ],
     "correctAnswer": 1,
-    "explanation": "According to Neville et al., a mesiodens is the most common supernumerary tooth, presenting as a single conical or tuberculate radiopaque structure that impedes eruption of the permanent incisor. In contrast, a compound odontoma consists of multiple miniature tooth‑like denticles, while complex odontoma appears as a homogenous calcified mass. The vignette describes a single tooth‑like entity, making the mesiodens the appropriate diagnosis. US ADA clinical guidelines endorse removal of the supernumerary to allow normal eruption, confirming option 1 as correct.",
+    "explanation": "According to Neville et al., a mesiodens is the most common supernumerary tooth, presenting as a single conical or tuberculate radiopaque structure that impedes eruption of the permanent incisor. In contrast, a compound odontoma consists of multiple miniature tooth‑like denticles, while complex odontoma appears as a homogenous calcified mass. The vignette describes a single tooth‑like entity, making the mesiodens the appropriate diagnosis. US ADA clinical guidelines endorse removal of the supernumerary to allow normal eruption, confirming Option B as correct.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8961,7 +8961,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -8984,7 +8984,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9007,7 +9007,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9030,7 +9030,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9053,7 +9053,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9076,7 +9076,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9099,7 +9099,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9122,7 +9122,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9139,13 +9139,13 @@
       "Cone-beam computed tomography (CBCT) and surgical exploration"
     ],
     "correctAnswer": 3,
-    "explanation": "Stafne bone defects are classically unilocular, well‑circumscribed radiolucencies located below the inferior alveolar canal and are incidental findings that require no intervention (Neville et al., Oral and Maxillofacial Pathology). A multilocular pattern, especially when bilateral, is not characteristic and raises the differential of odontogenic cysts or neoplasms. The American Dental Association recommends CBCT for precise three‑dimensional assessment when conventional radiographs are equivocal. Therefore, the prudent next step is CBCT with possible surgical exploration, making option 3 the correct choice.",
+    "explanation": "Stafne bone defects are classically unilocular, well‑circumscribed radiolucencies located below the inferior alveolar canal and are incidental findings that require no intervention (Neville et al., Oral and Maxillofacial Pathology). A multilocular pattern, especially when bilateral, is not characteristic and raises the differential of odontogenic cysts or neoplasms. The American Dental Association recommends CBCT for precise three‑dimensional assessment when conventional radiographs are equivocal. Therefore, the prudent next step is CBCT with possible surgical exploration, making Option D the correct choice.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9168,7 +9168,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9191,7 +9191,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9214,7 +9214,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9237,7 +9237,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9260,7 +9260,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9283,7 +9283,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9307,7 +9307,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9330,7 +9330,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9347,7 +9347,7 @@
       "Odontoma"
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical and radiographic presentation is classic for Focal Cemento-Osseous Dysplasia (FCOD). FCOD is a benign fibro-osseous lesion that typically presents as a solitary, well-defined mixed radiolucent-radiopaque mass in the posterior mandible (premolar-molar region) of middle-aged to older adults, with a predilection for women. A critical diagnostic feature is that the associated teeth remain vital and asymptomatic, which distinguishes it from periapical pathology of endodontic origin. Periapical cemento-osseous dysplasia (Option 0) is incorrect because it predominantly affects the anterior mandible (incisors and canines) and is more common in younger women (typically 30-50 years old). Chronic osteomyelitis (Option 2) is unlikely because the patient is asymptomatic, the teeth are vital, and there is no history of infection, trauma, or surgery; osteomyelitis typically presents with pain, swelling, and often involves non-vital teeth or previous surgical sites. Odontoma (Option 3) is a hamartomatous lesion that is usually radiopaque with a radiolucent rim and is often associated with unerupted teeth or developmental disturbances, rather than surrounding the roots of fully erupted, vital teeth in a mixed pattern typical of dysplasia.",
+    "explanation": "The clinical and radiographic presentation is classic for Focal Cemento-Osseous Dysplasia (FCOD). FCOD is a benign fibro-osseous lesion that typically presents as a solitary, well-defined mixed radiolucent-radiopaque mass in the posterior mandible (premolar-molar region) of middle-aged to older adults, with a predilection for women. A critical diagnostic feature is that the associated teeth remain vital and asymptomatic, which distinguishes it from periapical pathology of endodontic origin. Periapical cemento-osseous dysplasia (Option A) is incorrect because it predominantly affects the anterior mandible (incisors and canines) and is more common in younger women (typically 30-50 years old). Chronic osteomyelitis (Option C) is unlikely because the patient is asymptomatic, the teeth are vital, and there is no history of infection, trauma, or surgery; osteomyelitis typically presents with pain, swelling, and often involves non-vital teeth or previous surgical sites. Odontoma (Option D) is a hamartomatous lesion that is usually radiopaque with a radiolucent rim and is often associated with unerupted teeth or developmental disturbances, rather than surrounding the roots of fully erupted, vital teeth in a mixed pattern typical of dysplasia.",
     "aiFixed": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
@@ -9355,7 +9355,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9378,7 +9378,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9401,7 +9401,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9424,7 +9424,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9447,7 +9447,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9470,7 +9470,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9487,14 +9487,14 @@
       "Periapical cemento‑osseous dysplasia"
     ],
     "correctAnswer": 0,
-    "explanation": "According to the INBDE radiology blueprint, a periapical (radicular) cyst is the most likely diagnosis when a non‑vital tooth is associated with a radiolucent lesion that is ≥1 cm in diameter, well‑circumscribed, unilocular, and surrounded by a thin sclerotic (corticated) border. These radiographic features distinguish a cyst from a periapical granuloma, which is usually <1 cm, less well defined, and lacks a distinct corticated margin. An apical scar represents fibrous tissue that replaces a previously larger lesion after successful endodontic therapy; it is typically seen only after treatment and appears as a small, irregular radiolucency without a corticated border—none of which are present in this case. Periapical cemento‑osseous dysplasia occurs in vital teeth, most often in middle‑aged African‑US women, and early lesions are radiolucent but lack a well‑defined sclerotic rim and are not directly associated with a necrotic tooth. Therefore, the combination of a non‑vital tooth, lesion size >1 cm, well‑defined unilocular radiolucency, loss of lamina dura, and a peripheral sclerotic border fulfills the classic criteria for a radicular cyst, making option 0 the gold‑standard answer.",
+    "explanation": "According to the INBDE radiology blueprint, a periapical (radicular) cyst is the most likely diagnosis when a non‑vital tooth is associated with a radiolucent lesion that is ≥1 cm in diameter, well‑circumscribed, unilocular, and surrounded by a thin sclerotic (corticated) border. These radiographic features distinguish a cyst from a periapical granuloma, which is usually <1 cm, less well defined, and lacks a distinct corticated margin. An apical scar represents fibrous tissue that replaces a previously larger lesion after successful endodontic therapy; it is typically seen only after treatment and appears as a small, irregular radiolucency without a corticated border—none of which are present in this case. Periapical cemento‑osseous dysplasia occurs in vital teeth, most often in middle‑aged African‑US women, and early lesions are radiolucent but lack a well‑defined sclerotic rim and are not directly associated with a necrotic tooth. Therefore, the combination of a non‑vital tooth, lesion size >1 cm, well‑defined unilocular radiolucency, loss of lamina dura, and a peripheral sclerotic border fulfills the classic criteria for a radicular cyst, making Option A the gold‑standard answer.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED",
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9517,7 +9517,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9540,7 +9540,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9563,7 +9563,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9586,7 +9586,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9609,7 +9609,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9632,7 +9632,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9655,7 +9655,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9678,7 +9678,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9701,7 +9701,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9724,7 +9724,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9748,7 +9748,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9771,7 +9771,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9794,7 +9794,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9817,7 +9817,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9840,7 +9840,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9862,7 +9862,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9884,7 +9884,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9906,7 +9906,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9928,7 +9928,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9950,7 +9950,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9972,7 +9972,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -9994,7 +9994,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10016,7 +10016,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10038,7 +10038,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.919Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10060,7 +10060,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10082,7 +10082,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10104,7 +10104,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10126,7 +10126,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10148,7 +10148,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10170,7 +10170,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10192,7 +10192,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10214,7 +10214,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10236,7 +10236,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10258,7 +10258,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10280,7 +10280,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10303,7 +10303,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10325,7 +10325,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10347,7 +10347,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10369,7 +10369,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10391,7 +10391,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10413,7 +10413,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10435,7 +10435,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10457,7 +10457,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10479,7 +10479,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10501,7 +10501,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10524,7 +10524,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10546,7 +10546,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10568,7 +10568,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10590,7 +10590,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10612,7 +10612,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10634,7 +10634,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.813Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10656,7 +10656,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10679,7 +10679,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10701,7 +10701,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10723,7 +10723,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10745,7 +10745,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10761,13 +10761,13 @@
       "Extraction and space maintainer"
     ],
     "correctAnswer": 0,
-    "explanation": "Malamed’s *Handbook of Local Anesthesia* and the AAE trauma guidelines (adopted by the INBDE) state that for permanent teeth with open apices and traumatic exposures <1 mm that are recent (<1 hour) and asymptomatic, a Cvek partial pulpotomy using calcium‑hydroxide or MTA provides the highest success rate. Direct pulp capping is reserved for mature teeth with very small exposures and a pristine pulp, which is not the case here. Root canal therapy and extraction are indicated only for irreversible pulpitis or necrosis. Thus, option 0 (pulpotomy and permanent restoration) is the correct answer.",
+    "explanation": "Malamed’s *Handbook of Local Anesthesia* and the AAE trauma guidelines (adopted by the INBDE) state that for permanent teeth with open apices and traumatic exposures <1 mm that are recent (<1 hour) and asymptomatic, a Cvek partial pulpotomy using calcium‑hydroxide or MTA provides the highest success rate. Direct pulp capping is reserved for mature teeth with very small exposures and a pristine pulp, which is not the case here. Root canal therapy and extraction are indicated only for irreversible pulpitis or necrosis. Thus, Option A (pulpotomy and permanent restoration) is the correct answer.",
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10790,7 +10790,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10812,7 +10812,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10834,7 +10834,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10856,7 +10856,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10872,14 +10872,14 @@
       "Buccal nerve"
     ],
     "correctAnswer": 2,
-    "explanation": "Carranza’s *Clinical Periodontology* and the American Dental Association’s oral surgery guidelines note that the mental nerve supplies sensation to the skin of the lower lip and chin. While the inferior alveolar nerve runs within the mandibular canal and its injury produces paresthesia of the teeth, gingiva, and the mental‑nerve distribution, isolated lip/chin numbness without dental involvement points to a mental‑nerve lesion, often from trauma to the mental foramen during third‑molar removal. Therefore, the most specific structure injured is the mental nerve (option 2).",
+    "explanation": "Carranza’s *Clinical Periodontology* and the American Dental Association’s oral surgery guidelines note that the mental nerve supplies sensation to the skin of the lower lip and chin. While the inferior alveolar nerve runs within the mandibular canal and its injury produces paresthesia of the teeth, gingiva, and the mental‑nerve distribution, isolated lip/chin numbness without dental involvement points to a mental‑nerve lesion, often from trauma to the mental foramen during third‑molar removal. Therefore, the most specific structure injured is the mental nerve (Option C).",
     "aiFixed": true,
     "aiVerified": true,
     "inbdeVerified": true,
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10901,7 +10901,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10923,7 +10923,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10945,7 +10945,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10967,7 +10967,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -10989,7 +10989,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11011,7 +11011,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11033,7 +11033,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11056,7 +11056,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11078,7 +11078,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11101,7 +11101,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11123,7 +11123,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11145,7 +11145,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11167,7 +11167,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11189,7 +11189,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11211,7 +11211,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11233,7 +11233,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11255,7 +11255,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11278,7 +11278,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11300,7 +11300,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11323,7 +11323,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11346,7 +11346,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11369,7 +11369,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
@@ -11392,7 +11392,7 @@
     "inbdeStrictPass": true,
     "inbdeAudit": {
       "status": "PASS",
-      "verifiedAt": "2026-11-13T04:55:29.814Z",
+      "verifiedAt": "2026-11-13T05:06:33.920Z",
       "strictModelVersion": "JCNDE_INBDE_STRICT_V2",
       "flags": []
     }
