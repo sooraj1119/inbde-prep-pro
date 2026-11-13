@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dental Prep Pro: INBDE</string>
+    <string name="title_activity_main">Dental Prep Pro: INBDE</string>
+    <string name="package_name">com.inbde.dentalprep</string>
+    <string name="custom_url_scheme">com.inbde.dentalprep</string>
+</resources>
