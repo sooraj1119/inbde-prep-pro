@@ -418,7 +418,7 @@ function App() {
 
                 <div style={{ color: 'var(--text-secondary)', lineHeight: 1.5, fontSize: '0.85rem', marginBottom: '1.5rem', display: 'flex', flexDirection: 'column', gap: '0.65rem' }}>
                   <p>
-                    <strong>1. For Educational Exam Preparation Only (No Clinical Advice):</strong> This application is strictly an independent educational study aid designed exclusively for candidates preparing for the Assessment of Fundamental Knowledge (INBDE) dental examination. It does not provide medical, dental, diagnostic, surgical, or clinical advice. <strong>Strictly prohibited for real-world patient care, triage, or clinical decision-making.</strong>
+                    <strong>1. For Educational Exam Preparation Only (No Clinical Advice):</strong> This application is strictly an independent educational study aid designed exclusively for candidates preparing for the Integrated National Board Dental Examination (INBDE). It does not provide medical, dental, diagnostic, surgical, or clinical advice. <strong>Strictly prohibited for real-world patient care, triage, or clinical decision-making.</strong>
                   </p>
                   <p>
                     <strong>2. Artificial Intelligence Notice &amp; Duty to Verify:</strong> Practice questions, clinical rationales, and explanations are synthesized using Artificial Intelligence (AI) and simulated case models. <strong>AI models can make errors, miscalculate dosages, or hallucinate facts.</strong> You agree to independently verify all clinical concepts, drug dosages, and guidelines against standard dental reference textbooks (e.g., Malamed, Neville, Little &amp; Falace).
@@ -433,7 +433,7 @@ function App() {
                     <strong>5. Complete Release &amp; Limitation of Liability:</strong> Under no circumstances shall the developer or affiliates be liable for any direct, indirect, incidental, consequential, special, or punitive damages, exam failure fees, or clinical liabilities. Aggregate liability is strictly capped at the total amount actually paid by you for your subscription (in the applicable currency of purchase) in the preceding twelve (12) months, or zero ($0.00 in any currency) if you used the free tier.
                   </p>
                   <p style={{ fontStyle: 'italic', opacity: 0.9, fontSize: '0.78rem', margin: '0.25rem 0' }}>
-                    <strong>6. Trademark Notice &amp; Non-Affiliation:</strong> INBDE&reg; and INBDE&reg; are registered trademarks of the National Dental Examining Board of Canada. This application is an independent study resource published by third-party educators and is <strong>not affiliated with, associated with, sponsored by, or endorsed by the INBDE</strong> or CDAC.
+                    <strong>6. Trademark Notice &amp; Non-Affiliation:</strong> INBDE&reg; is a registered trademark of the Joint Commission on National Dental Examinations (JCNDE) and the American Dental Association (ADA). This application is an independent study resource published by third-party educators and is <strong>not affiliated with, associated with, sponsored by, or endorsed by the JCNDE, ADA</strong>, or any licensing authority.
                   </p>
                   <p style={{ fontSize: '0.78rem', color: 'var(--text-muted)', margin: 0 }}>
                     By clicking &ldquo;I Understand and Agree&rdquo;, you acknowledge that you have read, understood, and agree to these terms, our Terms of Use (EULA), and Privacy Policy.
@@ -815,7 +815,7 @@ function App() {
             Questions and explanations are simulated and AI-assisted. The developers make no guarantee or warranty that using this app will result in passing the INBDE exam. Always verify clinical facts with standard peer-reviewed literature.
           </p>
           <p style={{ margin: 0, fontSize: '0.8rem', fontStyle: 'italic', opacity: 0.8 }}>
-            <strong>Trademark Notice:</strong> INBDE&reg; and INBDE&reg; are registered trademarks of the National Dental Examining Board of Canada. This application is an independent study tool and is not affiliated with, endorsed by, or sponsored by the INBDE or CDAC.
+            <strong>Trademark Notice:</strong> INBDE&reg; is a registered trademark of the Joint Commission on National Dental Examinations (JCNDE) and the American Dental Association (ADA). This application is an independent study tool and is not affiliated with, endorsed by, or sponsored by the JCNDE or ADA.
           </p>
 
           <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1.25rem', marginTop: '0.5rem', flexWrap: 'wrap' }}>
