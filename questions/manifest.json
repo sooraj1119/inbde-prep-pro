@@ -1,0 +1,58 @@
+[
+  {
+    "id": "anatomical-sciences",
+    "count": 1000
+  },
+  {
+    "id": "biochemistry-physiology",
+    "count": 500
+  },
+  {
+    "id": "microbiology-immunology",
+    "count": 500
+  },
+  {
+    "id": "general-pathology",
+    "count": 1000
+  },
+  {
+    "id": "oral-pathology-medicine",
+    "count": 1500
+  },
+  {
+    "id": "pharmacology-anesthesia",
+    "count": 2000
+  },
+  {
+    "id": "operative-materials",
+    "count": 1500
+  },
+  {
+    "id": "periodontics",
+    "count": 500
+  },
+  {
+    "id": "endodontics",
+    "count": 500
+  },
+  {
+    "id": "prosthodontics-implants",
+    "count": 1500
+  },
+  {
+    "id": "oral-surgery-emergencies",
+    "count": 1000
+  },
+  {
+    "id": "orthodontics-pedodontics",
+    "count": 1000
+  },
+  {
+    "id": "oral-radiology",
+    "count": 500
+  },
+  {
+    "id": "patient-management-ethics",
+    "count": 1000
+  }
+]

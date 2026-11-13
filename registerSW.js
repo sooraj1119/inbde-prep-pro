@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/inbde-prep-pro/sw.js', { scope: '/inbde-prep-pro/' })})}

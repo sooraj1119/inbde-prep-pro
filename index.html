@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/inbde-prep-pro/favicon.ico" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <link rel="manifest" href="/inbde-prep-pro/manifest.json" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0284c7" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <title>Dental Prep Pro: for INBDE</title>
+
+    <!-- Dark mode BEFORE first paint (uses same key as App.tsx: inbde_theme) -->
+    <script>
+      (function() {
+        var stored = localStorage.getItem('inbde_theme') || localStorage.getItem('ndeb_theme');
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (stored === 'dark' || (!stored && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+
+    <style>html body [class*=VIpgJd],html body .VIpgJd-ZVi9od-aZ2wEe-wOHMyf,html body .VIpgJd-ZVi9od-aZ2wEe-OiiCO,html body .VIpgJd-ZVi9od-aZ2wEe,html body .VIpgJd-ZVi9od-ORHb-OEVmcd,html body .VIpgJd-yAWNEb-hvhgNd-THIOPb,html body .goog-te-banner-frame,html body .goog-te-balloon-frame,html body .goog-te-gadget,html body .goog-te-gadget-simple,html body .goog-te-gadget-icon,html body .goog-tooltip,html body .goog-tooltip-skiptranslate,html body #goog-gt-tt,html body #goog-gt-vt,html body #google_translate_element,html body iframe.skiptranslate,html body .skiptranslate>iframe.skiptranslate{visibility:hidden!important;opacity:0!important;z-index:-99999!important;pointer-events:none!important;width:0!important;max-width:0!important;height:0!important;max-height:0!important;display:none!important;position:absolute!important;top:-9999px!important;left:-9999px!important;overflow:hidden!important}body{margin-top:0!important;position:static!important;top:0!important}.goog-text-highlight{box-shadow:none!important;background:0 0!important}</style>
+    <script>
+      (function() {
+        function hideGTWidget() {
+          var els = document.querySelectorAll('[class*="VIpgJd"], .goog-te-banner-frame, #goog-gt-tt, .goog-te-balloon-frame');
+          for (var i = 0; i < els.length; i++) {
+            els[i].style.setProperty('display', 'none', 'important');
+            els[i].style.setProperty('visibility', 'hidden', 'important');
+            els[i].style.setProperty('opacity', '0', 'important');
+            els[i].style.setProperty('pointer-events', 'none', 'important');
+          }
+        }
+        if (typeof MutationObserver !== 'undefined') {
+          var observer = new MutationObserver(hideGTWidget);
+          observer.observe(document.documentElement, { childList: true, subtree: true });
+        }
+        window.addEventListener('DOMContentLoaded', hideGTWidget);
+        window.addEventListener('load', hideGTWidget);
+      })();
+    </script>
+      <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+          for(let registration of registrations) {
+            registration.unregister();
+            console.log('Unregistered old service worker');
+          }
+        });
+      }
+    </script>
+    <script type="module" crossorigin src="/inbde-prep-pro/assets/index-CQdL3Ux8.js"></script>
+    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/dist-Btb5Jv1E.js">
+    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/storage-Xstzkset.js">
+    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/dist-D0bZphAR.js">
+    <link rel="modulepreload" crossorigin href="/inbde-prep-pro/assets/revenuecat-LaV02BIt.js">
+    <link rel="stylesheet" crossorigin href="/inbde-prep-pro/assets/index-DkDoMZn9.css">
+  <link rel="manifest" href="/inbde-prep-pro/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/inbde-prep-pro/registerSW.js"></script></head>
+
+  <body>
+    <!-- Google Translate widget — outside React root so React never destroys it -->
+    <div id="google_translate_element" style="display:none;"></div>
+    <div id="root"></div>
+
+    <!--
+      Monkey-patch to prevent React crashes from Google Translate DOM mutations.
+      Google Translate wraps text nodes in <font> tags. React then tries to
+      removeChild / insertBefore those modified nodes and throws NotFoundError.
+
+      Improvements over naive patch:
+      - removeChild: delegates to the node's actual parent so it always removes,
+        rather than silently no-oping and leaving ghost text.
+      - insertBefore: only falls back to append when reference was reparented,
+        which is rare; normal insertions are unaffected.
+    -->
+    <script>
+      if (typeof Node === 'function' && Node.prototype) {
+        const _removeChild = Node.prototype.removeChild;
+        Node.prototype.removeChild = function(child) {
+          if (child && child.parentNode !== this) {
+            // Under Google Translate, nodes are reparented into <font> tags.
+            // DO NOT delete from child.parentNode as that deletes legitimate DOM elements.
+            // Safely bypass by returning child so React continues diffing without crash.
+            return child;
+          }
+          return _removeChild.apply(this, arguments);
+        };
+
+        const _insertBefore = Node.prototype.insertBefore;
+        Node.prototype.insertBefore = function(newNode, refNode) {
+          if (refNode && refNode.parentNode !== this) {
+            // Under Google Translate, refNode might be inside a <font> tag.
+            // Safely append to this rather than crashing or reparenting destructively.
+            if (this && typeof this.appendChild === 'function') {
+              try {
+                return this.appendChild(newNode);
+              } catch (e) {
+                return newNode;
+              }
+            }
+            return newNode;
+          }
+          return _insertBefore.apply(this, arguments);
+        };
+      }
+    </script>
+
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'en',
+          includedLanguages: 'en,fr',
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        }, 'google_translate_element');
+      }
+    </script>
+    <!-- async defer: never blocks React startup, even on slow connections -->
+    <script async defer id="google-translate-script" type="text/javascript"
+      src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
+  </body>
+</html>
+
