@@ -1088,7 +1088,7 @@
       "Lipopolysaccharide"
     ],
     "correctAnswer": 1,
-    "explanation": "Fimbriae (pili) are protein appendages that extend from the bacterial cell surface and are crucial for initial attachment to host cells and surfaces, a prerequisite for biofilm formation. Peptidoglycan is a structural component of the cell wall, LPS is an endotoxin in Gram-negative bacteria, and teichoic acid is found in Gram-positive cell walls but is not primarily an adhesin.",
+    "explanation": "Fimbriae (pili) are protein appendages that extend from the bacterial cell surface and are crucial for initial attachment to host cells and surfaces, a prerequisite for biofilm formation. Peptidoglycan is a structural component of the cell wall, LPS is an endotoxin Gram-negative bacteria, and teichoic acid is found in Gram-positive cell walls but is not primarily an adhesin.",
     "aiVerified": true
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "id": "microbiology-immunology-85",
     "topicId": "microbiology-immunology",
-    "question": "The transfer of genetic material from one bacterium to another via a bacteriophage is known as:",
+    "question": "The transfer of genetic material from one bacterium to another via bacteriophage is known as:",
     "options": [
       "Transformation",
       "Transduction",
@@ -1186,7 +1186,7 @@
       "Transposition"
     ],
     "correctAnswer": 1,
-    "explanation": "Transduction is the process where bacteriophages (viruses that infect bacteria) transfer bacterial DNA from one bacterium to another. Transformation involves the uptake of naked DNA from the environment, and conjugation is the direct transfer of DNA via a pilus. Transposition refers to the movement of DNA segments within a genome.",
+    "explanation": "Transduction is the process where bacteriophages (viruses that infect bacteria) transfer bacterial DNA from one bacterium to another. Transformation involves the uptake of naked DNA from the environment, and conjugation is the direct transfer of DNA via pilus. Transposition refers to the movement of DNA segments within a genome.",
     "aiVerified": true
   },
   {
@@ -1376,7 +1376,7 @@
     "id": "microbiology-immunology-99",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following hepatitis viruses poses the highest risk of occupational transmission to dental healthcare personnel via a percutaneous needlestick injury if the source patient is positive and no post-exposure prophylaxis is administered?",
+    "question": "Which of the following hepatitis viruses poses the highest risk of occupational transmission to dental healthcare personnel via percutaneous needlestick injury if the source patient is positive and no post-exposure prophylaxis is administered?",
     "options": [
       "Hepatitis A virus (HAV)",
       "Hepatitis E virus (HEV)",
@@ -1811,7 +1811,7 @@
     "id": "microbiology-immunology-128",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A dental health care worker experiences a needle-stick injury from a patient known to be chronically infected with Hepatitis B. Baseline testing reveals the health worker is completely non-immune (HBsAg negative, anti-HBs negative, anti-HBc negative). According to current Canadian immunization guidelines, what is the most appropriate immediate post-exposure management?",
+    "question": "A dental health care worker experiences a needle-stick injury from a patient known to be chronically infected with Hepatitis B. Baseline testing reveals the health worker is completely non-immune (HBsAg negative, anti-HBs negative, anti-HBc negative). According to current US immunization guidelines, what is the most appropriate immediate post-exposure management?",
     "options": [
       "Hepatitis B vaccination series only",
       "Observation and repeat titers in 6 months",
@@ -2516,7 +2516,7 @@
     "id": "microbiology-immunology-175",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine sterilization monitoring of a steam autoclave in a dental clinic, biological indicators containing which of the following bacterial spores are mandated by Canadian infection control standards?",
+    "question": "During routine sterilization monitoring of a steam autoclave in a dental clinic, biological indicators containing which of the following bacterial spores are mandated by US infection control standards?",
     "options": [
       "Bacillus subtilis",
       "Bacillus atrophaeus",
@@ -2644,7 +2644,7 @@
       "Histoplasma capsulatum"
     ],
     "correctAnswer": 3,
-    "explanation": "Histoplasma capsulatum is an intracellular dimorphic fungus endemic to the Ohio and Mississippi River valleys (and parts of Central/Eastern Canada). In chronic disseminated histoplasmosis, oral lesions often present as painful, indurated granulomatous ulcerations on the tongue or buccal mucosa that clinically mimic squamous cell carcinoma. Histopathologically, it is identified by small (2–4 μm) intracellular yeast cells with narrow-based budding typically clustered within macrophages and multinucleated giant cells.\n\nWhy the other options are incorrect:\n- Option 0 (Candida albicans): A polymorphic fungal organism that exists as pseudohyphae and true hyphae with blastoconidia, characteristically causing superficial mucosal plaques rather than deep granulomatous ulcerations.\n- Option 1 (Cryptococcus neoformans): A narrow-based budding yeast characterized by a prominent, thick gelatinous mucopolysaccharide capsule visible on mucicarmine or India ink stains, rarely producing primary deep granulomatous ulcerations mimicking carcinoma.\n- Option 2 (Blastomyces dermatitidis): A dimorphic fungus that characteristically exhibits large (8–15 μm) yeast cells with thick double-contoured refractile walls and BROAD-based budding, distinguishing it from Histoplasma.",
+    "explanation": "Histoplasma capsulatum is an intracellular dimorphic fungus endemic to the Ohio and Mississippi River valleys . In chronic disseminated histoplasmosis, oral lesions often present as painful, indurated granulomatous ulcerations on the tongue or buccal mucosa that clinically mimic squamous cell carcinoma. Histopathologically, it is identified by small (2–4 μm) intracellular yeast cells with narrow-based budding typically clustered within macrophages and multinucleated giant cells. Why the other options are incorrect: - Option 0 (Candida albicans): A polymorphic fungal organism that exists as pseudohyphae and true hyphae with blastoconidia, characteristically causing superficial mucosal plaques rather than deep granulomatous ulcerations. - Option 1 (Cryptococcus neoformans): A narrow-based budding yeast characterized by a prominent, thick gelatinous mucopolysaccharide capsule visible on mucicarmine or India ink stains, rarely producing primary deep granulomatous ulcerations mimicking carcinoma. - Option 2 (Blastomyces dermatitidis): A dimorphic fungus that characteristically exhibits large (8–15 μm) yeast cells with thick double-contoured refractile walls and BROAD-based budding, distinguishing it from Histoplasma.",
     "aiVerified": true
   },
   {
@@ -2862,7 +2862,7 @@
     "id": "microbiology-immunology-198",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 50-year-old male with a history of rheumatic heart disease is scheduled for multiple dental extractions. According to current AHA and Canadian cardiovascular guidelines, which of the following scenarios mandates pre-procedural antibiotic prophylaxis?",
+    "question": "A 50-year-old male with a history of rheumatic heart disease is scheduled for multiple dental extractions. According to current AHA and US cardiovascular guidelines, which of the following scenarios mandates pre-procedural antibiotic prophylaxis?",
     "options": [
       "Mitral valve prolapse with regurgitation",
       "Bicuspid aortic valve disease",
@@ -2967,7 +2967,7 @@
     "id": "microbiology-immunology-205",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 25-year-old dental hygienist experiences a percutaneous needlestick injury using a needle that was just used on a patient chronically infected with Hepatitis B. The hygienist completed the full vaccination series 3 years ago and documentation shows a documented protective antibody titer (>10 IU/L). What is the appropriate post-exposure management according to current Canadian health guidelines?",
+    "question": "A 25-year-old dental hygienist experiences a percutaneous needlestick injury using a needle that was just used on a patient chronically infected with Hepatitis B. The hygienist completed the full vaccination series 3 years ago and documentation shows a documented protective antibody titer (>10 IU/L). What is the appropriate post-exposure management according to current US health guidelines?",
     "options": [
       "No post-exposure prophylaxis (PEP) or booster is necessary since the baseline titer is protective.",
       "Administer HBIG only within 24 hours.",
@@ -2975,7 +2975,7 @@
       "Administer Hepatitis B immune globulin (HBIG) and initiate a repeat vaccine series immediately."
     ],
     "correctAnswer": 0,
-    "explanation": "According to Canadian immunization and occupational health guidelines, healthcare workers with documented proof of a protective anti-HBS response (>10 IU/L) following a complete primary vaccination series require no further post-exposure prophylaxis or testing following a needlestick exposure from an HBsAg-positive source, as immunological memory protects them.",
+    "explanation": "According to US immunization and occupational health guidelines, healthcare workers with documented proof a protective anti-HBS response (>10 IU/L) following a complete primary vaccination series require no further post-exposure prophylaxis or testing following a needlestick exposure from an HBsAg-positive source, as immunological memory protects them.",
     "aiVerified": true
   },
   {
@@ -2997,7 +2997,7 @@
     "id": "microbiology-immunology-207",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following sterilization monitoring methods provides the absolute highest level of quality assurance and definitive proof of the destruction of all microbial life, including highly resistant bacterial endospores?",
+    "question": "Which of the following sterilization monitoring methods provides the absolute highest level of quality assurance and definitive proof the destruction of all microbial life, including highly resistant bacterial endospores?",
     "options": [
       "Chemical indicator strips (Class 4 or 5)",
       "Biological indicators containing Bacillus atrophaeus spores",
@@ -3237,7 +3237,7 @@
     "id": "microbiology-immunology-223",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "According to Canadian infection prevention and control (IPAC) guidelines for dentistry, what is the primary purpose of biological indicators (spore tests) containing Geobacillus stearothermophilus or Bacillus atrophaeus?",
+    "question": "According to US infection prevention and control (IPAC) guidelines for dentistry, what is the primary purpose of biological indicators (spore tests) containing Geobacillus stearothermophilus or Bacillus atrophaeus?",
     "options": [
       "To provide real-time continuous readout of the chemical sterilizing agent concentration inside the chamber",
       "To test for the presence of chemical residues on instruments following a washer-disinfector cycle",
@@ -3410,7 +3410,7 @@
       "Mechanical gauges (temperature and pressure)"
     ],
     "correctAnswer": 1,
-    "explanation": "Biological indicators containing heat-resistant spores of Geobacillus stearothermophilus provide the only direct and definitive proof of sterilization efficacy. Chemical and mechanical indicators monitor parameters like temperature, pressure, and exposure time but do not guarantee microbial death.",
+    "explanation": "Biological indicators containing heat-resistant spores of Geobacillus stearothermophilus provide the only direct and definitive proof sterilization efficacy. Chemical and mechanical indicators monitor parameters like temperature, pressure, and exposure time but do not guarantee microbial death.",
     "aiVerified": true
   },
   {
@@ -3627,7 +3627,7 @@
     "id": "microbiology-immunology-249",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 65-year-old male with a prosthetic heart valve requires invasive periodontal scaling. According to current AHA and Canadian cardiovascular guidelines, which of the following best describes the recommendation for antibiotic prophylaxis to prevent infective endocarditis?",
+    "question": "A 65-year-old male with a prosthetic heart valve requires invasive periodontal scaling. According to current AHA and US cardiovascular guidelines, which of the following best describes the recommendation for antibiotic prophylaxis to prevent infective endocarditis?",
     "options": [
       "Indicated exclusively for patients with a history of rheumatic heart fever",
       "Recommended only for patients with the highest risk of adverse outcomes from infective endocarditis",
@@ -3747,7 +3747,7 @@
     "id": "microbiology-immunology-257",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which of the following hepatitis viruses poses the highest risk of occupational transmission via a percutaneous needle-stick injury in a dental setting when the source patient is HBeAg positive, assuming the healthcare worker is completely unvaccinated?",
+    "question": "Which of the following hepatitis viruses poses the highest risk of occupational transmission via percutaneous needle-stick injury in a dental setting when the source patient is HBeAg positive, assuming the healthcare worker is completely unvaccinated?",
     "options": [
       "Hepatitis B virus",
       "Hepatitis A virus",
@@ -3755,7 +3755,7 @@
       "Hepatitis C virus"
     ],
     "correctAnswer": 0,
-    "explanation": "Hepatitis B virus (HBV) carries the highest risk of occupational transmission via a percutaneous needle-stick injury (approximately 22-30% if the source is HBeAg positive) compared to Hepatitis C (~1.8%) and HIV (~0.3%). Hepatitis A and E are primarily transmitted via the fecal-oral route and do not pose a primary percutaneous transmission risk in the dental office.",
+    "explanation": "Hepatitis B virus (HBV) carries the highest risk of occupational transmission via percutaneous needle-stick injury (approximately 22-30% if the source is HBeAg positive) compared to Hepatitis C (~1.8%) and HIV (~0.3%). Hepatitis A and E are primarily transmitted via the fecal-oral route and do not pose a primary percutaneous transmission risk in the dental office.",
     "aiVerified": true
   },
   {
@@ -3897,7 +3897,7 @@
     "id": "microbiology-immunology-267",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "Which sterilization method is the most reliable, cost-effective, and universally recommended technique for heat-tolerant critical and semi-critical dental instruments in Canadian clinical practice?",
+    "question": "Which sterilization method is the most reliable, cost-effective, and universally recommended technique for heat-tolerant critical and semi-critical dental instruments in US clinical practice?",
     "options": [
       "Unsaturated chemical vapor sterilization",
       "Steam under pressure (Autoclaving)",
@@ -4085,7 +4085,7 @@
       "500 CFU/mL"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is 500 CFU/mL. The Centers for Disease Control and Prevention (CDC) and the American Dental Association (ADA) recommend that dental unit water (DUW) used for routine non-surgical dental treatment should meet the standard for drinking water, which is defined as less than or equal to 500 CFU/mL of heterotrophic water bacteria. This standard is based on the US EPA and Canadian drinking water guidelines for total heterotrophic plate count. \n\nWhy the other options are incorrect:\n- 200 CFU/mL: This is not the standard threshold for routine non-surgical procedures. While some guidelines suggest lower counts for specific high-risk patients or surgical procedures, 500 CFU/mL is the general regulatory benchmark.\n- 10 CFU/mL: This is the recommended limit for water used in surgical procedures (e.g., implant placement, periodontal surgery) or for immunocompromised patients, not for routine non-surgical care.\n- 1,000,000 CFU/mL: This count is significantly higher than the drinking water standard and indicates severe biofilm contamination, posing a high risk of infection and is unacceptable for any dental procedure.",
+    "explanation": "The correct answer is 500 CFU/mL. The Centers for Disease Control and Prevention (CDC) and the American Dental Association (ADA) recommend that dental unit water (DUW) used for routine non-surgical dental treatment should meet the standard for drinking water, which is defined as less than or equal to 500 CFU/mL of heterotrophic water bacteria. This standard is based on the US EPA and US drinking water guidelines for total heterotrophic plate count. Why the other options are incorrect: - 200 CFU/mL: This is not the standard threshold for routine non-surgical procedures. While some guidelines suggest lower counts for specific high-risk patients or surgical procedures, 500 CFU/mL is the general regulatory benchmark. - 10 CFU/mL: This is the recommended limit for water used in surgical procedures (e.g., implant placement, periodontal surgery) or for immunocompromised patients, not for routine non-surgical care. - 1,000,000 CFU/mL: This count is significantly higher than the drinking water standard and indicates severe biofilm contamination, posing a high risk of infection and is unacceptable for any dental procedure.",
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
   },
@@ -4393,7 +4393,7 @@
     "id": "microbiology-immunology-300",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A dental laboratory receives an impression that has been contaminated with blood and saliva. According to Canadian infection control standards, what is the most appropriate initial protocol before shipping or pouring the impression?",
+    "question": "A dental laboratory receives an impression that has been contaminated with blood and saliva. According to US infection control standards, what is the most appropriate initial protocol before shipping or pouring the impression?",
     "options": [
       "Immerse in a high-level disinfectant for 24 hours",
       "Rinse with water only to remove visible debris",
@@ -4461,7 +4461,7 @@
       "Tzanck smear"
     ],
     "correctAnswer": 0,
-    "explanation": "Oral candidiasis (thrush) is clinically diagnosed and confirmed via a fungal culture on Sabouraud dextrose agar or a potassium hydroxide (KOH) preparation/Gram stain showing characteristic yeast cells and pseudohyphae. A Tzanck smear is used for herpesviruses, an acid-fast stain for mycobacteria, and dark-field microscopy for spirochetes like Treponema pallidum.",
+    "explanation": "Oral candidiasis (thrush) is clinically diagnosed and confirmed via fungal culture on Sabouraud dextrose agar or a potassium hydroxide (KOH) preparation/Gram stain showing characteristic yeast cells and pseudohyphae. A Tzanck smear is used for herpesviruses, an acid-fast stain for mycobacteria, and dark-field microscopy for spirochetes like Treponema pallidum.",
     "aiVerified": true
   },
   {
@@ -4513,7 +4513,7 @@
     "id": "microbiology-immunology-308",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 24-year-old dental hygiene student experiences an accidental percutaneous puncture with a barbed broach used on a patient with unknown serological status. According to current Canadian infection prevention and control (IPAC) guidelines, what is the immediate priority management step?",
+    "question": "A 24-year-old dental hygiene student experiences an accidental percutaneous puncture with a barbed broach used on a patient with unknown serological status. According to current US infection prevention and control (IPAC) guidelines, what is the immediate priority management step?",
     "options": [
       "Immediately prescribe a prophylactic course of broad-spectrum systemic antibiotics.",
       "Squeeze the wound vigorously to express as much blood as possible.",
@@ -4551,7 +4551,7 @@
       "Porphyromonas gingivalis"
     ],
     "correctAnswer": 2,
-    "explanation": "Histoplasma capsulatum is a dimorphic fungus endemic to the Ohio and Mississippi river valleys (and parts of central Canada) that can cause chronic, painful oral ulcers mimicking malignancy. Streptococcus mutans and Lactobacillus are cariogenic bacteria, while Porphyromonas gingivalis is a primary periodontal pathogen.",
+    "explanation": "Histoplasma capsulatum is a dimorphic fungus endemic to the Ohio and Mississippi river valleys that can cause chronic, painful oral ulcers mimicking malignancy. Streptococcus mutans and Lactobacillus are cariogenic bacteria, while Porphyromonas gingivalis is a primary periodontal pathogen.",
     "aiVerified": true
   },
   {
@@ -4573,7 +4573,7 @@
     "id": "microbiology-immunology-312",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 45-year-old patient develops a severe pseudomembranous colitis following a 10-day course of clindamycin prescribed for a odontogenic infection. Laboratory tests detect a bacterial exotoxin in the stool. What is the primary mechanism of action of the causative organism's major cytotoxins?",
+    "question": "A 45-year-old patient develops a severe pseudomembranous colitis following a 10-day course of clindamycin prescribed for a odontogenic infection. Laboratory tests detect a bacterial exotoxin the stool. What is the primary mechanism of action of the causative organism's major cytotoxins?",
     "options": [
       "Direct lysis of host cell membranes via pore formation",
       "Glucosylation of Rho family GTPases causing actin cytoskeleton disruption",
@@ -4603,7 +4603,7 @@
     "id": "microbiology-immunology-314",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A patient with a history of rheumatic fever requires antibiotic prophylaxis prior to certain invasive dental procedures according to current AHA and Canadian cardiovascular guidelines. Which organism is the primary etiologic agent responsible for the initial pharyngeal infection that leads to rheumatic fever?",
+    "question": "A patient with a history of rheumatic fever requires antibiotic prophylaxis prior to certain invasive dental procedures according to current AHA and US cardiovascular guidelines. Which organism is the primary etiologic agent responsible for the initial pharyngeal infection that leads to rheumatic fever?",
     "options": [
       "Viridans group streptococci",
       "Streptococcus pyogenes",
@@ -4671,7 +4671,7 @@
       "Clostridium tetani"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Geobacillus stearothermophilus (formerly Bacillus stearothermophilus). According to CDC and OSHA infection control guidelines (ADA) and standard sterilization protocols (referenced in texts such as Malamed and Phillips), biological indicators for steam sterilization (autoclaves) must contain spores of Geobacillus stearothermophilus. This organism is selected because its endospores are highly resistant to moist heat, making it the most challenging microorganism to kill under steam sterilization conditions; if the spores are killed, it is assumed that all other microorganisms, including viruses and bacteria, have been inactivated. \n\nOption 0 (Bacillus atrophaeus) is incorrect because it is the standard biological indicator for dry heat sterilization and low-temperature hydrogen peroxide gas plasma sterilization, not steam autoclaving. \nOption 2 (Bacillus subtilis) is incorrect as it is generally used for chemical indicator testing or as a model organism in research, but it is not the mandated biological indicator for steam sterilization validation. \nOption 3 (Clostridium tetani) is incorrect because, while it is an anaerobic spore-forming bacterium, it is not used as a biological indicator for steam sterilization due to its specific growth requirements and lack of standardized resistance profiles for this purpose compared to G. stearothermophilus.",
+    "explanation": "The correct answer is Geobacillus stearothermophilus (formerly Bacillus stearothermophilus). According to CDC and OSHA infection control guidelines (ADA) and standard sterilization protocols (referenced in texts such as Malamed and Phillips), biological indicators for steam sterilization (autoclaves) must contain spores of Geobacillus stearothermophilus. This organism is selected because its endospores are highly resistant to moist heat, making it the most challenging microorganism to kill under steam sterilization conditions; if the spores are killed, it is assumed that all other microorganisms, including viruses and bacteria, have been inactivated. Option 0 (Bacillus atrophaeus) is incorrect because it is the standard biological indicator for dry heat sterilization and low-temperature hydrogen peroxide gas plasma sterilization, not steam autoclaving. Option 2 (Bacillus subtilis) is incorrect as it is generally used for chemical indicator testing or as a model organism in research, but it is not the mandated biological indicator for steam sterilization validation. Option 3 (Clostridium tetani) is incorrect because, while it is an anaerobic spore-forming bacterium, it is not used as a biological indicator for steam sterilization due to its specific growth requirements and lack of standardized resistance profiles for this purpose compared to G. stearothermophilus.",
     "aiVerified": true
   },
   {
@@ -5399,7 +5399,7 @@
     "id": "microbiology-immunology-367",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A 45-year-old immunocompromised patient develops severe oral thrush and systemic candidiasis resistant to standard azole therapy (e.g., fluconazole). Which antifungal agent is considered the gold standard intravenous medication for treating severe, invasive systemic fungal infections in Canadian hospital settings?",
+    "question": "A 45-year-old immunocompromised patient develops severe oral thrush and systemic candidiasis resistant to standard azole therapy (e.g., fluconazole). Which antifungal agent is considered the gold standard intravenous medication for treating severe, invasive systemic fungal infections in US hospital settings?",
     "options": [
       "Nystatin",
       "Penicillin V",
@@ -5522,7 +5522,7 @@
     "question": "A 45-year-old male with a history of intravenous drug use requires extensive scaling and root planing. He states he has chronic hepatitis C. Which of the following statements regarding Hepatitis C transmission and management in the dental office is correct?",
     "options": [
       "Standard precautions are fully effective for preventing transmission, and no specific vaccine is currently available.",
-      "Routine standard precautions are insufficient; double-gloving is strictly mandated by Canadian law.",
+      "Routine standard precautions are insufficient; double-gloving is strictly mandated by US law.",
       "Transmission via saliva is the primary mode of spread in a dental clinic setting.",
       "Prophylactic immune globulin must be administered to the dentist immediately following any exposure."
     ],
@@ -5851,7 +5851,7 @@
     "id": "microbiology-immunology-397",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "A dental health care worker experiences a percutaneous needle-stick injury from a patient known to be infected with HIV. According to current Canadian post-exposure prophylaxis (PEP) protocols, what is the most appropriate immediate local management of the wound?",
+    "question": "A dental health care worker experiences a percutaneous needle-stick injury from a patient known to be infected with HIV. According to current US post-exposure prophylaxis (PEP) protocols, what is the most appropriate immediate local management of the wound?",
     "options": [
       "Wash the wound immediately with soap and water, avoiding caustic agents or bleach.",
       "Immerse the finger in a 10% sodium hypochlorite solution for 5 minutes.",
@@ -5896,7 +5896,7 @@
     "id": "microbiology-immunology-400",
     "topicId": "microbiology-immunology",
     "difficulty": "medium",
-    "question": "During routine dental waterline testing in a dental clinic, heterotrophic plate counts exceed the CDC/EPA regulatory threshold of 200 CFU/mL. Which organism is most commonly associated with untreated dental unit waterlines and poses a significant opportunistic threat to immunocompromised patients?",
+    "question": "During routine dental waterline testing in a dental clinic, heterotrophic plate counts exceed the CDC/EPA regulatory EPA/CDC threshold of ≤ 500 CFU/mL. Which organism is most commonly associated with untreated dental unit waterlines and poses a significant opportunistic threat to immunocompromised patients?",
     "options": [
       "Treponema pallidum",
       "Escherichia coli",
@@ -5994,7 +5994,7 @@
       "Bacillus atrophaeus"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is Geobacillus stearothermophilus (Option 1). According to dental infection control standards (ADA) and international guidelines (CDC, WHO), Geobacillus stearothermophilus is the standard biological indicator (spore test) used to monitor the efficacy of steam sterilization (autoclaving). This organism is selected because its endospores are highly resistant to moist heat, making them a reliable surrogate for the most resistant microorganisms likely to be present in dental instruments. If the spores of G. stearothermophilus are killed under specific autoclave conditions (typically 121°C for 15 minutes or 134°C for 3-4 minutes), it is assumed that all other pathogenic microorganisms, including bacterial spores, viruses, and fungi, have also been destroyed.\n\nWhy the other options are incorrect:\n- Option 0 (Bacillus subtilis): While B. subtilis is a common bacterium, its spores are not sufficiently heat-resistant to serve as a reliable indicator for steam sterilization. It is more commonly associated with dry heat sterilization monitoring in some contexts or as a general laboratory organism, but it is not the standard for autoclave validation.\n- Option 2 (Clostridium sporogenes): This organism is primarily used as a biological indicator for low-temperature sterilization methods, such as hydrogen peroxide plasma or ethylene oxide, rather than steam sterilization. Its spores are not the standard reference for moist heat resistance.\n- Option 3 (Bacillus atrophaeus): This organism is the standard biological indicator for dry heat sterilization (e.g., hot air ovens) and ethylene oxide sterilization. It is not used for steam sterilization monitoring because its heat resistance profile does not match the requirements for validating moist heat processes.",
+    "explanation": "The correct answer is Geobacillus stearothermophilus (Option 1). According to dental infection control standards (ADA) and international guidelines (CDC, WHO), Geobacillus stearothermophilus is the standard biological indicator (spore test) used to monitor the efficacy of steam sterilization (autoclaving). This organism is selected because its endospores are highly resistant to moist heat, making them a reliable surrogate for the most resistant microorganisms likely to be present in dental instruments. If the spores of G. stearothermophilus are killed under specific autoclave conditions (typically 121°C for 15 minutes or 134°C for 3-4 minutes), it is assumed that all other pathogenic microorganisms, including bacterial spores, viruses, and fungi, have also been destroyed. Why the other options are incorrect: - Option 0 (Bacillus subtilis): While B. subtilis is a common bacterium, its spores are not sufficiently heat-resistant to serve as a reliable indicator for steam sterilization. It is more commonly associated with dry heat sterilization monitoring in some contexts or as a general laboratory organism, but it is not the standard for autoclave validation. - Option 2 (Clostridium sporogenes): This organism is primarily used as a biological indicator for low-temperature sterilization methods, such as hydrogen peroxide plasma or ethylene oxide, rather than steam sterilization. Its spores are not the standard reference for moist heat resistance. - Option 3 (Bacillus atrophaeus): This organism is the standard biological indicator for dry heat sterilization (e.g., hot air ovens) and ethylene oxide sterilization. It is not used for steam sterilization monitoring because its heat resistance profile does not match the requirements for validating moist heat processes.",
     "aiVerified": true
   },
   {
@@ -6441,7 +6441,7 @@
       "Restore with an amalgam restoration."
     ],
     "correctAnswer": 2,
-    "explanation": "A deep occlusal pit with a radiolucency extending into the outer third of dentin, even without explorer stick, indicates a carious lesion that warrants intervention beyond just monitoring or fluoride varnish. A preventative resin restoration (PRR) is appropriate for incipient lesions confined to enamel and outer dentin in pits and fissures, preserving tooth structure while removing localized caries. An amalgam restoration would be considered for more extensive cavitated lesions.",
+    "explanation": "A deep occlusal pit with a radiolucency extending into the outer third of dentin, even without explorer stick, indicates a carious lesion that warrants intervention beyond just monitoring or fluoride varnish. A preventative resin restoration (PRR) is appropriate for incipient lesions confined to enamel and outer dentin pits and fissures, preserving tooth structure while removing localized caries. An amalgam restoration would be considered for more extensive cavitated lesions.",
     "aiVerified": true
   },
   {
@@ -6475,7 +6475,7 @@
   {
     "id": "microbiology-immunology-439",
     "topicId": "microbiology-immunology",
-    "question": "A 38-year-old male patient presents with severe, spontaneous, throbbing pain in the mandibular right quadrant that worsens with heat and keeps him awake at night. The pain is localized to tooth #30. Clinically, tooth #30 has a deep restoration, is tender to percussion, and shows a sustained positive response to a cold test that lingers for more than 30 seconds. Radiographically, there is no periapical radiolucency. What is the MOST appropriate diagnosis?",
+    "question": "A 38-year-old male patient presents with severe, spontaneous, throbbing pain the mandibular right quadrant that worsens with heat and keeps him awake at night. The pain is localized to tooth #30. Clinically, tooth #30 has a deep restoration, is tender to percussion, and shows a sustained positive response to a cold test that lingers for more than 30 seconds. Radiographically, there is no periapical radiolucency. What is the MOST appropriate diagnosis?",
     "options": [
       "Necrotic pulp",
       "Reversible pulpitis",
@@ -6568,7 +6568,7 @@
       "A panoramic radiograph only."
     ],
     "correctAnswer": 3,
-    "explanation": "American Dental Association (ADA) and state radiographic guidelines state that for a new adult patient who has not had radiographs in the past five years, the initial imaging should be a panoramic radiograph, supplemented by bitewings only if caries risk warrants. A full‑mouth series exceeds the minimum diagnostic requirement and violates the ALARA principle by exposing the patient to unnecessary radiation. Panoramic imaging offers sufficient diagnostic information for gross assessment of teeth, bone, and pathology, and is the standard initial survey in Canadian practice (ADA Radiology Guidelines, 2020).",
+    "explanation": "American Dental Association (ADA) and state radiographic guidelines state that for a new adult patient who has not had radiographs in the past five years, the initial imaging should be a panoramic radiograph, supplemented by bitewings only if caries risk warrants. A full‑mouth series exceeds the minimum diagnostic requirement and violates the ALARA principle by exposing the patient to unnecessary radiation. Panoramic imaging offers sufficient diagnostic information for gross assessment of teeth, bone, and pathology, and is the standard initial survey in US practice (ADA Radiology Guidelines, 2020).",
     "aiVerified": true
   },
   {
@@ -6588,7 +6588,7 @@
   {
     "id": "microbiology-immunology-447",
     "topicId": "microbiology-immunology",
-    "question": "A 32-year-old female patient presents with a chief complaint of chronic, dull pain in her left temporomandibular joint (TMJ) region, often radiating to her ear and temple. She reports jaw clicking and difficulty opening her mouth wide, especially in the mornings. Her medical history is non-contributory. Clinically, she exhibits tenderness upon palpation of the left masseter and temporalis muscles, and a maximum incisal opening of 30mm with deviation to the left. What is the MOST appropriate initial management strategy?",
+    "question": "A 32-year-old female patient presents with a chief complaint of chronic, dull pain her left temporomandibular joint (TMJ) region, often radiating to her ear and temple. She reports jaw clicking and difficulty opening her mouth wide, especially in the mornings. Her medical history is non-contributory. Clinically, she exhibits tenderness upon palpation of the left masseter and temporalis muscles, and a maximum incisal opening of 30mm with deviation to the left. What is the MOST appropriate initial management strategy?",
     "options": [
       "Prescribe a muscle relaxant (e.g., cyclobenzaprine) for 2 weeks.",
       "Recommend a soft diet, warm moist compresses, and over-the-counter NSAIDs.",
@@ -6652,7 +6652,7 @@
       "Bupivacaine"
     ],
     "correctAnswer": 3,
-    "explanation": "Bupivacaine is known for its long duration of action, primarily due to its high lipid solubility and protein binding, which allows it to remain in the nerve sheath for an extended period. Lidocaine, articaine, and mepivacaine are intermediate-acting local anesthetics, with articaine having a unique thiophene ring that increases its lipid solubility but does not provide the same extended duration as bupivacaine.",
+    "explanation": "Bupivacaine is known for its long duration of action, primarily due to its high lipid solubility and protein binding, which allows it to remain the nerve sheath for an extended period. Lidocaine, articaine, and mepivacaine are intermediate-acting local anesthetics, with articaine having a unique thiophene ring that increases its lipid solubility but does not provide the same extended duration as bupivacaine.",
     "aiVerified": true
   },
   {
@@ -6756,7 +6756,7 @@
   {
     "id": "microbiology-immunology-459",
     "topicId": "microbiology-immunology",
-    "question": "A 28-year-old female patient presents with severe, lingering pain to cold and spontaneous throbbing pain in tooth #30. Radiographic examination reveals a deep mesial carious lesion extending close to the pulp chamber, with no periapical radiolucency. The tooth is vital and responds positively to percussion and palpation. What is the MOST appropriate definitive treatment?",
+    "question": "A 28-year-old female patient presents with severe, lingering pain to cold and spontaneous throbbing pain tooth #30. Radiographic examination reveals a deep mesial carious lesion extending close to the pulp chamber, with no periapical radiolucency. The tooth is vital and responds positively to percussion and palpation. What is the MOST appropriate definitive treatment?",
     "options": [
       "Extraction.",
       "Direct pulp cap.",
@@ -6919,7 +6919,7 @@
       "Poor oral hygiene alone."
     ],
     "correctAnswer": 2,
-    "explanation": "Neville et al. (Oral and Maxillofacial Pathology) describe Sjögren's syndrome as an autoimmune exocrinopathy that leads to marked reduction in salivary flow, the chief etiologic factor for xerostomia‑related caries. While anticholinergic drugs (amitriptyline, diphenhydramine) can exacerbate dry mouth, the underlying glandular destruction in uncontrolled Sjögren's produces a far greater and persistent reduction in saliva. Little & Falace also emphasize that systemic disease is the dominant cause of xerostomia when present, with medications considered secondary contributors. Therefore, the most likely factor is the uncontrolled Sjögren's syndrome itself.",
+    "explanation": "Neville et al. (Oral and Maxillofacial Pathology) describe Sjögren's syndrome as an autoimmune exocrinopathy that leads to marked reduction in salivary flow, the chief etiologic factor for xerostomia‑related caries. While anticholinergic drugs (amitriptyline, diphenhydramine) can exacerbate dry mouth, the underlying glandular destruction in uncontrolled Sjögren's produces a far greater and persistent reduction in saliva. Little & Falace also emphasize that systemic disease is the dominant cause of xerostomia when present, with medications considered secondary contributors. Therefore, the most likely factor is the uncontrolled Sjögren's syndrome itself.",
     "aiVerified": true
   },
   {
@@ -7261,7 +7261,7 @@
       "Cracked tooth syndrome"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct diagnosis is Symptomatic Apical Periodontitis (SAP). According to the American Association of Endodontists (AAE) and ADA clinical standards of care, SAP is characterized by inflammation of the apical periodontium, usually of pulpal origin, that produces clinical symptoms. The tooth may be tender to percussion and/or palpation. It may have a normal or widened periodontal ligament space. The key differentiator here is the presence of symptoms (dull ache, pain on biting, tenderness to percussion) combined with a non-vital tooth (negative cold test). \n\nWhy the other options are incorrect:\n- Asymptomatic apical periodontitis (AAP) involves inflammation and destruction of apical periodontium that is gradually induced in origin and is NOT associated with clinical symptoms. Since this patient has pain and tenderness, AAP is incorrect.\n- Acute apical abscess (AAA) is a progressively developing, painful infection with associated acute inflammatory changes in the adjacent bone. It is typically characterized by spontaneous pain, tenderness to pressure, and often swelling. While this patient has pain, the absence of swelling and the description of a 'dull ache' rather than severe spontaneous pain makes SAP a more precise fit than AAA, which usually presents with more acute, severe symptoms and often visible swelling or systemic signs.\n- Cracked tooth syndrome is a clinical diagnosis based on symptoms and signs of a crack in a tooth. While pain on biting is a sign, the negative vitality test and widened PDL space point to pulpal necrosis and apical pathology. Furthermore, cracked tooth syndrome is not a diagnosis of the pulpal/apical status but rather the etiology. The question asks for the diagnosis of the current condition (pulpal/apical status), which is SAP secondary to necrosis.",
+    "explanation": "The correct diagnosis is Symptomatic Apical Periodontitis (SAP). According to the American Association of Endodontists (AAE) and ADA clinical standards of care, SAP is characterized by inflammation of the apical periodontium, usually of pulpal origin, that produces clinical symptoms. The tooth may be tender to percussion and/or palpation. It may have a normal or widened periodontal ligament space. The key differentiator here is the presence of symptoms (dull ache, pain on biting, tenderness to percussion) combined with a non-vital tooth (negative cold test). Why the other options are incorrect: - Asymptomatic apical periodontitis (AAP) involves inflammation and destruction of apical periodontium that is gradually induced in origin and is NOT associated with clinical symptoms. Since this patient has pain and tenderness, AAP is incorrect. - Acute apical abscess (AAA) is a progressively developing, painful infection with associated acute inflammatory changes in the adjacent bone. It is typically characterized by spontaneous pain, tenderness to pressure, and often swelling. While this patient has pain, the absence of swelling and the description of a 'dull ache' rather than severe spontaneous pain makes SAP a more precise fit than AAA, which usually presents with more acute, severe symptoms and often visible swelling or systemic signs. - Cracked tooth syndrome is a clinical diagnosis based on symptoms and signs of a crack in a tooth. While pain on biting is a sign, the negative vitality test and widened PDL space point to pulpal necrosis and apical pathology. Furthermore, cracked tooth syndrome is not a diagnosis of the pulpal/apical status but rather the etiology. The question asks for the diagnosis of the current condition (pulpal/apical status), which is SAP secondary to necrosis.",
     "aiFixed": true,
     "aiVerified": true
   },
@@ -7318,7 +7318,7 @@
       "Staphylococcus aureus"
     ],
     "correctAnswer": 1,
-    "explanation": "The clinical presentation of an acute, painful, purulent submandibular abscess of odontogenic origin is characteristic of an infection driven by anaerobic bacteria. Prevotella melaninogenica (formerly known as Bacteroides melaninogenus) is a gram-negative anaerobe that is a predominant primary pathogen in acute deep space neck infections and odontogenic abscesses. It thrives in the low-oxygen environment of an abscess and is frequently isolated in pure culture or as the dominant organism in these acute presentations. \n\nActinomyces israelii (Option 0) is an anaerobic gram-positive rod that causes actinomycosis, which typically presents as a chronic, slowly progressive, non-tender 'lumpy jaw' with draining sinuses and sulfur granules, rather than an acute, painful, purulent abscess. \n\nStreptococcus viridans (Option 2) is a facultative anaerobe and a common oral commensal. While it is often involved in the initial colonization of dental caries and can be part of the polymicrobial flora in odontogenic infections, it is not the primary driver of the acute, deep-space anaerobic abscess formation described; anaerobes like Prevotella and Fusobacterium are the key pathogens in the progression to deep space infection. \n\nStaphylococcus aureus (Option 3) is a facultative anaerobe primarily associated with skin and soft tissue infections. While it can cause abscesses, it is not the primary pathogen in odontogenic deep space infections unless there is a specific history of skin trauma or secondary inoculation, which is not indicated in this classic odontogenic presentation.",
+    "explanation": "The clinical presentation of an acute, painful, purulent submandibular abscess of odontogenic origin is characteristic of an infection driven by anaerobic bacteria. Prevotella melaninogenica (formerly known as Bacteroides melaninogenus) is a gram-negative anaerobe that is a predominant primary pathogen in acute deep space neck infections and odontogenic abscesses. It thrives in the low-oxygen environment of an abscess and is frequently isolated in pure culture or as the dominant organism in these acute presentations. Actinomyces israelii (Option 0) is an anaerobic gram-positive rod that causes actinomycosis, which typically presents as a chronic, slowly progressive, non-tender 'lumpy jaw' with draining sinuses and sulfur granules, rather than an acute, painful, purulent abscess. Streptococcus viridans (Option 2) is a facultative anaerobe and a common oral commensal. While it is often involved in the initial colonization of dental caries and can be part of the polymicrobial flora in odontogenic infections, it is not the primary driver of the acute, deep-space anaerobic abscess formation described; anaerobes like Prevotella and Fusobacterium are the key pathogens in the progression to deep space infection. Staphylococcus aureus (Option 3) is a facultative anaerobe primarily associated with skin and soft tissue infections. While it can cause abscesses, it is not the primary pathogen in odontogenic deep space infections unless there is a specific history of skin trauma or secondary inoculation, which is not indicated in this classic odontogenic presentation.",
     "aiGenerated": true,
     "aiVerified": true,
     "clinicalReview": "INBDE_AUDITED"
