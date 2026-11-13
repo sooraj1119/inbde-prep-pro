@@ -1,0 +1,42 @@
+// Lazy-load questions per topic - avoids downloading 5MB on mobile data
+const cache: Record<string, any[]> = {};
+let manifestCache: { id: string; count: number }[] | null = null;
+
+export const loadTopicQuestions = async (topicId: string): Promise<any[]> => {
+  if (cache[topicId]) return cache[topicId];
+  const res = await fetch(import.meta.env.BASE_URL + "questions/" + topicId + ".json");
+  if (!res.ok) throw new Error("Failed to load questions for " + topicId);
+  const data = await res.json();
+  cache[topicId] = data;
+  return data;
+};
+
+export const loadAllQuestions = async (): Promise<void> => {
+  try {
+    if (!manifestCache) {
+      const res = await fetch(import.meta.env.BASE_URL + "questions/manifest.json");
+      manifestCache = await res.json();
+    }
+    if (manifestCache) {
+      await Promise.all(
+        manifestCache.map(t => (!cache[t.id] ? loadTopicQuestions(t.id).catch(() => []) : Promise.resolve(cache[t.id])))
+      );
+    }
+  } catch (e) {
+    console.error("Failed to load all questions", e);
+  }
+};
+
+export const getTotalQuestionCount = (): number => {
+  if (!manifestCache) return 14000;
+  return manifestCache.reduce((acc, t) => acc + (t.count || 0), 0);
+};
+
+export const getQuestions = (): any[] => {
+  return ([] as any[]).concat(...Object.values(cache));
+};
+
+export const getTopicQuestions = (topicId: string): any[] => {
+  return cache[topicId] || [];
+};
+
