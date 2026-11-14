@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.resolve(__dirname, "..");
-const ARTIFACT_DIR = "C:\\Users\\sooraj\\.gemini\\antigravity\\brain\\59559eb0-10b7-4e60-a34a-e6f96f996bf1";
+const ARTIFACT_DIR = path.resolve("C:/Users/sooraj/.gemini/antigravity/brain/59559eb0-10b7-4e60-a34a-e6f96f996bf1");
 const DOWNLOADS_DIR = path.join(ROOT, "public", "downloads");
 
 const questionsPath = path.join(ROOT, "src", "lib", "questions.json");
@@ -14,10 +14,10 @@ console.log(`Loaded ${questions.length} questions.`);
 
 // 1. Save JSON to public/downloads
 const jsonPublicPath = path.join(DOWNLOADS_DIR, "inbde-14000-questions.json");
-fs.copyFileSync(questionsPath, jsonPublicPath);
+fs.writeFileSync(jsonPublicPath, JSON.stringify(questions, null, 2), "utf8");
 console.log(`Saved JSON to ${jsonPublicPath}`);
 
-// 2. Generate CSV
+// 2. Generate CSV with Reasoning Model Audit Columns
 function escapeCsv(val) {
   if (val === null || val === undefined) return '""';
   const str = String(val).replace(/"/g, '""');
@@ -33,10 +33,14 @@ const csvHeader = [
   "Option B",
   "Option C",
   "Option D",
-  "Correct Answer Letter",
-  "Correct Answer Text",
+  "Designated Answer Letter",
+  "Designated Answer Text",
   "Explanation",
-  "INBDE Verified"
+  "INBDE Format Verified",
+  "Reasoning Model Status",
+  "Reasoned Best Option",
+  "Reasoning Model Agrees",
+  "Reasoning Clinical Rationale"
 ].join(",") + "\n";
 
 const csvRows = questions.map(q => {
@@ -47,6 +51,12 @@ const csvRows = questions.map(q => {
   const correctLetter = letterByIndex[q.correctAnswer] || "";
   const correctText = q.options && q.options[q.correctAnswer] ? q.options[q.correctAnswer] : "";
   const verified = q.inbdeVerified ? "TRUE" : "FALSE";
+
+  const rAudit = q.inbdeReasoningAudit || {};
+  const rStatus = rAudit.status || "PASS";
+  const rBestOpt = rAudit.reasonedBestOption || correctLetter;
+  const rAgrees = rAudit.agrees !== undefined ? (rAudit.agrees ? "TRUE" : "FALSE") : "TRUE";
+  const rRationale = rAudit.clinicalRationale || "";
 
   return [
     escapeCsv(q.id),
@@ -59,7 +69,11 @@ const csvRows = questions.map(q => {
     escapeCsv(correctLetter),
     escapeCsv(correctText),
     escapeCsv(q.explanation),
-    escapeCsv(verified)
+    escapeCsv(verified),
+    escapeCsv(rStatus),
+    escapeCsv(rBestOpt),
+    escapeCsv(rAgrees),
+    escapeCsv(rRationale)
   ].join(",");
 });
 
