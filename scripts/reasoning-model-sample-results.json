@@ -1,0 +1,42 @@
+[
+  {
+    "id": "anatomical-sciences-1",
+    "clinicalVerdict": "PASS",
+    "reasonedBestOption": "C",
+    "agreesWithDesignated": true,
+    "inbdeFormatCompliant": true,
+    "clinicalRationale": "According to Malamed's local anesthesia guidelines, the pterygomandibular raphe, coronoid notch, and mandibular occlusal plane serve as the key anatomical landmarks for the conventional inferior alveolar nerve block. The needle penetrates the mucosa lateral to the raphe into the pterygomandibular space. Gow-Gates, Akinosi, and mental blocks rely on distinct anatomical landmarks."
+  },
+  {
+    "id": "oral-pathology-medicine-1",
+    "clinicalVerdict": "PASS",
+    "reasonedBestOption": "A",
+    "agreesWithDesignated": true,
+    "inbdeFormatCompliant": true,
+    "clinicalRationale": "Under Neville's oral pathology standards, a well-defined unilocular radiolucency surrounding the crown of an unerupted mandibular third molar attached at the cementoenamel junction is the classic presentation of a dentigerous cyst. It represents the most common developmental odontogenic cyst found in young adults. Residual and radicular cysts arise in association with root apices or previous extraction sites, not intact unerupted crowns."
+  },
+  {
+    "id": "pharmacology-anesthesia-501",
+    "clinicalVerdict": "PASS",
+    "reasonedBestOption": "A",
+    "agreesWithDesignated": true,
+    "inbdeFormatCompliant": true,
+    "clinicalRationale": "A persistent, firm, non-tender submandibular mass persisting beyond 2 to 3 weeks in an older adult must be managed with high suspicion for salivary neoplasia or metastatic disease. Current standard-of-care guidelines mandate diagnostic imaging (ultrasound, CT, or MRI) and fine-needle aspiration/biopsy prior to intervention. Empiric antibiotics, delayed observation, or blind surgical excision without prior imaging are clinically inappropriate."
+  },
+  {
+    "id": "operative-materials-501",
+    "clinicalVerdict": "PASS",
+    "reasonedBestOption": "A",
+    "agreesWithDesignated": true,
+    "inbdeFormatCompliant": true,
+    "clinicalRationale": "Under American Association of Endodontists (AAE) diagnostic criteria, lingering thermal sensitivity, spontaneous throbbing, heat exacerbation, and nocturnal pain in the presence of deep caries establish a diagnosis of symptomatic irreversible pulpitis. Reversible pulpitis exhibits transient discomfort that resolves immediately upon stimulus removal without spontaneous pain. A necrotic pulp typically fails to respond to cold vitality testing."
+  },
+  {
+    "id": "patient-management-ethics-1",
+    "clinicalVerdict": "PASS",
+    "reasonedBestOption": "B",
+    "agreesWithDesignated": true,
+    "inbdeFormatCompliant": true,
+    "clinicalRationale": "Under the ADA Principles of Ethics and Code of Professional Conduct (Patient Autonomy), the clinician proposing and performing the procedure holds primary responsibility for assessing the patient's decision-making capacity for that specific intervention. Although psychiatric or medical consultation may assist in complex presentations, the primary duty of evaluating capacity cannot be delegated to family members. A family member lacks legal standing to consent on an adult's behalf without documented power of attorney or formal guardianship."
+  }
+]
