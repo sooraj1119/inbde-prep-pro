@@ -1,0 +1,234 @@
+{
+  "timestamp": "2026-11-13T05:26:30.139Z",
+  "model": "gemini-3.8-flash-high",
+  "totalTested": 28,
+  "passCount": 22,
+  "flagCount": 6,
+  "passRate": "78.57%",
+  "results": [
+    {
+      "id": "anatomical-sciences-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "B",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "The muscles of mastication (masseter, temporalis, medial pterygoid, and lateral pterygoid) are innervated by the motor branch of the mandibular division of the trigeminal nerve (CN V3). A unilateral lesion of CN V causes motor paralysis of these muscles and deviation of the mandible toward the affected side upon jaw protrusion. Cranial nerves VII, IX, and XII supply the muscles of facial expression, stylopharyngeus, and intrinsic/extrinsic tongue muscles, respectively."
+    },
+    {
+      "id": "anatomical-sciences-991",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "A persistent, non-scrapable, 1.5 cm verrucous white lesion on the lateral border of the tongue in an elderly heavy smoker represents a high risk for oral squamous cell carcinoma or high-grade dysplasia. Because the lesion exceeds 1 cm and carries significant malignant suspicion, an incisional biopsy is the mandatory next step to obtain a definitive histopathologic diagnosis. Reassurance, topical antifungals, or oral hygiene instructions inappropriately delay vital oncologic diagnosis."
+    },
+    {
+      "id": "biochemistry-physiology-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Following a carbohydrate-rich meal, elevated blood glucose triggers insulin secretion from pancreatic beta cells, which promotes the translocation of GLUT4 glucose transporters to the plasma membranes of skeletal muscle and adipose tissue. This stimulates peripheral glucose uptake, glycolysis, and glycogen synthesis to lower blood glucose. Concurrently, insulin suppresses hepatic gluconeogenesis, glycogenolysis, and adipose fatty acid oxidation."
+    },
+    {
+      "id": "biochemistry-physiology-491",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "B",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "The clinical findings of 4-6 mm probing depths, bleeding on probing, and 2-3 mm horizontal bone loss characterize generalized periodontitis requiring Phase I cause-related therapy. The standard of care initiates with thorough mechanical debridement via scaling and root planing (SRP) coupled with personalized oral hygiene instructions to reduce the bacterial bioburden. Periodontal surgery and systemic antibiotics are contraindicated as initial therapies prior to re-evaluation at 4-6 weeks."
+    },
+    {
+      "id": "microbiology-immunology-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Streptococcus mutans is an acidogenic and aciduric organism that ferments dietary carbohydrates, especially sucrose, primarily via the glycolytic pathway into lactic acid. The accumulation of lactic acid depresses the local microenvironmental plaque pH below the critical threshold of 5.5. At this acidic pH, the fluid becomes undersaturated with respect to hydroxyapatite, driving calcium and phosphate dissolution from dental enamel."
+    },
+    {
+      "id": "microbiology-immunology-491",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "B",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "According to AAP/EFP clinical practice guidelines, initial therapy for generalized moderate periodontitis consists of supra- and subgingival scaling and root planing (SRP) combined with oral hygiene instructions. This mechanical intervention disrupts subgingival dysbiotic biofilm and removes calculus, establishing a biologically compatible root surface for tissue reattachment. Surgical intervention is reserved for residual deep pockets following re-evaluation, while systemic antibiotics are not indicated for routine moderate periodontitis."
+    },
+    {
+      "id": "general-pathology-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "A well-circumscribed, unilocular pericoronal radiolucency attached at the cementoenamel junction of an impacted third molar is the classic radiographic presentation of a dentigerous (follicular) cyst. Histopathologically, an uninflamed dentigerous cyst exhibits a fibrous connective tissue wall lined by thin, non-keratinized stratified squamous or cuboidal epithelium 2 to 4 cell layers thick. In contrast, odontogenic keratocysts feature a uniform, parakeratinized stratified squamous lining with palisaded basal cells."
+    },
+    {
+      "id": "general-pathology-991",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "A",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Palatal displacement of tooth #11 with immobility is indicative of a lateral luxation injury, where the tooth apex is locked into the labial alveolar bone plate. According to International Association of Dental Traumatology (IADT) guidelines, immediate emergency management requires disengaging the tooth from the bony lock, gently repositioning it into its anatomically correct position, and stabilizing it with a flexible splint for 4 weeks. Endodontic evaluation is conducted during follow-up rather than initiating immediate pulpectomy."
+    },
+    {
+      "id": "oral-pathology-medicine-11",
+      "clinicalVerdict": "FLAG",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": false,
+      "inbdeFormatCompliant": false,
+      "clinicalRationale": "The stem contains a fatal anatomical self-contradiction by placing the lesion simultaneously 'in the midline of the anterior maxilla' and 'between the roots of the maxillary lateral incisor and canine.' A nasopalatine duct cyst (designated option A) occurs strictly at the incisive canal midline between the central incisors, whereas a pear-shaped radiolucency between the lateral incisor and canine with vital teeth historically describes a globulomaxillary cyst (option C). Because of this mutually exclusive anatomical stem error and obsolete terminology, the designated answer cannot be reconciled with the clinical stem."
+    },
+    {
+      "id": "oral-pathology-medicine-1491",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "B",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "For patients with an extensive history of oral bisphosphonates (>4 years) requiring tooth extraction, AAOMS guidelines recommend conservative, minimally traumatic surgical protocols to mitigate the risk of MRONJ. Management includes atraumatic extraction, alveolectomy to eliminate sharp bony promontories, copious sterile irrigation, and tension-free primary soft tissue closure. Drug holidays for oral alendronate remain controversial due to its 10-year skeletal half-life, and systemic antibiotic prophylaxis alone does not substitute for surgical risk reduction."
+    },
+    {
+      "id": "pharmacology-anesthesia-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Nystatin is a polyene antifungal that binds to fungal membrane ergosterol, creating pores that cause cell leakage and death. It is virtually unabsorbed from the intact gastrointestinal tract and mucous membranes when administered orally. Consequently, oral suspensions of nystatin provide localized topical treatment throughout the mouth and digestive tract with negligible systemic absorption or cytochrome P450-mediated drug interactions."
+    },
+    {
+      "id": "pharmacology-anesthesia-1991",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Masticatory muscle tenderness, morning facial ache exacerbated by stress and clenching, and limited opening with unremarkable joint radiographs indicate myofascial pain and dysfunction secondary to nocturnal bruxism. Initial management of temporomandibular disorders must be conservative, non-invasive, and reversible, focusing on fabrication of a flat-plane occlusal stabilization splint, stress reduction, and self-care physiotherapy. Invasive joint surgeries and opioid analgesics are inappropriate for early, uncomplicated muscular TMD."
+    },
+    {
+      "id": "operative-materials-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "In deep carious lesions with leathery dentin approaching the pulp without exposure, indirect pulp capping with calcium hydroxide or hydraulic calcium silicates (MTA or Biodentine) is indicated. These alkaline materials stimulate undifferentiated mesenchymal cells and odontoblasts to form a protective reparative tertiary dentin bridge while releasing calcium ions and exerting antibacterial effects. Unfilled resin adhesive monomers and acidic zinc phosphate cements induce pulpal cytotoxicity if placed directly against deep near-pulp dentin."
+    },
+    {
+      "id": "operative-materials-1491",
+      "clinicalVerdict": "FLAG",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": false,
+      "clinicalRationale": "Non-selective beta-blockers block vascular beta-2 vasodilatory receptors, leaving alpha-1 adrenergic vasoconstriction unopposed and risking severe hypertensive crises accompanied by reflex bradycardia. However, the item violates INBDE single-best-answer standards by asking which agent should be 'used with caution, or avoided,' because Malamed explicitly states levonordefrin (option B) and norepinephrine (option D) should be avoided entirely, while epinephrine (option C) should be used with caution (maximum 0.04 mg). Distractors B and D are clinically valid answers under the stem's own wording, making the item flawed."
+    },
+    {
+      "id": "periodontics-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "A",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Under the 2017 AAP/EFP classification, peri-implantitis is defined by mucosal inflammation accompanied by progressive crestal bone loss beyond initial physiological remodeling. While bleeding on probing and suppuration indicate mucosal inflammation, progressive radiographic bone loss is the definitive criterion distinguishing peri-implantitis from peri-implant mucositis."
+    },
+    {
+      "id": "periodontics-491",
+      "clinicalVerdict": "FLAG",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "When a primary first molar is lost prematurely, a band and loop space maintainer is the standard appliance indicated to prevent arch length loss from distal canine drift. However, the question stem contains an anatomical error by identifying the permanent second premolar (#20) rather than the first premolar (#21) as the succedaneous tooth corresponding to primary tooth L."
+    },
+    {
+      "id": "endodontics-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "A history of spontaneous pain coupled with an exaggerated, lingering response to thermal cold testing is the diagnostic hallmark of symptomatic irreversible pulpitis under AAE consensus guidelines. The vital dental pulp exhibits irreversible inflammatory changes and is incapable of healing, necessitating pulpectomy or nonsurgical root canal therapy."
+    },
+    {
+      "id": "endodontics-491",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "An anterior dental crossbite involving a single incisor in the early mixed dentition should be treated interceptively to prevent traumatic occlusion, incisal attrition, and labial gingival stripping of the opposing mandibular incisor. In a 7-year-old patient with adequate arch perimeter, a simple removable appliance incorporating a finger spring or anterior bite plane is the standard conservative first-line approach."
+    },
+    {
+      "id": "prosthodontics-implants-11",
+      "clinicalVerdict": "FLAG",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": false,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "The initial management of denture-induced fibrous hyperplasia (epulis fissuratum) prior to final impressions requires eliminating mechanical trauma by relieving the overextended denture flange and relining with a resilient tissue conditioner. Surgical excision is indicated secondarily only if significant fibrous tissue persists after tissue recovery and resolution of edema. The designated answer (C) incorrectly bypasses conservative tissue conditioning to mandate immediate surgical excision as the initial step."
+    },
+    {
+      "id": "prosthodontics-implants-1491",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "When an immediate implant placed in the anterior aesthetic zone achieves primary stability exceeding 35 Ncm, immediate provisionalization with a non-occlusal screw-retained crown is the standard of care. This technique sculpts and stabilizes the peri-implant soft tissue architecture, interdental papillae, and emergence profile while shielding the osseointegrating implant from disruptive masticatory forces."
+    },
+    {
+      "id": "oral-surgery-emergencies-11",
+      "clinicalVerdict": "FLAG",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Focal tenderness and swelling over the left angle following blunt maxillofacial trauma correlate with a left mandibular angle fracture among the choices provided. However, the question stem contains a biomechanical contradiction: unilateral mandibular injuries typically cause opening deviation toward the ipsilateral (left) side due to impaired translation, whereas the stem describes contralateral deviation to the right."
+    },
+    {
+      "id": "oral-surgery-emergencies-991",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "According to AHA Basic Life Support protocols, as soon as an Automated External Defibrillator arrives during cardiac arrest, the rescuer must power it on, attach pads to the bare chest, and follow device prompts. Rapid rhythm analysis and prompt defibrillation of shockable rhythms (VF/pVT) provide the highest likelihood of restoring spontaneous circulation with minimal interruption to chest compressions."
+    },
+    {
+      "id": "orthodontics-pedodontics-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "B",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Premature unilateral loss of a primary first molar requires placement of a band and loop space maintainer to preserve arch perimeter against canine distal drift. A fixed lingual holding arch is contraindicated in a 6-year-old child because the mandibular permanent incisors are unerupted or actively erupting, posing a significant risk of lingual deflection or incisor bud impaction."
+    },
+    {
+      "id": "orthodontics-pedodontics-991",
+      "clinicalVerdict": "FLAG",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": false,
+      "clinicalRationale": "Because mesial tipping of the permanent first molar has already produced significant space loss, passive space maintenance is ineffective and active orthodontic space regaining is clinically indicated. However, this question severely violates INBDE examination standards by using FDI two-digit notation (65, 16, 15) instead of the mandatory US Universal Numbering System, while also erroneously conflating contralateral quadrants."
+    },
+    {
+      "id": "oral-radiology-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "B",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Dens in dente (dens invaginatus) is a developmental malformation caused by infolding of the enamel organ into the dental papilla, most frequently affecting permanent maxillary lateral incisors. Radiographically, it exhibits an internal radiopaque enamel- and dentin-lined structure inside the coronal pulp chamber and root canal, surrounded by a distinct radiolucent invagination space."
+    },
+    {
+      "id": "oral-radiology-491",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "D",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Alprazolam is a benzodiazepine that enhances GABAergic inhibitory neurotransmission, resulting in baseline central nervous system depression. During surgical dental procedures, concurrent administration of additional central nervous system depressants, such as opioid analgesics or sedative agents, carries a severe risk of synergistic sedation and fatal respiratory depression."
+    },
+    {
+      "id": "patient-management-ethics-11",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "C",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Dentists are legally designated mandated reporters across all 50 states and are ethically bound under ADA Code Section 3.E to immediately report suspected child abuse or neglect to child protective services. Active confrontation of caregivers or delayed monitoring is contraindicated, as the clinician's legal and ethical duty is prompt reporting of reasonable suspicion rather than independent criminal investigation."
+    },
+    {
+      "id": "patient-management-ethics-991",
+      "clinicalVerdict": "PASS",
+      "reasonedBestOption": "A",
+      "agreesWithDesignated": true,
+      "inbdeFormatCompliant": true,
+      "clinicalRationale": "Per CDC infection control guidelines and OSHA bloodborne pathogen standards, immediate local decontamination is the primary priority following mucosal blood exposure. The affected eye must be flushed thoroughly with clean water or sterile saline for at least 15 minutes before initiating administrative reporting, source patient testing, or post-exposure prophylaxis."
+    }
+  ]
+}
